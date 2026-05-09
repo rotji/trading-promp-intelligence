@@ -1,0 +1,612 @@
+MODULE 3 — NARRATIVES, POSITIONING, MISPRICING, CATALYSTS, AND OPPORTUNITY DETECTION
+
+--------------------------------------------------
+
+STEP 10 — GLOBAL MARKET NARRATIVE ENGINE
+
+Detect dominant narratives currently driving global markets.
+
+Examples may include:
+
+AI boom
+inflation fear
+recession risk
+higher-for-longer interest rates
+liquidity expansion
+liquidity contraction
+energy crisis
+commodity supercycle
+China slowdown
+USD strength
+de-dollarization
+banking stress
+crypto risk-on
+crypto risk-off
+
+For each narrative identify:
+
+narrative strength
+supporting evidence
+assets benefiting
+assets harmed
+whether narrative is strengthening or weakening
+whether narrative is overcrowded
+whether narrative contradicts macro data
+
+Explain how each narrative may influence global capital allocation.
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP 10B — GLOBAL MARKET NARRATIVE CONFLICT DETECTOR
+
+Detect where dominant market narratives conflict with macro reality.
+
+Look for situations where:
+
+market narrative is bullish but macro data is weakening
+market narrative is bearish but capital flows are improving
+investors believe liquidity is improving but liquidity is tightening
+investors chase growth assets while bond yields are rising
+safe-haven demand rises while risk assets also rise
+crypto narrative is bullish while liquidity conditions are restrictive
+commodity narrative is bullish while demand data is weakening
+
+For each conflict identify:
+
+dominant narrative
+macro data contradicting the narrative
+capital flow confirmation or contradiction
+assets most exposed to the conflict
+whether the conflict creates reversal risk
+whether the conflict creates contrarian opportunity
+
+Classify each narrative conflict as:
+
+LOW CONFLICT
+MEDIUM CONFLICT
+HIGH CONFLICT
+EXTREME CONFLICT
+
+Explain which conflicts should influence opportunity generation in STEP 12.
+
+--------------------------------------------------
+
+STEP 11 — GLOBAL POSITIONING & CROWD SENTIMENT ENGINE
+
+Analyze positioning and crowd sentiment across global markets.
+
+Detect:
+
+overcrowded trades
+extreme bullish sentiment
+extreme bearish sentiment
+contrarian opportunities
+
+Evaluate indicators such as:
+
+capital concentration
+trend crowding
+momentum extremes
+positioning imbalances
+
+Identify markets where positioning is:
+
+EXTREMELY CROWDED
+MODERATELY CROWDED
+NEUTRAL
+CONTRARIAN OPPORTUNITY
+
+Explain where positioning risk is highest.
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP 11A — GLOBAL TRADE CROWDING DETECTOR
+
+Detect trades that are becoming overcrowded globally.
+
+Analyze crowd positioning across major markets including:
+
+forex
+equities
+sector ETFs
+commodities
+bonds
+crypto
+
+Identify trades where:
+
+too many investors are positioned in the same direction
+momentum has attracted excessive capital
+positioning appears one-sided
+speculative positioning is extreme
+
+Examples of crowded trades may include:
+
+overcrowded long technology stocks
+overcrowded short bonds
+overcrowded long USD
+overcrowded long AI-related equities
+overcrowded crypto momentum trades
+
+Classify trades as:
+
+EXTREMELY CROWDED
+MODERATELY CROWDED
+NEUTRAL
+UNDEROWNED
+
+Explain which crowded trades may be vulnerable to:
+
+sharp reversals
+profit-taking
+liquidity shocks
+
+Identify potential contrarian opportunities created by excessive crowding.
+
+These crowding signals should be incorporated into opportunity detection in STEP 12.
+
+--------------------------------------------------
+
+STEP 11B — CAPITAL FLOW CONFIRMATION
+
+Use insights from MODULE 1 and MODULE 2.
+
+Evaluate global capital flows across:
+
+equities
+bonds
+commodities
+currencies
+crypto
+
+Identify:
+
+strong capital inflows
+capital outflows
+sector rotations
+regional rotations
+
+Explain how these flows confirm or contradict dominant narratives.
+
+--------------------------------------------------
+
+STEP 11B2 — INSTITUTIONAL INCENTIVE MAPPING ENGINE
+
+Identify what major institutions are currently incentivizing or supporting.
+
+Analyze incentives from:
+
+governments
+central banks
+sovereign wealth funds
+development finance institutions
+big banks
+private credit funds
+private equity firms
+large corporations
+multilateral institutions
+industrial policy programs
+
+Look for support in areas such as:
+
+energy
+AI
+semiconductors
+defense
+infrastructure
+green transition
+commodities
+housing
+manufacturing
+bank lending
+private credit
+emerging markets
+strategic supply chains
+
+For each incentive identify:
+
+who is incentivizing it
+what sector or asset class benefits
+what type of support exists
+whether support is fiscal, monetary, regulatory, credit-based, or strategic
+whether the incentive is short-term or structural
+which public markets may benefit indirectly
+which private markets may benefit directly
+
+Explain how these incentives may influence:
+
+capital flows
+sector rotation
+macro narratives
+trade opportunities
+
+These incentive signals should feed into:
+
+Sector Rotation Engine
+Asset Mapping Engine
+Opportunity Detection
+
+--------------------------------------------------
+
+STEP 11B3 — PRIVATE CAPITAL AND PRIVATE CREDIT IMPACT ENGINE
+
+Analyze the influence of private organizations and private credit markets on the global economy.
+
+Focus on:
+
+private credit funds
+private equity firms
+large private corporations
+non-bank lenders
+sovereign-backed private vehicles
+infrastructure funds
+commodity trading houses
+family offices
+private real estate lenders
+
+Identify:
+
+where private capital is expanding
+where private credit is tightening
+which industries depend heavily on private financing
+which sectors may face refinancing stress
+which public markets may be indirectly affected
+
+Explain how private capital activity may affect:
+
+banks
+corporate credit
+real estate
+infrastructure
+energy
+technology
+emerging markets
+employment
+economic growth
+
+Classify private capital conditions as:
+
+EXPANDING
+NEUTRAL
+TIGHTENING
+STRESSED
+
+Explain whether private credit is supporting growth or creating hidden financial risk.
+
+These private capital signals should influence:
+
+Mispricing Severity Score
+Catalyst Probability Engine
+Opportunity Detection
+Risk Exposure Summary
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP 11C — GLOBAL SECTOR ROTATION ENGINE
+
+Detect where capital is rotating between sectors globally.
+
+Analyze sector flows across major equity markets including:
+
+United States
+Europe
+China
+Japan
+Emerging markets
+
+Evaluate capital movement between sectors such as:
+
+technology
+energy
+financials
+industrials
+materials
+consumer discretionary
+consumer staples
+healthcare
+utilities
+real estate
+
+Identify:
+
+sectors experiencing strong capital inflows
+sectors experiencing capital outflows
+early signs of sector rotation
+crowded sectors at risk of reversal
+underowned sectors attracting new capital
+
+Explain which sectors are:
+
+LEADING global markets
+LAGGING global markets
+BEGINNING TO ROTATE
+
+Determine whether sector rotation confirms or contradicts macro narratives detected earlier.
+
+These sector signals should guide opportunity generation in STEP 12.
+
+--------------------------------------------------
+
+STEP 11D — GLOBAL MISPRICING SEVERITY SCORE
+
+Identify where the largest global mispricing may exist.
+
+Analyze signals including:
+
+macro divergence
+liquidity conditions
+capital flows
+correlation breakdowns
+crowded positioning
+narrative contradictions
+
+Assign a mispricing severity score:
+
+1–3 = Minor mispricing
+4–6 = Moderate mispricing
+7–8 = Strong mispricing
+9–10 = Extreme mispricing
+
+Explain:
+
+which asset or market appears mispriced
+why the market may be incorrectly pricing risk
+which catalyst may correct the mispricing
+
+--------------------------------------------------
+
+STEP 11E — MACRO CATALYST PROBABILITY ENGINE
+
+Evaluate the probability that upcoming catalysts will significantly move markets.
+
+Catalysts may include:
+
+inflation data releases
+central bank meetings
+interest rate decisions
+employment reports
+GDP releases
+PMI releases
+commodity inventory reports
+geopolitical developments
+financial stress events
+crypto regulatory developments
+
+For each catalyst evaluate:
+
+current market expectations
+historical market reactions
+macro environment sensitivity
+current investor positioning
+liquidity conditions
+
+Assign catalyst probability:
+
+LOW probability of market movement
+MEDIUM probability of market movement
+HIGH probability of market movement
+
+Explain which catalysts are most likely to trigger:
+
+currency moves
+equity sector rotation
+commodity price shocks
+bond yield changes
+crypto volatility
+
+These catalysts should guide opportunity generation.
+
+--------------------------------------------------
+
+STEP 11F — GLOBAL ASSET MAPPING ENGINE
+
+Convert macro signals detected in previous steps into specific tradable assets.
+
+Use insights from:
+
+global macro divergences
+liquidity shifts
+capital flow movements
+yield curve signals
+correlation breakdowns
+dominant narratives
+crowded positioning
+mispricing signals
+macro catalysts
+
+For each macro signal, map possible tradable instruments across multiple markets.
+
+Map assets across:
+
+FOREX
+equities
+sector ETFs
+commodities
+bonds
+crypto
+cross-asset trading pairs
+
+Example mapping format:
+
+Macro Signal:
+China infrastructure stimulus
+
+Mapped Assets:
+
+Commodities
+Copper
+Iron ore
+
+Equities
+Copper mining companies
+Global mining companies
+
+ETFs
+Mining sector ETF
+Industrial metals ETF
+
+Forex
+AUDUSD
+USDCNH
+
+Crypto
+Bitcoin
+Ethereum
+
+The purpose of this step is to expand each macro signal into multiple tradable instruments.
+
+These mapped assets will feed directly into STEP 12 — OPPORTUNITY DETECTION.
+
+--------------------------------------------------
+
+STEP 11G — DATA VALIDATION LAYER
+
+Before generating trading opportunities in STEP 12, verify that critical macro instruments and market data are available.
+
+Required macro instruments include:
+
+US 10Y yield
+Dollar Index (DXY)
+Oil (WTI or Brent)
+Gold
+S&P 500
+Bitcoin
+Major currency pairs (EURUSD, USDJPY, GBPUSD or similar)
+
+For each instrument determine whether the data is:
+
+CLEAR
+PARTIAL
+UNCLEAR
+UNAVAILABLE
+
+If any instrument is UNCLEAR, PARTIAL, or UNAVAILABLE:
+
+1. Do NOT generate trade opportunities directly related to that instrument.
+2. Flag the instrument as DATA INSUFFICIENT.
+3. Continue analysis using only instruments with reliable data.
+
+If multiple critical instruments are missing, output a warning:
+
+"Trade generation limited due to incomplete market data."
+
+Clearly list which instruments have insufficient data.
+
+Only generate opportunities for assets supported by reliable macro signals and available data.
+
+This validation step ensures the opportunity detection engine avoids generating trades based on incomplete information.
+
+STEP — SIGNAL CONFLICT RESOLUTION
+
+If macro signals conflict:
+
+Prioritize signals in this order:
+
+1. Liquidity conditions
+2. Interest rate differentials
+3. Capital flows
+4. Economic growth trends
+5. Market narratives
+
+If two signals disagree:
+
+The higher-priority signal determines trade direction.
+
+Example:
+
+Liquidity tightening + bullish narrative
+
+→ Follow liquidity
+→ risk assets bearish
+
+
+STEP 12 — OPPORTUNITY DETECTION
+
+Generate exactly **10 potential trading opportunities**.
+
+Rank them preliminarily from:
+
+1 (strongest opportunity)
+to
+10 (weakest acceptable opportunity)
+
+The 10 opportunities must span multiple asset classes including:
+
+forex
+commodities
+equities
+bonds
+crypto
+cross-asset trading pairs
+
+Crypto opportunity is mandatory.
+
+Always include at least one crypto-related opportunity.
+
+--------------------------------------------------
+
+SPECIFIC OPPORTUNITY RULE
+
+Avoid vague or generic trade ideas.
+
+Do not only return broad ideas like:
+
+Gold vs Oil
+Bitcoin vs Gold
+Nasdaq vs S&P
+Energy ETF vs Market
+
+Instead generate specific macro-driven opportunities supported by data.
+
+Examples include:
+
+USDJPY long if US–Japan yield divergence widens
+EURUSD short if Eurozone growth weakens while USD inflows rise
+Short European banks if liquidity tightens and credit stress rises
+Long copper if Chinese stimulus increases and PMI improves
+Short long-duration bonds if inflation surprises higher and yields rise
+Long gold if real yields fall and safe-haven flows rise
+Long energy equities if oil supply shocks and capital flows confirm
+Long Bitcoin if liquidity expands and USD weakens
+Short Bitcoin if liquidity contracts and USD strengthens
+Long defensive sectors if recession risk increases
+
+--------------------------------------------------
+
+For each opportunity include:
+
+preliminary rank (1–10)
+
+asset or trading pair
+direction
+macro reason
+supporting macro data
+expected catalyst
+capital flow confirmation
+narrative alignment
+positioning risk
+mispricing severity score
+estimated timeframe
+
+--------------------------------------------------
+
+Timeframes may include:
+
+EMERGENCY / SHOCK
+INTRADAY
+SHORT TERM (2–7 days)
+MEDIUM TERM (2–8 weeks)
+LONG TERM (2–12 months)
+
+--------------------------------------------------
+
+After finishing Module 3:
+
+STOP.
+
+Ask the user to type:
+
+CONTINUE

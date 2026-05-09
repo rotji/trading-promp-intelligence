@@ -1,0 +1,11 @@
+Use the module files in /modules as the analysis framework.
+Use the screenshots I paste as the current macro dataset.
+Run Module 0, Module 1, Module 2, Module 3, and Module 4.
+Return the final ranked opportunities report.
+Do not invent missing data. If unclear, say unclear.
+
+for chart execution
+Use module5-technical-execution.md.
+Analyze this chart screenshot for the selected trade from Module 4.
+Do not create new macro ideas.
+Only confirm entry, stop loss, target, and execution decision.
