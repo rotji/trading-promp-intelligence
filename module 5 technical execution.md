@@ -66,6 +66,181 @@ If timeframes are misaligned:
 
 --------------------------------------------------
 
+STEP 16A — INSTITUTIONAL DIRECTIONAL BIAS ENGINE
+
+Before execution begins, determine the dominant directional pressure of the market.
+
+The purpose is NOT to predict with certainty.
+
+The purpose is to identify:
+
+which side currently has higher probabilistic alignment.
+
+This directional bias acts as the master execution filter.
+
+--------------------------------------------------
+
+A. MACRO DIRECTIONAL BIAS
+
+Evaluate:
+
+- USD strength or weakness
+- bond yield direction
+- inflation expectations
+- central bank pressure
+- liquidity expansion/contraction
+- risk-on vs risk-off environment
+- crypto liquidity conditions
+- commodity strength/weakness
+
+Determine whether macro conditions favor:
+
+BULLISH PRESSURE
+BEARISH PRESSURE
+NEUTRAL / MIXED CONDITIONS
+
+--------------------------------------------------
+
+B. INTERMARKET CONFIRMATION
+
+Evaluate whether related assets confirm the directional bias.
+
+Examples:
+
+- DXY strength vs EURUSD weakness
+- Nasdaq strength vs BTC strength
+- yields rising vs gold weakness
+- oil strength vs CAD strength
+- VIX rising vs risk-off conditions
+
+Determine whether correlations:
+
+CONFIRM
+WEAKEN
+OR CONTRADICT
+
+the directional bias.
+
+--------------------------------------------------
+
+C. HIGHER TIMEFRAME STRUCTURE BIAS
+
+Use higher timeframes such as:
+
+- Daily
+- 4H
+
+Analyze:
+
+- higher highs
+- lower lows
+- trend continuation
+- compression
+- expansion
+- momentum quality
+- structural integrity
+
+Classify structure as:
+
+BULLISH STRUCTURE
+BEARISH STRUCTURE
+NEUTRAL STRUCTURE
+TRANSITIONAL STRUCTURE
+
+--------------------------------------------------
+
+D. LOCATION ANALYSIS
+
+Determine whether price is positioned at favorable execution areas.
+
+Evaluate:
+
+- premium vs discount
+- proximity to liquidity
+- previous highs/lows
+- session highs/lows
+- range edges
+- middle-range neutrality
+- imbalance zones
+- compression zones
+
+Avoid aggressive execution in:
+LOW EDGE mid-range conditions.
+
+--------------------------------------------------
+
+E. DIRECTIONAL ALIGNMENT SCORE
+
+Combine:
+
+- macro bias
+- intermarket confirmation
+- structure
+- location
+- liquidity conditions
+
+Assign:
+
+STRONG BULLISH BIAS
+MODERATE BULLISH BIAS
+NEUTRAL
+MODERATE BEARISH BIAS
+STRONG BEARISH BIAS
+
+--------------------------------------------------
+
+F. EXECUTION FILTER
+
+Execution should prioritize:
+
+- BUY setups aligned with bullish bias
+- SELL setups aligned with bearish bias
+
+Counter-bias trades are classified as:
+
+LOWER PROBABILITY
+HIGHER RISK
+REDUCED AGGRESSION
+
+--------------------------------------------------
+
+G. NEUTRAL ENVIRONMENT RULE
+
+IF:
+directional bias becomes unclear
+OR
+signals heavily conflict
+
+THEN:
+
+- reduce aggression
+- reduce position size
+- delay execution
+- avoid forcing trades
+
+NO TRADE is valid during unclear directional environments.
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLE
+
+Directional bias is NOT certainty.
+
+It is a probabilistic institutional framework used to align execution with dominant market pressure.
+
+The objective is to improve:
+
+- consistency
+- discipline
+- execution quality
+- probabilistic alignment
+- risk asymmetry
+
+rather than attempting perfect prediction.
+
+--------------------------------------------------
+--------------------------------------------------
+
 STEP 17 — MARKET STRUCTURE (SKELETON)
 
 Identify clear swing highs and swing lows.
@@ -126,6 +301,197 @@ Where are traders’ stop losses likely sitting?
 Where is price likely to move to collect liquidity?
 Which liquidity zone matters most for this trade?
 
+--------------------------------------------------
+
+STEP 18A — DAILY RANGE LIQUIDITY ENGINE
+
+Analyze the previous trading day's range as a liquidity framework.
+
+Identify:
+
+- previous day high
+- previous day low
+- previous day midpoint
+- previous day closing region
+- current price location relative to previous range
+
+These levels often act as:
+
+- liquidity magnets
+- stop-loss clusters
+- breakout zones
+- rejection zones
+- institutional reaction areas
+
+--------------------------------------------------
+
+A. DAILY RANGE POSITION ANALYSIS
+
+Classify current price location:
+
+- near previous day high
+- near previous day low
+- inside middle range
+- outside previous range
+- expanding beyond range
+- compressing inside range
+
+Interpret whether price is operating at:
+
+HIGH-LIQUIDITY EDGE
+MID-RANGE NEUTRALITY
+BREAKOUT EXPANSION ZONE
+
+--------------------------------------------------
+
+B. PREVIOUS DAY HIGH ANALYSIS
+
+Analyze whether the market is reacting near the previous day high.
+
+Possible behaviors:
+
+- rejection
+- breakout continuation
+- liquidity sweep
+- failed breakout
+- exhaustion
+
+If price approaches previous day high:
+
+DO NOT automatically assume reversal.
+
+Instead evaluate:
+
+- momentum strength
+- volume participation
+- session timing
+- liquidity behavior
+- macro alignment
+
+--------------------------------------------------
+
+C. PREVIOUS DAY LOW ANALYSIS
+
+Analyze whether the market is reacting near the previous day low.
+
+Possible behaviors:
+
+- rejection
+- continuation lower
+- liquidity sweep
+- reversal attempt
+- exhaustion
+
+If price approaches previous day low:
+
+DO NOT automatically assume bullish reversal.
+
+Evaluate:
+
+- momentum strength
+- participation quality
+- liquidity behavior
+- macro conditions
+- volatility structure
+
+--------------------------------------------------
+
+D. MID-RANGE FILTER
+
+If price trades near the middle of the previous daily range:
+
+Classify environment as:
+
+LOW EDGE
+NEUTRAL STRUCTURE
+RANGE UNCERTAINTY
+
+The system may reduce aggression or avoid execution entirely inside mid-range conditions.
+
+Reason:
+middle ranges often contain:
+- random movement
+- weaker directional conviction
+- lower execution quality
+
+--------------------------------------------------
+
+E. DAILY RANGE BREAKOUT ANALYSIS
+
+Analyze whether the market is:
+
+- respecting range boundaries
+- attempting expansion
+- trapping breakout traders
+- transitioning into trend continuation
+
+Classify breakout quality:
+
+STRONG BREAKOUT
+WEAK BREAKOUT
+FALSE BREAKOUT
+UNCONFIRMED EXPANSION
+
+--------------------------------------------------
+
+F. DAILY RANGE REJECTION CONFIRMATION
+
+If rejection occurs near:
+- previous day high
+OR
+- previous day low
+
+evaluate confirmation signals such as:
+
+- rejection candles
+- engulfing behavior
+- failed continuation
+- momentum shift
+- liquidity sweep reversal
+- volatility rejection
+
+One candle alone is NOT sufficient without context.
+
+--------------------------------------------------
+
+G. DAILY RANGE LIQUIDITY SCORE
+
+Assign:
+
+HIGH QUALITY RANGE STRUCTURE
+MODERATE RANGE STRUCTURE
+LOW QUALITY RANGE STRUCTURE
+DANGEROUS RANGE CONDITIONS
+
+based on:
+
+- liquidity behavior
+- breakout quality
+- volatility
+- session timing
+- structure clarity
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Previous day highs and lows are important liquidity zones, not guaranteed reversal points.
+
+2. Strong trends may break daily ranges aggressively.
+
+3. Macro events may invalidate range-based assumptions instantly.
+
+4. Daily range logic must always be combined with:
+- macro direction
+- liquidity analysis
+- session behavior
+- momentum
+- volatility
+- intermarket confirmation
+
+5. Avoid forcing reversals simply because price reaches range extremes.
+
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 18B — MARKET MICROSTRUCTURE ENGINE
@@ -933,6 +1299,87 @@ depending on macro conditions and liquidity structure.
 - momentum
 - liquidity
 - volatility
+
+## C1. Weekend New-Trade Restriction Rule
+
+IF:
+market = weekend
+
+THEN:
+
+### NEW TRADE EXECUTION:
+RESTRICTED.
+
+The system does NOT open new positions during weekend conditions unless exceptional circumstances exist.
+
+Reason:
+- reduced institutional liquidity
+- unstable volatility
+- increased manipulation risk
+- lower execution quality
+
+Weekend environments prioritize capital preservation over aggressive expansion.
+
+---
+
+## C2. Existing Trade Weekend Management Rule
+
+IF:
+trade was already opened BEFORE weekend
+
+THEN:
+existing positions MAY continue being managed during weekend conditions.
+
+Allowed management actions include:
+
+- moving stop losses
+- breakeven protection
+- trailing stop adjustment
+- partial profit taking
+- dynamic take-profit adjustment
+- exposure reduction
+- full manual close if conditions deteriorate
+
+---
+
+## C3. Weekend Trade Holding Conditions
+
+Trades may remain active through weekends ONLY IF:
+
+- higher timeframe structure remains valid
+- stop loss protection exists
+- risk exposure acceptable
+- trade is already partially secured
+- no major uncontrollable event risk detected
+
+---
+
+## C4. Weekend Emergency Exit Rule
+
+IF:
+weekend volatility becomes abnormal
+OR
+market structure invalidates
+OR
+liquidity conditions deteriorate aggressively
+
+THEN:
+manual defensive exit may be triggered immediately.
+
+Capital preservation overrides continuation bias.
+
+---
+
+## C5. Weekend Operational Mode
+
+Weekend operational mode shifts from:
+
+AGGRESSIVE EXECUTION MODE
+→ to →
+DEFENSIVE TRADE MANAGEMENT MODE.
+
+Primary objective:
+protect existing profits and survive unstable liquidity conditions.
 
 --------------------------------------------------
 
