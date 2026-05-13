@@ -239,6 +239,248 @@ The objective is to improve:
 rather than attempting perfect prediction.
 
 --------------------------------------------------
+
+STEP 16B — ELITE ASYMMETRIC TRADE FILTER
+
+The objective of this framework is NOT to trade frequently.
+
+The objective is to identify:
+
+RARE HIGH-QUALITY ASYMMETRIC OPPORTUNITIES
+
+where:
+
+- probability is favorable
+- liquidity conditions are optimal
+- risk is controlled
+- reward potential is large
+- institutional participation is active
+
+If elite conditions are absent:
+
+NO TRADE is the correct decision.
+
+--------------------------------------------------
+
+A. TIME & SESSION FILTER
+
+Elite setups are preferred ONLY during periods of strong institutional participation.
+
+Highest priority windows:
+
+1. London Open
+2. London–New York Overlap
+3. Major macroeconomic news windows
+
+Preferred Nigerian time windows:
+
+- 8:00 AM – 11:00 AM
+- 1:00 PM – 5:00 PM
+
+Late-session low-liquidity environments reduce setup quality.
+
+If market conditions occur during dead liquidity periods:
+
+REDUCE CONFIDENCE
+or
+REJECT setup.
+
+--------------------------------------------------
+
+B. LIQUIDITY EVENT FILTER
+
+Trade execution requires at least ONE major liquidity event.
+
+Examples:
+
+- liquidity sweep
+- stop hunt
+- session high/low raid
+- compression breakout
+- displacement move
+- volatility expansion
+- news-driven repricing
+
+If liquidity remains stagnant or directionless:
+
+IGNORE setup.
+
+--------------------------------------------------
+
+C. STRUCTURE CLARITY FILTER
+
+Only trade when directional structure is clear.
+
+Valid conditions include:
+
+- trend continuation
+- higher highs / lower lows
+- compression before expansion
+- strong momentum alignment
+- clean directional bias
+
+Avoid:
+
+- random chop
+- dead sideways markets
+- conflicting directional signals
+- unclear structure
+
+If structure quality is weak:
+
+WATCHLIST
+or
+IGNORE.
+
+--------------------------------------------------
+
+D. ASYMMETRIC RISK/REWARD FILTER
+
+Elite setups must provide strong asymmetry.
+
+Minimum acceptable:
+
+Risk-to-Reward = 1:3
+
+Preferred:
+
+1:5 or greater
+
+If reward potential does not justify risk:
+
+REJECT setup.
+
+--------------------------------------------------
+
+E. LOCATION FILTER
+
+Elite entries should occur near:
+
+- discount zones
+- premium zones
+- liquidity pools
+- support/resistance
+- Fibonacci retracement zones
+- demand/supply zones
+- session highs/lows
+
+Avoid:
+
+middle-range random entries.
+
+--------------------------------------------------
+
+F. VOLATILITY & ENERGY FILTER
+
+Elite opportunities require:
+
+- expanding volatility
+- momentum release
+- institutional participation
+- aggressive displacement
+- post-compression expansion
+
+Avoid:
+
+- weak candles
+- low energy environments
+- late-session drift
+- exhausted trends
+
+--------------------------------------------------
+
+G. MACRO ALIGNMENT FILTER
+
+Modules 0–4 must support the directional thesis.
+
+Examples:
+
+- strong USD environment supports USD longs
+- reflation supports commodities
+- rising yields pressure gold
+- risk-off environments support defensive flows
+
+If macro environment strongly conflicts with execution direction:
+
+REDUCE SIZE
+or
+REJECT setup.
+
+--------------------------------------------------
+
+H. EXECUTION CLASSIFICATION
+
+Every trade must be classified as:
+
+1. EXECUTE
+High-quality elite asymmetry confirmed.
+
+2. WATCHLIST
+Conditions developing but incomplete.
+
+3. IGNORE
+No elite edge present.
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. Missing a trade is acceptable.
+
+2. Forcing trades is unacceptable.
+
+3. Elite opportunities are rare.
+
+4. Most market movement is noise.
+
+5. Patience is a core edge.
+
+6. NO TRADE is a valid professional position.
+
+7. Capital preservation is more important than constant activity.
+
+--------------------------------------------------
+
+STEP 16C — ELITE ASYMMETRY SCORING SYSTEM
+
+Elite setups are judged by weighted alignment, not perfection.
+
+The system should NOT require every elite condition to appear.
+
+Instead, score the setup using 7 elite factors:
+
+1. Macro Alignment
+2. Directional Bias
+3. Session Timing
+4. Liquidity Event
+5. Structure Clarity
+6. Location Quality
+7. Risk/Reward Asymmetry
+
+Each factor scores:
+
+0 = absent
+1 = weak
+2 = strong
+
+Maximum score = 14
+
+Classification:
+
+12–14 = ELITE EXECUTE
+10–11 = STRONG WATCHLIST / CONDITIONAL EXECUTE
+8–9 = WATCHLIST ONLY
+Below 8 = IGNORE
+
+Rule:
+
+A trade may be executed when the setup reaches at least 10/14
+AND risk/reward is at least 1:3
+AND macro direction does not strongly contradict the trade.
+
+This allows 70%–90% alignment without requiring perfect conditions.
+
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 17 — MARKET STRUCTURE (SKELETON)
@@ -276,6 +518,118 @@ Explain:
 Has structure been broken?
 Is the trend continuing or reversing?
 Where did price clearly change direction?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODULE 5 — FIBONACCI RETRACEMENT
+& EXPANSION FRAMEWORK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 1 — IDENTIFY THE SWING
+
+Bullish Environment:
+Draw Fibonacci from:
+Swing Low → Swing High
+
+Bearish Environment:
+Draw Fibonacci from:
+Swing High → Swing Low
+
+Use:
+Daily
+4H
+1H
+
+Avoid drawing Fibonacci on random micro-noise.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 2 — INSTITUTIONAL RETRACEMENT ZONES
+
+Key Retracement Levels:
+
+0.50  → Mid Retracement
+0.618 → Institutional Continuation Zone
+0.705 → Smart Money Liquidity Sweep Zone
+0.786 → Deep Retracement / Failure Risk Zone
+
+Interpretation:
+
+Bullish Bias:
+Look for buys at discount retracement zones.
+
+Bearish Bias:
+Look for sells at premium retracement zones.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 3 — FIBONACCI + LIQUIDITY CONFLUENCE
+
+Never use Fibonacci alone.
+
+Only execute when Fibonacci aligns with:
+
+• Directional Bias
+• Liquidity Sweep
+• Session Timing
+• Structure
+• Supply/Demand
+• Correlation Confirmation
+• Macro Alignment
+
+High probability setups occur when multiple layers align.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 4 — EXECUTION MODEL
+
+Bullish Environment:
+
+Wait for:
+• Pullback into Fibonacci discount zone
+• Liquidity sweep
+• Bullish confirmation candle
+
+Then execute buy.
+
+Bearish Environment:
+
+Wait for:
+• Pullback into Fibonacci premium zone
+• Liquidity sweep
+• Bearish confirmation candle
+
+Then execute sell.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 5 — FIBONACCI EXTENSION TARGETS
+
+Use extensions for expansion targets:
+
+1.272 → Conservative Expansion
+1.618 → Strong Trend Expansion
+2.0+  → Aggressive Momentum Expansion
+
+Use extension levels together with:
+• previous highs/lows
+• liquidity zones
+• institutional targets
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 6 — INVALIDATION RULE
+
+If price aggressively violates:
+• structure
+• liquidity behavior
+• macro bias
+
+Then invalidate Fibonacci setup.
+
+Fibonacci is a probability framework,
+NOT a guaranteed prediction tool.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 --------------------------------------------------
 
@@ -492,9 +846,216 @@ IMPORTANT RULES
 5. Avoid forcing reversals simply because price reaches range extremes.
 
 --------------------------------------------------
+
+STEP 18B — INSTITUTIONAL DEMAND & SUPPLY / IMBALANCE ENGINE
+
+Analyze demand and supply as institutional imbalance zones.
+
+Demand and supply zones are NOT random rectangles.
+
+They represent areas where one side of the market previously overwhelmed the other side.
+
+Demand Zone:
+area where aggressive buyers overwhelmed sellers.
+
+Supply Zone:
+area where aggressive sellers overwhelmed buyers.
+
 --------------------------------------------------
 
-STEP 18B — MARKET MICROSTRUCTURE ENGINE
+A. DEMAND ZONE ANALYSIS
+
+Identify possible demand zones where price previously:
+
+- rejected lower prices
+- created strong bullish displacement
+- formed a base before rallying
+- left liquidity imbalance
+- showed aggressive buying pressure
+
+Evaluate:
+
+Demand Zone Range:
+Reason:
+Fresh / Used / Weak:
+Reaction Quality:
+Macro Alignment:
+
+--------------------------------------------------
+
+B. SUPPLY ZONE ANALYSIS
+
+Identify possible supply zones where price previously:
+
+- rejected higher prices
+- created strong bearish displacement
+- formed a base before selling off
+- left liquidity imbalance
+- showed aggressive selling pressure
+
+Evaluate:
+
+Supply Zone Range:
+Reason:
+Fresh / Used / Weak:
+Reaction Quality:
+Macro Alignment:
+
+--------------------------------------------------
+
+C. DISPLACEMENT ANALYSIS
+
+Check whether price left a zone with strong displacement.
+
+Signs of displacement:
+
+- large aggressive candles
+- fast movement away from zone
+- little overlap between candles
+- break of structure after leaving zone
+- liquidity sweep before displacement
+
+Classify displacement as:
+
+STRONG DISPLACEMENT
+MODERATE DISPLACEMENT
+WEAK DISPLACEMENT
+NO CLEAR DISPLACEMENT
+
+--------------------------------------------------
+
+D. IMBALANCE / INEFFICIENCY ANALYSIS
+
+Check whether price moved too quickly and left imbalance.
+
+Look for:
+
+- fair value gaps
+- liquidity voids
+- inefficient price movement
+- sharp repricing areas
+- unfilled zones
+
+Explain whether price may return to rebalance or mitigate the zone.
+
+--------------------------------------------------
+
+E. ZONE FRESHNESS ANALYSIS
+
+Classify each demand/supply zone as:
+
+FRESH:
+price has not returned to the zone since the move began.
+
+USED:
+price has already retested the zone.
+
+WEAK:
+zone has been touched multiple times or failed to react strongly.
+
+Rule:
+
+Fresh zones usually have higher quality than repeatedly tested zones.
+
+--------------------------------------------------
+
+F. MITIGATION ANALYSIS
+
+Check whether price has returned to a demand/supply zone to mitigate previous imbalance.
+
+If price returns to a valid zone:
+
+Evaluate:
+
+- reaction strength
+- rejection quality
+- volume participation
+- momentum shift
+- liquidity behavior
+- macro alignment
+
+Do NOT assume every mitigation causes reversal.
+
+--------------------------------------------------
+
+G. DEMAND / SUPPLY QUALITY SCORE
+
+Assign zone quality:
+
+HIGH QUALITY ZONE
+MODERATE QUALITY ZONE
+LOW QUALITY ZONE
+INVALID ZONE
+
+based on:
+
+- displacement strength
+- zone freshness
+- structure alignment
+- liquidity behavior
+- volume participation
+- macro alignment
+- session timing
+
+--------------------------------------------------
+
+H. EXECUTION USE
+
+Use demand/supply zones to improve:
+
+- entry zone selection
+- pending order placement
+- stop loss placement
+- take profit targeting
+- invalidation logic
+- alert zones
+
+Demand zones may support BUY LIMIT or bullish continuation setups.
+
+Supply zones may support SELL LIMIT or bearish continuation setups.
+
+Only use demand/supply zones when they align with:
+
+- directional bias
+- liquidity behavior
+- confirmation
+- risk/reward
+- macro context
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Demand and supply zones are probabilistic, not guaranteed reversal zones.
+
+2. Do NOT buy every demand zone automatically.
+
+3. Do NOT sell every supply zone automatically.
+
+4. Strong trend days may break through zones aggressively.
+
+5. Macro events can invalidate demand/supply zones instantly.
+
+6. Demand/supply analysis must always be combined with:
+
+- macro direction
+- intermarket confirmation
+- liquidity analysis
+- market structure
+- volume participation
+- session timing
+- risk/reward
+
+7. If zone quality is unclear, mark:
+
+DEMAND/SUPPLY UNCLEAR
+
+and do not use it as the main execution basis.
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP 18C — MARKET MICROSTRUCTURE ENGINE
 
 Analyze deeper short-term market behavior behind price movement.
 
@@ -890,6 +1451,93 @@ Do NOT use Buy Stop unless breakout confirmation is required.
 Do NOT use Sell Stop unless breakdown confirmation is required.
 Do NOT place any pending order if structure is unclear.
 
+--------------------------------------------------
+
+STEP 23B — ELITE ORDER EXECUTION MODEL
+
+Elite setups can use either pending orders or market orders.
+
+The order type must match the setup behavior.
+
+--------------------------------------------------
+
+A. PENDING ORDER ELITE SETUP
+
+Use pending orders when location is more important than immediate confirmation.
+
+Best for:
+
+- pullback entries
+- discount/premium entries
+- Fibonacci retracement zones
+- demand/supply zones
+- liquidity retest zones
+- previous high/low retests
+- session high/low retests
+
+Logic:
+
+“If price reaches this elite zone, execution is allowed.”
+
+Order types:
+
+BUY LIMIT:
+bullish bias + pullback into elite discount zone.
+
+SELL LIMIT:
+bearish bias + rally into elite premium zone.
+
+Rules:
+
+- elite score must be at least 10/14
+- risk/reward must be at least 1:3
+- pending order must sit inside a valid elite zone
+- order must have expiration
+- if structure changes before activation, cancel order
+
+--------------------------------------------------
+
+B. MARKET ORDER ELITE SETUP
+
+Use market orders only when confirmation is more important than perfect price.
+
+Best for:
+
+- confirmed breakout
+- strong displacement candle
+- post-liquidity-sweep reversal
+- news-driven repricing
+- volatility expansion after compression
+- continuation after structure break and retest
+
+Logic:
+
+“The market has already proven direction; execution follows confirmation.”
+
+Rules:
+
+- elite score must be at least 10/14
+- risk/reward must remain at least 1:3
+- stop loss must still be logical
+- do not chase exhausted moves
+- do not use market order in dead liquidity periods
+
+--------------------------------------------------
+
+C. ORDER TYPE CLASSIFICATION
+
+Classify the setup as:
+
+PENDING ORDER ELITE:
+location-based elite setup.
+
+MARKET ORDER ELITE:
+confirmation-based elite setup.
+
+NO ORDER:
+elite score too weak or risk/reward invalid.
+
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 24 — STOP LOSS / INVALIDATION
@@ -1579,8 +2227,81 @@ manual reassessment and adjustment occur.
 
 This creates semi-automated professional management.
 
-STEP 28C — DYNAMIC ALERT MANAGEMENT SYSTEM
+STEP 28B — SESSION DECAY MANAGEMENT
 
+As major liquidity sessions close,
+the system must reassess trade quality.
+
+Late-session environments often produce:
+
+- weaker continuation
+- random oscillation
+- lower institutional participation
+- increased noise relative to directional movement
+
+Rules:
+
+If after London close and late NY session:
+
+- momentum weakens
+- structure stalls
+- volatility compresses
+- no catalyst exists
+- price remains near entry
+
+then partial close or full close becomes allowed.
+
+However:
+
+Do NOT close automatically if:
+
+- strong trend expansion exists
+- macro catalyst remains active
+- higher timeframe continuation structure remains strong
+- trade is already deeply in profit with trailing protection
+
+The system must classify:
+
+1. Expanding Trend Environment
+2. Decaying Session Environment
+3. Transition Compression Environment
+
+Only Transition Compression and Decaying Session environments justify time-based exits.
+
+STEP 28C — ELITE DYNAMIC ALERT MANAGEMENT SYSTEM
+--------------------------------------------------
+
+ELITE ALERT FILTER
+
+Alerts are only created for conditions that may become elite asymmetric setups.
+
+Create alerts when at least 3 elite factors begin aligning.
+
+Elite factors:
+
+1. Macro Alignment
+2. Directional Bias
+3. Session Timing
+4. Liquidity Event
+5. Structure Clarity
+6. Location Quality
+7. Risk/Reward Asymmetry
+
+Alert tiers:
+
+3 aligned factors = EARLY WATCH ALERT
+4–5 aligned factors = STRONG WATCH ALERT
+6+ aligned factors = EXECUTION READINESS ALERT
+
+When alert triggers, do NOT enter automatically.
+
+Reassess the setup and classify:
+
+EXECUTE
+WATCHLIST
+IGNORE
+
+--------------------------------------------------
 Alerts are part of the execution architecture.
 
 Alerts are used to monitor:
