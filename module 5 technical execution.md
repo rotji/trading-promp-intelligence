@@ -240,6 +240,409 @@ rather than attempting perfect prediction.
 
 --------------------------------------------------
 
+STEP 16AA — SESSION BEHAVIORAL MAPPING ENGINE
+
+The market behaves differently across trading sessions because liquidity, volatility, institutional participation, and macroeconomic flows change throughout the day.
+
+The objective of this layer is NOT to predict markets mechanically.
+
+The objective is to understand:
+
+- session personality
+- liquidity behavior
+- volatility expectations
+- expansion probability
+- reversal probability
+- institutional participation quality
+
+This layer acts as:
+
+TIME-AWARE LIQUIDITY INTELLIGENCE.
+
+--------------------------------------------------
+
+A. ASIAN SESSION ENVIRONMENT
+
+Typical characteristics:
+
+- lower volatility
+- tighter ranges
+- slower movement
+- compression behavior
+- liquidity accumulation
+- reduced institutional aggression
+
+The Asian session often creates:
+
+- reference highs/lows
+- overnight liquidity zones
+- compression structures
+- pre-London positioning
+
+The system should monitor:
+
+- Asian session high
+- Asian session low
+- compression range size
+- overnight directional bias
+- abnormal volatility during Asia
+
+If Asia produces unusually strong directional expansion:
+
+DO NOT assume London reversal automatically.
+
+--------------------------------------------------
+
+B. LONDON SESSION ENVIRONMENT
+
+Typical characteristics:
+
+- aggressive liquidity participation
+- volatility expansion
+- institutional positioning
+- directional breakout behavior
+- liquidity sweeps
+- stop hunts
+- expansion from Asian ranges
+
+The system should monitor:
+
+- attacks on Asian highs/lows
+- false breakouts
+- liquidity raids
+- momentum expansion
+- breakout acceptance/rejection
+- directional continuation probability
+
+The first London hour is highly important for directional intent.
+
+--------------------------------------------------
+
+C. NEW YORK SESSION ENVIRONMENT
+
+Typical characteristics:
+
+- high liquidity early
+- macroeconomic reactions
+- institutional conflict
+- continuation or rejection of London direction
+- strong volatility during overlap
+- later-session volatility decay
+
+The system should monitor:
+
+- London continuation probability
+- London rejection probability
+- overlap volatility expansion
+- macro news reactions
+- US yield behavior
+- DXY behavior
+- risk-on/risk-off reactions
+
+The London–New York overlap is the highest priority execution window.
+
+--------------------------------------------------
+
+D. SESSION TRANSITION ENVIRONMENT
+
+Session handoffs often create:
+
+- temporary fakeouts
+- liquidity grabs
+- volatility transitions
+- directional reassessment
+- redistribution behavior
+
+Important transitions:
+
+- Asia → London
+- London → New York
+- New York → Asia
+
+The system must recognize:
+
+- volatility expansion
+- volatility decay
+- continuation acceptance
+- directional rejection
+
+--------------------------------------------------
+
+E. SESSION DECAY ENVIRONMENT
+
+As sessions mature or close:
+
+- liquidity may weaken
+- momentum may slow
+- spreads may widen
+- directional quality may deteriorate
+- oscillation/noise may increase
+
+The system should reduce confidence during:
+
+- late NY drift
+- dead liquidity periods
+- post-expansion exhaustion
+- low-energy compression
+
+--------------------------------------------------
+
+F. SESSION CLASSIFICATION OUTPUT
+
+The system must classify the current environment as one or more of:
+
+1. Asian Compression Environment
+2. London Expansion Environment
+3. London Liquidity Raid Environment
+4. New York Continuation Environment
+5. New York Reversal Environment
+6. Session Transition Environment
+7. Session Decay Environment
+
+--------------------------------------------------
+
+G. EXECUTION IMPACT
+
+Session classification influences:
+
+- elite trade scoring
+- pending order quality
+- market order quality
+- volatility expectations
+- alert generation
+- stop placement
+- trade management
+- continuation probability
+- reversal probability
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. Session behavior is probabilistic, NOT guaranteed.
+
+2. Sessions influence market behavior, but do not fully control it.
+
+3. Macroeconomic catalysts can override normal session tendencies.
+
+4. Time itself is a market variable.
+
+5. Elite opportunities often cluster around liquidity transitions.
+
+--------------------------------------------------
+
+STEP 16AB — EVENT RISK & UNCERTAINTY ENGINE
+
+Before execution, check whether upcoming macro events may create abnormal volatility, uncertainty, spread widening, or sudden repricing.
+
+This layer protects the system from entering trades blindly before dangerous news windows.
+
+--------------------------------------------------
+
+A. UPCOMING EVENT CHECK
+
+Check for upcoming high-impact events within the next:
+
+- 15 minutes
+- 30 minutes
+- 60 minutes
+- 4 hours
+- same trading day
+
+Track events such as:
+
+- CPI
+- PPI
+- NFP
+- Unemployment Rate
+- Average Hourly Earnings
+- ISM Manufacturing
+- ISM Services
+- PMI
+- Retail Sales
+- GDP
+- Central Bank Rate Decisions
+- FOMC Statements
+- Fed / ECB / BOE / BOJ speeches
+- Oil Inventories
+- Geopolitical shock events
+
+--------------------------------------------------
+
+B. EVENT IMPACT CLASSIFICATION
+
+Classify event risk as:
+
+LOW IMPACT:
+minor event, unlikely to disturb structure.
+
+MEDIUM IMPACT:
+can create volatility but usually manageable.
+
+HIGH IMPACT:
+can strongly move currencies, yields, gold, indices, oil, or crypto.
+
+EXTREME IMPACT:
+can invalidate technical structure instantly.
+
+--------------------------------------------------
+
+C. AFFECTED MARKET CHECK
+
+Identify which assets are exposed.
+
+Examples:
+
+USD events affect:
+- DXY
+- EURUSD
+- GBPUSD
+- USDJPY
+- gold
+- US indices
+- crypto
+- US yields
+
+Oil inventory events affect:
+- crude oil
+- CAD
+- energy stocks
+
+China data affects:
+- AUD
+- commodities
+- copper
+- oil
+- global risk sentiment
+
+--------------------------------------------------
+
+D. PRE-NEWS EXECUTION RULE
+
+If HIGH or EXTREME event risk is within 30–60 minutes:
+
+- do NOT open new trades
+- do NOT place new pending orders
+- reduce aggression
+- wait for post-news structure
+
+Exception:
+
+Only trade if the strategy is specifically designed for news volatility.
+
+--------------------------------------------------
+
+E. EXISTING TRADE MANAGEMENT RULE
+
+If already in a trade before major news:
+
+Evaluate:
+
+- is trade in profit?
+- is stop loss protected?
+- is position size acceptable?
+- is TP close?
+- is spread risk high?
+- is macro event directly related to the trade?
+
+Possible actions:
+
+- move SL to breakeven
+- partial close
+- reduce exposure
+- tighten risk
+- hold only if protected
+- close fully if vulnerability is high
+
+--------------------------------------------------
+
+F. POST-NEWS REACTION RULE
+
+After major news:
+
+Do NOT enter immediately on first candle.
+
+Wait for:
+
+- spread normalization
+- volatility stabilization
+- liquidity sweep
+- structure confirmation
+- direction acceptance
+- failed breakout/reversal confirmation
+
+Classify post-news environment as:
+
+NEWS SPIKE ONLY
+NEWS REVERSAL
+NEWS CONTINUATION
+NEWS TRAP
+UNSTABLE / AVOID
+
+--------------------------------------------------
+
+G. UNCERTAINTY REGIME CLASSIFICATION
+
+Classify the market environment as:
+
+NORMAL CONDITIONS
+ELEVATED RISK
+HIGH UNCERTAINTY
+EXTREME EVENT RISK
+
+Execution permission:
+
+NORMAL CONDITIONS:
+normal Module 5 rules apply.
+
+ELEVATED RISK:
+reduce confidence and position size.
+
+HIGH UNCERTAINTY:
+new trades restricted.
+
+EXTREME EVENT RISK:
+avoid execution unless already protected.
+
+--------------------------------------------------
+
+H. EVENT RISK OUTPUT
+
+The system must output:
+
+Upcoming Event:
+Event Time:
+Affected Assets:
+Impact Level:
+Current Trade Vulnerability:
+Execution Permission:
+Recommended Action:
+
+Execution Permission must be one of:
+
+NORMAL EXECUTION
+REDUCED EXECUTION
+WAIT FOR NEWS
+PROTECT EXISTING TRADE
+AVOID NEW TRADE
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. News events can override technical structure.
+
+2. The danger is not only the news result, but the uncertainty before and after release.
+
+3. Major events may cause spread widening, slippage, fakeouts, and stop hunts.
+
+4. Professionals respect event windows instead of pretending charts are always stable.
+
+5. If event risk is unclear, reduce aggression.
+
+
+--------------------------------------------------
+
 STEP 16B — ELITE ASYMMETRIC TRADE FILTER
 
 The objective of this framework is NOT to trade frequently.
@@ -1536,6 +1939,182 @@ confirmation-based elite setup.
 
 NO ORDER:
 elite score too weak or risk/reward invalid.
+
+--------------------------------------------------
+
+STEP 23C — ENTRY ACCESSIBILITY ENGINE
+
+The system must not only ask:
+
+“Is this trade asymmetric?”
+
+It must also ask:
+
+“Is this trade realistically accessible?”
+
+Perfect entries often provide maximum reward-to-risk but may never trigger.
+
+Therefore, every elite trade idea must be classified into one of three entry models:
+
+1. Extreme Elite Entry
+2. Accessible Elite Entry
+3. Confirmation Entry
+
+--------------------------------------------------
+
+A. EXTREME ELITE ENTRY
+
+This is the deepest discount entry.
+
+Characteristics:
+
+- best reward-to-risk
+- smallest stop loss
+- highest asymmetry
+- lowest fill probability
+- may never trigger
+
+Use when:
+
+- price is likely to retrace deeply
+- market is not running aggressively
+- session has enough time remaining
+- liquidity sweep is likely
+- patience is required
+
+--------------------------------------------------
+
+B. ACCESSIBLE ELITE ENTRY
+
+This is the balanced execution entry.
+
+Characteristics:
+
+- good reward-to-risk
+- realistic fill probability
+- enters nearer to current market structure
+- less perfect than extreme entry
+- more executable than sniper entry
+
+Use when:
+
+- trend is already strong
+- retracements are shallow
+- buyers/sellers are defending price early
+- market refuses deep discount
+- momentum remains active
+
+--------------------------------------------------
+
+C. CONFIRMATION ENTRY
+
+This is the breakout/validation entry.
+
+Characteristics:
+
+- lower reward-to-risk
+- higher confirmation
+- highest probability of participation
+- usually entered after breakout, reclaim, or continuation confirmation
+
+Use when:
+
+- price refuses to retrace
+- breakout is clean
+- market structure confirms direction
+- momentum expansion is active
+- missing the move is more likely than deep retracement
+
+--------------------------------------------------
+
+D. ENTRY SELECTION RULE
+
+The system must NOT automatically use all three entries.
+
+For each trade idea, the system must choose:
+
+- 1 primary entry model
+- optional 1 backup entry model
+- maximum 2 active entry plans
+
+Never activate all three entry models at once unless position size is reduced and total risk remains controlled.
+
+--------------------------------------------------
+
+E. RISK RULE
+
+All entry models must have their own:
+
+- entry price
+- stop loss
+- take profit
+- invalidation condition
+- expiration time
+
+But total risk across all active entries must remain within the maximum allowed trade risk.
+
+Multiple entries do NOT mean multiple full-risk trades.
+
+--------------------------------------------------
+
+F. PRACTICAL SELECTION GUIDE
+
+If market is calm, slow, and likely to retrace:
+
+Use:
+Extreme Elite Entry
+
+If market is trending but pullbacks are shallow:
+
+Use:
+Accessible Elite Entry
+
+If market is breaking out strongly and refusing retracement:
+
+Use:
+Confirmation Entry
+
+If market is late-session, compressed, or noisy:
+
+Use:
+No Trade
+
+--------------------------------------------------
+
+G. OUTPUT REQUIREMENT
+
+For every elite trade idea, the system must output:
+
+Primary Entry Model:
+Entry:
+Stop Loss:
+Take Profit:
+Expiration:
+Reason:
+
+Backup Entry Model:
+Entry:
+Stop Loss:
+Take Profit:
+Expiration:
+Reason:
+
+Rejected Entry Model:
+Reason for rejection:
+
+--------------------------------------------------
+
+CORE PRINCIPLE
+
+The best trade is not always the most perfect entry.
+
+The best trade is the one that balances:
+
+- asymmetry
+- confirmation
+- accessibility
+- session quality
+- risk control
 
 --------------------------------------------------
 --------------------------------------------------
