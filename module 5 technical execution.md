@@ -640,6 +640,44 @@ IMPORTANT PRINCIPLES
 
 5. If event risk is unclear, reduce aggression.
 
+========================================
+16AC TIME CONTEXT ENGINE
+========================================
+
+Purpose:
+Integrate time-sensitive market behavior into trade execution.
+
+Track:
+- Current exact time
+- Nigerian time zone
+- Tokyo session
+- London session
+- New York session
+- Session overlaps
+- Pre-news windows
+- Post-news instability periods
+- Market rollover periods
+
+Rules:
+- Markets behave differently depending on time
+- Avoid entering during unstable news windows
+- Wait for volatility normalization after major releases
+- Recognize low-liquidity fake movements
+- Increase caution during intervention-sensitive hours
+
+High Danger Periods:
+- Major economic releases
+- Fed speeches
+- BOJ comments
+- US bond auctions
+- CPI/PPI/NFP windows
+
+Execution Rules:
+- Delay aggressive entries during unstable periods
+- Prefer confirmation after volatility settles
+- Use wider stops during high-volatility regimes
+- Reduce position size during dangerous liquidity conditions
+
 
 --------------------------------------------------
 

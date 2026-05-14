@@ -254,6 +254,106 @@ which trades may become urgent
 
 These liquidity shock signals should feed into:
 
+
+7E 1. VOLATILITY & LIQUIDITY HAZARD ENGINE
+========================================
+
+Purpose:
+Detect dangerous market conditions before entering trades.
+
+----------------------------------------
+A. NEWS VOLATILITY RISK
+----------------------------------------
+
+Track:
+- CPI
+- PPI
+- NFP
+- Fed speeches
+- BOJ speeches
+- Treasury auctions
+- Geopolitical headlines
+- Emergency central bank comments
+
+Rules:
+- Reduce aggressiveness before major news
+- Avoid entering immediately before high impact events
+- Wait for post-news stabilization
+- Detect abnormal volatility expansion
+
+----------------------------------------
+B. STOP HUNT PROBABILITY ENGINE
+----------------------------------------
+
+Questions:
+- Is price near obvious highs/lows?
+- Is positioning crowded?
+- Is volatility compressed?
+- Is liquidity thin?
+- Are traders trapped one-sided?
+
+Signals:
+- Sudden spikes
+- Long wick candles
+- Fast reversals
+- Liquidity grabs
+
+Action:
+- Avoid tight stop losses
+- Wait for confirmation after sweeps
+
+----------------------------------------
+C. INTERVENTION RISK ENGINE
+----------------------------------------
+
+Especially for:
+USDJPY
+
+Track:
+- BOJ verbal warnings
+- Rapid yen weakness
+- Psychological levels
+- Yield divergence
+- Government intervention headlines
+
+Danger Zones:
+- Major psychological round numbers
+- Fast parabolic moves
+
+Action:
+- Reduce exposure
+- Expect violent reversals
+
+----------------------------------------
+D. YIELD SHOCK ENGINE
+----------------------------------------
+
+Track:
+- US 10Y yield
+- Japan 10Y yield
+- Yield spread
+- Sudden bond volatility
+
+Purpose:
+Detect rapid macro repricing.
+
+----------------------------------------
+E. LIQUIDITY VACUUM DETECTOR
+----------------------------------------
+
+Detect:
+- Thin liquidity
+- Abnormal candle size
+- Spread expansion
+- Fast price displacement
+- Air-pocket movements
+
+Action:
+- Reduce leverage
+- Delay entries
+- Wait for stabilization
+
+========================================
 STEP 8 — GLOBAL CORRELATION MATRIX
 STEP 9 — GLOBAL MISPRICING DETECTOR
 STEP 9B — GLOBAL OPPORTUNITY DENSITY MAP
