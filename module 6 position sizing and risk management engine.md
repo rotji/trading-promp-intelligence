@@ -131,6 +131,33 @@ If multiple trades share the same macro exposure:
 
 Reduce position sizes.
 
+CORRELATION CASCADE RISK
+
+Correlated trades may create hidden portfolio concentration.
+
+Examples:
+
+- multiple USD longs
+- multiple tech longs
+- multiple risk-on crypto trades
+- multiple bond-duration trades
+
+During volatility shocks:
+
+correlated positions may fail simultaneously.
+
+The system should evaluate:
+
+- hidden macro overlap
+- liquidity overlap
+- narrative overlap
+- directional concentration
+
+High correlation environments require:
+
+- reduced exposure
+- defensive sizing
+- tighter portfolio controls
 --------------------------------------------------
 
 STEP 30 — TRADE MANAGEMENT PLAN

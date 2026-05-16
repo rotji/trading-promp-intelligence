@@ -83,12 +83,199 @@ extreme bullish sentiment
 extreme bearish sentiment
 contrarian opportunities
 
+--------------------------------------------------
+
+RELATIVE STRENGTH & WEAKNESS ENGINE
+
+The market often rewards trades involving the strongest asset versus the weakest asset.
+
+Purpose:
+identify institutional capital flow concentration.
+
+--------------------------------------------------
+
+A. STRENGTH ANALYSIS
+
+Identify assets showing:
+
+- sustained momentum
+- strong participation
+- trend persistence
+- relative outperformance
+- strong institutional flows
+
+--------------------------------------------------
+
+B. WEAKNESS ANALYSIS
+
+Identify assets showing:
+
+- weak momentum
+- relative underperformance
+- failed rallies
+- defensive pressure
+- capital outflows
+
+--------------------------------------------------
+
+C. RELATIVE PAIRING LOGIC
+
+Highest probability setups often occur when:
+
+STRONG asset
+vs
+WEAK asset
+
+Examples:
+
+- strong USD vs weak JPY
+- strong oil vs weak CAD divergence
+- strong Nasdaq vs weak defensive sectors
+
+--------------------------------------------------
+
+D. EXECUTION USE
+
+Relative strength/weakness improves:
+
+- trade selection
+- directional conviction
+- momentum confirmation
+- continuation probability
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Relative strength changes across market regimes.
+
+2. Strong assets may become overcrowded.
+
+3. Relative weakness may reverse violently after major events.
+
+4. Relative strength must be combined with:
+- macro context
+- liquidity
+- positioning
+- volatility
+- event risk
+
+--------------------------------------------------
+
 Evaluate indicators such as:
 
 capital concentration
 trend crowding
 momentum extremes
 positioning imbalances
+
+--------------------------------------------------
+
+STEP 11PC — POSITIONING CHANGE ANALYSIS ENGINE
+
+Analyze changes in institutional positioning over time.
+
+The objective is NOT only to identify current positioning,
+but also to detect:
+
+- acceleration
+- deceleration
+- buildup
+- unwinding
+- short covering
+- long liquidation
+
+--------------------------------------------------
+
+A. LONG POSITION CHANGE ANALYSIS
+
+Evaluate whether institutions are:
+
+- increasing long exposure
+- reducing long exposure
+- aggressively accumulating
+- slowly distributing
+
+Increasing longs may support:
+- bullish continuation
+- improving sentiment
+- capital inflows
+
+Reducing longs may support:
+- weakening momentum
+- profit-taking
+- distribution risk
+
+--------------------------------------------------
+
+B. SHORT POSITION CHANGE ANALYSIS
+
+Evaluate whether institutions are:
+
+- increasing shorts
+- reducing shorts
+- aggressively hedging
+- covering bearish exposure
+
+Increasing shorts may support:
+- bearish continuation
+- defensive positioning
+- macro deterioration
+
+Reducing shorts may support:
+- short squeeze risk
+- reversal potential
+- temporary relief rallies
+
+--------------------------------------------------
+
+C. POSITIONING MOMENTUM
+
+Analyze whether positioning shifts are:
+
+- accelerating
+- slowing
+- overcrowded
+- reversing
+
+The speed of positioning change may reveal:
+- narrative transitions
+- liquidity shifts
+- macro expectation changes
+
+--------------------------------------------------
+
+D. EXECUTION USE
+
+Positioning changes should influence:
+
+- directional conviction
+- reversal probability
+- squeeze probability
+- continuation confidence
+- crowding analysis
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Positioning changes are probabilistic, not deterministic.
+
+2. Extreme positioning may increase reversal risk.
+
+3. Short covering can create bullish rallies without strong fundamentals.
+
+4. Long liquidation can create sharp declines without new bearish catalysts.
+
+5. Positioning analysis must be combined with:
+- macro conditions
+- liquidity
+- yields
+- volatility
+- catalysts
+- structure
+
+--------------------------------------------------
 
 Identify markets where positioning is:
 
@@ -98,6 +285,50 @@ NEUTRAL
 CONTRARIAN OPPORTUNITY
 
 Explain where positioning risk is highest.
+
+--------------------------------------------------
+
+COT DATA TIMING LIMITATION PRINCIPLE
+
+Commitment of Traders (COT) reports contain reporting delays.
+
+Institutional positioning may change between:
+
+- reporting date
+- publication date
+- current market conditions
+
+Therefore:
+
+COT data should be treated as:
+
+- macro positioning context
+- structural sentiment analysis
+- medium-term positioning intelligence
+
+NOT:
+- exact intraday execution timing.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Positioning may shift rapidly after major macro events.
+
+2. Delayed positioning data increases uncertainty during volatile regimes.
+
+3. Execution decisions must still rely on:
+- price action
+- liquidity
+- volatility
+- structure
+- confirmation
+
+4. COT analysis is strongest for:
+- swing trading
+- macro regime analysis
+- positioning intelligence
+- crowding analysis
 
 --------------------------------------------------
 --------------------------------------------------
@@ -144,6 +375,65 @@ profit-taking
 liquidity shocks
 
 Identify potential contrarian opportunities created by excessive crowding.
+
+--------------------------------------------------
+
+SHORT COVERING & LONG LIQUIDATION ANALYSIS
+
+Crowded positioning may create violent countertrend moves.
+
+--------------------------------------------------
+
+A. SHORT COVERING ANALYSIS
+
+When traders aggressively close short positions:
+
+- price may rise rapidly
+- volatility may expand
+- momentum may accelerate
+- liquidity pressure may increase
+
+Short covering rallies may occur even without major bullish fundamentals.
+
+--------------------------------------------------
+
+B. LONG LIQUIDATION ANALYSIS
+
+When traders aggressively close long positions:
+
+- price may fall rapidly
+- momentum may accelerate downward
+- panic selling may emerge
+- liquidity vacuums may appear
+
+Long liquidation events may occur even without major bearish catalysts.
+
+--------------------------------------------------
+
+C. SQUEEZE RISK ANALYSIS
+
+Evaluate probability of:
+
+- short squeeze
+- long squeeze
+- positioning cascade
+- forced liquidation
+
+Crowded positioning increases squeeze probability.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Positioning unwinds may temporarily overpower macro fundamentals.
+
+2. Squeeze environments often create abnormal volatility.
+
+3. Crowded trades increase instability risk.
+
+4. Execution should become more defensive during squeeze conditions.
+
+--------------------------------------------------
 
 These crowding signals should be incorporated into opportunity detection in STEP 12.
 

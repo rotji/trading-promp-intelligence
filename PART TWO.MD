@@ -1278,3 +1278,222 @@ The BEST immediate next build is probably:
 ## 4. Volatility Engine
 
 Those four alone would massively improve your current system immediately.
+
+DATASET 1
+BIS Credit-to-GDP Gap
+What It Is
+
+Measures:
+
+excessive credit growth
+relative to GDP trend.
+
+Very famous BIS systemic risk indicator.
+
+Why Important
+
+One of the BEST indicators for:
+
+bubbles
+leverage excess
+banking crisis probability
+Macro Meaning
+Condition	Meaning
+Gap expanding rapidly	Credit bubble
+Gap extreme positive	Crisis risk
+Gap collapsing	Deleveraging
+Trading Impact
+Risk-On Initially
+
+Because credit expansion boosts:
+
+stocks
+real estate
+crypto
+
+BUT:
+
+Extreme levels become:
+systemic crash warning.
+Assets Affected
+equities
+banking sector
+housing
+EM currencies
+crypto
+Future Module Integration
+Module	Usage
+Module 0	Structural risk
+Module 1	Debt cycle analysis
+Module 2	Liquidity cycle
+Module 3	Bubble narrative
+Module 5	Position sizing
+Future Scoring Logic
+
+Example:
+
+IF Credit-to-GDP Gap > critical threshold
+THEN reduce long-duration risk appetite score
+DATASET 2
+Global USD Debt Outside US
+What It Is
+
+Tracks:
+
+dollar-denominated debt
+outside the United States.
+
+EXTREMELY important.
+
+Why Important
+
+The global system runs on:
+
+offshore dollars.
+
+When USD rises:
+
+debt burden explodes globally.
+
+Creates:
+
+EM stress
+liquidity crises
+funding panics
+Macro Meaning
+Condition	Meaning
+USD debt high + DXY rising	Dangerous
+USD debt high + Fed tightening	Risk-off
+USD liquidity easing	Relief rallies
+Assets Affected
+emerging markets
+commodities
+BTC
+global equities
+carry trades
+Future Integration
+Module	Usage
+Module 0	Dollar stress
+Module 1	Capital flow map
+Module 2	FX pressure
+Module 3	Liquidity narratives
+Module 5	Risk adjustment
+DATASET 3
+Cross-Border EM Lending
+What It Is
+
+Tracks:
+
+lending flowing into emerging markets.
+Why Important
+
+EM economies depend heavily on:
+
+foreign capital
+dollar funding
+
+When lending falls:
+
+EM currencies weaken
+crisis probability rises
+Macro Meaning
+Condition	Meaning
+EM lending rising	Risk-on
+EM lending collapsing	Capital flight
+Assets Affected
+EM FX
+commodities
+risk assets
+carry trades
+DATASET 4
+Derivatives Exposure
+What It Is
+
+Tracks:
+
+leverage
+derivatives concentration
+swap exposure
+hidden systemic risk
+Why Important
+
+Derivative markets amplify:
+
+volatility
+contagion
+liquidity stress
+Macro Meaning
+Condition	Meaning
+Exposure extreme	Fragility
+Volatility spike	Forced deleveraging
+Assets Affected
+
+ALL markets.
+
+Especially:
+
+bonds
+FX
+equities
+DATASET 5
+International Banking Claims
+What It Is
+
+Tracks:
+
+international bank exposure
+between countries.
+Why Important
+
+Shows:
+
+global financial interconnectedness
+contagion pathways
+Macro Meaning
+Condition	Meaning
+Claims rising	Global expansion
+Claims collapsing	Financial fragmentation
+Affected Assets
+banking stocks
+FX
+sovereign bonds
+EM assets
+MOST IMPORTANT THING
+
+Your PART 2 documentation should focus on:
+
+"HOW THIS CHANGES DECISION MAKING"
+
+NOT:
+
+memorizing raw statistics.
+FINAL MENTAL MODEL
+PART 1
+
+Operational macro engine:
+
+tradable
+fast
+practical
+
+Uses:
+
+DXY
+yields
+VIX
+commodities
+TE data
+credit spreads
+PART 2
+
+Institutional deep macro layer:
+
+slow data
+structural regime detection
+debt cycles
+liquidity architecture
+systemic fragility
+
+This becomes:
+
+your hedge-fund-grade intelligence layer.

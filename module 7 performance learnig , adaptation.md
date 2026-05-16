@@ -117,6 +117,31 @@ whether profit was protected
 whether position size was appropriate
 
 Classify risk behavior as:
+PROCESS DISCIPLINE SCORING
+
+The trader should evaluate process quality separately from profit/loss outcome.
+
+A trade may lose money while still being:
+- disciplined
+- probabilistically valid
+- correctly executed
+
+A trade may make money while still being:
+- reckless
+- emotional
+- structurally poor
+
+The system should track:
+
+- plan adherence
+- execution discipline
+- emotional stability
+- confirmation compliance
+- stop-loss discipline
+- risk discipline
+
+The objective is long-term behavioral consistency,
+not short-term emotional gratification.
 
 DISCIPLINED
 ACCEPTABLE
@@ -141,6 +166,18 @@ closed winner too early
 ignored session timing
 ignored news risk
 ignored module warning
+Additional behavioral mistakes:
+
+- revenge trading
+- impulsive re-entry
+- emotional over-sizing
+- panic closing
+- fear-based hesitation
+- greed-based target extension
+- abandoning pre-trade plan
+- forcing trades during low-quality conditions
+
+The system should identify whether emotional behavior influenced execution quality.
 
 For each mistake explain:
 

@@ -775,6 +775,62 @@ IGNORE.
 
 --------------------------------------------------
 
+CHOPPY MARKET ENVIRONMENT FILTER
+
+Elite execution requires directional efficiency.
+
+Avoid aggressive execution during:
+
+- random oscillation
+- excessive overlap candles
+- unstable compression
+- directionless volatility
+- repeated failed breakouts
+- repeated failed breakdowns
+- low directional conviction
+
+--------------------------------------------------
+
+Choppy environments often produce:
+
+- fake moves
+- stop hunts
+- weak follow-through
+- poor risk/reward
+- emotional overtrading
+
+--------------------------------------------------
+
+The system should reduce confidence or avoid execution entirely when:
+
+- directional structure is unclear
+- volatility lacks expansion quality
+- momentum repeatedly fails
+- liquidity reactions become inconsistent
+
+--------------------------------------------------
+
+Classify market environment as:
+
+- CLEAN TRENDING ENVIRONMENT
+- TRANSITIONAL ENVIRONMENT
+- CHOPPY ENVIRONMENT
+- LOW QUALITY EXECUTION ENVIRONMENT
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. Not all market environments are worth trading.
+
+2. Choppy environments reduce asymmetric edge.
+
+3. Flat/no-position is a valid professional position.
+
+4. Preserving capital during low-quality environments improves long-term performance.
+
+--------------------------------------------------
+
 D. ASYMMETRIC RISK/REWARD FILTER
 
 Elite setups must provide strong asymmetry.
@@ -1093,6 +1149,73 @@ stop-loss clusters
 Explain:
 
 Where are traders’ stop losses likely sitting?
+--------------------------------------------------
+
+LEVELS ARE ATTENTION ZONES PRINCIPLE
+
+Important market levels are NOT automatic entry signals.
+
+They are attention zones where:
+
+- liquidity may cluster
+- stop losses may accumulate
+- breakout traders may enter
+- institutional reactions may occur
+
+Examples include:
+
+- support
+- resistance
+- previous highs/lows
+- session highs/lows
+- previous day high/low
+- all-time highs/lows
+- psychological levels
+
+The system must NOT assume:
+
+support = automatic buy
+resistance = automatic sell
+
+Instead, these levels should be treated as:
+
+LIQUIDITY REACTION ZONES.
+
+--------------------------------------------------
+
+Institutional behavior near these levels may include:
+
+- stop hunts
+- liquidity sweeps
+- false breakouts
+- breakout acceptance
+- rejection
+- trap behavior
+- volatility expansion
+
+--------------------------------------------------
+
+Execution should occur ONLY after:
+
+- confirmation
+- acceptance/rejection behavior
+- momentum validation
+- liquidity reaction
+- structure confirmation
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. Levels identify where attention should increase, not where blind execution should occur.
+
+2. The market often moves beyond levels temporarily to collect liquidity.
+
+3. Confirmation after liquidity interaction is more important than the level itself.
+
+4. Institutions frequently exploit obvious retail positioning near major levels.
+
+--------------------------------------------------
 Where is price likely to move to collect liquidity?
 Which liquidity zone matters most for this trade?
 
@@ -1616,6 +1739,134 @@ Is a pullback needed before execution?
 
 --------------------------------------------------
 
+STEP 20A — CANDLE PSYCHOLOGY & REJECTION ENGINE
+
+Candles represent market psychology, aggression, rejection, exhaustion, and liquidity interaction.
+
+The objective is NOT to memorize random candlestick names mechanically.
+
+The objective is to understand:
+
+- who is in control
+- where rejection occurred
+- where momentum accelerated
+- where liquidity was trapped
+- where exhaustion may appear
+
+--------------------------------------------------
+
+A. BODY VS WICK ANALYSIS
+
+Large candle body:
+strong directional aggression.
+
+Small candle body:
+indecision or weak participation.
+
+Long upper wick:
+rejection of higher prices.
+
+Long lower wick:
+rejection of lower prices.
+
+Small/no wick:
+strong directional conviction.
+
+--------------------------------------------------
+
+B. REJECTION ANALYSIS
+
+Evaluate whether candles show:
+
+- bullish rejection
+- bearish rejection
+- failed continuation
+- exhaustion
+- stop hunt behavior
+- liquidity sweep rejection
+
+Long wicks near liquidity zones increase importance.
+
+--------------------------------------------------
+
+C. MOMENTUM CANDLE ANALYSIS
+
+Analyze whether candles show:
+
+- displacement
+- momentum acceleration
+- trend continuation
+- panic liquidation
+- emotional expansion
+
+Large aggressive candles with little overlap suggest strong momentum participation.
+
+--------------------------------------------------
+
+D. EXHAUSTION ANALYSIS
+
+Possible exhaustion signs include:
+
+- large wick after expansion
+- shrinking bodies
+- failed continuation
+- repeated rejection
+- momentum slowdown
+
+Classify:
+
+- HEALTHY MOMENTUM
+- WEAKENING MOMENTUM
+- EXHAUSTION RISK
+
+--------------------------------------------------
+
+E. MULTI-CANDLE STRUCTURE ANALYSIS
+
+Evaluate important multi-candle behavior such as:
+
+- inside candles
+- compression structures
+- momentum continuation clusters
+- rejection clusters
+- three-candle continuation behavior
+- three-candle exhaustion behavior
+
+Purpose:
+understand short-term market psychology and participation shifts.
+
+--------------------------------------------------
+
+F. CONTEXT RULE
+
+Candles alone are NOT valid trade signals.
+
+Candles must always be interpreted together with:
+
+- liquidity
+- structure
+- macro bias
+- session timing
+- volatility
+- momentum
+- institutional positioning
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. Candles reflect psychological interaction between buyers and sellers.
+
+2. Wicks often reveal liquidity rejection and failed expansion.
+
+3. Momentum candles may reveal institutional aggression.
+
+4. Candlestick patterns without context are weak.
+
+5. The same candle may mean different things in different market environments.
+
+--------------------------------------------------
+
 STEP 20B — VOLUME PARTICIPATION ANALYSIS
 
 Analyze how volume participates in the current market behavior.
@@ -1761,11 +2012,189 @@ IMPORTANT RULES
 
 --------------------------------------------------
 
+STEP 20C — VWAP / AVWAP INSTITUTIONAL FAIR VALUE ENGINE
+
+Analyze price relative to:
+
+- VWAP
+- Anchored VWAP (AVWAP)
+
+Purpose:
+Detect institutional fair value, participation zones, and directional control.
+
+--------------------------------------------------
+
+A. VWAP POSITION ANALYSIS
+
+Determine whether price is:
+
+- above VWAP
+- below VWAP
+- repeatedly respecting VWAP
+- repeatedly rejecting VWAP
+
+Interpretation:
+
+Above VWAP:
+bullish institutional positioning.
+
+Below VWAP:
+bearish institutional positioning.
+
+Repeated respect:
+institutional acceptance.
+
+Repeated rejection:
+institutional resistance.
+
+--------------------------------------------------
+
+B. AVWAP CONTEXT ANALYSIS
+
+Anchor AVWAP to important events such as:
+
+- session open
+- major breakout
+- major low/high
+- CPI/FOMC reaction
+- trend reversal
+- large displacement move
+
+Evaluate whether price is:
+
+- holding above AVWAP
+- rejecting below AVWAP
+- reclaiming AVWAP
+- failing at AVWAP
+
+--------------------------------------------------
+
+C. INSTITUTIONAL FAIR VALUE ANALYSIS
+
+VWAP/AVWAP often represent:
+
+- institutional average positioning
+- fair value zones
+- participation equilibrium
+- defended value areas
+
+Analyze whether institutions appear to defend or reject these levels.
+
+--------------------------------------------------
+
+D. EXECUTION USE
+
+Use VWAP/AVWAP together with:
+
+- structure
+- liquidity
+- macro bias
+- session timing
+- volume participation
+- momentum
+
+Potential uses:
+
+- pullback entries
+- trend continuation
+- breakout confirmation
+- rejection trades
+
+--------------------------------------------------
+
+E. VWAP REACTION CLASSIFICATION
+
+Classify behavior as:
+
+- BULLISH ACCEPTANCE
+- BEARISH ACCEPTANCE
+- FAIR VALUE REJECTION
+- FAILED RECLAIM
+- FAILED BREAKDOWN
+- NEUTRAL ROTATION
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. VWAP is not a guaranteed support/resistance level.
+
+2. VWAP behavior changes by session and volatility regime.
+
+3. Strong macro events may temporarily invalidate VWAP behavior.
+
+4. VWAP should never be used alone without structure and liquidity context.
+
+--------------------------------------------------
+
 STEP 21 — CONFIRMATION OF TRUE DIRECTION
 
 Confirm the real direction after structure, liquidity, and momentum analysis.
 
 Look for:
+--------------------------------------------------
+
+FOLLOW-THROUGH CONFIRMATION PRINCIPLE
+
+The market must demonstrate continuation ability after important liquidity interaction.
+
+One candle alone is insufficient confirmation.
+
+The system should evaluate whether price:
+
+- holds above breakout zones
+- holds below breakdown zones
+- sustains momentum
+- maintains structure
+- shows continued participation
+- avoids immediate rejection
+
+--------------------------------------------------
+
+The system may observe:
+
+1–3 candles after:
+
+- breakout
+- liquidity sweep
+- rejection
+- displacement
+- structure break
+
+to evaluate whether follow-through strength exists.
+
+--------------------------------------------------
+
+Strong follow-through behavior may include:
+
+- continuation candles
+- strong closes
+- expanding momentum
+- increasing participation
+- limited rejection wicks
+- successful retests
+
+Weak follow-through behavior may include:
+
+- immediate reversal
+- failed breakout
+- shrinking momentum
+- large rejection wicks
+- inability to hold key levels
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. The market must prove directional commitment after liquidity interaction.
+
+2. Failed follow-through increases trap probability.
+
+3. Strong follow-through improves continuation probability.
+
+4. Confirmation quality is more important than speed of entry.
+
+--------------------------------------------------
 
 continuation after sweep
 strong move in macro direction
