@@ -331,6 +331,176 @@ IMPORTANT RULES
 - crowding analysis
 
 --------------------------------------------------
+
+COT POSITIONING & INSTITUTIONAL FLOW ENGINE
+
+The Commitment of Traders (COT) report provides insight into institutional futures positioning.
+
+Purpose:
+track how large institutions are positioned across major macro assets.
+
+The system should analyze:
+
+- Non-commercial positioning
+- Commercial hedging behavior
+- Long positioning
+- Short positioning
+- Weekly positioning changes
+- Net positioning extremes
+- Positioning acceleration/deceleration
+
+--------------------------------------------------
+
+A. NON-COMMERCIAL POSITIONING ANALYSIS
+
+Focus primarily on:
+
+NON-COMMERCIAL traders
+
+because they represent:
+
+- hedge funds
+- large speculators
+- institutional directional positioning
+
+Analyze:
+
+- net longs
+- net shorts
+- positioning shifts
+- trend persistence
+- extreme positioning
+
+--------------------------------------------------
+
+B. COMMERCIAL POSITIONING ANALYSIS
+
+Commercial positioning may reflect:
+
+- hedging behavior
+- real economy protection
+- corporate exposure management
+
+Commercial flows may sometimes signal:
+
+- long-term reversals
+- value zones
+- defensive positioning
+
+Commercial positioning should NOT be treated as short-term timing signals.
+
+--------------------------------------------------
+
+C. WEEKLY POSITIONING CHANGE ANALYSIS
+
+Evaluate weekly changes in positioning.
+
+Examples:
+
+- increasing longs
+- increasing shorts
+- short covering
+- long liquidation
+- positioning rotation
+
+Interpret whether institutions are:
+
+- increasing conviction
+- reducing exposure
+- rotating direction
+- unwinding crowded trades
+
+--------------------------------------------------
+
+D. POSITIONING EXTREME ANALYSIS
+
+Identify crowded positioning environments.
+
+Extreme positioning may increase probability of:
+
+- violent reversals
+- short squeezes
+- liquidation cascades
+- trend exhaustion
+- positioning resets
+
+Crowded positioning alone does NOT guarantee reversal.
+
+--------------------------------------------------
+
+E. COT TREND ALIGNMENT
+
+Use COT data as:
+
+- directional confirmation
+- macro positioning context
+- institutional participation evidence
+
+Do NOT use COT data alone for trade execution timing.
+
+Execution timing must still depend on:
+
+- structure
+- liquidity
+- momentum
+- volatility
+- session behavior
+- confirmation
+
+--------------------------------------------------
+
+F. COT TIME DELAY LIMITATION
+
+COT data contains reporting delay.
+
+The report reflects institutional positioning from earlier in the week.
+
+Therefore:
+
+- COT is best used for macro bias
+- medium-term positioning
+- structural positioning analysis
+
+NOT ultra-short-term execution timing.
+
+--------------------------------------------------
+
+G. ASSET CLASSES TO MONITOR
+
+Monitor COT positioning for:
+
+- USD
+- JPY
+- EUR
+- GBP
+- Gold
+- Silver
+- Oil
+- Nasdaq
+- S&P 500
+- Bonds
+- Major commodities
+- Crypto futures if available
+
+--------------------------------------------------
+
+IMPORTANT PRINCIPLES
+
+1. COT is a positioning framework, not a standalone signal.
+
+2. Institutions can remain heavily positioned for long periods.
+
+3. Extreme positioning may persist during strong trends.
+
+4. Positioning changes often matter more than absolute positioning.
+
+5. COT must be combined with:
+- macro regime
+- liquidity
+- volatility
+- intermarket confirmation
+- market structure
+- event risk
 --------------------------------------------------
 
 STEP 11A — GLOBAL TRADE CROWDING DETECTOR

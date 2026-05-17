@@ -1497,3 +1497,349 @@ systemic fragility
 This becomes:
 
 your hedge-fund-grade intelligence layer.
+## 1. CLEARING / SETTLEMENT
+
+### Core Data To Watch
+
+| Data                            | Meaning                        | Frequency |
+| ------------------------------- | ------------------------------ | --------- |
+| Settlement Fails (DTCC)         | Hidden market/liquidity stress | Daily     |
+| Treasury Trading Volume (FINRA) | Activity in core bond market   | Daily     |
+| VIX Fear Index                  | Market stress/fear level       | Real-time |
+
+### Core Interpretation
+
+* Rising settlement fails = possible liquidity/collateral stress.
+* Exploding Treasury volume during panic = risk/fear repositioning.
+* High VIX = financial stress increasing.
+
+---
+
+## 2. ASSET MANAGERS
+
+Main players:
+
+* BlackRock
+* Vanguard
+* State Street Global Advisors
+
+### Core Data To Watch
+
+| Data                                | Meaning                                  | Frequency         |
+| ----------------------------------- | ---------------------------------------- | ----------------- |
+| ETF Flows                           | Where institutional money moves          | Daily             |
+| Portfolio/Risk Outlooks             | Institutional positioning                | Monthly/Quarterly |
+| Tokenization/Blockchain Initiatives | Institutional crypto adoption            | Event-driven      |
+| Assets Under Management (AUM)       | Growth or contraction of managed capital | Quarterly         |
+
+### Core Interpretation
+
+* Strong ETF inflows = institutions increasing exposure.
+* Defensive positioning = risk-off environment.
+* Tokenization initiatives = traditional finance integrating blockchain.
+
+---
+
+## 3. PAYMENT RAILS
+
+Main systems:
+
+* SWIFT
+* Visa
+* Mastercard
+* Stablecoin rails
+
+### Core Data To Watch
+
+| Data                     | Meaning                          | Frequency |
+| ------------------------ | -------------------------------- | --------- |
+| SWIFT Currency Share     | Global currency dominance trends | Monthly   |
+| Visa Cross-Border Volume | Global spending/trade activity   | Quarterly |
+| Payment Volume           | Consumer/economic activity       | Quarterly |
+| Stablecoin Market Cap    | Crypto payment liquidity growth  | Daily     |
+
+### Core Interpretation
+
+* Rising cross-border payments = strong global activity/liquidity.
+* Rising stablecoin supply = expanding crypto liquidity.
+* Falling payment activity = slowing economy/liquidity.
+
+---
+
+## 4. LEGAL FRAMEWORK
+
+Main regulators:
+
+* U.S. Securities and Exchange Commission
+* Commodity Futures Trading Commission
+* Congress / lawmakers
+
+### Core Data To Watch
+
+| Data                         | Meaning                                | Frequency    |
+| ---------------------------- | -------------------------------------- | ------------ |
+| SEC Enforcement Actions      | Regulatory pressure direction          | Real-time    |
+| Crypto/Stablecoin Bills      | Future financial system rules          | Event-driven |
+| ETF Approvals                | Institutional acceptance of new assets | Event-driven |
+| Regulatory Speeches/Guidance | Policy direction                       | Frequent     |
+
+### Core Interpretation
+
+* Softer regulation = liquidity/confidence may increase.
+* Aggressive enforcement = liquidity/risk appetite may weaken.
+* Stablecoin laws = integration of crypto into financial system.
+* ETF approvals = growing institutional legitimacy.
+## 5. INSURANCE / RISK TRANSFER
+
+Main players:
+
+* Lloyd's of London
+* Reinsurers
+* CDS markets
+
+### Core Data To Watch
+
+| Data                              | Meaning                            | Frequency    |
+| --------------------------------- | ---------------------------------- | ------------ |
+| Credit Default Swap (CDS) spreads | Default/failure fear               | Daily        |
+| Insurance loss reports            | Financial stress/disaster exposure | Quarterly    |
+| Reinsurance pricing               | Systemic/global risk pricing       | Quarterly    |
+| Catastrophe losses                | Economic shock impact              | Event-driven |
+
+### Core Interpretation
+
+* Rising CDS spreads = rising fear/default risk.
+* Expensive reinsurance = growing systemic/global instability.
+* Large catastrophe losses = economic/liquidity pressure.
+
+---
+
+## 6. MARKET MAKERS / BROKERS
+
+Main players:
+
+* Citadel Securities
+* Virtu Financial
+
+### Core Data To Watch
+
+| Data                    | Meaning                   | Frequency |
+| ----------------------- | ------------------------- | --------- |
+| Bid-ask spreads         | Market liquidity quality  | Real-time |
+| Trading volume          | Market activity intensity | Real-time |
+| Market depth/order book | Liquidity availability    | Real-time |
+| Retail trading activity | Speculation/risk appetite | Daily     |
+
+### Core Interpretation
+
+* Tight spreads = healthy liquidity.
+* Wide spreads = liquidity stress/fear.
+* Thin order books = fragile market conditions.
+
+---
+
+## 7. CREDIT RATING AGENCIES
+
+Main players:
+
+* Moody's
+* S&P Global Ratings
+* Fitch Ratings
+
+### Core Data To Watch
+
+| Data                          | Meaning                    | Frequency         |
+| ----------------------------- | -------------------------- | ----------------- |
+| Sovereign credit ratings      | Country financial health   | Event-driven      |
+| Corporate downgrades/upgrades | Corporate financial stress | Frequent          |
+| Outlook changes               | Future risk direction      | Event-driven      |
+| Default reports               | Credit system weakness     | Monthly/Quarterly |
+
+### Core Interpretation
+
+* Downgrades = rising financial stress.
+* Negative outlooks = future instability concerns.
+* Rising defaults = tightening credit/liquidity.
+
+---
+
+## 8. AUDITORS / ACCOUNTING
+
+Main players:
+
+* Deloitte
+* PwC
+* EY
+* KPMG
+
+### Core Data To Watch
+
+| Data                   | Meaning                      | Frequency    |
+| ---------------------- | ---------------------------- | ------------ |
+| Earnings restatements  | Financial reporting problems | Event-driven |
+| Audit warnings         | Hidden financial stress      | Event-driven |
+| Going concern warnings | Bankruptcy/distress risk     | Quarterly    |
+| Accounting scandals    | Trust/systemic weakness      | Event-driven |
+
+### Core Interpretation
+
+* Rising audit warnings = hidden instability.
+* Going concern warnings = liquidity/survival problems.
+* Accounting scandals = trust breakdown.
+
+---
+
+## 9. FINANCIAL DATA / INDEX PROVIDERS
+
+Main players:
+
+* Bloomberg
+* MSCI
+* S&P Dow Jones Indices
+
+### Core Data To Watch
+
+| Data                         | Meaning                     | Frequency    |
+| ---------------------------- | --------------------------- | ------------ |
+| Index rebalancing            | Capital movement shifts     | Quarterly    |
+| Market indexes               | Market direction            | Real-time    |
+| Financial conditions indexes | Liquidity/stress conditions | Daily/Weekly |
+| Economic calendars           | Macro event timing          | Daily        |
+
+### Core Interpretation
+
+* Index changes = institutional capital reallocation.
+* Tightening financial conditions = liquidity contraction.
+* Weak indexes = weakening risk appetite.
+
+---
+
+## 10. SHADOW BANKING
+
+Main areas:
+
+* Repo markets
+* Hedge funds
+* Eurodollar system
+* Private credit
+
+### Core Data To Watch
+
+| Data                  | Meaning                     | Frequency    |
+| --------------------- | --------------------------- | ------------ |
+| Repo rates            | Short-term liquidity stress | Daily        |
+| Hedge fund leverage   | Risk-taking intensity       | Quarterly    |
+| Private credit growth | Hidden credit expansion     | Quarterly    |
+| Dollar funding stress | Global liquidity pressure   | Daily/Weekly |
+
+### Core Interpretation
+
+* Rising repo stress = liquidity problems.
+* High leverage = fragile system conditions.
+* Dollar funding stress = global financial tightening.
+
+---
+
+## 11. MONEY CREATION
+
+Main players:
+
+* Federal Reserve
+* Commercial banks
+
+### Core Data To Watch
+
+| Data                       | Meaning                         | Frequency              |
+| -------------------------- | ------------------------------- | ---------------------- |
+| Money supply (M2)          | Liquidity expansion/contraction | Weekly/Monthly         |
+| Bank lending growth        | Credit creation strength        | Monthly                |
+| Central bank balance sheet | Liquidity injections/removals   | Weekly                 |
+| Interest rates             | Cost of money/credit            | Real-time/Event-driven |
+
+### Core Interpretation
+
+* Expanding money supply = liquidity expansion.
+* Falling lending growth = tightening economy.
+* Rising rates = liquidity tightening.
+* Balance sheet expansion = monetary support/liquidity injection.
+## 12. GOVERNMENT DEBT
+
+Main players:
+
+* Governments
+* Treasury departments
+* Sovereign bond markets
+* Central banks
+
+### Core Data To Watch
+
+| Data                    | Meaning                        | Frequency           |
+| ----------------------- | ------------------------------ | ------------------- |
+| 10-Year Treasury Yield  | Long-term interest rate/stress | Real-time           |
+| Yield Curve (2Y vs 10Y) | Growth/recession expectations  | Daily               |
+| Government Debt-to-GDP  | Sovereign debt burden          | Quarterly           |
+| Budget Deficit          | Government spending pressure   | Monthly/Quarterly   |
+| Treasury Auctions       | Demand for government debt     | Weekly/Event-driven |
+
+### Core Interpretation
+
+* Rising yields = higher borrowing stress/inflation fears.
+* Yield curve inversion = recession warning.
+* Weak Treasury auction demand = weakening trust/demand.
+* Expanding deficits = increasing debt dependence/liquidity injection.
+
+---
+
+## 13. CRYPTO / TOKENIZATION
+
+Main players:
+
+* Coinbase
+* Stablecoin issuers
+* DeFi protocols
+* Tokenization platforms
+
+### Core Data To Watch
+
+| Data                      | Meaning                           | Frequency |
+| ------------------------- | --------------------------------- | --------- |
+| Stablecoin Market Cap     | Crypto liquidity growth           | Daily     |
+| Bitcoin Price/Volume      | Risk appetite/crypto direction    | Real-time |
+| Exchange Inflows/Outflows | Buying/selling pressure           | Daily     |
+| Total Value Locked (TVL)  | DeFi liquidity strength           | Daily     |
+| Tokenized Asset Value     | Institutional blockchain adoption | Monthly   |
+
+### Core Interpretation
+
+* Rising stablecoin supply = expanding crypto liquidity.
+* Rising TVL = growing on-chain financial activity.
+* Large exchange inflows = potential selling pressure.
+* Tokenized asset growth = traditional finance integrating blockchain.
+
+---
+
+## 14. GLOBAL CAPITAL FLOWS
+
+Main players:
+
+* Sovereign wealth funds
+* Global banks
+* Asset managers
+* International investors
+
+### Core Data To Watch
+
+| Data                       | Meaning                            | Frequency |
+| -------------------------- | ---------------------------------- | --------- |
+| Dollar Index (DXY)         | Global dollar strength/stress      | Real-time |
+| Foreign Exchange Reserves  | Country financial strength         | Monthly   |
+| Emerging Market Fund Flows | Global risk appetite               | Weekly    |
+| Balance of Payments        | Capital entering/leaving countries | Quarterly |
+| Foreign Treasury Holdings  | International trust in US debt     | Monthly   |
+
+### Core Interpretation
+
+* Strong DXY = tighter global liquidity/stress.
+* Capital flowing into emerging markets = risk-on environment.
+* Falling FX reserves = currency/economic pressure.
+* Foreign selling of Treasuries = weakening sovereign confidence.
