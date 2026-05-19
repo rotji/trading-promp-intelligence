@@ -143,6 +143,48 @@ capital accumulation regions
 capital exit regions
 
 Explain the dominant global capital flow narrative.
+--------------------------------------------------
+
+RISK-ON / RISK-OFF CLASSIFICATION
+
+Determine whether global markets are currently operating under:
+
+RISK-ON CONDITIONS
+or
+RISK-OFF CONDITIONS.
+
+Risk-On characteristics may include:
+- equity strength
+- crypto strength
+- commodity strength
+- capital rotation into growth assets
+- declining demand for safe havens
+- improving economic confidence
+
+Risk-Off characteristics may include:
+- gold strength
+- JPY strength
+- CHF strength
+- Treasury buying
+- equity weakness
+- volatility expansion
+- defensive capital positioning
+
+The system should identify:
+
+- whether investors are seeking growth exposure
+or
+- seeking capital preservation.
+
+Analyze how changes in:
+- tariffs
+- wars
+- sanctions
+- geopolitical negotiations
+- central bank policy
+- recession fears
+
+may shift global risk sentiment.
 
 Examples may include:
 
@@ -172,7 +214,37 @@ Explain:
 what triggered the shock
 which assets are most exposed
 whether the shock is temporary or structural
+--------------------------------------------------
 
+WEEKEND GAP RISK ANALYSIS
+
+The system should evaluate whether major macroeconomic or geopolitical developments occurring during market closure periods
+(Saturday/Sunday)
+may create aggressive gap openings when markets reopen.
+
+Examples include:
+- tariff negotiations
+- wars
+- sanctions
+- emergency policy actions
+- geopolitical escalation
+- diplomatic breakthroughs
+- commodity shocks
+- banking crisis developments
+
+The system should evaluate:
+
+- probability of market repricing
+- volatility expansion risk
+- spread widening risk
+- execution instability risk
+- liquidity vacuum risk
+
+High weekend uncertainty environments require:
+- defensive positioning
+- reduced leverage
+- careful execution timing
+- delayed entries until volatility stabilizes.
 --------------------------------------------------
 
 STEP 4 — GLOBAL EVENT PROBABILITY ENGINE
