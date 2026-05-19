@@ -158,6 +158,24 @@ High correlation environments require:
 - reduced exposure
 - defensive sizing
 - tighter portfolio controls
+
+DOUBLE ENTRY EXECUTION RULE
+
+Multiple entries on the same instrument are only allowed if:
+
+- entries represent different execution structures
+- entries represent different probabilistic pathways
+- total combined risk remains within maximum trade risk
+- macro conditions remain aligned
+- volatility conditions remain acceptable
+
+Examples of approved dual-entry structures:
+
+- pullback entry + breakout confirmation
+- short-term TP + runner position
+- higher timeframe entry + lower timeframe continuation
+
+Duplicate entries with identical structure, timing, and directional exposure should be avoided because they create correlated execution risk.
 --------------------------------------------------
 
 STEP 30 — TRADE MANAGEMENT PLAN
