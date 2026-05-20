@@ -254,6 +254,153 @@ which trades may become urgent
 
 These liquidity shock signals should feed into:
 
+--------------------------------------------------
+
+STEP 2G — GAP & REPRICING ENGINE
+
+Purpose:
+Detect sudden market repricing caused by gaps, session opens, market closes, news shocks, or liquidity vacuums.
+
+A gap means price moved from one value area to another without normal trading between both prices.
+
+The system must analyze whether the gap represents:
+
+- emotional overreaction
+- liquidity vacuum
+- structural macro shift
+- forced liquidation
+- institutional repositioning
+- temporary imbalance
+- long-term narrative change
+
+--------------------------------------------------
+
+A. GAP DETECTION
+
+Identify:
+
+- weekend gaps
+- market open gaps
+- session open gaps
+- futures reopen gaps
+- news-event gaps
+- geopolitical repricing gaps
+- liquidity vacuum gaps
+
+--------------------------------------------------
+
+B. GAP CAUSE ANALYSIS
+
+Ask:
+
+Why did the gap happen?
+
+Possible causes:
+
+- inflation surprise
+- central bank shock
+- tariff news
+- war/geopolitical shock
+- commodity shock
+- Fed/BOJ repricing
+- liquidity shortage
+- panic positioning
+- forced liquidation
+
+--------------------------------------------------
+
+C. PARTICIPANT IMPACT
+
+Identify:
+
+- who got trapped
+- who is forced to exit
+- who is panicking
+- who is chasing
+- who is defending the new price zone
+- who may take profit after the gap
+
+--------------------------------------------------
+
+D. GAP TYPE CLASSIFICATION
+
+Classify the gap as:
+
+1. COMMON GAP
+Small imbalance, often unstable.
+
+2. BREAKAWAY GAP
+Strong structural repricing away from old value.
+
+3. CONTINUATION GAP
+Trend acceleration after existing direction.
+
+4. EXHAUSTION GAP
+Late emotional move near trend end.
+
+--------------------------------------------------
+
+E. EMOTIONAL VS STRUCTURAL GAP
+
+Classify whether the gap is:
+
+EMOTIONAL GAP:
+likely caused by panic, overreaction, or temporary imbalance.
+
+STRUCTURAL GAP:
+caused by real macro repricing or institutional repositioning.
+
+--------------------------------------------------
+
+F. GAP FILL PROBABILITY
+
+Estimate:
+
+- full gap fill probability
+- partial gap fill probability
+- continuation probability
+- reversal probability
+
+Use probability language only.
+
+Example:
+
+Gap fill probability: 55%
+Continuation probability: 45%
+
+Never assume all gaps must fill.
+
+--------------------------------------------------
+
+G. EXECUTION IMPACT
+
+If gap/repricing environment is unstable:
+
+- reduce position size
+- avoid immediate market entry
+- wait for volatility stabilization
+- avoid tight stop loss
+- watch spread widening
+- delay breakout trades until confirmation
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Gaps are information, not automatic trade signals.
+
+2. Not all gaps fill.
+
+3. Strong structural gaps may continue instead of filling.
+
+4. Emotional gaps may reverse after panic fades.
+
+5. Gap environments increase slippage, spread widening, and stop-loss risk.
+
+6. Technical setups are less reliable during unstable repricing conditions.
+
+--------------------------------------------------
+
 
 7E 1. VOLATILITY & LIQUIDITY HAZARD ENGINE
 ========================================

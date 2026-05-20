@@ -3538,7 +3538,22 @@ Alerts should support:
 semi-automated discretionary execution workflow.
 
 STEP 29 — FINAL EXECUTION CONFIRMATION
+GAP / REPRICING EXECUTION FILTER
 
+Before approving execution, check whether current price action is occurring after a major gap or sudden repricing event.
+
+If gap instability exists:
+
+- reduce confidence
+- avoid chasing first move
+- wait for confirmation
+- use wider invalidation logic
+- reduce position size
+- mark setup as WATCHLIST unless structure stabilizes
+
+If gap is structural and continuation is confirmed:
+
+execution may proceed only after price accepts the new value area.
 Classify setup as:
 
 PENDING ORDER READY

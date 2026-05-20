@@ -165,6 +165,11 @@ moved stop loss emotionally
 closed winner too early
 ignored session timing
 ignored news risk
+ignored gap/repricing risk
+misread emotional gap as structural gap
+misread structural gap as temporary overreaction
+entered too early after unstable market open
+used tight stop during gap volatility
 ignored module warning
 Additional behavioral mistakes:
 
