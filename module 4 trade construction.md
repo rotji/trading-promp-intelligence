@@ -136,7 +136,397 @@ Do NOT assume one outcome only.
 
 Every trade must be evaluated through multiple possible paths.
 
+--------------------------------------------------
 
+STEP 13D — PROBABILITY SCENARIO ENGINE
+
+Purpose:
+Convert market analysis into probability-weighted scenarios instead of certainty-based predictions.
+
+The system must never treat any trade idea as guaranteed.
+
+Every opportunity must be expressed as competing probabilities.
+
+--------------------------------------------------
+
+A. SCENARIO IDENTIFICATION
+
+For each opportunity, identify at least three possible scenarios:
+
+1. Bullish continuation
+2. Bearish reversal
+3. Sideways / consolidation
+
+For each scenario explain:
+
+- what must happen
+- what would confirm it
+- what would weaken it
+- what macro or technical condition supports it
+
+--------------------------------------------------
+
+B. PROBABILITY ASSIGNMENT
+
+Assign estimated probability to each scenario.
+
+Example:
+
+Bullish continuation: 60%
+Bearish reversal: 25%
+Sideways consolidation: 15%
+
+Probabilities must total 100%.
+
+--------------------------------------------------
+
+C. CONFIDENCE LEVEL
+
+Classify confidence as:
+
+LOW CONFIDENCE
+MEDIUM CONFIDENCE
+HIGH CONFIDENCE
+
+Confidence depends on:
+
+- macro alignment
+- liquidity alignment
+- positioning confirmation
+- volatility condition
+- execution clarity
+- data reliability
+
+--------------------------------------------------
+
+D. PROBABILITY CHANGE RULE
+
+Probabilities must update when new information appears.
+
+Examples:
+
+If breakout fails:
+- reduce continuation probability
+- increase reversal probability
+
+If volume expands with trend:
+- increase continuation probability
+
+If macro data contradicts setup:
+- reduce confidence
+
+If liquidity sweep occurs:
+- reassess trap/reversal probability
+
+--------------------------------------------------
+
+E. CERTAINTY LANGUAGE FILTER
+
+The system must avoid certainty language such as:
+
+- will happen
+- must happen
+- guaranteed
+- definitely
+- surely
+
+Replace with probability language:
+
+- may happen
+- probability favors
+- conditions support
+- likelihood increases
+- risk remains
+
+--------------------------------------------------
+
+F. TRADE APPROVAL RULE
+
+Only approve trades where:
+
+- one scenario has meaningfully higher probability than alternatives
+- risk/reward is acceptable
+- invalidation is clear
+- execution conditions are stable
+
+If probabilities are too balanced:
+
+classify as WATCHLIST or AVOID.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Markets are probability systems, not certainty systems.
+
+2. A high-probability trade can still lose.
+
+3. A low-quality trade can still win.
+
+4. The system must judge process quality, not only outcome.
+
+5. Probability must update dynamically as market behavior changes.
+
+
+--------------------------------------------------
+
+STEP 13E — ASYMMETRIC OPPORTUNITY ENGINE
+
+Purpose:
+Identify opportunities where potential reward significantly outweighs potential risk.
+
+Not all opportunities have equal payoff structures.
+
+Some trades may offer small downside with disproportionately large upside potential.
+
+The system must prioritize asymmetric opportunities.
+
+--------------------------------------------------
+
+A. ASYMMETRIC STRUCTURE ANALYSIS
+
+Evaluate:
+
+- potential upside magnitude
+- downside risk magnitude
+- convex payoff potential
+- non-linear opportunity structure
+- tail-risk reward potential
+- risk containment quality
+
+--------------------------------------------------
+
+B. PAYOFF IMBALANCE DETECTION
+
+Determine whether opportunity structure is:
+
+- highly asymmetric
+- moderately asymmetric
+- balanced
+- negatively asymmetric
+
+Examples:
+
+Highly asymmetric:
+small controlled loss potential with very large upside possibility.
+
+Negatively asymmetric:
+large downside risk with limited upside reward.
+
+--------------------------------------------------
+
+C. CONVEXITY ANALYSIS
+
+Analyze whether opportunity benefits from:
+
+- volatility expansion
+- panic repricing
+- narrative acceleration
+- squeeze behavior
+- liquidity shock
+- macro regime change
+- trend acceleration
+
+--------------------------------------------------
+
+D. RISK-REWARD QUALITY ANALYSIS
+
+Evaluate:
+
+- reward-to-risk quality
+- invalidation clarity
+- probability-adjusted payoff
+- capital efficiency
+- downside containment
+
+--------------------------------------------------
+
+E. ASYMMETRIC PROBABILITY ENGINE
+
+Estimate probability that asymmetric structure may lead to:
+
+- outsized gains
+- controlled losses
+- trend acceleration
+- convex payoff behavior
+- non-linear opportunity expansion
+
+Use probability language only.
+
+--------------------------------------------------
+
+F. OPPORTUNITY PRIORITIZATION RULE
+
+Prioritize opportunities where:
+
+- downside is clearly limited
+- upside remains structurally open
+- macro alignment supports continuation
+- execution quality is acceptable
+- liquidity conditions support movement
+
+--------------------------------------------------
+
+G. EXECUTION IMPLICATIONS
+
+If opportunity is highly asymmetric:
+
+- conviction may improve
+- strategic patience may be justified
+- smaller risk allocation may still produce strong payoff potential
+
+If asymmetry is weak:
+
+- avoid oversized conviction
+- reduce opportunity priority
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Large upside with controlled downside creates asymmetric advantage.
+
+2. High-probability trades are not always the best asymmetric opportunities.
+
+3. Convex opportunities may emerge during volatility expansion.
+
+4. Strong asymmetry improves long-term expectancy.
+
+5. Asymmetric thinking is critical for advanced macro speculation.
+
+6. Protecting downside is as important as maximizing upside.
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP 13F — MARKET COORDINATION & SYNCHRONIZATION ENGINE
+
+Purpose:
+Analyze whether multiple market forces, narratives, liquidity conditions, positioning structures, macro trends, and cross-asset behaviors are synchronizing in the same directional or structural manner.
+
+Highly synchronized conditions often create stronger and more durable market movement.
+
+--------------------------------------------------
+
+A. SYNCHRONIZATION DETECTION
+
+Analyze alignment between:
+
+- macro conditions
+- liquidity conditions
+- positioning behavior
+- cross-asset correlations
+- volatility behavior
+- narrative direction
+- institutional participation
+- momentum structure
+- participation quality
+- capital flows
+
+--------------------------------------------------
+
+B. MULTI-FACTOR ALIGNMENT ANALYSIS
+
+Determine whether current conditions show:
+
+- broad bullish alignment
+- broad bearish alignment
+- defensive synchronization
+- panic synchronization
+- liquidity-driven alignment
+- narrative-driven alignment
+- fragmented alignment
+- conflicting structures
+
+--------------------------------------------------
+
+C. CROSS-ASSET SYNCHRONIZATION ANALYSIS
+
+Evaluate whether multiple asset classes are confirming each other such as:
+
+- equities + crypto strengthening together
+- USD + yields strengthening together
+- defensive assets rallying together
+- commodities + inflation expectations aligning
+- volatility + defensive positioning aligning
+
+--------------------------------------------------
+
+D. SYNCHRONIZATION STABILITY CLASSIFICATION
+
+Classify synchronization as:
+
+WEAK ALIGNMENT
+MODERATE ALIGNMENT
+STRONG SYNCHRONIZATION
+EXTREME SYNCHRONIZATION
+
+Extreme synchronization may create instability or exhaustion risk later.
+
+--------------------------------------------------
+
+E. DIVERGENCE DETECTION
+
+Identify whether important components are diverging such as:
+
+- weak breadth
+- weak participation quality
+- conflicting cross-asset signals
+- unstable liquidity confirmation
+- weakening momentum confirmation
+- narrative disagreement
+
+--------------------------------------------------
+
+F. SYNCHRONIZATION PROBABILITY ENGINE
+
+Estimate probability that synchronized conditions may lead to:
+
+- trend continuation
+- momentum acceleration
+- volatility expansion
+- squeeze behavior
+- panic cascade
+- exhaustion
+- systemic repricing
+- durable macro continuation
+
+Use probability language only.
+
+--------------------------------------------------
+
+G. EXECUTION IMPLICATIONS
+
+If synchronization is strong:
+
+- continuation reliability may improve
+- conviction quality may improve
+- trend persistence probability may improve
+
+If synchronization weakens or fragments:
+
+- instability risk increases
+- false breakout risk increases
+- reversal probability increases
+- reduce oversized conviction
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Strong trends often require synchronized market forces.
+
+2. Multi-factor alignment improves structural reliability.
+
+3. Fragmented conditions increase instability and uncertainty.
+
+4. Cross-asset confirmation strengthens conviction quality.
+
+5. Extreme synchronization may later create overcrowding risk.
+
+6. Divergence between key systems weakens structural reliability.
+
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 14 — GLOBAL OPPORTUNITY RANKING ENGINE

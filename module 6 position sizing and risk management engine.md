@@ -75,6 +75,138 @@ Position size = adjusted so 50 pips loss = $100.
 Return suggested lot size or contract size.
 
 --------------------------------------------------
+--------------------------------------------------
+
+STEP 26A — MARKET OPTIONALITY & FLEXIBILITY ENGINE
+
+Purpose:
+Analyze whether positioning, exposure, leverage, execution decisions, and portfolio structure preserve strategic flexibility and future optionality under uncertain market conditions.
+
+Markets are probabilistic systems.
+
+Overcommitment reduces adaptability and increases fragility.
+
+--------------------------------------------------
+
+A. OPTIONALITY ANALYSIS
+
+Evaluate whether current positioning preserves:
+
+- flexibility
+- adaptability
+- defensive maneuverability
+- future opportunity access
+- liquidity availability
+- risk control capacity
+- repositioning ability
+
+--------------------------------------------------
+
+B. OVERCOMMITMENT DETECTION
+
+Detect whether exposure appears:
+
+- excessively concentrated
+- emotionally overcommitted
+- leverage dependent
+- inflexible
+- overly directional
+- vulnerable to narrative reversal
+- vulnerable to liquidity instability
+
+--------------------------------------------------
+
+C. FLEXIBILITY STRUCTURE ANALYSIS
+
+Determine whether trader/system behavior reflects:
+
+- adaptive thinking
+- rigid assumptions
+- probabilistic flexibility
+- defensive preparation
+- strategic patience
+- emotional attachment to narratives
+- excessive certainty bias
+
+--------------------------------------------------
+
+D. OPTIONALITY STABILITY CLASSIFICATION
+
+Classify positioning flexibility as:
+
+HIGH FLEXIBILITY
+MODERATE FLEXIBILITY
+LIMITED FLEXIBILITY
+RIGID POSITIONING
+DANGEROUS OVERCOMMITMENT
+
+Dangerous overcommitment increases fragility risk.
+
+--------------------------------------------------
+
+E. SURVIVAL & ADAPTABILITY ANALYSIS
+
+Evaluate whether the system can:
+
+- survive volatility expansion
+- adapt to regime change
+- rotate narratives
+- reposition efficiently
+- absorb execution failure
+- withstand uncertainty
+- preserve future capital deployment
+
+--------------------------------------------------
+
+F. OPTIONALITY PROBABILITY ENGINE
+
+Estimate probability that optionality conditions may lead to:
+
+- long-term survivability
+- defensive stability
+- adaptive repositioning
+- emotional overcommitment risk
+- leverage instability
+- execution fragility
+- asymmetric opportunity preservation
+
+Use probability language only.
+
+--------------------------------------------------
+
+G. EXECUTION IMPLICATIONS
+
+If optionality is strong:
+
+- survivability improves
+- adaptability improves
+- emotional stability improves
+- strategic patience improves
+
+If positioning becomes rigid or overcommitted:
+
+- fragility risk increases
+- emotional decision risk increases
+- leverage instability risk increases
+- execution flexibility decreases
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Flexibility is a major survival advantage in probabilistic systems.
+
+2. Overcommitment reduces adaptability.
+
+3. Preserving future optionality improves long-term expectancy.
+
+4. Emotional attachment increases rigidity risk.
+
+5. Strategic patience often creates asymmetric advantage.
+
+6. Survival and adaptability matter more than short-term certainty.
+
+--------------------------------------------------
 
 STEP 27 — CONVICTION-BASED POSITION ADJUSTMENT
 

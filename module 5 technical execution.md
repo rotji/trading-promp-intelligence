@@ -3554,6 +3554,74 @@ If gap instability exists:
 If gap is structural and continuation is confirmed:
 
 execution may proceed only after price accepts the new value area.
+
+--------------------------------------------------
+
+EXECUTION ENVIRONMENT FILTER
+
+Before approving execution, confirm that the trade environment is actually executable.
+
+A good chart setup is not enough.
+
+The system must check:
+
+- broker quote stability
+- off-quote errors
+- spread widening
+- slippage risk
+- market hours
+- session liquidity
+- symbol availability
+- server/platform stability
+- order execution reliability
+
+--------------------------------------------------
+
+A. EXECUTION CONDITIONS
+
+Classify current execution environment as:
+
+STABLE
+UNSTABLE
+NON-EXECUTABLE
+
+STABLE:
+quotes are updating normally, spreads are acceptable, orders can execute.
+
+UNSTABLE:
+quotes are delayed, spreads are widening, candles are not loading properly, or execution errors appear.
+
+NON-EXECUTABLE:
+orders repeatedly fail, off-quotes appear, or broker feed is unavailable.
+
+--------------------------------------------------
+
+B. EXECUTION RULES
+
+If environment is STABLE:
+execution may proceed if trade setup is valid.
+
+If environment is UNSTABLE:
+reduce confidence, reduce size, avoid market chasing, and prefer waiting.
+
+If environment is NON-EXECUTABLE:
+do NOT force the trade.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Visible price does not always mean executable price.
+
+2. Good analysis can fail if execution infrastructure is poor.
+
+3. Avoid trading during unstable quote conditions.
+
+4. Avoid forcing trades during repeated off-quotes.
+
+5. Broker infrastructure, liquidity, spreads, slippage, and market hours must be treated as part of execution risk.
+
+--------------------------------------------------
 Classify setup as:
 
 PENDING ORDER READY
@@ -3584,6 +3652,136 @@ Do NOT chase strong candles.
 If price has already moved far away from the best entry zone:
 → use PENDING ORDER READY or AVOID, not market entry.
 
+--------------------------------------------------
+
+STEP 29A — EXECUTION QUALITY ENGINE
+
+Purpose:
+Evaluate the quality of trade execution conditions before approving market participation.
+
+Correct analysis alone is not sufficient.
+
+Poor execution quality may damage otherwise valid opportunities.
+
+--------------------------------------------------
+
+A. EXECUTION QUALITY ANALYSIS
+
+Evaluate:
+
+- entry timing quality
+- confirmation quality
+- spread stability
+- slippage risk
+- liquidity quality
+- session quality
+- volatility stability
+- quote reliability
+- execution clarity
+
+--------------------------------------------------
+
+B. ENTRY QUALITY CLASSIFICATION
+
+Classify entry as:
+
+OPTIMAL ENTRY
+ACCEPTABLE ENTRY
+LATE ENTRY
+CHASE ENTRY
+UNSTABLE ENTRY
+
+--------------------------------------------------
+
+C. EXECUTION RISK DETECTION
+
+Detect risks such as:
+
+- emotional chasing
+- entering after large candle expansion
+- entering directly into liquidity sweep
+- entering during spread widening
+- entering during unstable volatility
+- low liquidity execution
+- delayed confirmation
+- weak breakout acceptance
+- slippage vulnerability
+
+--------------------------------------------------
+
+D. CONFIRMATION QUALITY ANALYSIS
+
+Evaluate whether execution has:
+
+- macro confirmation
+- liquidity confirmation
+- positioning confirmation
+- volatility confirmation
+- session confirmation
+- structural confirmation
+
+Weak confirmation lowers execution quality.
+
+--------------------------------------------------
+
+E. EXECUTION PROBABILITY IMPACT
+
+Estimate probability that execution quality may affect:
+
+- stop-loss risk
+- slippage risk
+- breakout failure risk
+- reversal risk
+- continuation reliability
+
+Use probability language only.
+
+--------------------------------------------------
+
+F. EXECUTION QUALITY SCORE
+
+Assign execution quality score:
+
+90–100 = Exceptional execution quality
+75–89 = High-quality execution
+60–74 = Acceptable execution
+40–59 = Weak execution quality
+Below 40 = Avoid execution
+
+--------------------------------------------------
+
+G. EXECUTION IMPLICATIONS
+
+If execution quality is weak:
+
+- reduce confidence
+- reduce position size
+- avoid aggressive entry
+- prefer waiting for stabilization
+- avoid emotional market orders
+
+If execution quality is high:
+
+- execution confidence may improve
+- continuation probability may improve
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Good analysis can fail due to poor execution.
+
+2. Emotional entries reduce execution quality.
+
+3. Volatility instability increases execution risk.
+
+4. Execution quality changes across sessions and environments.
+
+5. Chasing strong candles increases probability of poor entry.
+
+6. Confirmation quality matters more than speed.
+
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 30 — FINAL TRADE DECISION

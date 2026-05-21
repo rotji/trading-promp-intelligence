@@ -209,6 +209,140 @@ The system must learn from past trades.
 
 --------------------------------------------------
 
+STEP 37A — ADAPTIVE PARTICIPANT EVOLUTION ENGINE
+
+Purpose:
+Analyze how market participants, liquidity behavior, volatility structures, narratives, execution quality, and market dynamics evolve over time.
+
+Markets are adaptive systems.
+
+Participants constantly learn, evolve, and change behavior.
+
+Strategies may weaken as market conditions evolve.
+
+--------------------------------------------------
+
+A. PARTICIPANT EVOLUTION ANALYSIS
+
+Analyze whether key participants are adapting such as:
+
+- institutions
+- hedge funds
+- central banks
+- retail traders
+- high-frequency systems
+- liquidity providers
+- passive funds
+- macro allocators
+
+--------------------------------------------------
+
+B. MARKET BEHAVIOR EVOLUTION DETECTION
+
+Detect changes such as:
+
+- evolving volatility behavior
+- changing liquidity patterns
+- shifting correlation structures
+- narrative evolution
+- changing session behavior
+- execution instability changes
+- evolving participation quality
+- changing momentum behavior
+
+--------------------------------------------------
+
+C. STRATEGY DECAY ANALYSIS
+
+Evaluate whether previously successful setups are:
+
+- improving
+- weakening
+- becoming overcrowded
+- becoming less reliable
+- becoming distorted
+- failing under new conditions
+
+--------------------------------------------------
+
+D. ADAPTIVE MARKET CLASSIFICATION
+
+Classify current market evolution as:
+
+STABLE EVOLUTION
+MODERATE EVOLUTION
+RAPID EVOLUTION
+STRUCTURAL TRANSFORMATION
+
+Structural transformation environments require major adaptation.
+
+--------------------------------------------------
+
+E. SYSTEM ADAPTATION ANALYSIS
+
+Determine whether the trading framework should adapt through:
+
+- tighter risk controls
+- different execution timing
+- reduced leverage
+- new confirmation requirements
+- reduced exposure to unstable environments
+- greater patience
+- reduced overtrading
+- more defensive positioning
+
+--------------------------------------------------
+
+F. EVOLUTION PROBABILITY ENGINE
+
+Estimate probability that market evolution may lead to:
+
+- setup degradation
+- strategy improvement
+- volatility regime change
+- liquidity structure change
+- participant behavior change
+- narrative transformation
+- execution instability
+
+Use probability language only.
+
+--------------------------------------------------
+
+G. EXECUTION IMPLICATIONS
+
+If market evolution is accelerating:
+
+- avoid rigid assumptions
+- reduce overconfidence
+- expect changing behavior patterns
+- update probability assumptions dynamically
+- prioritize adaptability
+
+If evolution stabilizes:
+
+- historical behavior reliability may improve
+- execution consistency may improve
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Markets are adaptive systems.
+
+2. Participants evolve continuously.
+
+3. Successful strategies may decay over time.
+
+4. Changing liquidity and volatility alter behavior patterns.
+
+5. Flexibility is critical for long-term survival.
+
+6. Static thinking becomes dangerous in evolving markets.
+
+--------------------------------------------------
+--------------------------------------------------
+
 STEP 38 — PERFORMANCE SCORECARD
 
 Return a performance summary:
