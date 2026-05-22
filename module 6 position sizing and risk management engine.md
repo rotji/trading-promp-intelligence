@@ -328,6 +328,132 @@ Take Profit 2: trail stop loss
 
 --------------------------------------------------
 
+STEP 30A — WINNER EXPANSION & TIMEFRAME SCALING ENGINE
+
+Purpose:
+Manage profitable trades so that small initial risk can potentially capture large non-random market moves.
+
+The system must not focus only on perfect entries.
+
+The system must also determine how to let rare strong winners expand while controlling downside risk.
+
+--------------------------------------------------
+
+A. INITIAL RISK PHASE
+
+Enter trade with predefined stop loss and controlled risk.
+
+If trade moves against the position:
+- accept small controlled loss
+- do not widen stop emotionally
+
+--------------------------------------------------
+
+B. BREAK-EVEN TRANSITION
+
+If price moves favorably by approximately 1R:
+
+- consider moving stop loss to break-even
+- reduce downside exposure
+- protect capital
+- avoid emotional interference
+
+--------------------------------------------------
+
+C. TIMEFRAME SCALING RULE
+
+If trade continues moving favorably:
+
+scale management from lower timeframe to higher timeframe.
+
+Example:
+
+M1 entry
+→ M5 management
+→ M15 management
+→ H1 management
+→ H4 management
+→ Daily management
+
+The stronger the trade becomes, the more room it should be given.
+
+--------------------------------------------------
+
+D. TRAILING STOP EXPANSION
+
+As timeframe increases, trailing distance may widen using:
+
+- ATR
+- swing structure
+- volatility range
+- higher timeframe invalidation
+- discretionary structure
+
+Do NOT use fixed tiny trailing stops on large winning trades.
+
+--------------------------------------------------
+
+E. BIG WINNER CAPTURE LOGIC
+
+The system should recognize that most trades may produce:
+
+- small losses
+- break-even outcomes
+- small wins
+
+But rare strong trades may produce large returns.
+
+The objective is to survive the small failures and stay available for the rare large winners.
+
+--------------------------------------------------
+
+F. PROFIT TARGET WARNING
+
+Fixed take-profit targets may close trades too early during rare strong trends.
+
+Use fixed TP only when:
+
+- trade is short-term
+- market is choppy
+- objective is fast execution
+- volatility is unstable
+- challenge/rule requirement demands simplicity
+
+For strong trending environments, trailing management may be superior.
+
+--------------------------------------------------
+
+G. PROBABILITY RULE
+
+Most trades will not become big winners.
+
+The system must accept this.
+
+Do not force every trade to become a large trend trade.
+
+Only scale up timeframe when market proves strength.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Entry is not the full edge.
+
+2. Trade management can create the edge.
+
+3. Small controlled losses are acceptable.
+
+4. Rare large winners must not be cut too early.
+
+5. Timeframe scaling allows winners to escape short-term noise.
+
+6. The system must protect downside while leaving upside open.
+
+7. Do not confuse random short-term noise with real trend continuation.
+
+--------------------------------------------------
+--------------------------------------------------
+
 STEP 31 — RISK SUMMARY OUTPUT
 
 Return final trading plan.
