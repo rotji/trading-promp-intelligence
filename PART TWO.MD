@@ -2762,3 +2762,1668 @@ not:
 ```text id="m3q7v9"
 short-term emotional excitement.
 ```
+we will also implement the following below
+## 1. CLEARING / SETTLEMENT
+
+### Core Data To Watch
+
+| Data                            | Meaning                        | Frequency |
+| ------------------------------- | ------------------------------ | --------- |
+| Settlement Fails (DTCC)         | Hidden market/liquidity stress | Daily     |
+| Treasury Trading Volume (FINRA) | Activity in core bond market   | Daily     |
+| VIX Fear Index                  | Market stress/fear level       | Real-time |
+
+### Core Interpretation
+
+* Rising settlement fails = possible liquidity/collateral stress.
+* Exploding Treasury volume during panic = risk/fear repositioning.
+* High VIX = financial stress increasing.
+
+---
+
+## 2. ASSET MANAGERS
+
+Main players:
+
+* BlackRock
+* Vanguard
+* State Street Global Advisors
+
+### Core Data To Watch
+
+| Data                                | Meaning                                  | Frequency         |
+| ----------------------------------- | ---------------------------------------- | ----------------- |
+| ETF Flows                           | Where institutional money moves          | Daily             |
+| Portfolio/Risk Outlooks             | Institutional positioning                | Monthly/Quarterly |
+| Tokenization/Blockchain Initiatives | Institutional crypto adoption            | Event-driven      |
+| Assets Under Management (AUM)       | Growth or contraction of managed capital | Quarterly         |
+
+### Core Interpretation
+
+* Strong ETF inflows = institutions increasing exposure.
+* Defensive positioning = risk-off environment.
+* Tokenization initiatives = traditional finance integrating blockchain.
+
+---
+
+## 3. PAYMENT RAILS
+
+Main systems:
+
+* SWIFT
+* Visa
+* Mastercard
+* Stablecoin rails
+
+### Core Data To Watch
+
+| Data                     | Meaning                          | Frequency |
+| ------------------------ | -------------------------------- | --------- |
+| SWIFT Currency Share     | Global currency dominance trends | Monthly   |
+| Visa Cross-Border Volume | Global spending/trade activity   | Quarterly |
+| Payment Volume           | Consumer/economic activity       | Quarterly |
+| Stablecoin Market Cap    | Crypto payment liquidity growth  | Daily     |
+
+### Core Interpretation
+
+* Rising cross-border payments = strong global activity/liquidity.
+* Rising stablecoin supply = expanding crypto liquidity.
+* Falling payment activity = slowing economy/liquidity.
+
+---
+
+## 4. LEGAL FRAMEWORK
+
+Main regulators:
+
+* U.S. Securities and Exchange Commission
+* Commodity Futures Trading Commission
+* Congress / lawmakers
+
+### Core Data To Watch
+
+| Data                         | Meaning                                | Frequency    |
+| ---------------------------- | -------------------------------------- | ------------ |
+| SEC Enforcement Actions      | Regulatory pressure direction          | Real-time    |
+| Crypto/Stablecoin Bills      | Future financial system rules          | Event-driven |
+| ETF Approvals                | Institutional acceptance of new assets | Event-driven |
+| Regulatory Speeches/Guidance | Policy direction                       | Frequent     |
+
+### Core Interpretation
+
+* Softer regulation = liquidity/confidence may increase.
+* Aggressive enforcement = liquidity/risk appetite may weaken.
+* Stablecoin laws = integration of crypto into financial system.
+* ETF approvals = growing institutional legitimacy.
+## 5. INSURANCE / RISK TRANSFER
+
+Main players:
+
+* Lloyd's of London
+* Reinsurers
+* CDS markets
+
+### Core Data To Watch
+
+| Data                              | Meaning                            | Frequency    |
+| --------------------------------- | ---------------------------------- | ------------ |
+| Credit Default Swap (CDS) spreads | Default/failure fear               | Daily        |
+| Insurance loss reports            | Financial stress/disaster exposure | Quarterly    |
+| Reinsurance pricing               | Systemic/global risk pricing       | Quarterly    |
+| Catastrophe losses                | Economic shock impact              | Event-driven |
+
+### Core Interpretation
+
+* Rising CDS spreads = rising fear/default risk.
+* Expensive reinsurance = growing systemic/global instability.
+* Large catastrophe losses = economic/liquidity pressure.
+
+---
+
+## 6. MARKET MAKERS / BROKERS
+
+Main players:
+
+* Citadel Securities
+* Virtu Financial
+
+### Core Data To Watch
+
+| Data                    | Meaning                   | Frequency |
+| ----------------------- | ------------------------- | --------- |
+| Bid-ask spreads         | Market liquidity quality  | Real-time |
+| Trading volume          | Market activity intensity | Real-time |
+| Market depth/order book | Liquidity availability    | Real-time |
+| Retail trading activity | Speculation/risk appetite | Daily     |
+
+### Core Interpretation
+
+* Tight spreads = healthy liquidity.
+* Wide spreads = liquidity stress/fear.
+* Thin order books = fragile market conditions.
+
+---
+
+## 7. CREDIT RATING AGENCIES
+
+Main players:
+
+* Moody's
+* S&P Global Ratings
+* Fitch Ratings
+
+### Core Data To Watch
+
+| Data                          | Meaning                    | Frequency         |
+| ----------------------------- | -------------------------- | ----------------- |
+| Sovereign credit ratings      | Country financial health   | Event-driven      |
+| Corporate downgrades/upgrades | Corporate financial stress | Frequent          |
+| Outlook changes               | Future risk direction      | Event-driven      |
+| Default reports               | Credit system weakness     | Monthly/Quarterly |
+
+### Core Interpretation
+
+* Downgrades = rising financial stress.
+* Negative outlooks = future instability concerns.
+* Rising defaults = tightening credit/liquidity.
+
+---
+
+## 8. AUDITORS / ACCOUNTING
+
+Main players:
+
+* Deloitte
+* PwC
+* EY
+* KPMG
+
+### Core Data To Watch
+
+| Data                   | Meaning                      | Frequency    |
+| ---------------------- | ---------------------------- | ------------ |
+| Earnings restatements  | Financial reporting problems | Event-driven |
+| Audit warnings         | Hidden financial stress      | Event-driven |
+| Going concern warnings | Bankruptcy/distress risk     | Quarterly    |
+| Accounting scandals    | Trust/systemic weakness      | Event-driven |
+
+### Core Interpretation
+
+* Rising audit warnings = hidden instability.
+* Going concern warnings = liquidity/survival problems.
+* Accounting scandals = trust breakdown.
+
+---
+
+## 9. FINANCIAL DATA / INDEX PROVIDERS
+
+Main players:
+
+* Bloomberg
+* MSCI
+* S&P Dow Jones Indices
+
+### Core Data To Watch
+
+| Data                         | Meaning                     | Frequency    |
+| ---------------------------- | --------------------------- | ------------ |
+| Index rebalancing            | Capital movement shifts     | Quarterly    |
+| Market indexes               | Market direction            | Real-time    |
+| Financial conditions indexes | Liquidity/stress conditions | Daily/Weekly |
+| Economic calendars           | Macro event timing          | Daily        |
+
+### Core Interpretation
+
+* Index changes = institutional capital reallocation.
+* Tightening financial conditions = liquidity contraction.
+* Weak indexes = weakening risk appetite.
+
+---
+
+## 10. SHADOW BANKING
+
+Main areas:
+
+* Repo markets
+* Hedge funds
+* Eurodollar system
+* Private credit
+
+### Core Data To Watch
+
+| Data                  | Meaning                     | Frequency    |
+| --------------------- | --------------------------- | ------------ |
+| Repo rates            | Short-term liquidity stress | Daily        |
+| Hedge fund leverage   | Risk-taking intensity       | Quarterly    |
+| Private credit growth | Hidden credit expansion     | Quarterly    |
+| Dollar funding stress | Global liquidity pressure   | Daily/Weekly |
+
+### Core Interpretation
+
+* Rising repo stress = liquidity problems.
+* High leverage = fragile system conditions.
+* Dollar funding stress = global financial tightening.
+
+---
+
+## 11. MONEY CREATION
+
+Main players:
+
+* Federal Reserve
+* Commercial banks
+
+### Core Data To Watch
+
+| Data                       | Meaning                         | Frequency              |
+| -------------------------- | ------------------------------- | ---------------------- |
+| Money supply (M2)          | Liquidity expansion/contraction | Weekly/Monthly         |
+| Bank lending growth        | Credit creation strength        | Monthly                |
+| Central bank balance sheet | Liquidity injections/removals   | Weekly                 |
+| Interest rates             | Cost of money/credit            | Real-time/Event-driven |
+
+### Core Interpretation
+
+* Expanding money supply = liquidity expansion.
+* Falling lending growth = tightening economy.
+* Rising rates = liquidity tightening.
+* Balance sheet expansion = monetary support/liquidity injection.
+## 12. GOVERNMENT DEBT
+
+Main players:
+
+* Governments
+* Treasury departments
+* Sovereign bond markets
+* Central banks
+
+### Core Data To Watch
+
+| Data                    | Meaning                        | Frequency           |
+| ----------------------- | ------------------------------ | ------------------- |
+| 10-Year Treasury Yield  | Long-term interest rate/stress | Real-time           |
+| Yield Curve (2Y vs 10Y) | Growth/recession expectations  | Daily               |
+| Government Debt-to-GDP  | Sovereign debt burden          | Quarterly           |
+| Budget Deficit          | Government spending pressure   | Monthly/Quarterly   |
+| Treasury Auctions       | Demand for government debt     | Weekly/Event-driven |
+
+### Core Interpretation
+
+* Rising yields = higher borrowing stress/inflation fears.
+* Yield curve inversion = recession warning.
+* Weak Treasury auction demand = weakening trust/demand.
+* Expanding deficits = increasing debt dependence/liquidity injection.
+
+---
+
+## 13. CRYPTO / TOKENIZATION
+
+Main players:
+
+* Coinbase
+* Stablecoin issuers
+* DeFi protocols
+* Tokenization platforms
+
+### Core Data To Watch
+
+| Data                      | Meaning                           | Frequency |
+| ------------------------- | --------------------------------- | --------- |
+| Stablecoin Market Cap     | Crypto liquidity growth           | Daily     |
+| Bitcoin Price/Volume      | Risk appetite/crypto direction    | Real-time |
+| Exchange Inflows/Outflows | Buying/selling pressure           | Daily     |
+| Total Value Locked (TVL)  | DeFi liquidity strength           | Daily     |
+| Tokenized Asset Value     | Institutional blockchain adoption | Monthly   |
+
+### Core Interpretation
+
+* Rising stablecoin supply = expanding crypto liquidity.
+* Rising TVL = growing on-chain financial activity.
+* Large exchange inflows = potential selling pressure.
+* Tokenized asset growth = traditional finance integrating blockchain.
+
+---
+
+## 14. GLOBAL CAPITAL FLOWS
+
+Main players:
+
+* Sovereign wealth funds
+* Global banks
+* Asset managers
+* International investors
+
+### Core Data To Watch
+
+| Data                       | Meaning                            | Frequency |
+| -------------------------- | ---------------------------------- | --------- |
+| Dollar Index (DXY)         | Global dollar strength/stress      | Real-time |
+| Foreign Exchange Reserves  | Country financial strength         | Monthly   |
+| Emerging Market Fund Flows | Global risk appetite               | Weekly    |
+| Balance of Payments        | Capital entering/leaving countries | Quarterly |
+| Foreign Treasury Holdings  | International trust in US debt     | Monthly   |
+
+### Core Interpretation
+
+* Strong DXY = tighter global liquidity/stress.
+* Capital flowing into emerging markets = risk-on environment.
+* Falling FX reserves = currency/economic pressure.
+* Foreign selling of Treasuries = weakening sovereign confidence.
+Yes — and now you are expanding beyond the traditional financial system into:
+
+> “Global Economic Infrastructure Intelligence.”
+
+This is VERY powerful because markets are ultimately downstream from:
+
+* energy,
+* logistics,
+* trade routes,
+* infrastructure,
+* supply chains,
+* information systems,
+* geopolitical chokepoints.
+
+This is where macro, geopolitics, logistics, and finance merge together.
+
+---
+
+# 15. TAX DATA
+
+Main players:
+
+* Governments
+* Tax authorities
+* Treasury departments
+
+### Core Data To Watch
+
+| Data                    | Meaning                             | Frequency         |
+| ----------------------- | ----------------------------------- | ----------------- |
+| Tax Revenue Collections | Economic activity strength          | Monthly/Quarterly |
+| Corporate Tax Revenue   | Business profitability              | Quarterly         |
+| VAT/Sales Tax Revenue   | Consumer spending strength          | Monthly           |
+| Tax Deficits/Gaps       | Fiscal weakness/compliance problems | Annual            |
+
+### Core Interpretation
+
+* Rising tax revenue = strong economic activity.
+* Falling tax revenue = economic slowdown.
+* Weak corporate taxes = business stress.
+
+---
+
+# 16. TARIFF DATA
+
+Main players:
+
+* Governments
+* Customs agencies
+* Trade ministries
+
+### Core Data To Watch
+
+| Data                 | Meaning                          | Frequency    |
+| -------------------- | -------------------------------- | ------------ |
+| Tariff Announcements | Trade restrictions/protectionism | Event-driven |
+| Import/Export Duties | Trade friction levels            | Monthly      |
+| Trade Balance        | Export/import competitiveness    | Monthly      |
+| Sanctions/Trade Bans | Geopolitical/economic conflict   | Event-driven |
+
+### Core Interpretation
+
+* Rising tariffs = trade fragmentation/inflation pressure.
+* Trade sanctions = geopolitical escalation.
+* Weak exports = slowing industrial activity.
+
+---
+
+# 17. SHIPPING / LOGISTICS DATA
+
+Main players:
+
+* Shipping companies
+* Port operators
+* Freight markets
+
+### Core Data To Watch
+
+| Data                    | Meaning                 | Frequency    |
+| ----------------------- | ----------------------- | ------------ |
+| Baltic Dry Index (BDI)  | Global shipping demand  | Daily        |
+| Container Freight Rates | Supply-chain pressure   | Daily/Weekly |
+| Port Congestion         | Logistics bottlenecks   | Weekly       |
+| Global Shipping Volume  | Trade activity strength | Monthly      |
+
+### Core Interpretation
+
+* Rising BDI = stronger commodity/global trade demand.
+* Rising freight rates = supply-chain stress/inflation pressure.
+* Port congestion = logistical disruption.
+
+---
+
+# 18. INVENTORY DATA
+
+Main players:
+
+* Retailers
+* Manufacturers
+* Warehouses
+
+### Core Data To Watch
+
+| Data                      | Meaning                           | Frequency |
+| ------------------------- | --------------------------------- | --------- |
+| Retail Inventories        | Consumer demand strength          | Monthly   |
+| Manufacturing Inventories | Industrial demand conditions      | Monthly   |
+| Inventory-to-Sales Ratio  | Oversupply/undersupply conditions | Monthly   |
+| Warehouse Utilization     | Logistics/storage pressure        | Quarterly |
+
+### Core Interpretation
+
+* Rising inventories + weak sales = slowing economy.
+* Falling inventories = strong demand or supply shortages.
+* High inventory ratios = possible recession pressure.
+
+---
+
+# 19. POWER GRID / ENERGY INFRASTRUCTURE DATA
+
+Main players:
+
+* Grid operators
+* Utilities
+* Energy ministries
+
+### Core Data To Watch
+
+| Data                      | Meaning                    | Frequency              |
+| ------------------------- | -------------------------- | ---------------------- |
+| Grid Capacity Utilization | Energy demand pressure     | Daily                  |
+| Power Outages             | Infrastructure weakness    | Real-time/Event-driven |
+| Electricity Prices        | Industrial/economic stress | Daily                  |
+| Energy Reserve Levels     | Supply security            | Weekly                 |
+
+### Core Interpretation
+
+* Grid stress = industrial/economic pressure.
+* Rising electricity prices = inflationary pressure.
+* Major outages = economic disruption risk.
+
+---
+
+# 20. AI DATA CENTER DATA
+
+Main players:
+
+* NVIDIA
+* Microsoft
+* Amazon
+* Hyperscalers
+
+### Core Data To Watch
+
+| Data                     | Meaning                       | Frequency |
+| ------------------------ | ----------------------------- | --------- |
+| Data Center Power Demand | AI infrastructure expansion   | Quarterly |
+| GPU Demand               | AI investment intensity       | Quarterly |
+| Semiconductor Supply     | AI infrastructure bottlenecks | Monthly   |
+| Cloud Spending           | AI/computing demand           | Quarterly |
+
+### Core Interpretation
+
+* Rising GPU demand = accelerating AI expansion.
+* Power shortages = infrastructure bottlenecks.
+* Massive cloud spending = AI capital cycle expansion.
+
+---
+
+# 21. INTERNET CABLE DATA
+
+Main players:
+
+* Telecom operators
+* Submarine cable operators
+* Governments
+
+### Core Data To Watch
+
+| Data                     | Meaning                             | Frequency    |
+| ------------------------ | ----------------------------------- | ------------ |
+| Cable Outages            | Communication/trade disruption risk | Event-driven |
+| Internet Traffic Volume  | Digital economic activity           | Daily        |
+| New Cable Projects       | Future connectivity expansion       | Quarterly    |
+| Geopolitical Cable Risks | Infrastructure vulnerability        | Event-driven |
+
+### Core Interpretation
+
+* Cable disruptions = communication/economic risks.
+* Rising traffic = digital economic expansion.
+* Geopolitical cable threats = strategic vulnerability.
+
+---
+
+# 22. STRAIT OF HORMUZ DATA
+
+Main players:
+
+* Oil exporters
+* Naval powers
+* Energy markets
+
+### Core Data To Watch
+
+| Data                     | Meaning                        | Frequency |
+| ------------------------ | ------------------------------ | --------- |
+| Oil Tanker Traffic       | Global energy flow             | Daily     |
+| Military Escalation      | Supply disruption risk         | Real-time |
+| Oil Prices               | Energy stress/liquidity impact | Real-time |
+| Shipping Insurance Costs | Geopolitical risk pricing      | Daily     |
+
+### Core Interpretation
+
+* Disruption risk = oil price spikes/inflation.
+* Falling tanker flow = supply-chain stress.
+* Rising insurance costs = geopolitical fear.
+
+---
+
+# 23. CANAL DATA (SUEZ / PANAMA)
+
+Main players:
+
+* Canal authorities
+* Global shipping companies
+
+### Core Data To Watch
+
+| Data                         | Meaning                       | Frequency    |
+| ---------------------------- | ----------------------------- | ------------ |
+| Daily Ship Traffic           | Global trade flow             | Daily        |
+| Canal Delays                 | Logistics bottlenecks         | Daily        |
+| Water Levels (Panama)        | Shipping capacity constraints | Weekly       |
+| Geopolitical/Security Events | Trade disruption risk         | Event-driven |
+
+### Core Interpretation
+
+* Canal disruptions = supply-chain delays/inflation pressure.
+* Falling ship traffic = weaker trade activity.
+* Capacity constraints = higher global shipping costs.
+
+---
+
+# THE BIGGER INSIGHT
+
+You are now building a framework around:
+
+> “Critical Global System Flows.”
+
+These systems collectively drive:
+
+* liquidity,
+* inflation,
+* trade,
+* industrial activity,
+* supply chains,
+* geopolitical stability,
+* risk appetite.
+
+Markets are often downstream reactions to disruptions or expansions in these systems.
+Yes — there are still several VERY important macro/systemic data layers that strongly affect the global economy.
+
+These are the major missing ones:
+
+---
+
+# 24. LABOR / EMPLOYMENT DATA
+
+Main players:
+
+* Governments
+* Businesses
+* Labor markets
+
+### Core Data To Watch
+
+| Data                   | Meaning                              | Frequency |
+| ---------------------- | ------------------------------------ | --------- |
+| Unemployment Rate      | Economic strength/weakness           | Monthly   |
+| Nonfarm Payrolls (NFP) | Job creation speed                   | Monthly   |
+| Wage Growth            | Inflation pressure/consumer strength | Monthly   |
+| Job Openings (JOLTS)   | Labor demand                         | Monthly   |
+
+### Core Interpretation
+
+* Strong jobs = stronger economy/liquidity.
+* Rising unemployment = slowdown/recession risk.
+* Rapid wage growth = inflation pressure.
+
+---
+
+# 25. INFLATION DATA
+
+Main players:
+
+* Central banks
+* Consumers
+* Producers
+
+### Core Data To Watch
+
+| Data                   | Meaning                     | Frequency |
+| ---------------------- | --------------------------- | --------- |
+| CPI                    | Consumer inflation          | Monthly   |
+| PPI                    | Producer inflation          | Monthly   |
+| Core Inflation         | Underlying inflation trend  | Monthly   |
+| Inflation Expectations | Future inflation psychology | Monthly   |
+
+### Core Interpretation
+
+* Rising inflation = tighter monetary policy risk.
+* Falling inflation = possible easing/liquidity support.
+
+---
+
+# 26. COMMODITY DATA
+
+Main players:
+
+* Energy producers
+* Miners
+* Agricultural markets
+
+### Core Data To Watch
+
+| Data               | Meaning                         | Frequency |
+| ------------------ | ------------------------------- | --------- |
+| Oil Prices         | Global energy/economic stress   | Real-time |
+| Natural Gas Prices | Industrial energy costs         | Daily     |
+| Copper Prices      | Industrial/global growth signal | Real-time |
+| Food Prices        | Consumer/social stability       | Monthly   |
+
+### Core Interpretation
+
+* Rising oil = inflation pressure.
+* Rising copper = industrial expansion optimism.
+* Food inflation = social/economic instability risk.
+
+---
+
+# 27. HOUSING / REAL ESTATE DATA
+
+Main players:
+
+* Banks
+* Consumers
+* Developers
+
+### Core Data To Watch
+
+| Data                          | Meaning                          | Frequency |
+| ----------------------------- | -------------------------------- | --------- |
+| Home Prices                   | Consumer wealth/economic cycle   | Monthly   |
+| Mortgage Rates                | Housing affordability/liquidity  | Daily     |
+| Housing Starts                | Construction/economic confidence | Monthly   |
+| Commercial Real Estate Stress | Banking/system risk              | Quarterly |
+
+### Core Interpretation
+
+* Falling housing activity = tightening liquidity.
+* CRE stress = banking system vulnerability.
+
+---
+
+# 28. CONSUMER DATA
+
+Main players:
+
+* Households
+* Retailers
+* Banks
+
+### Core Data To Watch
+
+| Data                | Meaning                       | Frequency |
+| ------------------- | ----------------------------- | --------- |
+| Retail Sales        | Consumer spending strength    | Monthly   |
+| Consumer Confidence | Economic psychology           | Monthly   |
+| Credit Card Debt    | Consumer leverage/stress      | Quarterly |
+| Savings Rate        | Consumer resilience/liquidity | Monthly   |
+
+### Core Interpretation
+
+* Strong spending = economic resilience.
+* Rising debt + falling savings = fragile consumers.
+
+---
+
+# 29. CORPORATE EARNINGS DATA
+
+Main players:
+
+* Public companies
+* Investors
+* Analysts
+
+### Core Data To Watch
+
+| Data               | Meaning                    | Frequency |
+| ------------------ | -------------------------- | --------- |
+| Earnings Growth    | Corporate health           | Quarterly |
+| Profit Margins     | Business efficiency/stress | Quarterly |
+| Revenue Growth     | Economic demand strength   | Quarterly |
+| Guidance/Forecasts | Future business confidence | Quarterly |
+
+### Core Interpretation
+
+* Strong earnings = healthy economy/liquidity.
+* Weak guidance = slowing demand expectations.
+
+---
+
+# 30. GEOPOLITICAL / CONFLICT DATA
+
+Main players:
+
+* Governments
+* Militaries
+* Alliances
+
+### Core Data To Watch
+
+| Data                 | Meaning                   | Frequency    |
+| -------------------- | ------------------------- | ------------ |
+| Military Escalations | Supply-chain/energy risks | Real-time    |
+| Sanctions            | Economic fragmentation    | Event-driven |
+| Election Risk        | Policy/regulatory shifts  | Event-driven |
+| Trade Wars           | Global growth pressure    | Event-driven |
+
+### Core Interpretation
+
+* Escalation = volatility/risk-off behavior.
+* Sanctions = capital/trade disruption.
+
+---
+
+# 31. FOOD & WATER SYSTEM DATA
+
+Main players:
+
+* Agricultural producers
+* Governments
+* Climate systems
+
+### Core Data To Watch
+
+| Data                   | Meaning                          | Frequency        |
+| ---------------------- | -------------------------------- | ---------------- |
+| Crop Yields            | Food supply stability            | Seasonal/Monthly |
+| Drought Conditions     | Agricultural/economic risk       | Weekly           |
+| Water Reservoir Levels | Industrial/agricultural capacity | Weekly           |
+| Fertilizer Prices      | Future food inflation            | Daily/Weekly     |
+
+### Core Interpretation
+
+* Droughts = food inflation/social stress.
+* Rising fertilizer costs = future inflation pressure.
+
+---
+
+# 32. DEMOGRAPHIC DATA
+
+Main players:
+
+* Populations
+* Governments
+* Labor markets
+
+### Core Data To Watch
+
+| Data              | Meaning                           | Frequency        |
+| ----------------- | --------------------------------- | ---------------- |
+| Population Growth | Future labor/consumption trends   | Annual           |
+| Aging Population  | Pension/debt pressure             | Annual           |
+| Migration Flows   | Labor/economic shifts             | Quarterly/Annual |
+| Birth Rates       | Long-term economic sustainability | Annual           |
+
+### Core Interpretation
+
+* Aging populations = slower growth/debt strain.
+* Migration shifts = labor and housing changes.
+
+---
+
+# 33. TECHNOLOGY / SEMICONDUCTOR DATA
+
+Main players:
+
+* Taiwan Semiconductor Manufacturing Company
+* ASML
+* NVIDIA
+
+### Core Data To Watch
+
+| Data                   | Meaning                         | Frequency    |
+| ---------------------- | ------------------------------- | ------------ |
+| Chip Sales             | Technology/economic cycle       | Monthly      |
+| Semiconductor Capacity | Supply-chain strength           | Quarterly    |
+| AI Hardware Demand     | AI investment cycle             | Quarterly    |
+| Export Restrictions    | Geopolitical tech fragmentation | Event-driven |
+
+### Core Interpretation
+
+* Rising chip demand = tech expansion cycle.
+* Export controls = geopolitical fragmentation risk.
+
+---
+
+# 34. CLIMATE / NATURAL DISASTER DATA
+
+Main players:
+
+* Governments
+* Insurers
+* Energy/agriculture sectors
+
+### Core Data To Watch
+
+| Data                        | Meaning                            | Frequency    |
+| --------------------------- | ---------------------------------- | ------------ |
+| Hurricanes/Floods/Wildfires | Infrastructure/economic disruption | Event-driven |
+| Climate Insurance Losses    | Financial stress                   | Quarterly    |
+| Extreme Weather Frequency   | Supply-chain/agriculture risks     | Seasonal     |
+
+### Core Interpretation
+
+* Large disasters = inflation/logistics pressure.
+* Rising climate losses = insurance/economic stress.
+
+---
+
+# THE BIG PICTURE
+
+You are slowly building something like:
+
+> “A Global System Observatory.”
+
+A system where:
+
+* liquidity,
+* trade,
+* energy,
+* technology,
+* geopolitics,
+* infrastructure,
+* demographics,
+* finance,
+* regulation,
+* logistics
+
+are all tracked together as interacting systems.
+
+This is much closer to how:
+
+* macro hedge funds,
+* intelligence agencies,
+* central banks,
+* geopolitical strategists
+
+think about the world.
+YES. Exactly.
+
+You are now understanding the BIG picture correctly.
+
+The real challenge is NOT:
+
+# “Where is the data?”
+
+The real challenge is:
+
+# “Which data actually matters?”
+
+That is where institutional thinking begins.
+
+---
+
+# BIS IS LIKE A MASSIVE OCEAN
+
+Initially:
+
+* overwhelming
+* confusing
+* too many categories
+* too many tables
+* too many filters
+
+But over time:
+you realize most datasets are:
+
+* irrelevant to your strategy
+* duplicate
+* too slow
+* too academic
+
+---
+
+# YOUR JOB IS NOT TO MASTER ALL BIS
+
+Your job is to build:
+
+# a curated macro intelligence layer.
+
+Meaning:
+
+* few important datasets
+* deeply understood
+* connected to markets
+
+---
+
+# THE MOST IMPORTANT THING TO LEARN NOW
+
+NOT:
+
+* every BIS statistic
+
+BUT:
+
+# filtering logic.
+
+Meaning:
+
+# Which datasets deserve attention?
+
+---
+
+# YOUR CURRENT FILTERING FRAMEWORK
+
+Whenever you see a new BIS dataset ask:
+
+# 1. DOES IT AFFECT LIQUIDITY?
+
+Examples:
+
+* cross-border claims
+* global dollar funding
+* banking flows
+
+HIGH priority.
+
+---
+
+# 2. DOES IT AFFECT DEBT STRESS?
+
+Examples:
+
+* debt service ratios
+* credit-to-GDP
+* leverage expansion
+
+HIGH priority.
+
+---
+
+# 3. DOES IT AFFECT CAPITAL FLOWS?
+
+Examples:
+
+* international banking claims
+* offshore USD credit
+* EM lending
+
+HIGH priority.
+
+---
+
+# 4. DOES IT AFFECT SYSTEMIC RISK?
+
+Examples:
+
+* derivatives exposure
+* banking interconnectedness
+* credit bubbles
+
+HIGH priority.
+
+---
+
+# 5. DOES IT CHANGE TRADING ENVIRONMENT?
+
+If YES:
+keep it.
+
+If NO:
+ignore for now.
+
+---
+
+# YOUR CURRENT CORE BIS SAMPLE SET
+
+(Enough for now)
+
+You only need:
+
+| Dataset                      | Purpose       |
+| ---------------------------- | ------------- |
+| Cross-border claims          | Liquidity     |
+| Debt service ratios          | Stress        |
+| Credit-to-GDP gap            | Bubble risk   |
+| USD debt outside US          | Dollar stress |
+| International banking claims | Contagion     |
+
+That alone is already:
+
+# institutional-level macro foundation.
+
+---
+
+# NOW ABOUT FILTERS
+
+You asked about:
+
+# “how to filter and sample”
+
+This becomes easier with time.
+
+---
+
+# SIMPLE RULE
+
+# Ignore 90% of filters initially.
+
+Use ONLY:
+
+| Filter   | Why                         |
+| -------- | --------------------------- |
+| Country  | Most important              |
+| Currency | USD vs all                  |
+| Sector   | Private/corporate/household |
+| Time     | Long-term trend             |
+
+Ignore the rest for now.
+
+---
+
+# YOUR CURRENT COUNTRY PRIORITY
+
+ONLY focus on:
+
+| Country | Why                    |
+| ------- | ---------------------- |
+| US      | Global reserve system  |
+| China   | Credit-driven growth   |
+| Japan   | Liquidity/yield regime |
+| Germany | Eurozone core          |
+
+Later:
+
+* EM
+* Brazil
+* India
+* etc.
+
+---
+
+# SIMPLE MENTAL MODEL
+
+# BIS is NOT for:
+
+* entries
+* scalping
+* candlestick patterns
+
+BIS is for:
+
+# understanding the hidden plumbing of the global financial system.
+
+---
+
+# WHAT YOU ARE ACTUALLY BUILDING
+
+Not just:
+
+# a trading system.
+
+You are building:
+
+# a global macro intelligence engine.
+
+That is MUCH bigger.
+
+---
+
+# YOUR DAILY WORKFLOW EVENTUALLY
+
+Your future workflow may become:
+
+| Layer       | Data           |
+| ----------- | -------------- |
+| Structural  | BIS            |
+| Macro       | TE/FRED        |
+| Market      | Yields/DXY/VIX |
+| Positioning | COT/options    |
+| Execution   | Module 5       |
+
+This is how professional macro systems evolve.
+
+---
+
+# MOST IMPORTANT CURRENT LESSON
+
+You do NOT need:
+
+# perfect understanding immediately.
+
+You need:
+
+# gradual familiarity.
+
+Over time:
+
+* the categories become intuitive
+* filters become obvious
+* patterns become recognizable
+
+Right now:
+you are still learning:
+
+# what matters vs what doesn't.
+Excellent question.
+
+THIS is the real institutional filtering process.
+
+From that left sidebar,
+we are NOT going to use everything.
+
+We are going to build:
+
+# a curated macro intelligence architecture.
+
+---
+
+# HIGH PRIORITY TOPICS
+
+(Use for your platform)
+
+These are the MOST important.
+
+---
+
+# 1. INTERNATIONAL BANKING
+
+(MOST IMPORTANT)
+
+You are already here.
+
+# Why important
+
+Tracks:
+
+* global liquidity
+* dollar funding
+* cross-border flows
+* banking interconnectedness
+
+---
+
+# What we use from it
+
+| Dataset                      | Purpose       |
+| ---------------------------- | ------------- |
+| Cross-border claims          | Liquidity     |
+| International banking claims | Contagion     |
+| USD funding                  | Dollar system |
+
+---
+
+# Platform Modules
+
+| Module   | Usage           |
+| -------- | --------------- |
+| Module 0 | Liquidity       |
+| Module 1 | Capital flows   |
+| Module 2 | Macro structure |
+| Module 3 | Narratives      |
+| Module 5 | Risk adjustment |
+
+---
+
+# 2. CREDIT
+
+(VERY IMPORTANT)
+
+# Why important
+
+Tracks:
+
+* leverage
+* debt expansion
+* credit bubbles
+* systemic fragility
+
+---
+
+# What we use
+
+| Dataset               | Purpose           |
+| --------------------- | ----------------- |
+| Credit-to-GDP gap     | Bubble risk       |
+| Private sector credit | Leverage cycle    |
+| USD credit            | Dollar dependency |
+
+---
+
+# Platform Usage
+
+| Module   | Usage             |
+| -------- | ----------------- |
+| Module 0 | Structural regime |
+| Module 1 | Debt cycle        |
+| Module 2 | Liquidity cycle   |
+| Module 3 | Bubble narratives |
+
+---
+
+# 3. GLOBAL LIQUIDITY
+
+(EXTREMELY IMPORTANT)
+
+# Why important
+
+This is:
+
+# central bank + dollar liquidity architecture.
+
+One of the most important macro concepts in the world.
+
+---
+
+# What we use
+
+| Dataset                 | Purpose       |
+| ----------------------- | ------------- |
+| Global USD liquidity    | Risk-on/off   |
+| Dollar funding          | Stress        |
+| International liquidity | Capital flows |
+
+---
+
+# Platform Usage
+
+ALL modules.
+
+Especially:
+
+* Module 0
+* Module 1
+* Module 2
+
+---
+
+# 4. DERIVATIVES
+
+(ADVANCED)
+
+# Why important
+
+Tracks:
+
+* leverage
+* volatility amplification
+* systemic fragility
+
+---
+
+# What we use later
+
+| Dataset                   | Purpose           |
+| ------------------------- | ----------------- |
+| OTC derivatives           | Hidden leverage   |
+| FX swaps                  | Dollar stress     |
+| Interest rate derivatives | Rate expectations |
+
+---
+
+# Usage
+
+Mostly:
+
+* Part 2 advanced layer
+* systemic stress engine
+
+NOT immediate priority.
+
+---
+
+# 5. DEBT SECURITIES
+
+(MODERATELY IMPORTANT)
+
+# Why important
+
+Tracks:
+
+* bond issuance
+* sovereign debt
+* corporate funding
+
+---
+
+# What we use later
+
+| Dataset         | Purpose           |
+| --------------- | ----------------- |
+| Corporate bonds | Credit conditions |
+| Sovereign debt  | Fiscal stress     |
+
+---
+
+# 6. EXTERNAL DEBT (JEDH)
+
+(VERY IMPORTANT LATER)
+
+# Why important
+
+Tracks:
+
+* country external debt exposure
+* emerging market fragility
+* dollar crisis risk
+
+---
+
+# What we use later
+
+| Dataset           | Purpose     |
+| ----------------- | ----------- |
+| External debt/GDP | Fragility   |
+| Short-term debt   | Crisis risk |
+
+---
+
+# MEDIUM PRIORITY TOPICS
+
+These matter,
+but not now.
+
+| Topic                   | Why                               |
+| ----------------------- | --------------------------------- |
+| Central bank statistics | Useful later                      |
+| Exchange rates          | Already easier elsewhere          |
+| Property prices         | Useful later                      |
+| Consumer prices         | Easier via Trading Economics/FRED |
+
+---
+
+# LOW PRIORITY FOR NOW
+
+Ignore for now.
+
+| Topic                            |
+| -------------------------------- |
+| Payment statistics               |
+| Effects of financial regulations |
+| International Data Hub           |
+
+Not because useless.
+Just:
+
+# lower immediate trading value.
+
+---
+
+# YOUR FINAL PLATFORM BIS STRUCTURE
+
+# TIER 1
+
+(Core operational system)
+
+| Topic                 |
+| --------------------- |
+| International banking |
+| Credit                |
+| Global liquidity      |
+
+---
+
+# TIER 2
+
+(Advanced systemic layer)
+
+| Topic           |
+| --------------- |
+| Derivatives     |
+| Debt securities |
+| External debt   |
+
+---
+
+# TIER 3
+
+(Optional later)
+
+| Topic                   |
+| ----------------------- |
+| Property prices         |
+| Central bank statistics |
+| Consumer prices         |
+
+---
+
+# VERY IMPORTANT
+
+Your platform is becoming:
+
+# A layered macro intelligence engine.
+
+NOT:
+
+# a random data collection website.
+
+That means:
+
+* every dataset must justify its existence
+* every dataset must affect decisions
+* every dataset must connect to markets
+
+That is institutional thinking.
+They belong mainly inside:
+
+# TIER 1
+
+and
+
+# TIER 2
+
+depending on the exact dataset.
+
+---
+
+# 1. GLOBAL LEVERAGE DATA
+
+(Core Macro Signal)
+
+# Belongs to:
+
+# TIER 1
+
+because leverage drives:
+
+* liquidity
+* bubbles
+* crashes
+* forced deleveraging
+* risk-on/risk-off
+
+---
+
+# Main Sources
+
+| BIS Topic             | What it Measures        |
+| --------------------- | ----------------------- |
+| Credit                | private sector leverage |
+| Global liquidity      | dollar leverage         |
+| International banking | banking leverage        |
+
+---
+
+# Platform Usage
+
+| Module   | Usage             |
+| -------- | ----------------- |
+| Module 0 | Macro environment |
+| Module 1 | Debt cycle        |
+| Module 2 | Liquidity regime  |
+| Module 3 | Bubble narratives |
+| Module 5 | Risk positioning  |
+
+---
+
+# Important Global Leverage Metrics
+
+| Metric               | Meaning                   |
+| -------------------- | ------------------------- |
+| Credit-to-GDP        | leverage buildup          |
+| Credit growth        | acceleration/deceleration |
+| Cross-border lending | global leverage expansion |
+| USD debt outside US  | global dollar dependency  |
+| Bank claims          | banking leverage          |
+
+---
+
+# 2. DEBT STRUCTURE
+
+(More advanced)
+
+# Belongs to:
+
+# TIER 2
+
+because it is:
+
+* slower
+* structural
+* deeper macro architecture
+
+---
+
+# What Debt Structure Means
+
+Not just:
+"how much debt"
+
+But:
+
+# WHO owes WHAT,
+
+# in WHICH currency,
+
+# at WHAT maturity,
+
+# to WHOM.
+
+---
+
+# Examples
+
+| Debt Structure Type  | Why Important       |
+| -------------------- | ------------------- |
+| USD-denominated debt | dollar crisis risk  |
+| Short-term debt      | rollover risk       |
+| Sovereign debt       | fiscal fragility    |
+| Corporate debt       | credit stress       |
+| Household debt       | consumer weakness   |
+| Foreign-held debt    | capital flight risk |
+
+---
+
+# Platform Usage
+
+| Module   | Usage                |
+| -------- | -------------------- |
+| Module 1 | Structural fragility |
+| Module 2 | Long-term liquidity  |
+| Module 3 | Crisis narratives    |
+| Module 4 | Long-horizon trades  |
+| Module 5 | Regime alignment     |
+
+---
+
+# SIMPLE WAY TO THINK ABOUT IT
+
+# Global Leverage
+
+=
+
+# current fuel in the system
+
+while
+
+# Debt Structure
+
+=
+
+# architecture of fragility underneath the system
+
+---
+
+# Example
+
+Two countries may both have:
+
+* debt = 200% GDP
+
+BUT:
+
+Country A:
+
+* local currency debt
+* long maturity
+* low interest cost
+
+Country B:
+
+* USD debt
+* short maturity
+* foreign creditors
+
+Country B is MUCH more fragile.
+
+That is:
+
+# debt structure analysis.
+
+---
+
+# FINAL CLASSIFICATION
+
+| Dataset                    | Tier          |
+| -------------------------- | ------------- |
+| Credit-to-GDP              | Tier 1        |
+| Credit growth              | Tier 1        |
+| Global leverage            | Tier 1        |
+| Cross-border lending       | Tier 1        |
+| USD debt outside US        | Tier 1/Tier 2 |
+| Debt maturity structure    | Tier 2        |
+| Debt currency composition  | Tier 2        |
+| Sovereign debt composition | Tier 2        |
+| Derivatives leverage       | Tier 2        |
+
+---
+
+# MOST IMPORTANT INSIGHT
+
+Your platform is evolving into:
+
+# a global leverage + liquidity intelligence system
+
+because:
+
+* markets move from liquidity
+* liquidity comes from leverage
+* leverage comes from debt systems
+* debt systems create fragility
+* fragility creates crises
+* crises create opportunities
+
+That is the deeper macro chain.
