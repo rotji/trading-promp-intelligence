@@ -1,0 +1,73 @@
+--------------------------------------------------
+
+MODULE 0F — MARKET DATA & EXECUTION LAYER
+
+STEP 0F1 — REFERENCE MARKET ANALYSIS
+
+Use:
+- TradingView
+- institutional/public feeds
+- futures data
+- macro charts
+
+Purpose:
+- market structure
+- trend analysis
+- volatility analysis
+- session analysis
+
+--------------------------------------------------
+
+STEP 0F2 — EXECUTION ENVIRONMENT ANALYSIS
+
+Use:
+- broker platform
+- broker-specific charts
+- real spread conditions
+- live execution feed
+
+Purpose:
+- entry precision
+- spread monitoring
+- slippage analysis
+- stop placement
+- trade management
+
+--------------------------------------------------
+
+STEP 0F3 — BROKER DIFFERENCE DETECTION
+
+Compare:
+- candle differences
+- wick differences
+- spread differences
+- execution latency
+- rollover behavior
+- session volatility
+
+--------------------------------------------------
+
+STEP 0F4 — EXECUTION QUALITY ENGINE
+
+Evaluate:
+- spread stability
+- fill quality
+- order speed
+- slippage risk
+- volatility distortions
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Public charts are for analysis.
+
+2. Broker charts are for execution.
+
+3. Different brokers can produce different candles.
+
+4. Execution environment matters as much as analysis.
+
+5. Perfect analysis can fail because of poor execution.
+
+--------------------------------------------------
