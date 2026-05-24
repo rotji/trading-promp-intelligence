@@ -679,5 +679,102 @@ into:
 ```text id="m13"
 institutional market systems analysis
 ```
+STEP 0A9 — CUSTOMER FLOW CLASSIFICATION ENGINE
+
+Purpose:
+Distinguish between speculative flow and utility-driven institutional flow.
+
+Classify dominant flows as:
+
+speculative flow
+hedging flow
+settlement flow
+reserve management flow
+acquisition flow
+pension allocation flow
+corporate treasury flow
+derivative hedging flow
+carry trade flow
+liquidity management flow
+
+Analyze whether current movement is likely driven by:
+
+directional speculation
+OR
+non-speculative institutional necessity
+
+IMPORTANT RULES
+
+Most institutional flow is not purely speculative.
+Utility-driven flows can move markets significantly.
+Large hedging flows may distort short-term directional logic.
+Institutional flow objectives differ from retail objectives.
+
+STEP 0A10 — BANK DEALING DESK ENGINE
+
+Purpose:
+Understand how institutional bank dealing desks execute and manage customer flow.
+
+Analyze:
+
+inventory management
+warehousing exposure
+flow balancing
+interbank execution
+order splitting
+liquidity sourcing
+hedge execution
+internalization
+customer flow aggregation
+balance-sheet exposure
+
+Determine whether market movement may reflect:
+
+inventory rebalancing
+institutional execution
+customer hedging
+interbank repositioning
+risk warehousing
+
+IMPORTANT RULES
+
+Banks often execute customer flow rather than directional speculation.
+Large institutional flows are frequently split across time and venues.
+Inventory imbalances may temporarily affect market pricing.
+Bank execution mechanics create hidden liquidity dynamics.
+
+STEP 0A11 — REAL FLOW & ORDER VOLUME ENGINE
+
+Purpose:
+Analyze institutional flow behavior using real volume and positioning data.
+
+Track:
+
+futures volume
+swap positioning
+options flow
+COT positioning
+dealer positioning
+commercial hedging
+non-commercial speculation
+non-reportable retail positioning
+open interest
+volume imbalance
+positioning changes
+
+Determine whether:
+
+institutional accumulation exists
+institutional distribution exists
+speculative positioning is overcrowded
+hedging flows dominate
+directional conviction is increasing
+
+IMPORTANT RULES
+
+Real order flow often precedes visible price movement.
+Futures/options positioning provides institutional visibility unavailable on spot charts alone.
+Positioning imbalance may create future squeezes and reversals.
+Volume structure often matters more than candle appearance.
 
 --------------------------------------------------

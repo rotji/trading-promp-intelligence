@@ -850,6 +850,66 @@ The chart is merely:
 the visible surface
 of a deeper global liquidity machine.
 ```
+STEP 0D11 — INVENTORY & WAREHOUSING FRAGILITY ENGINE
 
+Purpose:
+Analyze how temporary inventory accumulation and risk warehousing affect liquidity behavior.
 
---------------------------------------------------
+Track:
+
+inventory imbalance
+temporary risk absorption
+dealer positioning pressure
+balance-sheet stress
+flow warehousing
+liquidity redistribution
+funding pressure
+execution strain
+
+Determine whether liquidity providers may be:
+
+overloaded
+imbalanced
+defensive
+aggressively hedging
+reducing liquidity provision
+
+IMPORTANT RULES
+
+Liquidity providers temporarily warehouse risk.
+Inventory imbalance can alter short-term pricing behavior.
+Excessive warehousing pressure may reduce liquidity quality.
+Dealer inventory stress may amplify volatility.
+
+STEP 0D12 — POSITIONING HIERARCHY ENGINE
+
+Purpose:
+Analyze positioning behavior across different participant classes.
+
+Track:
+
+commercial positioning
+non-commercial positioning
+retail positioning
+hedge fund exposure
+dealer exposure
+leveraged positioning
+institutional crowding
+speculative extremes
+
+Determine whether positioning is:
+
+balanced
+crowded
+defensive
+speculative
+hedged
+fragile
+
+IMPORTANT RULES
+
+Commercials often hedge rather than speculate directionally.
+Non-commercials are usually more directional and momentum-sensitive.
+Retail positioning often becomes crowded late in trends.
+Positioning imbalance increases squeeze risk.
+----------------------------------------

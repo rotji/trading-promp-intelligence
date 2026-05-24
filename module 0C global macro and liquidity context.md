@@ -745,5 +745,44 @@ into:
 dynamic real-time market environment intelligence
 ```
 
+STEP 0CA13 — FLOW MOMENTUM & POSITIONING TRANSITION ENGINE
 
+Purpose:
+Detect whether institutional positioning and flow momentum are changing before major visible price movement.
+
+Track:
+
+rising directional volume
+declining participation
+positioning acceleration
+flow divergence
+speculative imbalance
+hedging pressure
+accumulation/distribution behavior
+
+Determine whether:
+
+smart-money accumulation exists
+smart-money distribution exists
+late retail participation is increasing
+institutional participation is weakening
+trend exhaustion risk is rising
+
+IMPORTANT RULES
+
+Flow often changes before visible trend acceleration.
+Late retail participation often occurs near exhaustion phases.
+Institutional accumulation/distribution may appear before major breakout behavior.
+Positioning transitions can signal future regime change.
+MOST IMPORTANT THING THIS MATERIAL ADDS
+
+Honestly:
+
+FLOW INTELLIGENCE
+
+Your framework already had:
+
+macro intelligence
+liquidity intelligence
+fragili
 --------------------------------------------------
