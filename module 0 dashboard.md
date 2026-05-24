@@ -1520,4 +1520,646 @@ Nonlinear instruments can better exploit uncertain but high-impact environments 
 7. Probability engineering
 ```
 
+# MODULE 0 — GLOBAL ECONOMIC OPERATING SYSTEM DASHBOARD
+
+## FULL PRACTICAL INSTITUTIONAL EXPANSION VERSION
+
+Your Module 0 is no longer:
+
+```text
+simple macro news tracking
+```
+
+It is becoming:
+
+```text
+THE GLOBAL MACRO AWARENESS ENGINE
+```
+
+Purpose:
+
+```text
+Continuously monitor the global financial operating system
+to determine:
+- liquidity conditions
+- growth direction
+- inflation pressure
+- stress buildup
+- fragility
+- capital flow direction
+- regime transition
+- probability environment
+```
+
+This module sits ABOVE all other modules.
+
+Everything downstream depends on Module 0.
+
+---
+
+# FINAL STRUCTURE OF MODULE 0
+
+| Layer     | Purpose                                  |
+| --------- | ---------------------------------------- |
+| Module 0A | Market Microstructure & Interbank Engine |
+| Module 0B | Core Macro Dashboard                     |
+| Module 0C | Structural Macro Dashboard               |
+| Module 0D | Time-Layered Probability Engine          |
+| Module 0E | Regime Probability Classification Engine |
+| Module 0F | Instrument Geometry & Convexity Engine   |
+
+---
+
+# MODULE 0B — CORE MACRO DASHBOARD
+
+This tracks:
+
+```text
+real-time macro heartbeat
+```
+
+---
+
+# STEP 0B1 — CORE MARKET INSTRUMENT ENGINE
+
+Track the most important global instruments.
+
+These are:
+
+```text
+real-time macro translators
+```
+
+---
+
+# CORE INSTRUMENT LIST
+
+| Instrument     | Why Important                |
+| -------------- | ---------------------------- |
+| US10Y Yield    | growth + rates               |
+| US2Y Yield     | Fed expectations             |
+| DXY            | global USD pressure          |
+| Gold           | fear + liquidity             |
+| Oil            | inflation + geopolitics      |
+| Nasdaq         | growth appetite              |
+| S&P500         | broad risk appetite          |
+| Bitcoin        | liquidity/risk appetite      |
+| VIX            | fear/stress                  |
+| Credit Spreads | financial stress             |
+| EURUSD         | global macro balance         |
+| USDJPY         | yield differential           |
+| Copper         | industrial growth            |
+| Natural Gas    | energy stress                |
+| EM FX          | global liquidity sensitivity |
+
+---
+
+# PRACTICAL USAGE
+
+Every day classify:
+
+| Signal         | Status                |
+| -------------- | --------------------- |
+| DXY            | rising/falling        |
+| Yields         | rising/falling        |
+| VIX            | expanding/compressing |
+| Gold           | risk-on/risk-off      |
+| Nasdaq         | strong/weak           |
+| Credit spreads | tightening/widening   |
+
+---
+
+# MOST IMPORTANT RULE
+
+Do NOT analyze instruments individually.
+
+Analyze:
+
+```text
+cross-confirmation
+```
+
+Example:
+
+| Signal                                | Interpretation        |
+| ------------------------------------- | --------------------- |
+| DXY up + yields up + spreads widening | tightening liquidity  |
+| Gold up + VIX up                      | defensive positioning |
+| Nasdaq up + BTC up + spreads tight    | liquidity expansion   |
+
+---
+
+# STEP 0B2 — ECONOMIC RELEASE ENGINE
+
+Track:
+
+```text
+scheduled macro reality checks
+```
+
+---
+
+# TIER 1 — GROWTH ENGINE
+
+## PMI / ISM
+
+Purpose:
+
+```text
+Is economic activity accelerating or slowing?
+```
+
+Track:
+
+* manufacturing
+* services
+* orders
+* employment
+* inventories
+
+---
+
+# PRACTICAL USAGE
+
+| PMI Direction    | Macro Meaning  |
+| ---------------- | -------------- |
+| rising above 50  | expansion      |
+| falling below 50 | contraction    |
+| rapid collapse   | recession risk |
+
+---
+
+# TIER 2 — INFLATION ENGINE
+
+## CPI / PPI
+
+Purpose:
+
+```text
+Measure inflation pressure
+```
+
+---
+
+# PRACTICAL USAGE
+
+| Inflation Behavior | Market Impact         |
+| ------------------ | --------------------- |
+| rising CPI         | yields + USD pressure |
+| falling CPI        | rate-cut expectations |
+| sticky inflation   | policy uncertainty    |
+
+---
+
+# TIER 3 — LABOR ENGINE
+
+## NFP / Unemployment / Wages
+
+Purpose:
+
+```text
+Measure labor strength
+```
+
+---
+
+# IMPORTANT INSIGHT
+
+Strong labor:
+
+* can support growth
+* but may worsen inflation
+
+Weak labor:
+
+* hurts growth
+* but may help disinflation
+
+---
+
+# TIER 4 — CENTRAL BANK ENGINE
+
+## Fed / ECB / BOJ / PBOC
+
+Purpose:
+
+```text
+Track liquidity authority behavior
+```
+
+---
+
+# TRACK
+
+| Variable           |
+| ------------------ |
+| rate decisions     |
+| speeches           |
+| QT/QE              |
+| forward guidance   |
+| liquidity language |
+
+---
+
+# MOST IMPORTANT RULE
+
+Markets often react MORE to:
+
+```text
+future guidance
+```
+
+than current rates.
+
+---
+
+# STEP 0B3 — MARKET STRESS ENGINE
+
+Track:
+
+```text
+system instability
+```
+
+---
+
+# TRACK
+
+| Instrument     | Meaning          |
+| -------------- | ---------------- |
+| VIX            | equity fear      |
+| MOVE index     | bond volatility  |
+| CDS spreads    | default fear     |
+| credit spreads | financial stress |
+| repo stress    | funding problems |
+
+---
+
+# PRACTICAL USAGE
+
+| Stress Behavior  | Meaning            |
+| ---------------- | ------------------ |
+| spreads widening | stress rising      |
+| VIX spike        | panic              |
+| MOVE spike       | bond instability   |
+| repo stress      | liquidity problems |
+
+---
+
+# MODULE 0C — STRUCTURAL MACRO DASHBOARD
+
+Tracks:
+
+```text
+slow-moving structural pressure systems
+```
+
+This is:
+
+```text
+deep macro architecture
+```
+
+---
+
+# STEP 0C1 — GLOBAL LIQUIDITY ENGINE
+
+Track:
+
+| Variable          |
+| ----------------- |
+| Fed balance sheet |
+| ECB balance sheet |
+| BOJ balance sheet |
+| M2 money supply   |
+| reverse repo      |
+| repo rates        |
+| QT/QE             |
+
+---
+
+# PRACTICAL USAGE
+
+| Liquidity Behavior       | Meaning             |
+| ------------------------ | ------------------- |
+| expanding balance sheets | liquidity expansion |
+| shrinking balance sheets | tightening          |
+| falling reverse repo     | liquidity release   |
+
+---
+
+# STEP 0C2 — CREDIT & LEVERAGE ENGINE
+
+Track:
+
+| Variable                 |
+| ------------------------ |
+| BIS credit-to-GDP        |
+| high-yield spreads       |
+| investment-grade spreads |
+| private credit           |
+| hedge fund leverage      |
+| sovereign debt           |
+
+---
+
+# PRACTICAL USAGE
+
+| Condition                        | Meaning          |
+| -------------------------------- | ---------------- |
+| leverage rising + low volatility | fragile calm     |
+| spreads widening                 | stress beginning |
+| debt service rising              | future weakness  |
+
+---
+
+# STEP 0C3 — CAPITAL FLOW ENGINE
+
+Track:
+
+| Variable                  |
+| ------------------------- |
+| ETF flows                 |
+| foreign treasury holdings |
+| SWIFT share               |
+| reserve composition       |
+| stablecoin market cap     |
+| exchange flows            |
+
+---
+
+# PRACTICAL USAGE
+
+| Flow                 | Meaning                    |
+| -------------------- | -------------------------- |
+| ETF inflows          | institutional demand       |
+| money-market inflows | defensive positioning      |
+| stablecoin growth    | crypto liquidity expansion |
+
+---
+
+# STEP 0C4 — INFRASTRUCTURE & CHOKEPOINT ENGINE
+
+Track:
+
+```text
+real-world bottlenecks
+```
+
+---
+
+# TRACK
+
+| Variable          |
+| ----------------- |
+| shipping routes   |
+| Suez/Panama       |
+| Strait of Hormuz  |
+| power grid stress |
+| semiconductors    |
+| AI data centers   |
+| internet cables   |
+
+---
+
+# IMPORTANT RULE
+
+Markets depend on:
+
+```text
+physical infrastructure stability
+```
+
+---
+
+# STEP 0C5 — GEOPOLITICAL ENGINE
+
+Track:
+
+| Variable            |
+| ------------------- |
+| wars                |
+| sanctions           |
+| tariffs             |
+| elections           |
+| trade restrictions  |
+| military escalation |
+
+---
+
+# PRACTICAL USAGE
+
+| Event          | Likely Impact         |
+| -------------- | --------------------- |
+| war escalation | oil/gold/VIX up       |
+| sanctions      | supply shock          |
+| tariffs        | inflationary pressure |
+
+---
+
+# MODULE 0D — TIME-LAYERED PROBABILITY ENGINE
+
+This is one of the deepest parts of the system.
+
+---
+
+# CORE PRINCIPLE
+
+```text
+Slow structural data creates pressure fields.
+Fast market data reveals whether those forces are becoming active.
+```
+
+---
+
+# TIME LAYERS
+
+| Layer     | Purpose                 |
+| --------- | ----------------------- |
+| Quarterly | structural architecture |
+| Monthly   | economic transition     |
+| Weekly    | positioning adjustment  |
+| Daily     | visible market reaction |
+
+---
+
+# PRACTICAL USAGE
+
+## Example
+
+Quarterly:
+
+* BIS leverage rising
+
+Monthly:
+
+* PMI slowing
+
+Weekly:
+
+* spreads widening
+
+Daily:
+
+* VIX rising
+
+Conclusion:
+
+```text
+HIGH probability risk-off transition
+```
+
+---
+
+# MODULE 0E — REGIME PROBABILITY ENGINE
+
+Purpose:
+
+```text
+classify current macro regime
+```
+
+---
+
+# POSSIBLE REGIMES
+
+| Regime                |
+| --------------------- |
+| Risk-on               |
+| Risk-off              |
+| Inflationary          |
+| Disinflationary       |
+| Stagflation           |
+| Liquidity expansion   |
+| Liquidity contraction |
+| Fragility buildup     |
+| Crisis transition     |
+| Recovery regime       |
+| Policy uncertainty    |
+
+---
+
+# IMPORTANT RULE
+
+Markets are:
+
+```text
+partially structured probabilistic systems
+```
+
+NOT deterministic systems.
+
+---
+
+# MODULE 0F — INSTRUMENT GEOMETRY & CONVEXITY ENGINE
+
+This is extremely advanced.
+
+Purpose:
+
+```text
+Match instrument type to regime environment
+```
+
+---
+
+# LINEAR INSTRUMENTS
+
+Examples:
+
+* spot forex
+* stocks
+* futures
+* CFDs
+
+Behavior:
+
+```text
+roughly proportional price exposure
+```
+
+---
+
+# NONLINEAR INSTRUMENTS
+
+Examples:
+
+* options
+* volatility products
+* structured derivatives
+
+Behavior:
+
+```text
+convex payoff structures
+```
+
+---
+
+# PRACTICAL USAGE
+
+| Environment              | Better Instrument |
+| ------------------------ | ----------------- |
+| stable trend             | linear            |
+| volatility expansion     | nonlinear         |
+| fragility buildup        | nonlinear         |
+| uncertain timing         | nonlinear         |
+| strong directional trend | linear            |
+
+---
+
+# IMPORTANT PRINCIPLE
+
+```text
+Structural macro data is often more useful for:
+- identifying fragility
+- regime shifts
+- volatility expansion
+- liquidity transitions
+
+than predicting exact candles.
+```
+
+---
+
+# FINAL DAILY WORKFLOW OF MODULE 0
+
+Every day your system should answer:
+
+| Question                                | Output                     |
+| --------------------------------------- | -------------------------- |
+| Is liquidity expanding or contracting?  | liquidity regime           |
+| Is growth accelerating or slowing?      | growth regime              |
+| Is inflation rising or falling?         | inflation regime           |
+| Is stress building?                     | fragility score            |
+| Which participants dominate?            | participant classification |
+| Which asset classes strongest?          | leadership analysis        |
+| Which environments dangerous?           | risk classification        |
+| Is volatility compressing or expanding? | volatility regime          |
+| Which instruments best fit?             | instrument selection       |
+
+---
+
+# FINAL TRUTH OF MODULE 0
+
+```text
+Markets are surface reflections
+of deeper liquidity, leverage,
+credit, policy, infrastructure,
+and participant systems.
+```
+
+Your framework is evolving from:
+
+```text
+chart analysis
+```
+
+into:
+
+```text
+global probabilistic macro systems intelligence
+```
+
+
 This is no longer ordinary retail trading thinking at all.

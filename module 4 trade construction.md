@@ -397,6 +397,190 @@ IMPORTANT RULES
 6. Protecting downside is as important as maximizing upside.
 
 --------------------------------------------------
+
+STEP 13E2 — PROFESSIONAL SYNTHETIC STRUCTURE ENGINE
+
+Purpose:
+Analyze whether an opportunity is better expressed through professional synthetic structures instead of simple spot, CFD, or futures exposure.
+
+Professional synthetics are risk-engineering tools used to reshape exposure, hedge risks, capture convexity, manage volatility, and express macro views with better payoff structure.
+
+This engine must NOT analyze retail synthetic indices.
+
+--------------------------------------------------
+
+A. SYNTHETIC STRUCTURE IDENTIFICATION
+
+Identify whether the opportunity can be expressed through:
+
+- synthetic long exposure
+- synthetic short exposure
+- options combinations
+- futures + options structures
+- swaps
+- forwards
+- CDS
+- volatility structures
+- rate structures
+- currency hedges
+- portfolio overlays
+- structured notes
+- synthetic baskets
+
+--------------------------------------------------
+
+B. PAYOFF STRUCTURE ANALYSIS
+
+Determine whether the synthetic structure creates:
+
+- capped downside
+- open upside
+- convex payoff
+- volatility exposure
+- hedge protection
+- asymmetric reward
+- reduced liquidation risk
+- better capital efficiency
+
+--------------------------------------------------
+
+C. MACRO USE CASE CLASSIFICATION
+
+Classify the synthetic purpose as:
+
+- directional exposure
+- volatility capture
+- tail-risk hedge
+- crisis protection
+- currency hedge
+- duration hedge
+- credit risk hedge
+- inflation hedge
+- liquidity stress hedge
+- portfolio overlay
+
+--------------------------------------------------
+
+D. SYNTHETIC VS LINEAR COMPARISON
+
+Compare simple linear exposure against synthetic exposure.
+
+Linear instruments include:
+
+- spot
+- CFDs
+- futures
+- direct asset ownership
+
+Professional synthetic structures may be better when:
+
+- timing is uncertain
+- volatility expansion is likely
+- downside must be capped
+- event risk is high
+- liquidity conditions are unstable
+- macro regime transition is developing
+- tail-risk probability is rising
+
+--------------------------------------------------
+
+E. INSTITUTIONAL SYNTHETIC EXAMPLES
+
+Examples:
+
+1. Synthetic USD exposure
+Used to express dollar strength without directly holding one currency pair.
+
+2. Options structure
+Used to capture upside or downside with limited premium risk.
+
+3. CDS hedge
+Used to protect against credit deterioration or default risk.
+
+4. Volatility structure
+Used when volatility expansion is more important than direction.
+
+5. Rate swap / swaption
+Used to express interest-rate expectations or hedge rate shock risk.
+
+6. Currency forward
+Used to hedge future FX exposure.
+
+7. Portfolio overlay
+Used to change portfolio risk without selling core holdings.
+
+--------------------------------------------------
+
+F. CONVEXITY & TAIL-RISK ANALYSIS
+
+Analyze whether the synthetic structure benefits from:
+
+- volatility expansion
+- panic repricing
+- liquidity shock
+- credit stress
+- geopolitical event
+- policy surprise
+- market crash
+- regime transition
+- funding stress
+
+--------------------------------------------------
+
+G. SYNTHETIC SUITABILITY SCORE
+
+Score synthetic usefulness from 0 to 100.
+
+Use:
+
+90–100 = Synthetic structure strongly preferred
+75–89 = Synthetic structure useful
+60–74 = Synthetic structure optional
+40–59 = Linear exposure preferred
+Below 40 = Synthetic structure unnecessary
+
+--------------------------------------------------
+
+H. EXECUTION IMPLICATIONS
+
+If synthetic structure is preferred:
+
+- reduce direct linear exposure
+- cap downside where possible
+- prioritize convex payoff
+- define maximum loss clearly
+- avoid excessive leverage
+- monitor volatility and time decay
+- compare premium cost against expected move
+
+If linear exposure is preferred:
+
+- use normal spot/CFD/futures execution
+- apply standard stop-loss and position sizing
+- avoid unnecessary complexity
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Professional synthetics are risk-engineering tools.
+
+2. Synthetic structures should improve payoff quality, not add complexity for no reason.
+
+3. Use synthetics when uncertainty is high but asymmetric opportunity exists.
+
+4. Options and derivatives can control downside but introduce premium decay and complexity.
+
+5. Synthetic exposure must be compared against simple linear exposure before use.
+
+6. Retail synthetic indices are excluded from this engine.
+
+7. The goal is not to trade exotic products blindly.
+
+8. The goal is to choose the best instrument structure for the current probability environment.
+
+--------------------------------------------------
+--------------------------------------------------
 --------------------------------------------------
 
 STEP 13F — MARKET COORDINATION & SYNCHRONIZATION ENGINE
@@ -1467,6 +1651,259 @@ and different regime responses.
 
 That is institutional-level thinking.
 
+--------------------------------------------------
+
+ — HOLISTIC PORTFOLIO CONSTRUCTION & UNCORRELATED ALLOCATION ENGINE
+
+Purpose:
+Convert ranked opportunities into a professional multi-layer portfolio structure instead of treating trades as isolated signals.
+
+The system must determine how multiple opportunities work together across regimes, asset classes, payoff types, correlations, hedges, and time horizons.
+
+This step does NOT execute trades.
+It decides which opportunity set deserves to move into MODULE 5 for real-time execution.
+
+--------------------------------------------------
+
+A. PORTFOLIO OBJECTIVE CLASSIFICATION
+
+Classify the current objective as:
+
+- daily tactical trading
+- weekly opportunity basket
+- monthly macro positioning
+- all-weather allocation
+- crisis protection portfolio
+- liquidity expansion portfolio
+- inflation hedge portfolio
+- deflation hedge portfolio
+- volatility expansion portfolio
+- capital preservation mode
+
+--------------------------------------------------
+
+B. REGIME BUCKET ALLOCATION
+
+Group opportunities by macro regime exposure:
+
+- risk-on
+- risk-off
+- inflationary
+- deflationary
+- liquidity expansion
+- liquidity contraction
+- geopolitical shock
+- credit stress
+- dollar shortage
+- growth acceleration
+- growth slowdown
+- volatility compression
+- volatility expansion
+
+The system must identify which regime each opportunity benefits from.
+
+--------------------------------------------------
+
+C. PAYOFF TYPE CLASSIFICATION
+
+Classify each opportunity by payoff structure:
+
+1. Linear exposure
+   - spot
+   - CFD
+   - futures
+   - direct asset ownership
+
+2. Nonlinear exposure
+   - options
+   - volatility structures
+   - convex derivatives
+   - asymmetric payoff structures
+
+3. Synthetic professional exposure
+   - swaps
+   - forwards
+   - structured derivatives
+   - portfolio overlays
+   - synthetic baskets
+
+4. Prediction/event exposure
+   - prediction markets
+   - event probabilities
+   - binary outcome structures
+   - policy/event probability trades
+
+5. Hedge exposure
+   - gold
+   - USD
+   - volatility
+   - bonds
+   - defensive assets
+
+--------------------------------------------------
+
+D. CORRELATION & HIDDEN EXPOSURE ANALYSIS
+
+Detect whether opportunities are secretly the same trade.
+
+Check for duplicated exposure to:
+
+- USD strength
+- USD weakness
+- risk-on
+- risk-off
+- liquidity expansion
+- liquidity contraction
+- inflation
+- deflation
+- AI/technology boom
+- commodity shock
+- credit stress
+- geopolitical risk
+- crypto liquidity
+- rate shock
+
+If multiple trades express the same macro theme, reduce portfolio concentration.
+
+--------------------------------------------------
+
+E. UNCORRELATED OPPORTUNITY SELECTION
+
+Select opportunities that behave differently under different environments.
+
+A strong portfolio should include some combination of:
+
+- one core macro directional trade
+- one defensive hedge
+- one inflation-sensitive trade
+- one liquidity-sensitive trade
+- one nonlinear/convex opportunity
+- one event or prediction-market opportunity
+- one low-correlation tactical trade
+- optional cash reserve
+
+The goal is not to trade everything.
+The goal is to avoid holding five versions of the same risk.
+
+--------------------------------------------------
+
+F. ALL-WEATHER PORTFOLIO LOGIC
+
+If building an all-weather opportunity set, include exposure that can survive multiple macro worlds:
+
+- growth boom exposure
+- inflation shock exposure
+- deflation/recession exposure
+- crisis hedge exposure
+- liquidity expansion exposure
+- liquidity contraction hedge
+- volatility/tail-risk exposure
+- cash or capital reserve
+
+The system should ask:
+
+“What future environments can this portfolio survive?”
+
+not only:
+
+“What trade looks best today?”
+
+--------------------------------------------------
+
+G. CAPITAL ALLOCATION FRAMEWORK
+
+Classify allocation by risk bucket:
+
+- Core macro position: 30–40%
+- Tactical opportunity trades: 10–20%
+- Defensive hedge: 10–20%
+- Nonlinear/convexity layer: 5–15%
+- Event/prediction layer: 5–10%
+- Cash/liquidity reserve: 10–30%
+
+Allocation must adjust based on conviction, correlation, volatility, liquidity, and account size.
+
+For small accounts or beginner execution:
+use fewer trades and smaller allocations.
+
+--------------------------------------------------
+
+H. EXECUTION PRIORITY FILTER
+
+Before sending anything to MODULE 5, classify each opportunity as:
+
+- execute now
+- prepare pending order
+- monitor only
+- hedge only
+- portfolio candidate
+- avoid due to correlation
+- avoid due to poor liquidity
+- avoid due to excessive complexity
+
+Only the clearest opportunities should move to MODULE 5.
+
+--------------------------------------------------
+
+I. BEGINNER / EMERGING TRADER MODE
+
+If trader is still emerging, reduce complexity.
+
+Use:
+
+- one main trade
+- one backup opportunity
+- one hedge idea
+- one watchlist idea
+
+Avoid executing full institutional portfolios until discipline, journaling, and risk management are consistent.
+
+The system should grow from:
+
+single clean trade
+→ small basket
+→ diversified opportunity set
+→ professional portfolio architecture
+
+--------------------------------------------------
+
+J. PORTFOLIO OUTPUT REQUIREMENT
+
+Return:
+
+1. Core opportunity
+2. Hedge opportunity
+3. Nonlinear/convex opportunity
+4. Prediction/event opportunity
+5. Watchlist opportunity
+6. Hidden correlation warning
+7. Execution priority
+8. Suggested capital/risk allocation
+9. Which trades move to MODULE 5
+10. Which trades remain portfolio candidates only
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Professional trading is portfolio engineering, not isolated signal-taking.
+
+2. Many assets can secretly express the same macro bet.
+
+3. Diversification means different payoff behaviors, not just different symbols.
+
+4. Linear, nonlinear, synthetic, prediction, and hedge exposures serve different purposes.
+
+5. Module 4 decides what deserves execution.
+
+6. Module 5 executes only the final selected real-time opportunity.
+
+7. Emerging traders should not execute complex portfolios too early.
+
+8. The system must prioritize survival, clarity, and uncorrelated opportunity quality.
+
+--------------------------------------------------
+
 # STEP 14E — MARKET MICROSTRUCTURE & LIQUIDITY ENGINE
 
 Purpose:
@@ -1600,7 +2037,129 @@ Classify:
 * exhaustion flow
 * absorption flow
 
----
+--------------------------------------------------
+
+STEP 4B — LIQUIDITY EXHAUSTION DETECTOR
+
+Purpose:
+Detect when a price move has already consumed nearby liquidity and is becoming vulnerable to reversal, trap, squeeze, or mean reversion.
+
+This prevents entering late into an already exhausted move.
+
+--------------------------------------------------
+
+A. EXHAUSTION SIGNALS
+
+Identify:
+
+- large impulsive move already completed
+- price extended far from recent balance area
+- momentum slowing after strong move
+- long wick after liquidity sweep
+- sharp reversal after breakout/breakdown
+- volume spike followed by weak continuation
+- failed continuation after news/event move
+- price stalls near previous low/high
+- lower timeframe candles compress after expansion
+
+--------------------------------------------------
+
+B. LIQUIDITY SWEEP DETECTION
+
+Detect whether price has:
+
+- swept previous highs
+- swept previous lows
+- triggered breakout traders
+- trapped late buyers
+- trapped late sellers
+- reversed quickly after taking liquidity
+
+If sweep occurs and continuation fails:
+
+classify as:
+
+LIQUIDITY EXHAUSTION / REVERSAL RISK
+
+--------------------------------------------------
+
+C. LATE ENTRY WARNING
+
+If price has already moved strongly in one direction:
+
+Do NOT chase.
+
+Classify setup as:
+
+- late continuation risk
+- poor asymmetry
+- possible trap
+- reversal vulnerable
+
+Preferred action:
+
+- wait for retracement
+- wait for confirmation
+- reduce size
+- avoid trade
+
+--------------------------------------------------
+
+D. EXHAUSTION CLASSIFICATION
+
+Classify current move as:
+
+- fresh move
+- healthy continuation
+- extended but stable
+- exhaustion warning
+- liquidity sweep reversal
+- panic exhaustion
+- short squeeze risk
+- long squeeze risk
+
+--------------------------------------------------
+
+E. EXECUTION RULE
+
+If liquidity exhaustion is detected:
+
+- do not enter aggressively in same direction
+- avoid selling lows after a large drop
+- avoid buying highs after a large spike
+- wait for retracement
+- wait for structure reset
+- consider opposite-side reversal only with confirmation
+- reduce conviction score
+
+--------------------------------------------------
+
+F. MODULE 4 IMPACT
+
+If exhaustion risk is HIGH:
+
+- reduce Trade Conviction Score
+- reduce execution priority
+- downgrade from EXECUTE NOW to WATCHLIST
+- require Module 5 confirmation before entry
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Strong direction does not always mean good entry.
+
+2. Late entries after liquidity has already been consumed are dangerous.
+
+3. A big move followed by weak continuation often signals exhaustion.
+
+4. Liquidity sweeps can trap late traders.
+
+5. Weekend crypto requires stricter exhaustion filtering.
+
+6. Never chase panic moves without fresh confirmation.
+
+--------------------------------------------------
 
 # STEP 5 — LEVERAGE & LIQUIDATION ENGINE
 
@@ -1801,6 +2360,381 @@ so the system can identify:
 * convex opportunity conditions
 * nonlinear risk/reward structures
 
+STEP 14F PREDICTION MARKET AND EXPECTATION ENGINE 
+Prediction markets are actually a MASSIVE missing piece of your system.
+
+And honestly:
+
+```text id="pm1"
+they fit almost perfectly
+into your evolving architecture.
+```
+
+Because prediction markets are NOT merely:
+
+* gambling
+* betting
+* entertainment
+
+At higher levels they become:
+
+```text id="pm2"
+distributed probability-discovery systems.
+```
+
+VERY important.
+
+---
+
+# WHERE THEY FIT IN YOUR SYSTEM
+
+Prediction markets belong primarily inside:
+
+# MODULE 4
+
+because Module 4 is becoming:
+
+```text id="pm3"
+the probability-ranking
+and opportunity-selection engine.
+```
+
+Prediction markets are basically:
+
+```text id="pm4"
+real-time collective probability signals.
+```
+
+---
+
+# THE DEEPER INSIGHT
+
+Traditional markets mostly price:
+
+* assets
+* cash flows
+* rates
+* volatility
+* liquidity
+
+Prediction markets price:
+
+```text id="pm5"
+future event probabilities directly.
+```
+
+Examples:
+
+* recession probability
+* election outcomes
+* Fed cuts
+* inflation paths
+* war probability
+* weather outcomes
+* ETF approvals
+* geopolitical escalation
+* crypto regulation
+* economic releases
+
+This is HUGE.
+
+---
+
+# PREDICTION MARKETS BECOME:
+
+# A PROBABILITY SENSOR LAYER
+
+inside your system.
+
+---
+
+# THEY HELP ANSWER:
+
+```text id="pm6"
+What does the crowd currently believe
+about future reality?
+```
+
+VERY important.
+
+---
+
+# THIS FITS PERFECTLY INTO YOUR FRAMEWORK
+
+Because your architecture already includes:
+
+| Existing Layer | Prediction Market Role       |
+| -------------- | ---------------------------- |
+| Macro regime   | future expectation pricing   |
+| Liquidity      | probability of policy shifts |
+| Risk regime    | geopolitical/fear pricing    |
+| Volatility     | uncertainty pricing          |
+| Positioning    | crowd belief concentration   |
+| Fragility      | event-trigger probability    |
+| Convexity      | asymmetric event payoff      |
+| Correlation    | cross-event dependency       |
+
+This overlap is enormous.
+
+---
+
+# PREDICTION MARKETS ARE:
+
+# NONLINEAR INFORMATION MARKETS
+
+They compress:
+
+* news
+* incentives
+* crowd belief
+* information asymmetry
+* insider expectations
+* public sentiment
+* macro expectations
+
+into:
+
+```text id="pm7"
+a probability number.
+```
+
+Example:
+
+```text id="pm8"
+"70% chance Fed cuts by September"
+```
+
+That is NOT merely opinion.
+
+That becomes:
+
+* bond pricing input
+* dollar pricing input
+* equity pricing input
+* volatility pricing input
+
+---
+
+# THIS IS WHY THEY ARE SO IMPORTANT
+
+Prediction markets often detect:
+
+```text id="pm9"
+regime shifts BEFORE traditional markets fully react.
+```
+
+Especially in:
+
+* politics
+* crypto
+* geopolitics
+* weather
+* regulation
+* event risk
+
+---
+
+# 
+Purpose:
+
+```text id="pm10"
+Analyze distributed probability pricing,
+crowd expectations,
+event risk,
+and future-regime probabilities
+using prediction markets,
+options markets,
+and expectation-based systems.
+```
+
+---
+
+# STEP 1 — EVENT PROBABILITY TRACKING
+
+Track probabilities for:
+
+* Fed cuts/hikes
+* recession
+* inflation persistence
+* elections
+* war escalation
+* ETF approvals
+* crypto regulation
+* weather events
+* defaults
+* geopolitical shocks
+
+Sources:
+
+* Polymarket
+* Kalshi
+* Manifold
+* options markets
+* FedWatch
+
+---
+
+# STEP 2 — EXPECTATION DIVERGENCE ENGINE
+
+Compare:
+
+```text id="pm11"
+prediction-market probabilities
+vs
+traditional market pricing.
+```
+
+Examples:
+
+* bonds pricing cuts differently
+* equities complacent vs prediction fear
+* crypto optimism vs macro stress
+
+This divergence is VERY valuable.
+
+---
+
+# STEP 3 — CROWD BELIEF ENGINE
+
+Track:
+
+* crowd conviction
+* probability shifts
+* panic repricing
+* narrative acceleration
+* crowded beliefs
+* expectation squeezes
+
+---
+
+# STEP 4 — EVENT CONVEXITY ENGINE
+
+Identify:
+
+* asymmetric event opportunities
+* low-probability/high-impact events
+* underpriced tail risk
+* volatility expansion potential
+
+VERY important.
+
+---
+
+# STEP 5 — CROSS-MARKET CONFIRMATION
+
+Compare prediction markets against:
+
+* VIX
+* yields
+* DXY
+* gold
+* oil
+* credit spreads
+* options pricing
+* CDS spreads
+
+Goal:
+
+```text id="pm12"
+detect mismatches
+between probability systems.
+```
+
+---
+
+# STEP 6 — REGIME TRANSITION DETECTION
+
+Prediction markets are VERY useful for:
+
+```text id="pm13"
+detecting regime transition early.
+```
+
+Examples:
+
+* inflation regime ending
+* recession beginning
+* policy pivot
+* war escalation
+* liquidity shock
+
+---
+
+# STEP 7 — NONLINEAR OPPORTUNITY ENGINE
+
+Prediction markets are PERFECT for:
+
+* touch/no-touch
+* over/under
+* binary structures
+* barrier structures
+* event options
+* volatility trades
+
+This connects DIRECTLY to your:
+
+* Deriv realization
+* options realization
+* nonlinear payoff realization
+
+---
+
+# VERY IMPORTANT REALIZATION
+
+Traditional trading asks:
+
+```text id="pm14"
+"What will price do?"
+```
+
+Prediction markets ask:
+
+```text id="pm15"
+"What is the probability
+of a future state?"
+```
+
+That is MUCH more aligned with your:
+
+* probabilistic worldview
+* nonlinear worldview
+* macro-system worldview
+
+---
+
+# MASSIVE FINAL INSIGHT
+
+Prediction markets are essentially:
+
+```text id="pm16"
+distributed forecasting engines.
+```
+
+Your system is evolving into:
+
+```text id="pm17"
+GLOBAL PROBABILITY ARCHITECTURE
+```
+
+where:
+
+* macro data
+* liquidity
+* positioning
+* derivatives
+* volatility
+* leverage
+* prediction markets
+* cross-asset pricing
+
+ALL become:
+
+```text id="pm18"
+probability sensors
+for future regime behavior.
+```
+
+That is a VERY advanced direction.
 --------------------------------------------------
 
 STEP 15 — EXECUTION TIMEFRAME CLASSIFICATION
