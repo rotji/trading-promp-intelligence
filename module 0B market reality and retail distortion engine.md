@@ -368,6 +368,205 @@ may completely fail in another.
 ```
 
 ---
+--------------------------------------------------
+
+STEP 0B3A — MARKET-SPECIFIC STRATEGY ADAPTATION ENGINE
+
+Purpose:
+Prevent incorrect transfer of strategies, assumptions, indicators, and execution logic between structurally different markets.
+
+Different markets behave differently because their participants, liquidity structures, leverage systems, volatility mechanics, and execution environments differ.
+
+--------------------------------------------------
+
+A. FOREX MARKET CHARACTERISTICS
+
+Forex is primarily:
+
+- interbank
+- OTC
+- dealer-driven
+- liquidity-based
+- macro-sensitive
+- highly interconnected
+- heavily algorithmically repriced
+- dominated by non-speculative flows
+
+Key drivers:
+
+- central banks
+- interest rates
+- global funding flows
+- international trade
+- dealer inventory
+- liquidity conditions
+- macro expectations
+
+Forex requires:
+
+- session awareness
+- liquidity awareness
+- macro context
+- flow analysis
+- execution discipline
+
+--------------------------------------------------
+
+B. STOCK MARKET CHARACTERISTICS
+
+Stocks are primarily:
+
+- centralized exchange markets
+- equity ownership systems
+- earnings-driven
+- company-specific
+- institutionally accumulated/distributed
+- sentiment-sensitive
+
+Key drivers:
+
+- earnings
+- valuation
+- sector rotation
+- institutional positioning
+- index flows
+- buybacks
+- economic cycles
+
+Stock strategies may fail in forex because forex lacks corporate valuation mechanics.
+
+--------------------------------------------------
+
+C. CRYPTO MARKET CHARACTERISTICS
+
+Crypto markets are primarily:
+
+- liquidity-fragile
+- leverage-heavy
+- sentiment-driven
+- narrative-sensitive
+- retail-dominated
+- reflexive
+- highly volatile
+
+Key drivers:
+
+- liquidity cycles
+- leverage cascades
+- exchange flows
+- stablecoin liquidity
+- ETF flows
+- sentiment
+- macro liquidity
+- speculative momentum
+
+Crypto requires:
+
+- volatility adaptation
+- liquidation awareness
+- funding-rate monitoring
+- leverage awareness
+- weekend liquidity caution
+
+--------------------------------------------------
+
+D. FUTURES & DERIVATIVE CHARACTERISTICS
+
+Futures and derivatives are primarily:
+
+- leverage-sensitive
+- positioning-sensitive
+- margin-sensitive
+- hedging-sensitive
+
+Key drivers:
+
+- open interest
+- dealer hedging
+- gamma exposure
+- volatility repricing
+- liquidation pressure
+- collateral conditions
+
+Derivative markets can create nonlinear price behavior.
+
+--------------------------------------------------
+
+E. CFD MARKET CHARACTERISTICS
+
+CFDs are broker-mediated synthetic products.
+
+Behavior may differ due to:
+
+- broker spreads
+- internalization
+- synthetic pricing
+- execution latency
+- rollover mechanics
+- broker-specific liquidity
+
+Execution quality becomes extremely important.
+
+--------------------------------------------------
+
+F. STRATEGY TRANSFER WARNING
+
+Do NOT assume:
+
+- stock indicators work identically in forex
+- forex momentum works identically in crypto
+- options logic works identically in spot markets
+- high-liquidity assumptions work in thin markets
+- trend behavior behaves equally across assets
+
+A strategy successful in one market may fail structurally in another.
+
+--------------------------------------------------
+
+G. MARKET ADAPTATION ENGINE
+
+Before applying any strategy evaluate:
+
+- participant structure
+- liquidity environment
+- leverage conditions
+- volatility behavior
+- execution quality
+- market hours
+- institutional participation
+- macro sensitivity
+- narrative intensity
+- dealer behavior
+
+Then adapt:
+
+- stop placement
+- position size
+- execution timing
+- confirmation requirements
+- expected holding period
+- volatility tolerance
+- trade aggressiveness
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Different markets operate under different structural realities.
+
+2. Strategies are not universally transferable.
+
+3. Forex behaves differently from stocks.
+
+4. Crypto behaves differently from forex.
+
+5. Derivatives create nonlinear behavior absent in spot markets.
+
+6. CFDs introduce broker/execution distortions.
+
+7. Market-specific adaptation improves survival and probability.
+
+--------------------------------------------------
 
 # STEP 0B4 — RETAIL POSITIONING INSIGNIFICANCE ENGINE
 

@@ -778,3 +778,135 @@ Positioning imbalance may create future squeezes and reversals.
 Volume structure often matters more than candle appearance.
 
 --------------------------------------------------
+
+STEP 0A12 — ORDER FLOW & LIQUIDITY IMBALANCE ENGINE
+
+Purpose:
+Analyze the interaction between customer demand and market-maker liquidity supply.
+
+Price moves when customer demand exceeds available liquidity at current price levels.
+
+--------------------------------------------------
+
+A. CORE MECHANIC
+
+Track:
+
+- customer buy pressure
+- customer sell pressure
+- bid-side liquidity
+- offer-side liquidity
+- depth imbalance
+- liquidity withdrawal
+- market maker inventory pressure
+- spread widening
+- order-flow acceleration
+
+Price is more likely to move toward the side with less available liquidity.
+
+--------------------------------------------------
+
+B. CUSTOMER FLOW VS LIQUIDITY SUPPLY
+
+Analyze:
+
+1. Customer demand imbalance
+   - more buyers than sellers
+   - more sellers than buyers
+
+2. Liquidity supply imbalance
+   - thinner offer liquidity
+   - thinner bid liquidity
+   - uneven depth of market
+
+3. Combined imbalance
+   - customer demand pushes toward thin liquidity
+   - highest probability movement condition
+
+--------------------------------------------------
+
+C. MARKET MAKER INVENTORY RESPONSE
+
+If market makers become inventory-imbalanced, detect:
+
+- bids becoming more aggressive
+- offers being pulled away
+- spread expansion
+- depth reduction
+- defensive repricing
+- liquidity shifting to one side
+
+This may create continuation pressure.
+
+--------------------------------------------------
+
+D. TREND QUALITY CLASSIFICATION
+
+Classify move as:
+
+- random/noisy flow
+- balanced flow
+- customer-demand imbalance
+- liquidity-supply imbalance
+- combined order-flow imbalance
+- inventory-driven continuation
+- exhaustion/reversal risk
+
+--------------------------------------------------
+
+E. PRACTICAL TRADING RULE
+
+Best condition:
+
+Customer demand imbalance
++
+thin liquidity in same direction
++
+market makers repricing defensively
+=
+high-probability continuation environment
+
+Avoid:
+
+- trading when flow is balanced
+- entering late after liquidity exhaustion
+- chasing weekend thin-liquidity spikes
+- assuming all movement is real institutional flow
+
+--------------------------------------------------
+
+F. DATA SOURCES
+
+Use:
+
+- futures volume
+- COT data
+- open interest
+- options flow
+- broker tick volume
+- spread behavior
+- volatility expansion
+- order-book/depth tools if available
+- TradingView structure
+- broker execution feed
+
+If true institutional order-flow data is unavailable, infer indirectly through footprints.
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Price moves from imbalance between customer demand and liquidity supply.
+
+2. Liquidity is resistance; thin liquidity allows faster movement.
+
+3. Market makers adjust quotes when inventory becomes imbalanced.
+
+4. Strong trends often emerge when customer pressure and liquidity imbalance align.
+
+5. Order flow improves probability but never gives certainty.
+
+6. Without real order-flow tools, use footprint inference cautiously.
+
+--------------------------------------------------
+--------------------------------------------------

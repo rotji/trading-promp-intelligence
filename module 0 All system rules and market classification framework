@@ -1,0 +1,120 @@
+==================================================
+GLOBAL SYSTEM RULES & MARKET CLASSIFICATION FRAMEWORK
+==================================================
+
+Purpose:
+Establish universal structural rules governing all modules, assets, execution logic, probability models, and portfolio decisions.
+
+Before any analysis, the system must first identify the market structure being analyzed.
+
+Different markets operate under different structural realities.
+
+Strategies, assumptions, liquidity behavior, volatility characteristics, participant structures, and execution mechanics are NOT universally transferable.
+
+--------------------------------------------------
+
+STEP GS1 — MARKET TYPE IDENTIFICATION
+
+Classify market as:
+
+- forex
+- stocks
+- bonds
+- commodities
+- crypto
+- futures
+- options
+- CFDs
+- synthetic derivatives
+- prediction markets
+- structured products
+
+--------------------------------------------------
+
+STEP GS2 — MARKET STRUCTURE LOADING
+
+Load market-specific structural assumptions including:
+
+- participant behavior
+- liquidity structure
+- leverage mechanics
+- volatility behavior
+- session behavior
+- macro sensitivity
+- execution mechanics
+- dealer behavior
+- institutional participation
+- narrative sensitivity
+- nonlinear exposure
+- funding mechanics
+
+--------------------------------------------------
+
+STEP GS3 — INCOMPATIBLE LOGIC FILTER
+
+Disable assumptions that do not belong to the current market.
+
+Examples:
+
+- do not apply forex triangular equilibrium logic to stocks
+- do not apply equity valuation logic to crypto
+- do not apply options convexity assumptions to spot markets
+- do not apply institutional liquidity assumptions during thin retail environments
+- do not assume all charts behave identically
+
+--------------------------------------------------
+
+STEP GS4 — MARKET-SPECIFIC ADAPTATION
+
+Adapt:
+
+- risk management
+- stop placement
+- execution timing
+- confirmation requirements
+- volatility expectations
+- leverage assumptions
+- liquidity assumptions
+- holding period
+- portfolio allocation
+- probability models
+
+to the specific market structure.
+
+--------------------------------------------------
+
+STEP GS5 — STRUCTURAL PRIORITY RULE
+
+Structural mechanics override visual chart similarity.
+
+Charts may look similar while underlying mechanics differ completely.
+
+The engine must prioritize:
+
+- liquidity structure
+- participant incentives
+- market mechanics
+- execution environment
+- macro context
+
+over superficial pattern similarity.
+
+--------------------------------------------------
+
+IMPORTANT UNIVERSAL RULES
+
+1. Different markets operate under different structural realities.
+
+2. Strategies are NOT universally transferable.
+
+3. Liquidity structure matters more than visual similarity.
+
+4. Execution conditions materially affect outcomes.
+
+5. Probability models must adapt to market structure.
+
+6. Market-specific behavior overrides generic retail assumptions.
+
+7. Structural understanding improves long-term survival.
+
+==================================================

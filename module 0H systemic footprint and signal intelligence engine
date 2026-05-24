@@ -118,7 +118,7 @@ VERY important placement.
 
 ---
 
-# MODULE 0G — SYSTEMIC FOOTPRINT & SIGNAL INTELLIGENCE ENGINE
+# MODULE 0H — SYSTEMIC FOOTPRINT & SIGNAL INTELLIGENCE ENGINE
 
 Purpose:
 Detect, interpret, classify, and analyze direct and indirect systemic footprints left by liquidity, leverage, positioning, macro flows, institutional behavior, volatility, collateral systems, and participant interaction.
@@ -152,7 +152,7 @@ Footprints are often indirect, delayed, fragmented, and probabilistic.
 
 ---
 
-STEP 0G1 — FOOTPRINT CLASSIFICATION ENGINE
+STEP 0H1 — FOOTPRINT CLASSIFICATION ENGINE
 
 Classify detected footprints as:
 
@@ -195,7 +195,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G2 — FOOTPRINT SOURCE ENGINE
+STEP 0H2 — FOOTPRINT SOURCE ENGINE
 
 Determine which system layer may be generating the footprint.
 
@@ -217,7 +217,7 @@ Possible sources include:
 
 ---
 
-STEP 0G3 — POSITIONING FOOTPRINT ENGINE
+STEP 0H3 — POSITIONING FOOTPRINT ENGINE
 
 Analyze footprints left by positioning behavior.
 
@@ -246,7 +246,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G4 — LIQUIDITY FOOTPRINT ENGINE
+STEP 0H4 — LIQUIDITY FOOTPRINT ENGINE
 
 Analyze liquidity-based footprints.
 
@@ -275,7 +275,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G5 — VOLATILITY FOOTPRINT ENGINE
+STEP 0H5 — VOLATILITY FOOTPRINT ENGINE
 
 Analyze volatility-related footprints.
 
@@ -303,7 +303,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G6 — CROSS-MARKET FOOTPRINT ENGINE
+STEP 0H6 — CROSS-MARKET FOOTPRINT ENGINE
 
 Analyze how stress or liquidity shifts propagate across markets.
 
@@ -340,7 +340,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G7 — FRAGILITY FOOTPRINT ENGINE
+STEP 0H7 — FRAGILITY FOOTPRINT ENGINE
 
 Detect footprints of systemic fragility.
 
@@ -368,7 +368,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G8 — INFORMATION LEAKAGE ENGINE
+STEP 0H8 — INFORMATION LEAKAGE ENGINE
 
 Analyze whether hidden system information may be leaking indirectly through market behavior.
 
@@ -395,7 +395,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G9 — FOOTPRINT CONFIDENCE ENGINE
+STEP 0H9 — FOOTPRINT CONFIDENCE ENGINE
 
 Estimate confidence level of detected footprints.
 
@@ -427,7 +427,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G10 — PROBABILISTIC INFERENCE ENGINE
+STEP 0H10 — PROBABILISTIC INFERENCE ENGINE
 
 Convert footprint analysis into probabilistic interpretation.
 
@@ -455,7 +455,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G11 — FOOTPRINT ALIGNMENT ENGINE
+STEP 0H11 — FOOTPRINT ALIGNMENT ENGINE
 
 Determine whether multiple footprint categories align together.
 
@@ -489,7 +489,7 @@ IMPORTANT RULES
 
 ---
 
-STEP 0G12 — ADAPTIVE FOOTPRINT EVOLUTION ENGINE
+STEP 0H12 — ADAPTIVE FOOTPRINT EVOLUTION ENGINE
 
 Analyze how footprints evolve over time.
 
@@ -626,3 +626,28 @@ signal-producing footprint systems.
 
 Very coherent architecture now.
 That is EXTREMELY advanced thinking.
+
+STEP 0H13 — ORDER FLOW FOOTPRINT ENGINE
+
+Detect indirect footprints of order-flow imbalance:
+
+- sudden spread widening
+- sharp candle expansion
+- liquidity vacuum
+- thin pullbacks
+- aggressive continuation
+- failed reversal attempts
+- large wick then continuation
+- volatility expansion without news
+
+Classify whether price movement is likely caused by:
+
+- real customer flow
+- market-maker liquidity withdrawal
+- dealer inventory adjustment
+- thin weekend liquidity
+- forced liquidation
+- random noise
+
+IMPORTANT RULE:
+Order-flow footprints increase probability only when confirmed by liquidity, volume, volatility, and session context.
