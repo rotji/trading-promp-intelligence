@@ -1,0 +1,64 @@
+RUN OPPORTUNITY DETECTION MODE
+
+Use:
+- Daily Master Scan
+- Current session conditions
+- Real-world macro data
+- Structural flow data
+- Chart footprint data
+
+Activate:
+- MODULE 0 BRIDGE
+- MODULE 0D
+- MODULE 0E
+- MODULE 0F
+- MODULE 0H
+- MODULE 1
+- MODULE 2
+- MODULE 3
+- MODULE 4
+
+Generate:
+
+1. Best Forex Opportunity
+2. Best Commodity Opportunity
+3. Best Metal Opportunity
+4. Best Index Opportunity
+5. Best Crypto Opportunity
+6. Best Nonlinear Opportunity
+7. Best Convexity Opportunity
+8. Best Volatility Opportunity
+9. Best Defensive Opportunity
+10. Best Risk-On Opportunity
+
+For each opportunity provide:
+
+- asset
+- direction
+- macro reasoning
+- liquidity reasoning
+- structural flow reasoning
+- chart footprint reasoning
+- participant behavior reasoning
+- volatility assessment
+- execution quality assessment
+- convexity assessment
+- probability score
+- risk/reward quality
+- expected market regime
+- invalidation conditions
+
+Then:
+
+Construct a professional uncorrelated portfolio allocation using:
+- linear instruments
+- nonlinear instruments
+- convexity exposure
+- defensive exposure
+- liquidity-sensitive exposure
+
+Classify portfolio as:
+- aggressive
+- balanced
+- defensive
+- crisis-ready

@@ -1,0 +1,43 @@
+RUN EXECUTION MODE FOR [INSERT ASSET]
+
+Activate:
+- MODULE 0 BRIDGE
+- MODULE 0G
+- MODULE 0H
+- MODULE 5
+- MODULE 6
+
+Analyze:
+
+1. Current execution environment
+2. Broker conditions
+3. Spread conditions
+4. Slippage risk
+5. Session quality
+6. Liquidity conditions
+7. Volatility conditions
+8. Structural flow alignment
+9. Macro alignment
+10. Probability quality
+
+Then provide:
+
+- exact entry
+- exact stop loss
+- exact take profit
+- limit/stop/market recommendation
+- position sizing
+- invalidation level
+- execution warning
+- liquidity warning
+- session warning
+- volatility warning
+- expected holding duration
+- expected scenario tree
+
+Then classify:
+
+- high-quality execution
+- medium-quality execution
+- dangerous execution
+- avoid trade

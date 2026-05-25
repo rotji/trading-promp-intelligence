@@ -1,0 +1,40 @@
+RUN LIVE TRADE MANAGEMENT MODE
+
+Asset:
+[INSERT ASSET]
+
+Entry:
+[INSERT ENTRY]
+
+Current Price:
+[INSERT CURRENT PRICE]
+
+Activate:
+- MODULE 0 BRIDGE
+- MODULE 5
+- MODULE 6
+
+Analyze:
+
+1. Current liquidity conditions
+2. Current structural flow behavior
+3. Current macro behavior
+4. Current volatility regime
+5. Current execution quality
+6. Trend continuation probability
+7. Reversal probability
+8. Liquidity exhaustion probability
+9. Dealer pressure
+10. Positioning changes
+
+Then recommend:
+
+- hold
+- reduce
+- partial take profit
+- move stop
+- close trade
+- add exposure
+- avoid adjustment
+
+Use probability language only.

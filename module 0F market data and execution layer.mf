@@ -35,6 +35,39 @@ Purpose:
 
 --------------------------------------------------
 
+STEP 0F2A — EXECUTION PRICE NORMALIZATION ENGINE
+
+All execution prices must use the broker’s native quoted price format.
+
+Examples:
+
+- BTC → full dollar notation
+  Example:
+  76918
+  NOT:
+  76.918
+
+- XAUUSD → broker-native gold pricing
+- Forex → broker-native decimal format
+- Indices → broker-native index notation
+
+Purpose:
+Prevent execution confusion, decimal distortion, and incorrect order placement.
+
+IMPORTANT RULES
+
+1. Analysis notation and execution notation may differ.
+
+2. All real execution instructions must use:
+   - broker-native price formatting
+   - live quoted instrument pricing
+   - execution-ready notation
+
+3. Never compress execution prices during live trading.
+
+--------------------------------------------------
+--------------------------------------------------
+
 STEP 0F3 — BROKER DIFFERENCE DETECTION
 
 Compare:
