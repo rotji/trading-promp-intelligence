@@ -1,38 +1,393 @@
+```text id="yjlwm0"
 ACTIVATE
-- module 0 all system rules and market classification framework
-- module 0 bridege multi layer market intelligence input-output engine
-- module 0 dashboard 
-- module 0A market microstructure and interbank engine
-- module 0B  market reality and retail distortion engine
-- module 0C global macro and liquidity context
-- module 0D  global liquidity pyramid and fragility engine
-- module 0E derivatives, leverage and assymetric risk engine
-- module 0F market data and execution layer
-- module 0G probability structure and payoff engine
-- module 0H systemic footprint and signal intelligence
 
-Output:
+- MODULE 0 — ALL SYSTEM RULES AND MARKET CLASSIFICATION FRAMEWORK
+
+- MODULE 0 BRIDGE — MULTI-LAYER MARKET INTELLIGENCE INPUT–OUTPUT ENGINE
+
+- MODULE 0 CONTENT — DATA ACQUISITION, TRACEABILITY AND SIGNAL EVIDENCE ENGINE
+
+- MODULE 0 DASHBOARD
+
+- MODULE 0A — MARKET MICROSTRUCTURE AND INTERBANK ENGINE
+
+- MODULE 0B — MARKET REALITY AND RETAIL DISTORTION ENGINE
+
+- MODULE 0C — GLOBAL MACRO AND LIQUIDITY CONTEXT
+
+- MODULE 0D — GLOBAL LIQUIDITY PYRAMID AND FRAGILITY ENGINE
+
+- MODULE 0E — DERIVATIVES, LEVERAGE AND ASYMMETRIC RISK ENGINE
+
+- MODULE 0F — MARKET DATA AND EXECUTION LAYER
+
+- MODULE 0G — PROBABILITY STRUCTURE AND PAYOFF ENGINE
+
+- MODULE 0H — SYSTEMIC FOOTPRINT AND SIGNAL INTELLIGENCE
+
+--------------------------------------------------
+--------------------------------------------------
+
+FIRST:
+
+RUN MODULE 0 CONTENT — DATA ACQUISITION, TRACEABILITY AND SIGNAL EVIDENCE ENGINE
+
+The engine must FIRST collect real-world intelligence from online sources before analysis begins.
+
+Collect and synthesize:
+
+A. MACRO DATA
+- inflation
+- interest rates
+- GDP
+- unemployment
+- PMI
+- bond yields
+- central bank policy
+- balance sheet changes
+- sovereign debt conditions
+- fiscal conditions
+
+B. LIQUIDITY DATA
+- repo conditions
+- reverse repo
+- SOFR
+- dollar liquidity
+- funding stress
+- central bank liquidity
+- liquidity injections
+- credit spreads
+- treasury issuance
+
+C. STRUCTURAL FLOW DATA
+- COT positioning
+- futures open interest
+- options positioning
+- dealer positioning
+- gamma exposure
+- ETF flows
+- stablecoin flows
+- funding rates
+- leverage conditions
+- liquidation clusters
+
+D. VOLATILITY DATA
+- VIX
+- MOVE index
+- realized volatility
+- implied volatility
+- volatility regime changes
+- volatility expansion/compression
+
+E. GEOPOLITICAL DATA
+- wars
+- sanctions
+- trade conflict
+- shipping disruptions
+- energy disruptions
+- infrastructure fragility
+- geopolitical escalation
+
+F. EXECUTION DATA
+- broker spreads
+- slippage conditions
+- session liquidity
+- rollover conditions
+- execution quality
+- platform stability
+
+G. CHART FOOTPRINT DATA
+- trend structure
+- liquidity sweeps
+- compression
+- expansion
+- momentum exhaustion
+- volume behavior
+- volatility behavior
+- session behavior
+
+--------------------------------------------------
+
+DATA SOURCE EXAMPLES
+
+Possible sources include:
+- Federal Reserve
+- ECB
+- BOJ
+- BOE
+- BIS
+- IMF
+- OECD
+- World Bank
+- TradingEconomics
+- FRED
+- CFTC
+- CME
+- TradingView
+- broker feeds
+- exchange feeds
+- options flow systems
+- institutional positioning systems
+- macroeconomic releases
+- volatility indexes
+- financial news systems
+
+--------------------------------------------------
+
+DATA TRACEABILITY REQUIREMENTS
+
+The engine must expose:
+
+1. Exact data collected
+2. Exact figures collected
+3. Exact signal sources
+4. Signal quality
+5. Signal conflicts
+6. Evidence quality
+7. Data uncertainty
+8. Structural uncertainty
+
+--------------------------------------------------
+
+SIGNAL WEIGHTING ENGINE
+
+The engine must classify signals as:
+- critical
+- high
+- medium
+- low
+- noise
+
+The engine must detect:
+- aligned signals
+- conflicting signals
+- weak signals
+- unstable signals
+- crowded signals
+
+--------------------------------------------------
+
+MARKET-SPECIFIC RULES
+
+The engine must distinguish between:
+- forex
+- stocks
+- commodities
+- metals
+- crypto
+- bonds
+- derivatives
+
+Forex logic must NOT automatically transfer to:
+- equities
+- crypto
+- commodities
+- bonds
+
+without market-specific structural validation.
+
+--------------------------------------------------
+
+CHART REALITY RULES
+
+Charts are:
+- historical footprints
+- liquidity footprints
+- volatility footprints
+- participant footprints
+
+Charts are NOT:
+- complete market reality
+- full institutional positioning
+- full macro reality
+- full liquidity reality
+
+The engine must combine:
+- chart footprints
+- real-world macro data
+- structural flow data
+- liquidity conditions
+- volatility conditions
+- participant behavior
+
+before generating conclusions.
+
+--------------------------------------------------
+
+IMPORTANT SYSTEM RULES
+
+1. Use probability language only.
+
+2. Avoid certainty language.
+
+3. Expose uncertainty honestly.
+
+4. Conflicting evidence reduces confidence.
+
+5. Data quality affects probability quality.
+
+6. Structural flow often matters more than isolated chart patterns.
+
+7. Markets are adaptive probabilistic systems.
+
+--------------------------------------------------
+--------------------------------------------------
+
+THEN:
+
+Run full global intelligence synthesis.
+
+--------------------------------------------------
+--------------------------------------------------
+
+BEFORE ANY ANALYSIS:
+
+GENERATE DAILY GLOBAL RAW DATA SNAPSHOT.
+
+The engine must FIRST output:
+- latest verified figures
+- latest verified ranges
+- latest verified regimes
+- latest verified structural conditions
+
+WITHOUT:
+- interpretation
+- storytelling
+- macro conclusions
+- opportunity generation
+- narrative expansion
+
+--------------------------------------------------
+
+OUTPUT FORMAT MUST REMAIN CLEAN:
+
+Example format:
+
+FED FUNDS RATE
+~5.25%–5.50%
+
+US 10Y YIELD
+~4.5%–4.6%
+
+FED BALANCE SHEET
+~6.7T USD
+
+VIX
+~16–17
+
+BTC
+~69k–77k region
+
+GOLD
+~2300+ USD
+
+WTI OIL
+~70–80 USD region
+
+SOFR
+~5.3%
+
+US CPI
+~3% region
+please note that the above figures are just sample you are to generate your own fresh numbers that the system would use by searching the web for latest of those figures.
+--------------------------------------------------
+
+FOR EVERY DATA POINT EXPOSE:
+
+- freshness quality
+- latency quality
+- confidence quality
+
+Classify:
+- real-time
+- high-frequency
+- structural
+- delayed
+
+--------------------------------------------------
+
+The engine must prioritize:
+- latest available public data
+- latest available structural data
+- latest available execution data
+
+Avoid:
+- fabricated precision
+- unsupported figures
+- assumption-based estimates
+- stale structural conclusions
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+OUTPUT:
 
 1. Global Macro Regime
+
 2. Liquidity Conditions
+
 3. Risk Regime
+
 4. Structural Fragility
+
 5. Institutional Positioning
+
 6. Volatility Environment
+
 7. Strongest Asset Classes
+
 8. Weakest Asset Classes
+
 9. Most Important Macro Drivers
+
 10. Most Important Liquidity Drivers
+
 11. Most Important Structural Flow Drivers
+
 12. High-Risk Event Warnings
+
 13. Current Dominant Narrative
+
 14. Current Dominant Participant Behavior
+
 15. Market Environment Classification
+
 16. Best Conditions Today
+
 17. Worst Conditions Today
+
 18. Assets To Focus On
+
 19. Assets To Avoid
+
 20. Overall Global Opportunity Map
 
+--------------------------------------------------
+
+FOR EVERY OUTPUT PROVIDE:
+
+- supporting evidence
+- conflicting evidence
+- probability quality
+- signal quality
+- uncertainty level
+- structural flow explanation
+- liquidity explanation
+- macro explanation
+
+--------------------------------------------------
+
 Use probability language only.
+
 Avoid certainty.
+
+Expose:
+- supporting evidence
+- conflicting evidence
+- structural uncertainty
+- signal quality
+- confidence quality
+
+--------------------------------------------------
+```

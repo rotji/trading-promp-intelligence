@@ -1,0 +1,1229 @@
+# MODULE 0 CONTENT — DATA ACQUISITION, TRACEABILITY AND SIGNAL EVIDENCE ENGINE
+
+## CORE PURPOSE
+
+```text id="x0ckkc"
+Transform the system from a chart-analysis framework into a fully traceable global intelligence engine by collecting, verifying, weighting, classifying, and exposing all data sources, structural flows, macro signals, and evidence layers used in every decision.
+```
+
+---
+
+# PRIMARY OBJECTIVE
+
+```text id="7en1s0"
+The engine must never produce analysis without exposing:
+- where data came from
+- what exact data was used
+- what figures mattered
+- what signals conflicted
+- what probabilities were assigned
+- what uncertainty exists
+```
+
+---
+
+# MODULE PHILOSOPHY
+
+```text id="4brqkg"
+Charts are footprints.
+Flows are hidden behavior.
+Macro is the global force field.
+```
+
+This module exists to:
+
+* bridge visible market movement with hidden institutional mechanics
+* separate evidence from assumptions
+* prevent isolated chart interpretation
+* create institutional-grade traceability
+* expose uncertainty instead of hiding it
+
+---
+
+# CORE SYSTEM RULES
+
+## RULE 1 — NO SIGNAL WITHOUT SOURCE
+
+```text id="m7t0ww"
+Every major signal must reference its originating data source.
+```
+
+---
+
+## RULE 2 — NO OUTPUT WITHOUT EVIDENCE
+
+```text id="v2opx5"
+Every execution analysis must expose supporting evidence blocks.
+```
+
+---
+
+## RULE 3 — CONFLICTING DATA MUST BE EXPOSED
+
+```text id="jv6u3g"
+The engine must explicitly state when macro, flow, and chart layers disagree.
+```
+
+---
+
+## RULE 4 — PROBABILITY ONLY
+
+```text id="jlwmuh"
+No certainty language allowed.
+```
+
+Allowed:
+
+* likely
+* probable
+* elevated probability
+* moderate probability
+* lower probability
+* asymmetric probability
+
+Forbidden:
+
+* guaranteed
+* certain
+* must happen
+* definitely
+
+---
+
+## RULE 5 — MARKET-SPECIFIC LOGIC
+
+```text id="7mjlwm"
+Forex logic must not automatically transfer to stocks, crypto, commodities, or rates without market-specific validation.
+```
+
+---
+
+# INPUT ARCHITECTURE
+
+The module absorbs three intelligence layers:
+
+---
+
+# LAYER A — CHART FOOTPRINT INPUT
+
+## Purpose
+
+```text id="i8pnrt"
+Detect visible market behavior and historical participant footprints.
+```
+
+## Data Collected
+
+* trend structure
+* market regime
+* volatility expansion
+* volatility compression
+* liquidity sweeps
+* stop hunts
+* session behavior
+* volume anomalies
+* support/resistance interaction
+* imbalance zones
+* momentum exhaustion
+* acceleration/deceleration
+
+## Sources
+
+* TradingView
+* MT5
+* exchange chart feeds
+* broker feeds
+
+---
+
+# LAYER B — STRUCTURAL FLOW INPUT
+
+## Purpose
+
+```text id="x4d6ib"
+Detect hidden institutional positioning and liquidity behavior.
+```
+
+## Data Collected
+
+* COT positioning
+* dealer gamma exposure
+* futures open interest
+* options positioning
+* swap exposure
+* leverage concentration
+* ETF flows
+* stablecoin flows
+* funding rates
+* treasury flows
+* repo activity
+* cross-currency basis
+* volatility surfaces
+* liquidation clusters
+
+## Sources
+
+* CME
+* CFTC
+* DTCC
+* BIS
+* exchange derivatives data
+* options flow providers
+* institutional flow feeds
+
+---
+
+# LAYER C — MACRO REALITY INPUT
+
+## Purpose
+
+```text id="xjlwm9"
+Understand why global capital is moving.
+```
+
+## Data Collected
+
+* inflation
+* rates
+* central bank policy
+* balance sheet expansion/contraction
+* liquidity injections
+* unemployment
+* GDP
+* PMIs
+* sovereign debt stress
+* banking stress
+* geopolitical risk
+* energy shocks
+* shipping disruption
+* trade wars
+* fiscal spending
+* dollar liquidity
+
+## Sources
+
+* Federal Reserve
+* ECB
+* BOJ
+* BOE
+* BIS
+* IMF
+* OECD
+* World Bank
+* FRED
+* TradingEconomics
+* government releases
+
+---
+
+# SIGNAL PROCESSING ENGINE
+
+## STEP 1 — DATA COLLECTION
+
+```text id="yw9q8q"
+Search and ingest relevant global data before analysis begins.
+```
+
+---
+
+## STEP 2 — DATA CLASSIFICATION
+
+```text id="jlwmvb"
+Classify incoming data into:
+- macro
+- liquidity
+- volatility
+- structural flow
+- execution
+- chart footprint
+- positioning
+- systemic risk
+```
+
+---
+
+## STEP 3 — SIGNAL WEIGHTING
+
+```text id="l9ep0g"
+Assign weight scores based on:
+- recency
+- reliability
+- historical impact
+- regime relevance
+- market sensitivity
+```
+
+Weight classes:
+
+* critical
+* high
+* medium
+* low
+* noise
+
+---
+
+## STEP 4 — CONFLICT DETECTION
+
+```text id="y6w7k4"
+Detect disagreement between:
+- macro structure
+- structural flows
+- chart footprints
+- volatility conditions
+- liquidity conditions
+```
+
+---
+
+## STEP 5 — PROBABILITY ENGINE
+
+```text id="t2hfry"
+Convert all aligned and conflicting evidence into probabilistic assessments.
+```
+
+---
+
+# OUTPUT ARCHITECTURE
+
+Every analysis must output:
+
+---
+
+# DATA EVIDENCE BLOCK
+
+Example structure:
+
+## MACRO DATA EVIDENCE
+
+```text id="r4kkdu"
+Fed policy restrictive.
+US yields elevated.
+BOJ still accommodative.
+```
+
+---
+
+## STRUCTURAL FLOW EVIDENCE
+
+```text id="t6zy5j"
+COT still net-long USD.
+Dealer positioning slightly long USDJPY.
+```
+
+---
+
+## LIQUIDITY EVIDENCE
+
+```text id="kq0n3m"
+London liquidity active.
+No severe funding stress detected.
+```
+
+---
+
+## CHART FOOTPRINT EVIDENCE
+
+```text id="9rm3pk"
+H4 bullish structure.
+M15 compression near highs.
+Momentum slowing.
+```
+
+---
+
+## VOLATILITY EVIDENCE
+
+```text id="btjlwm"
+Realized volatility moderate.
+No panic volatility regime detected.
+```
+
+---
+
+# SIGNAL CONFLICT BLOCK
+
+Example:
+
+```text id="jlwm5n"
+Macro structure bullish.
+Short-term execution structure bearish.
+Probability environment mixed.
+```
+
+---
+
+# SIGNAL WEIGHT TABLE
+
+| Signal                | Weight | Bias          |
+| --------------------- | ------ | ------------- |
+| Yield Differential    | High   | Bullish       |
+| Momentum Exhaustion   | Medium | Bearish       |
+| Liquidity Compression | Medium | Reversal Risk |
+| Funding Conditions    | Low    | Neutral       |
+
+---
+
+# FINAL CLASSIFICATION OUTPUTS
+
+The engine must classify:
+
+## Macro Regime
+
+* inflationary
+* disinflationary
+* stagflationary
+* deflationary
+* reflationary
+
+---
+
+## Liquidity Regime
+
+* expanding
+* stable
+* tightening
+* stressed
+* crisis
+
+---
+
+## Volatility Regime
+
+* compressed
+* normal
+* elevated
+* panic
+
+---
+
+## Market Structure Regime
+
+* trending
+* mean reverting
+* breakout
+* exhaustion
+* unstable
+
+---
+
+# EXECUTION INTEGRATION
+
+This module feeds:
+
+* MODULE 0A
+* MODULE 0C
+* MODULE 0D
+* MODULE 0E
+* MODULE 0F
+* MODULE 0G
+* MODULE 0H
+* MODULE 5
+* MODULE 6
+
+---
+
+# FINAL PURPOSE OF MODULE 0J
+
+```text id="i4hn1n"
+Create a transparent, evidence-driven, probabilistic global intelligence layer capable of explaining:
+- what is happening
+- why it is happening
+- who is likely driving it
+- what evidence supports it
+- what evidence conflicts with it
+- where uncertainty exists
+```
+--------------------------------------------------
+
+GLOBAL DATA SOURCE INTELLIGENCE LAYER
+
+The engine must continuously search, ingest, classify, and synthesize data from multiple global intelligence domains.
+
+--------------------------------------------------
+
+MACROECONOMIC SOURCES
+
+- BIS
+- IMF
+- World Bank
+- OECD
+- Federal Reserve
+- ECB
+- BOJ
+- BOE
+- FRED
+- TradingEconomics
+- sovereign debt systems
+- macroeconomic releases
+
+--------------------------------------------------
+
+LIQUIDITY AND FUNDING SOURCES
+
+- repo market data
+- reverse repo
+- SOFR
+- central bank balance sheets
+- treasury issuance
+- funding spreads
+- cross-currency basis swaps
+- liquidity stress systems
+- credit spreads
+
+--------------------------------------------------
+
+DERIVATIVES AND POSITIONING SOURCES
+
+- CME
+- CFTC
+- COT reports
+- futures positioning
+- options positioning
+- dealer gamma exposure
+- implied volatility systems
+- open interest systems
+- liquidation systems
+
+--------------------------------------------------
+
+GEOPOLITICAL AND STRUCTURAL POWER SOURCES
+
+- sanctions databases
+- defense spending databases
+- lobbying disclosures
+- offshore leak investigations
+- geopolitical intelligence systems
+- sovereign risk systems
+- shipping intelligence
+- energy infrastructure systems
+- strategic chokepoint monitoring
+- political risk systems
+
+--------------------------------------------------
+
+MARKET STRUCTURE AND EXECUTION SOURCES
+
+- broker feeds
+- TradingView
+- MT5
+- exchange feeds
+- futures market data
+- volatility indexes
+- execution quality systems
+- spread monitoring systems
+- liquidity depth systems
+
+--------------------------------------------------
+
+NARRATIVE AND SENTIMENT SOURCES
+
+- financial media systems
+- central bank communication
+- earnings reports
+- institutional commentary
+- geopolitical headlines
+- sentiment systems
+- volatility narrative tracking
+
+--------------------------------------------------
+
+ALTERNATIVE DATA SOURCES
+
+- shipping data
+- satellite intelligence
+- energy flows
+- internet infrastructure data
+- supply-chain systems
+- stablecoin flows
+- ETF flows
+- logistics systems
+- commodity transportation systems
+
+| Data Category         | Exact Data To Collect                        | Free Sources                                                                                                                                                                                                                                | Update Speed        |
+| --------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Interest Rates        | Fed Funds Rate, ECB Rate, BOE Rate, BOJ Rate | [FRED](https://fred.stlouisfed.org?utm_source=chatgpt.com), [ECB](https://www.ecb.europa.eu?utm_source=chatgpt.com), [BOE](https://www.bankofengland.co.uk?utm_source=chatgpt.com), [BOJ](https://www.boj.or.jp/en/?utm_source=chatgpt.com) | Monthly / live      |
+| Bond Market           | US 2Y Yield, US 10Y Yield, Yield Curve       | [FRED](https://fred.stlouisfed.org?utm_source=chatgpt.com), [Treasury.gov](https://home.treasury.gov?utm_source=chatgpt.com)                                                                                                                | Real-time           |
+| Liquidity             | Fed Balance Sheet, Reverse Repo, SOFR        | [Federal Reserve H4.1](https://www.federalreserve.gov/releases/h41/?utm_source=chatgpt.com), [NY Fed](https://www.newyorkfed.org?utm_source=chatgpt.com)                                                                                    | Daily / weekly      |
+| Inflation             | CPI, Core CPI, PPI                           | [BLS](https://www.bls.gov?utm_source=chatgpt.com)                                                                                                                                                                                           | Monthly             |
+| Growth                | GDP, PMI, Retail Sales                       | [BEA](https://www.bea.gov?utm_source=chatgpt.com), [TradingEconomics](https://tradingeconomics.com?utm_source=chatgpt.com)                                                                                                                  | Monthly / quarterly |
+| Employment            | Unemployment Rate, NFP, Jobless Claims       | [BLS](https://www.bls.gov?utm_source=chatgpt.com), [FRED](https://fred.stlouisfed.org?utm_source=chatgpt.com)                                                                                                                               | Weekly / monthly    |
+| FX Positioning        | COT Reports                                  | [CFTC COT](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm?utm_source=chatgpt.com)                                                                                                                                        | Weekly              |
+| Volatility            | VIX, MOVE Index                              | [CBOE](https://www.cboe.com?utm_source=chatgpt.com), [TradingView](https://www.tradingview.com?utm_source=chatgpt.com)                                                                                                                      | Real-time           |
+| USD Strength          | DXY                                          | [TradingView](https://www.tradingview.com?utm_source=chatgpt.com)                                                                                                                                                                           | Real-time           |
+| Commodities           | Gold, Silver, WTI, Brent                     | [TradingView](https://www.tradingview.com?utm_source=chatgpt.com), [Investing.com](https://www.investing.com?utm_source=chatgpt.com)                                                                                                        | Real-time           |
+| Crypto                | BTC Price, ETH Price, Funding Rates          | [CoinGlass](https://www.coinglass.com?utm_source=chatgpt.com), [CoinMarketCap](https://coinmarketcap.com?utm_source=chatgpt.com)                                                                                                            | Real-time           |
+| ETF Flows             | BTC ETF Flows, Gold ETF Flows                | [Farside Investors](https://farside.co.uk?utm_source=chatgpt.com)                                                                                                                                                                           | Daily               |
+| Stablecoin Flows      | USDT, USDC Supply                            | [DefiLlama](https://defillama.com?utm_source=chatgpt.com)                                                                                                                                                                                   | Real-time           |
+| Orderflow             | Liquidations, Open Interest                  | [CoinGlass](https://www.coinglass.com?utm_source=chatgpt.com)                                                                                                                                                                               | Real-time           |
+| Shipping              | Baltic Dry Index, Vessel Tracking            | [TradingEconomics](https://tradingeconomics.com?utm_source=chatgpt.com), [MarineTraffic](https://www.marinetraffic.com?utm_source=chatgpt.com)                                                                                              | Daily               |
+| Energy                | Oil Inventories, Gas Inventories             | [EIA](https://www.eia.gov?utm_source=chatgpt.com)                                                                                                                                                                                           | Weekly              |
+| Geopolitics           | Sanctions, War Headlines, NATO Updates       | [Reuters](https://www.reuters.com?utm_source=chatgpt.com), [NATO](https://www.nato.int?utm_source=chatgpt.com)                                                                                                                              | Real-time           |
+| Sovereign Risk        | Debt/GDP, CDS Spreads                        | [IMF](https://www.imf.org?utm_source=chatgpt.com), [WorldGovernmentBonds](https://www.worldgovernmentbonds.com?utm_source=chatgpt.com)                                                                                                      | Monthly / real-time |
+| Banking Stress        | Regional Bank Stress, Credit Conditions      | [FRED](https://fred.stlouisfed.org?utm_source=chatgpt.com)                                                                                                                                                                                  | Weekly              |
+| Central Bank Speeches | FOMC, ECB, BOE, BOJ Statements               | [Federal Reserve](https://www.federalreserve.gov?utm_source=chatgpt.com), [ECB](https://www.ecb.europa.eu?utm_source=chatgpt.com)                                                                                                           | Event-driven        |
+| Macro Calendar        | CPI, NFP, FOMC, GDP Dates                    | [ForexFactory](https://www.forexfactory.com?utm_source=chatgpt.com), [TradingEconomics](https://tradingeconomics.com?utm_source=chatgpt.com)                                                                                                | Daily               |
+
+Yes — these are the **missing important data layers** to add.
+
+| Missing Data Layer          | Exact Data To Collect                          | Free / Partial Sources                               |
+| --------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| Dealer Gamma                | GEX, gamma walls, options pin zones            | SpotGamma free notes, Perfiliev, TradingView scripts |
+| Options Flow                | Large calls/puts, IV skew, put/call ratio      | Barchart, CME, Deribit, GreeksLive                   |
+| Futures Depth               | DOM, liquidity walls, bid/ask depth            | Binance, Bybit, Bookmap free, TradingLite            |
+| Crypto Liquidations         | Long/short liquidations, liquidation heatmap   | CoinGlass, Hyblock, Coinank                          |
+| Crypto Open Interest        | BTC/ETH OI, OI change, funding imbalance       | CoinGlass, Velo, Laevitas                            |
+| Exchange Flows              | BTC/ETH inflow/outflow, reserves               | CryptoQuant free, Glassnode free, CoinMetrics        |
+| Stablecoin Liquidity        | USDT/USDC supply, exchange stablecoin reserves | DefiLlama, Artemis                                   |
+| ETF Flows                   | BTC ETF, gold ETF, sector ETF flows            | Farside Investors, ETF.com, issuer websites          |
+| Credit Spreads              | High yield spread, investment grade spread     | FRED                                                 |
+| CDS / Sovereign Stress      | Country CDS, bank CDS, sovereign risk          | WorldGovernmentBonds, MacroMicro                     |
+| Repo / Funding Stress       | Repo rates, SOFR, cross-currency basis         | NY Fed, FRED, BIS                                    |
+| Dollar Funding              | Eurodollar stress, FX swap basis               | BIS, FRED, MacroMicro                                |
+| Private Credit              | Private credit growth, default stress          | IMF, BIS, Apollo notes, public reports               |
+| Commercial Real Estate      | CRE delinquency, office vacancy, bank exposure | FRED, Fed reports, Trepp notes                       |
+| Dark Pool / ATS             | Equity dark pool volume, off-exchange volume   | FINRA ATS, StockGrid                                 |
+| Insider Activity            | Insider buying/selling                         | SEC EDGAR, OpenInsider                               |
+| Buybacks                    | Corporate buyback announcements                | SEC filings, company reports                         |
+| Earnings Revisions          | EPS revisions, guidance changes                | Nasdaq, company IR pages                             |
+| Semiconductor Supply Chain  | TSMC revenue, chip exports, AI capex           | TSMC, Nvidia filings, Taiwan stats                   |
+| AI Data Center Demand       | Power demand, capex, grid strain               | company filings, EIA, grid operators                 |
+| Power Grid Stress           | electricity demand, outages, reserve margin    | EIA, Ember, grid operators                           |
+| Shipping / Chokepoints      | Suez, Panama, Hormuz traffic, freight rates    | MarineTraffic, VesselFinder, FreightWaves            |
+| Oil Physical Flows          | inventories, refinery runs, tanker movement    | EIA, OPEC, IEA summaries                             |
+| Food Stress                 | wheat, corn, rice prices, fertilizer prices    | FAO, World Bank, TradingEconomics                    |
+| Water Stress                | drought maps, reservoir levels                 | NASA, NOAA, local water agencies                     |
+| Sanctions                   | new sanctions, entity lists                    | OFAC, EU sanctions map, UK sanctions                 |
+| Lobbying                    | defense, banking, tech lobbying spend          | OpenSecrets, US Senate LDA                           |
+| Defense Spending            | budget approvals, contracts, arms orders       | DoD, SIPRI, defense.gov                              |
+| Offshore Leaks              | shell companies, beneficial ownership leaks    | ICIJ, OpenCorporates                                 |
+| Corruption / Political Risk | country risk, coups, instability               | World Bank governance indicators, ACLED              |
+| Prediction Markets          | event probabilities                            | Polymarket, Kalshi, Manifold                         |
+| News Speed                  | CPI/FOMC/war headline alerts                   | ForexFactory, FinancialJuice, Reuters public         |
+
+Add these to **MODULE 0 CONTENT** under:
+
+```text
+GLOBAL DATA SOURCE INTELLIGENCE LAYER
+```
+
+
+--------------------------------------------------
+
+The engine must classify incoming intelligence into:
+
+- macro
+- liquidity
+- volatility
+- positioning
+- geopolitical
+- execution
+- structural flow
+- systemic fragility
+- narrative
+- hidden risk
+- incentive structures
+
+--------------------------------------------------
+
+The engine must expose:
+
+- exact data collected
+- exact figures collected
+- signal source
+- evidence quality
+- conflicting evidence
+- uncertainty level
+- probability impact
+- structural relevance
+
+--------------------------------------------------
+--------------------------------------------------
+
+DATA ACQUISITION ARCHITECTURE LAYER
+
+Purpose:
+Formalize how the system acquires, classifies, prioritizes, validates, and distributes intelligence across all modules.
+
+The system must distinguish between:
+- FREE DATA
+- PREMIUM DATA
+- ALTERNATIVE DATA
+- REAL-TIME DATA
+- DELAYED DATA
+- STRUCTURAL DATA
+- EXECUTION DATA
+
+The system must prioritize:
+- highest probability impact
+- highest structural relevance
+- highest liquidity relevance
+- highest execution relevance
+
+The goal is NOT to collect all data equally.
+
+The goal is to identify:
+- the most important signals
+- the highest-impact anomalies
+- the strongest probability shifts
+- the largest structural changes
+
+--------------------------------------------------
+
+STEP DA1 — FREE DATA INTELLIGENCE LAYER
+
+The engine may acquire free/public intelligence from:
+
+MACRO SOURCES
+- BIS
+- IMF
+- World Bank
+- OECD
+- FRED
+- TradingEconomics
+- central bank releases
+- government statistical agencies
+
+MARKET SOURCES
+- CFTC COT reports
+- exchange websites
+- TradingView
+- broker feeds
+- CME delayed data
+- public futures data
+
+GEOPOLITICAL SOURCES
+- sanctions databases
+- government releases
+- defense spending disclosures
+- sovereign debt releases
+- shipping reports
+
+NEWS SOURCES
+- Reuters
+- Bloomberg public releases
+- financial media
+- central bank speeches
+- earnings reports
+
+--------------------------------------------------
+
+STEP DA2 — PREMIUM DATA INTELLIGENCE LAYER
+
+The engine must identify premium institutional-grade data that may improve system quality.
+
+Examples include:
+
+- Bloomberg Terminal
+- Refinitiv
+- CME premium feeds
+- dealer gamma exposure
+- options flow systems
+- dark pool systems
+- institutional order flow
+- interbank liquidity systems
+- real-time futures depth
+- volatility surface systems
+- sovereign intelligence systems
+
+The engine must classify:
+- usefulness
+- estimated cost
+- expected probability improvement
+- execution improvement
+- structural improvement
+
+The system may recommend premium tools when:
+- free data becomes insufficient
+- execution precision becomes critical
+- positioning visibility becomes necessary
+- liquidity visibility becomes necessary
+
+--------------------------------------------------
+
+STEP DA3 — ALTERNATIVE DATA INTELLIGENCE LAYER
+
+The engine may acquire alternative intelligence from:
+
+- shipping data
+- satellite data
+- AIS vessel tracking
+- energy flows
+- internet infrastructure
+- logistics systems
+- ETF flows
+- stablecoin flows
+- social sentiment
+- supply-chain systems
+- commodity transportation
+- electricity demand
+- refinery utilization
+
+Alternative data may help detect:
+- hidden stress
+- hidden growth
+- supply disruptions
+- capital movement
+- industrial weakness
+- liquidity pressure
+
+--------------------------------------------------
+
+STEP DA4 — DATA CLASSIFICATION ENGINE
+
+The engine must classify all incoming data into:
+
+- macro
+- liquidity
+- derivatives
+- volatility
+- positioning
+- execution
+- geopolitical
+- structural flow
+- systemic fragility
+- narrative
+- sentiment
+- sovereign risk
+- hidden leverage
+- dark flow
+
+--------------------------------------------------
+
+STEP DA5 — DATA PRIORITY ENGINE
+
+The engine must prioritize signals according to:
+
+- probability impact
+- liquidity impact
+- volatility impact
+- structural importance
+- geopolitical importance
+- execution importance
+- regime importance
+
+The engine must suppress:
+- low-quality noise
+- low-impact data
+- repetitive information
+- weak signals
+
+--------------------------------------------------
+
+STEP DA6 — DATA RELIABILITY ENGINE
+
+Every signal must include:
+
+- source
+- timestamp
+- reliability score
+- evidence quality
+- structural relevance
+- conflicting evidence
+- uncertainty level
+
+Classify:
+- high confidence
+- medium confidence
+- low confidence
+- speculative
+
+--------------------------------------------------
+
+STEP DA7 — MODULE DISTRIBUTION ENGINE
+
+The engine must distribute intelligence to relevant modules.
+
+Examples:
+
+MODULE 0C receives:
+- inflation
+- rates
+- GDP
+- central bank data
+
+MODULE 0D receives:
+- liquidity
+- funding stress
+- debt fragility
+
+MODULE 0E receives:
+- geopolitical
+- lobbying
+- structural power
+- offshore flows
+
+MODULE 0F receives:
+- spreads
+- slippage
+- execution quality
+
+MODULE 0H receives:
+- positioning
+- systemic footprint
+- behavioral signals
+
+--------------------------------------------------
+
+STEP DA8 — SIGNAL TRACEABILITY ENGINE
+
+Every major conclusion generated anywhere in the system must expose:
+
+- supporting data
+- supporting figures
+- supporting source
+- conflicting evidence
+- uncertainty
+- confidence quality
+
+No major conclusion should exist without evidence traceability.
+
+--------------------------------------------------
+
+STEP DA9 — PROBABILITY RELEVANCE ENGINE
+
+The system must continuously evaluate:
+
+- which signals actually move probability
+- which signals are noise
+- which signals are leading
+- which signals are lagging
+
+The system must focus on:
+- probability shifts
+- regime shifts
+- liquidity shifts
+- structural shifts
+
+NOT:
+- endless raw data dumping
+
+--------------------------------------------------
+
+CORE PRINCIPLE
+
+The objective of the system is NOT:
+to know everything.
+
+The objective is:
+to identify which information changes probability the most
+
+--------------------------------------------------
+--------------------------------------------------
+
+DATA TEMPORAL INTELLIGENCE AND SIGNAL FRESHNESS ENGINE
+
+Purpose:
+Formalize how the platform handles:
+- data freshness
+- data latency
+- update frequency
+- real-time intelligence
+- delayed intelligence
+- structural intelligence
+- execution intelligence
+
+The system must understand that:
+different data operates on different time horizons and affects different parts of the platform.
+
+The objective is:
+NOT to collect all data equally.
+
+The objective is:
+to use the correct data at the correct time horizon for the correct probabilistic decision.
+
+--------------------------------------------------
+--------------------------------------------------
+
+STEP DT1 — REAL-TIME EXECUTION DATA LAYER
+
+Classify as:
+REAL-TIME DATA
+
+Characteristics:
+- updates in milliseconds
+- updates in seconds
+- highly dynamic
+- execution-sensitive
+
+Examples:
+- live price feeds
+- spreads
+- orderbook imbalance
+- liquidity depth
+- broker execution conditions
+- slippage conditions
+- volatility spikes
+- liquidation cascades
+- funding rates
+- execution quality
+
+Best used for:
+- entries
+- exits
+- trade execution
+- stop placement
+- volatility control
+- slippage management
+
+Consumed primarily by:
+- MODULE 0F
+- MODULE 5
+- MODULE 6
+
+--------------------------------------------------
+
+STEP DT2 — HIGH-FREQUENCY MARKET DATA LAYER
+
+Classify as:
+HIGH-FREQUENCY DATA
+
+Characteristics:
+- updates intraday
+- updates hourly
+- updates multiple times daily
+
+Examples:
+- Treasury yields
+- VIX
+- ETF flows
+- stablecoin flows
+- oil inventory headlines
+- geopolitical headlines
+- funding stress
+- bond market movement
+- intraday liquidity shifts
+
+Best used for:
+- session positioning
+- volatility assessment
+- intraday regime detection
+- risk-on/risk-off assessment
+
+Consumed primarily by:
+- MODULE 0C
+- MODULE 0D
+- MODULE 0H
+
+--------------------------------------------------
+
+STEP DT3 — STRUCTURAL MACRO DATA LAYER
+
+Classify as:
+STRUCTURAL DATA
+
+Characteristics:
+- updates daily
+- weekly
+- monthly
+- quarterly
+
+Examples:
+- CPI
+- PPI
+- GDP
+- unemployment
+- PMI
+- COT reports
+- central bank balance sheets
+- sovereign debt statistics
+- reserve data
+- trade balance data
+
+Best used for:
+- macro regime analysis
+- structural positioning
+- long-horizon risk analysis
+- systemic fragility analysis
+
+Consumed primarily by:
+- MODULE 0C
+- MODULE 0D
+- MODULE 0E
+- MODULE 0H
+
+--------------------------------------------------
+
+STEP DT4 — DATA LATENCY ENGINE
+
+The system must classify:
+how delayed each dataset is.
+
+Examples:
+
+REAL-TIME
+- spreads
+- live price
+- volatility
+- execution
+
+LOW LATENCY
+- yields
+- ETF flows
+- futures movement
+
+MEDIUM LATENCY
+- daily balance sheet updates
+- daily liquidity releases
+
+HIGH LATENCY
+- weekly COT reports
+- monthly CPI
+- quarterly GDP
+
+--------------------------------------------------
+
+STEP DT5 — SIGNAL FRESHNESS ENGINE
+
+Every signal generated by the system must expose:
+
+- timestamp
+- update frequency
+- freshness quality
+- latency quality
+- structural relevance
+- execution relevance
+
+Example:
+
+COT positioning:
+- update frequency: weekly
+- latency: approximately 3 days
+- usefulness: structural positioning
+- NOT suitable for short-term execution timing
+
+--------------------------------------------------
+
+STEP DT6 — DATA CONFIDENCE ENGINE
+
+Every dataset must receive:
+
+- reliability score
+- freshness score
+- latency score
+- execution usefulness score
+- structural usefulness score
+
+Classify:
+- high confidence
+- medium confidence
+- low confidence
+- outdated
+- speculative
+
+--------------------------------------------------
+
+STEP DT7 — DATA RELEVANCE ENGINE
+
+The system must determine:
+
+Which data affects:
+- execution
+- macro regime
+- volatility
+- liquidity
+- positioning
+- structural fragility
+- geopolitical risk
+
+The system must suppress:
+- low-impact noise
+- irrelevant data
+- outdated signals
+- duplicated signals
+
+--------------------------------------------------
+
+STEP DT8 — PREMIUM DATA REQUIREMENT ENGINE
+
+The system must recognize when:
+free data becomes insufficient.
+
+Examples:
+
+Execution precision may require:
+- real-time futures depth
+- institutional order flow
+- dealer gamma exposure
+
+Structural positioning may require:
+- Bloomberg
+- Refinitiv
+- premium options flow
+- institutional positioning systems
+
+The engine must recommend:
+- estimated usefulness
+- estimated probability improvement
+- estimated execution improvement
+- estimated cost
+
+--------------------------------------------------
+
+STEP DT9 — DATA HIERARCHY ENGINE
+
+The system must prioritize data according to:
+
+1. Real-time execution relevance
+2. Liquidity relevance
+3. Volatility relevance
+4. Structural relevance
+5. Geopolitical relevance
+6. Regime relevance
+
+The system must avoid:
+- information overload
+- equal weighting of all signals
+- emotional headline chasing
+
+--------------------------------------------------
+
+STEP DT10 — CORE SYSTEM PRINCIPLE
+
+The platform operates under:
+
+IMPERFECT INFORMATION CONDITIONS.
+
+The objective is NOT:
+to know everything.
+
+The objective is:
+to identify which information changes probability the most.
+
+The system must therefore:
+- prioritize signal quality
+- prioritize freshness
+- prioritize structural relevance
+- prioritize execution relevance
+- prioritize liquidity relevance
+
+while minimizing:
+- latency risk
+- outdated information
+- narrative noise
+- low-impact data
+
+--------------------------------------------------
+--------------------------------------------------
+
+OUTPUT REQUIREMENTS
+
+The engine must expose:
+
+1. Data freshness map
+2. Data latency map
+3. Real-time signal quality
+4. Structural signal quality
+5. Execution signal quality
+6. Outdated signal warnings
+7. Premium data recommendations
+8. Structural data gaps
+9. Execution data gaps
+10. Signal confidence map
+11. Probability-impact ranking
+12. Data reliability assessment
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
