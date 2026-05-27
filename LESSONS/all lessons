@@ -1197,3 +1197,408 @@ Avoid aggressive continuation entries
 after large impulsive weekend crypto moves
 without retracement or exhaustion reset.
 ```
+## MODULE 7 — USDJPY Loss Review
+
+Using your Module 7 rules: it reviews completed trades and improves the system, not generate new trades. 
+
+### 1. Trade Performance Summary
+
+| Item          | Result                                         |
+| ------------- | ---------------------------------------------- |
+| Instrument    | USDJPY                                         |
+| Direction     | Sell                                           |
+| Entry model   | Market sell + sell limit                       |
+| Entry         | 158.980                                        |
+| SL            | 159.260                                        |
+| TP            | 158.700                                        |
+| Result        | One trade stopped out, one still floating loss |
+| Current issue | Price continued upward against sell bias       |
+
+---
+
+### 2. Module Accuracy Review
+
+| Module                    | Review                                                                     |
+| ------------------------- | -------------------------------------------------------------------------- |
+| Module 0 / macro          | **Partially accurate** — did not fully respect USD strength / JPY weakness |
+| Module 2 regime/liquidity | **Inaccurate** — market was not ready for reversal                         |
+| Module 3 opportunity      | **Weak** — sell idea was medium quality, not high quality                  |
+| Module 4 ranking          | **Weak** — USDJPY should not have been ranked strong enough                |
+| Module 5 execution        | **Partially accurate** — entry was clean, but setup quality was weak       |
+| Module 6 risk             | **Acceptable** — SL existed, lot size was small                            |
+
+---
+
+### 3. Worst Setup Pattern
+
+This was a:
+
+```text
+countertrend reversal sell
+against higher-timeframe bullish USDJPY structure
+```
+
+Problem:
+
+* H4/H12 still showed upward pressure
+* price was compressing near highs, not breaking down
+* market did not confirm bearish displacement
+
+---
+
+### 4. Risk Management Review
+
+Risk behavior:
+
+```text
+ACCEPTABLE
+```
+
+Why:
+
+* lot size was small
+* SL was used
+* no oversized revenge trade
+
+But weakness:
+
+* two similar sell exposures were opened
+* both depended on the same thesis
+
+---
+
+### 5. Mistakes Detected
+
+| Mistake                            | What happened                                            |
+| ---------------------------------- | -------------------------------------------------------- |
+| Countertrend entry                 | Sold while higher timeframe remained bullish             |
+| Weak confirmation                  | No strong bearish break before entry                     |
+| Duplicate exposure                 | Market sell + pending sell created same directional risk |
+| Medium setup treated too seriously | Trade was not high-quality                               |
+| Macro conflict ignored             | USDJPY had structural upward pressure                    |
+
+---
+
+### 6. System Improvement Recommendations
+
+Add this rule:
+
+```text
+Do not take countertrend trades unless higher timeframe shows confirmed exhaustion + lower timeframe bearish displacement.
+```
+
+Also add:
+
+```text
+If one market order is already active, do not place another pending order in the same direction unless conviction is high.
+```
+
+---
+
+### 7. Next Trading Rule Adjustments
+
+For USDJPY:
+
+```text
+Avoid selling USDJPY while H4/H12 remains bullish.
+```
+
+Only sell if:
+
+```text
+price breaks below 158.700 and holds below it.
+```
+
+Current live sell is now lower quality because price moved strongly against the thesis.
+
+XAUUSD — MODULE 7 LEARNING RECORD
+DATE: 2026-05-26
+SESSION: LONDON → NEW YORK
+ASSET: XAUUSD
+DIRECTIONAL THESIS: SELL
+RESULT TYPE: TYPE E — GOOD MISS
+
+--------------------------------------------------
+
+1. TRADE SUMMARY
+
+The system identified correct bearish directional structure on XAUUSD.
+
+Market later expanded aggressively downward.
+
+However:
+- pending order participation failed
+OR
+- execution structure was incomplete
+OR
+- broker/platform synchronization issue occurred
+
+Result:
+- no participation in the major sell expansion
+- capital preserved
+- no emotional revenge entry taken
+
+Outcome:
+MISSED HIGH-PROBABILITY MOVE
+
+--------------------------------------------------
+
+2. CORE LESSON
+
+A correct market thesis alone is NOT enough.
+
+The system must also ensure:
+- execution certainty
+- order verification
+- platform synchronization
+- participation reliability
+
+Correct analysis without participation produces:
+ZERO realized expectancy.
+
+--------------------------------------------------
+
+3. EXECUTION FAILURE ANALYSIS
+
+Primary issue:
+ORDER VISIBILITY FAILURE
+
+Observed problems:
+- pending order could not be properly tracked
+- order state unclear
+- no visible active pending order
+- no modification interface visible
+- chart interaction confusion
+- possible broker/platform synchronization disruption
+
+This created:
+EXECUTION UNCERTAINTY
+
+--------------------------------------------------
+
+4. IMPORTANT STRUCTURAL DISCOVERY
+
+The market rewarded:
+- momentum continuation
+- downside expansion
+- bearish participation
+- persistent directional flow
+
+The system initially attempted:
+- delayed participation structure
+- pending execution logic
+
+But market transitioned into:
+FAST EXPANSION PHASE
+
+Lesson:
+Certain volatility environments require:
+- aggressive participation priority
+OR
+- confirmation-trigger execution
+
+--------------------------------------------------
+
+5. PARTICIPATION LESSON
+
+A missed move is NOT automatically failure.
+
+The system correctly avoided:
+- emotional chasing
+- panic entry
+- revenge trading
+- oversized participation
+- unstable late execution
+
+This preserved:
+- capital
+- psychological stability
+- process discipline
+
+--------------------------------------------------
+
+6. DECISION QUALITY CLASSIFICATION
+
+PROCESS QUALITY:
+ACCEPTABLE TO HIGH QUALITY
+
+Reason:
+- macro direction aligned
+- structural flow aligned
+- bearish momentum aligned
+- emotional discipline preserved
+- no reckless re-entry
+
+Weakness:
+- execution infrastructure failure
+- order tracking weakness
+- platform operational weakness
+
+--------------------------------------------------
+
+7. MODULE ACCURACY REVIEW
+
+MODULE 0:
+ACCURATE
+Macro and liquidity environment supported bearish gold pressure.
+
+MODULE 1:
+ACCURATE
+Macro alignment correctly identified stronger USD pressure regime.
+
+MODULE 2:
+ACCURATE
+Liquidity and volatility regime favored directional expansion.
+
+MODULE 3:
+ACCURATE
+Opportunity detection identified valid bearish structure.
+
+MODULE 4:
+ACCURATE
+Trade ranking quality acceptable.
+
+MODULE 5:
+PARTIALLY ACCURATE
+Execution structure failed due to participation mechanics.
+
+MODULE 6:
+ACCURATE
+Risk protection preserved capital.
+
+MODULE 7:
+SUCCESSFUL LEARNING EXTRACTION
+
+--------------------------------------------------
+
+8. STRUCTURAL MARKET LESSON
+
+Gold entered:
+VOLATILITY EXPANSION + MOMENTUM CASCADE
+
+Characteristics:
+- persistent downside candles
+- weak recovery attempts
+- strong seller continuation
+- liquidity vacuum behavior
+
+Lesson:
+When expansion begins:
+waiting too long for ideal retracement may reduce participation probability.
+
+--------------------------------------------------
+
+9. BROKER / PLATFORM LESSON
+
+Critical discovery:
+Execution infrastructure itself is part of the trading system.
+
+Problems discovered:
+- pending order visibility confusion
+- chart interaction confusion
+- unclear synchronization state
+- possible order-state uncertainty
+
+New rule:
+ALWAYS VERIFY:
+- active orders
+- pending orders
+- order IDs
+- terminal synchronization
+- broker connection state
+
+before leaving terminal.
+
+--------------------------------------------------
+
+10. NEW EXECUTION RULES
+
+NEW RULE 1:
+After placing any pending order:
+immediately confirm it appears in:
+- Trade tab
+- chart
+- order list
+
+NEW RULE 2:
+Never assume pending order exists without visible confirmation.
+
+NEW RULE 3:
+Before session close:
+verify:
+- active trades
+- pending trades
+- synchronization state
+
+NEW RULE 4:
+In strong momentum environments:
+consider hybrid execution:
+- partial market entry
+- partial pending structure
+
+NEW RULE 5:
+Execution certainty is as important as directional accuracy.
+
+--------------------------------------------------
+
+11. EXPECTANCY LESSON
+
+The system did NOT suffer:
+- financial damage
+- emotional collapse
+- catastrophic overreaction
+
+Therefore:
+long-term expectancy remains preserved.
+
+Better outcome:
+MISS GOOD TRADE
+than:
+FORCE BAD TRADE
+
+--------------------------------------------------
+
+12. ADAPTATION RECOMMENDATIONS
+
+Add:
+- order verification checklist
+- execution confirmation checklist
+- broker synchronization check
+- participation probability scoring
+- momentum expansion participation model
+
+Reduce:
+- blind dependence on delayed pending entries during expansion regimes
+
+Increase:
+- execution monitoring discipline
+- platform operational awareness
+
+--------------------------------------------------
+
+13. FINAL CLASSIFICATION
+
+TRADE TYPE:
+TYPE E — GOOD MISS
+
+SYSTEM STATE:
+DISCIPLINED
+
+MAIN FAILURE:
+EXECUTION INFRASTRUCTURE / PARTICIPATION FAILURE
+
+MAIN SUCCESS:
+CORRECT STRUCTURAL READ + CAPITAL PRESERVATION
+
+LONG-TERM LESSON:
+A trading system is not only:
+- analysis
+- prediction
+- direction
+
+It is also:
+- execution infrastructure
+- operational certainty
+- participation reliability
+- platform awareness
+- adaptation discipline
