@@ -325,6 +325,175 @@ Example:
 
 Take Profit 1: close 50% of position  
 Take Profit 2: trail stop loss
+--------------------------------------------------
+
+STEP 30B — CONVEXITY PRESERVATION & ADAPTIVE PROFIT EXTRACTION ENGINE
+
+Purpose:
+Optimize trade exits dynamically while preserving survival, convexity, and participation in rare large trend expansions.
+
+Markets are probabilistic.
+
+The objective is NOT maximum extraction from every trade.
+
+The objective is:
+- survival
+- realized gain protection
+- convexity preservation
+- asymmetric participation
+- long-term expectancy optimization
+
+--------------------------------------------------
+
+A. CONVEXITY PRESERVATION ANALYSIS
+
+Evaluate:
+
+- probability that aggressive stop movement may destroy large future upside
+- probability that current trend still contains asymmetric expansion potential
+- probability that premature exit may reduce convex payoff participation
+
+Rare large winners are major contributors to long-term expectancy.
+
+--------------------------------------------------
+
+B. PROFIT PROTECTION NECESSITY
+
+Determine whether unrealized gains should transition into protected realized capital.
+
+Evaluate:
+
+- trend maturity
+- exhaustion probability
+- reversal probability
+- liquidity instability
+- volatility expansion risk
+- macro continuation quality
+
+--------------------------------------------------
+
+C. TREND EXPANSION QUALITY
+
+Classify trend condition as:
+
+- accelerating expansion
+- stable continuation
+- weakening continuation
+- exhaustion
+- reversal transition
+- compression
+
+Evaluate momentum persistence quality.
+
+--------------------------------------------------
+
+D. ADAPTIVE SCALING-OUT STRUCTURE
+
+Determine optimal:
+
+- partial profit percentage
+- runner allocation percentage
+- residual exposure size
+- inventory reduction sequence
+
+Examples:
+
+- 25% scale-out
+- 50% scale-out
+- maintain core runner
+- defensive reduction
+
+--------------------------------------------------
+
+E. STOP-LOSS AGGRESSION CALIBRATION
+
+Determine appropriate stop behavior:
+
+- loose trailing structure
+- moderate trailing structure
+- aggressive profit-lock structure
+
+Based on:
+
+- volatility regime
+- liquidity conditions
+- exhaustion probability
+- macro continuation probability
+- structural trend quality
+
+--------------------------------------------------
+
+F. TRADE MANAGEMENT REGIME CLASSIFICATION
+
+Classify current environment as:
+
+- expansion regime
+- continuation regime
+- exhaustion regime
+- reversal regime
+- compression regime
+
+Different regimes require different trade management behavior.
+
+--------------------------------------------------
+
+G. INVENTORY MANAGEMENT STATE
+
+Determine whether:
+
+- inventory should be accumulated
+- inventory should be reduced
+- inventory should remain unchanged
+- inventory should transition into defensive mode
+
+--------------------------------------------------
+
+H. TRADE LIFECYCLE OPTIMIZATION
+
+Optimize balance between:
+
+- survival
+- realized gain protection
+- convexity preservation
+- trend participation
+- asymmetry maximization
+- profit extraction
+
+--------------------------------------------------
+
+I. RECOMMENDATION EXTENSION
+
+Additional management actions may include:
+
+- preserve convexity
+- activate runner mode
+- lock realized profit
+- scale out progressively
+- maintain core exposure
+- tighten trailing structure
+- widen stop for expansion regime
+- transition to defensive management
+- maintain asymmetric exposure
+
+--------------------------------------------------
+
+IMPORTANT RULES
+
+1. Survival has priority over maximum profit extraction.
+
+2. Realized gains improve long-term survivability.
+
+3. Rare large winners should not be cut too early.
+
+4. Aggressive stop movement may destroy convexity.
+
+5. Different market regimes require different exit behavior.
+
+6. Profit protection and trend participation must remain balanced.
+
+7. The objective is long-term expectancy optimization, not emotional profit maximization.
+
+--------------------------------------------------
 
 --------------------------------------------------
 
