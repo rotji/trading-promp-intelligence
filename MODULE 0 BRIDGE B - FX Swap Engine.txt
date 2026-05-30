@@ -1,0 +1,250 @@
+MODULE 0 BRIDGE B
+
+FX SWAP ENGINE
+
+PURPOSE
+
+Monitor the global FX swap market to identify:
+
+* dollar funding stress
+* dollar abundance
+* carry trade stability
+* cross-currency funding pressure
+* hidden liquidity shortages
+
+Detect funding conditions before they fully appear in:
+
+* FX markets
+* bond markets
+* equity markets
+* commodity markets
+
+---
+
+CORE PRINCIPLE
+
+The world runs on dollars.
+
+Most global institutions require dollar funding.
+
+FX swaps are one of the primary mechanisms used to obtain dollars.
+
+Therefore:
+
+FX swap markets are a real-time health monitor of global liquidity.
+
+---
+
+WHAT IS AN FX SWAP
+
+Basic structure:
+
+Currency A exchanged for Currency B today.
+
+Transaction reversed later.
+
+Example:
+
+Japanese bank:
+
+* provides JPY
+* receives USD
+
+Later:
+
+* returns USD
+* receives JPY back
+
+Purpose:
+
+Temporary funding.
+
+Not speculation.
+
+---
+
+PRIMARY QUESTIONS
+
+1. Is dollar demand rising?
+
+2. Is dollar demand falling?
+
+3. Is offshore dollar funding becoming scarce?
+
+4. Is offshore dollar funding becoming abundant?
+
+5. Are funding spreads widening?
+
+6. Are funding spreads tightening?
+
+7. Is carry becoming attractive?
+
+8. Is carry becoming dangerous?
+
+9. Is FX liquidity improving?
+
+10. Is FX liquidity deteriorating?
+
+---
+
+FX SWAP REGIMES
+
+REGIME 1
+
+DOLLAR ABUNDANCE
+
+Characteristics:
+
+* low funding stress
+* stable carry
+* healthy liquidity
+
+Implications:
+
+* bullish risk assets
+* stable FX
+* lower volatility
+
+---
+
+REGIME 2
+
+NEUTRAL FUNDING
+
+Characteristics:
+
+* balanced liquidity
+* stable funding markets
+
+Implications:
+
+* normal market behavior
+
+---
+
+REGIME 3
+
+DOLLAR TIGHTENING
+
+Characteristics:
+
+* rising dollar demand
+* widening funding spreads
+
+Implications:
+
+* stronger USD
+* weaker carry trades
+* higher volatility
+
+---
+
+REGIME 4
+
+DOLLAR STRESS
+
+Characteristics:
+
+* funding shortages
+* aggressive dollar demand
+
+Implications:
+
+* risk-off behavior
+* funding pressure
+* emerging market weakness
+
+---
+
+REGIME 5
+
+DOLLAR CRISIS
+
+Characteristics:
+
+* severe funding shortage
+* central bank intervention
+
+Implications:
+
+* emergency liquidity operations
+* swap line activation
+* systemic instability
+
+---
+
+KEY INPUTS
+
+Monitor:
+
+* BIS FX swap statistics
+* cross-currency basis swaps
+* dollar funding spreads
+* Fed swap line activity
+* offshore dollar funding markets
+* major bank funding conditions
+
+---
+
+CARRY TRADE ASSESSMENT
+
+Evaluate:
+
+* USDJPY carry conditions
+* AUDJPY carry conditions
+* NZDJPY carry conditions
+* emerging market carry conditions
+
+Determine:
+
+* stable carry
+* vulnerable carry
+* carry unwind probability
+
+---
+
+MARKET IMPACT
+
+If dollar funding improves:
+
+Increase probability of:
+
+* risk-on behavior
+* carry continuation
+* lower volatility
+
+---
+
+If dollar funding deteriorates:
+
+Increase probability of:
+
+* risk-off behavior
+* carry unwind
+* volatility expansion
+* defensive positioning
+
+---
+
+EXECUTION RULE
+
+Carry trades should never be evaluated solely through price.
+
+Always evaluate:
+
+* funding conditions
+* dollar demand
+* swap conditions
+* liquidity conditions
+
+before executing.
+
+---
+
+FINAL PRINCIPLE
+
+FX prices move because of many forces.
+
+FX funding conditions often move before FX prices.
+
+The FX swap market is one of the hidden engines of global liquidity.

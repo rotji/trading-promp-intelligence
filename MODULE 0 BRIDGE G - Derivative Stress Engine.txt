@@ -1,0 +1,288 @@
+MODULE 0 BRIDGE G
+
+DERIVATIVE STRESS ENGINE
+
+PURPOSE
+
+Monitor derivative market conditions to detect:
+
+* gamma pressure
+* dealer hedging pressure
+* volatility instability
+* liquidation cascades
+* convexity events
+* market reflexivity
+
+before they become visible in price.
+
+---
+
+CORE PRINCIPLE
+
+Modern markets are heavily influenced by derivatives.
+
+Price does not move only because of:
+
+* fundamentals
+* macro data
+* technical analysis
+
+Price also moves because:
+
+* dealers hedge
+* options expire
+* volatility changes
+* positions become unstable
+
+Derivatives frequently amplify market moves.
+
+---
+
+PRIMARY QUESTIONS
+
+1. Are dealers long gamma?
+
+2. Are dealers short gamma?
+
+3. Is hedging stabilizing price?
+
+4. Is hedging destabilizing price?
+
+5. Is volatility being suppressed?
+
+6. Is volatility being amplified?
+
+7. Is convexity pressure building?
+
+8. Is convexity pressure declining?
+
+9. Is liquidation risk increasing?
+
+10. Is liquidation risk decreasing?
+
+---
+
+DERIVATIVE REGIMES
+
+REGIME 1
+
+POSITIVE GAMMA
+
+Characteristics:
+
+* dealers long gamma
+* dealers buy dips
+* dealers sell rallies
+
+Implications:
+
+* reduced volatility
+* range behavior
+* mean reversion
+
+---
+
+REGIME 2
+
+NEUTRAL GAMMA
+
+Characteristics:
+
+* balanced dealer positioning
+
+Implications:
+
+* normal market behavior
+
+---
+
+REGIME 3
+
+NEGATIVE GAMMA
+
+Characteristics:
+
+* dealers short gamma
+* dealers chase price
+
+Implications:
+
+* trend acceleration
+* volatility expansion
+
+---
+
+REGIME 4
+
+CONVEXITY STRESS
+
+Characteristics:
+
+* aggressive dealer hedging
+* unstable positioning
+
+Implications:
+
+* violent price movement
+* squeeze potential
+
+---
+
+REGIME 5
+
+LIQUIDATION CASCADE
+
+Characteristics:
+
+* forced unwinds
+* rapid deleveraging
+* margin stress
+
+Implications:
+
+* extreme volatility
+* disorderly price action
+
+---
+
+KEY INPUTS
+
+Monitor:
+
+* options positioning
+* dealer gamma estimates
+* open interest
+* implied volatility
+* realized volatility
+* options expiration schedules
+* volatility surfaces
+
+---
+
+GAMMA ANALYSIS
+
+Evaluate:
+
+Positive Gamma
+
+Negative Gamma
+
+Gamma Flip Zones
+
+Dealer Positioning
+
+Determine:
+
+* stabilizing market
+* unstable market
+
+---
+
+VOLATILITY ANALYSIS
+
+Evaluate:
+
+* implied volatility
+* realized volatility
+* volatility divergence
+
+Determine:
+
+* volatility compression
+* volatility expansion
+
+---
+
+CONVEXITY ANALYSIS
+
+Evaluate:
+
+* nonlinear payoff pressure
+* hedge demand
+* dealer inventory pressure
+
+Determine:
+
+* squeeze probability
+* acceleration probability
+
+---
+
+LIQUIDATION ANALYSIS
+
+Evaluate:
+
+* leverage concentration
+* stop clusters
+* margin pressure
+
+Determine:
+
+* cascade probability
+* forced selling probability
+* forced buying probability
+
+---
+
+MARKET IMPACT
+
+Positive Gamma:
+
+Supports:
+
+* range conditions
+* mean reversion
+* slower trends
+
+---
+
+Negative Gamma:
+
+Supports:
+
+* trend acceleration
+* volatility expansion
+* breakout continuation
+
+---
+
+Liquidation Events:
+
+Support:
+
+* panic moves
+* squeeze moves
+* abnormal volatility
+
+---
+
+EXECUTION RULE
+
+Increase caution when:
+
+* negative gamma increases
+* dealer hedging pressure rises
+* liquidation probability rises
+
+---
+
+WARNING SIGNALS
+
+Raise alerts if:
+
+* gamma flip approaches
+* volatility explodes
+* dealer positioning becomes extreme
+* liquidation risk becomes elevated
+
+---
+
+FINAL PRINCIPLE
+
+Many of the fastest market moves are not caused by news.
+
+They are caused by derivatives forcing participants to react.
+
+When derivative pressure becomes dominant:
+
+Price can move far beyond normal expectations.

@@ -1,10 +1,98 @@
 RUN EXECUTION MODE FOR [INSERT ASSET]
+Use:
+
+* Systemic Intelligence Mode outputs
+* current funding regime
+* current dollar liquidity regime
+* current derivative stress regime
+* current systemic risk regime
+* current collateral conditions
+* current dealer stability conditions
 
 Activate:
 - MODULE 0 BRIDGE
+* MODULE 0 BRIDGE A
+* MODULE 0 BRIDGE B
+* MODULE 0 BRIDGE C
+* MODULE 0 BRIDGE D
+* MODULE 0 BRIDGE E
+* MODULE 0 BRIDGE F
+* MODULE 0 BRIDGE G
+* MODULE 0 BRIDGE H
+
 - MODULE 0G
 - MODULE 0H
 - MODULE 0J
+-* MODULE 0K
+
+* MODULE 0L
+---
+
+MODULE PRIORITY WEIGHTING
+
+PRIMARY TACTICAL LAYER:
+
+* MODULE 0L
+
+SECONDARY CONFIRMATION LAYER:
+
+* MODULE 0K
+
+OVERLAP EXECUTION FOCUS:
+
+* dealer gamma
+* positioning imbalance
+* liquidity magnets
+* inventory pressure
+* squeeze probability
+* volatility expansion
+* dealer hedging behavior
+* liquidation cascade probability
+* flow instability
+* real-time positioning pressure
+
+Use MODULE 0K for:
+
+* macro confirmation
+* FX equilibrium validation
+* yield alignment confirmation
+* policy divergence confirmation
+* carry trade confirmation
+
+Execution decisions should prioritize:
+Execution decisions must also adjust according to:
+
+* funding stress
+* dollar liquidity conditions
+* derivative instability
+* systemic risk conditions
+* collateral conditions
+* dealer balance-sheet pressure
+
+If systemic stress rises:
+
+* reduce position size
+* reduce leverage
+* tighten execution standards
+* avoid weak asymmetry trades
+* increase volatility expectations
+
+If systemic stability improves:
+
+* allow greater trend conviction
+* allow greater carry exposure
+* allow longer holding periods
+
+* liquidity
+* positioning
+* volatility
+* dealer flow
+* real-time execution quality
+
+during overlap conditions.
+
+---
+
 - MODULE 5
 - MODULE 6
 
@@ -20,6 +108,12 @@ Analyze:
 8. Structural flow alignment
 9. Macro alignment
 10. Probability quality
+11. Funding conditions
+12. Dollar liquidity conditions
+13. Derivative stress conditions
+14. Systemic risk conditions
+15. Collateral conditions
+16. Dealer balance-sheet stability
 
 Then provide:
 
@@ -35,6 +129,31 @@ Then provide:
 - volatility warning
 - expected holding duration
 - expected scenario tree
+
+SYSTEMIC EXECUTION FILTER
+
+High-quality execution requires alignment between:
+
+* tactical structure
+* liquidity conditions
+* positioning conditions
+* derivative conditions
+* funding conditions
+* systemic stability
+
+If tactical setup is strong but systemic conditions deteriorate:
+
+↓
+
+downgrade execution quality
+
+↓
+
+reduce aggressiveness
+
+↓
+
+reduce leverage
 
 Then classify:
 

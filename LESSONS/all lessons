@@ -1903,3 +1903,391 @@ It is:
 - probabilistic flexibility
 combined together.
 ```
+# MODULE 7 — POST-TRADE INTELLIGENCE REVIEW
+
+# CASE STUDY:
+
+USDJPY + XTIUSD LOSS EVENT
+Date: 28 May 2026
+Environment:
+
+* Elevated volatility
+* Mixed macro regime
+* Weak intraday continuation
+* Cross-market instability
+
+---
+
+# TRADE 1 — USDJPY
+
+## Trade Structure
+
+Direction:
+
+* Long
+
+Entry:
+
+* 159.330
+
+Stop Loss:
+
+* 159.080
+
+Take Profit:
+
+* 159.650
+
+Result:
+
+* Small controlled loss
+
+---
+
+# LESSONS LEARNED — USDJPY
+
+## 1. Trade Structure Was Valid
+
+The trade aligned with:
+
+* higher timeframe trend
+* prior bullish continuation
+* liquidity pullback concept
+* mean reversion continuation logic
+
+The loss was NOT caused by:
+
+* emotional execution
+* structural misread
+* poor risk placement
+
+The loss came from:
+
+* failed continuation
+* momentum exhaustion
+* temporary liquidity reversal
+
+Conclusion:
+
+* This was a GOOD LOSS.
+
+---
+
+## 2. Profit Protection Logic Was Correct
+
+Previous USDJPY trade used:
+
+* stop movement into protected territory
+
+Result:
+
+* preserved prior gains
+* prevented full reversal loss
+
+Key Insight:
+Aggressive trailing can reduce future upside capture,
+BUT:
+capital preservation has priority during unstable continuation conditions.
+
+Conclusion:
+
+* protecting profits is not weakness
+* trade survival matters more than maximizing every move
+
+---
+
+## 3. Continuation Probability Weakness Appeared
+
+Warning signs before failure:
+
+* slowing momentum
+* reduced candle expansion
+* weaker follow-through
+* intraday exhaustion behavior
+
+Lesson:
+Trend existence alone is not enough.
+Trend QUALITY matters.
+
+---
+
+## 4. Small Account Risk Reality
+
+Even small USDJPY losses materially affect equity when account size is extremely small.
+
+Lesson:
+
+* reduce position size further
+* prioritize survival over growth
+
+---
+
+# FINAL USDJPY CONCLUSION
+
+Classification:
+
+* Professionally acceptable loss
+* Structurally valid execution
+* Proper trade management
+
+Main takeaway:
+A correct process can still produce losses.
+Professional trading is probability management, not prediction perfection.
+
+---
+
+# TRADE 2 — XTIUSD (WTI OIL)
+
+## Trade Structure
+
+Direction:
+
+* Long
+
+Entry:
+
+* 92.850
+
+Stop Loss:
+
+* 91.950
+
+Take Profit:
+
+* 94.200
+
+Result:
+
+* Full stop loss hit
+* Large percentage account damage
+
+---
+
+# LESSONS LEARNED — XTIUSD
+
+## 1. Counter-Trend Mean Reversion Is Dangerous
+
+Higher timeframe structure showed:
+
+* lower highs
+* lower lows
+* weak bullish participation
+* persistent downside pressure
+
+Trade attempted:
+
+* bullish mean reversion
+  inside:
+* broader bearish structure
+
+Conclusion:
+Counter-trend mean reversion trades require much stronger confirmation.
+
+---
+
+## 2. MODULE 0J CONDITIONS Were Incomplete
+
+Mean reversion scaling systems work best when:
+
+* higher timeframe trend supports trade
+* volatility stabilizes
+* liquidity exhaustion confirmed
+* dealer absorption visible
+* macro pressure neutralizes
+
+Oil trade lacked several of these conditions.
+
+Conclusion:
+MODULE 0J should not activate aggressively against dominant structural pressure.
+
+---
+
+## 3. Volatility Was Too Large For Account Size
+
+Oil CFDs move aggressively.
+
+Small accounts cannot comfortably absorb:
+
+* oil volatility
+* spread expansion
+* fast liquidity gaps
+
+Result:
+
+* one loss heavily damaged equity
+
+Lesson:
+Avoid high-volatility instruments while learning execution discipline.
+
+---
+
+## 4. Instrument Selection Error
+
+Oil behaves differently from:
+
+* major forex pairs
+
+Oil contains:
+
+* geopolitical sensitivity
+* inventory shock exposure
+* macro commodity volatility
+* rapid liquidity repricing
+
+Lesson:
+Instrument complexity matters.
+
+Not all markets are equally suitable for small accounts.
+
+---
+
+## 5. Risk Concentration Was Too High
+
+Risk per trade relative to account size was excessive.
+
+Key Lesson:
+A professional system can still fail if:
+
+* sizing is inappropriate
+
+Capital survival matters more than trade opportunity frequency.
+
+---
+
+# FINAL XTIUSD CONCLUSION
+
+Classification:
+
+* Structurally weak execution
+* Excessive volatility exposure
+* Poor account-to-instrument alignment
+
+Main takeaway:
+Correct concepts applied in the wrong environment can become dangerous.
+
+---
+
+# COMBINED MASTER LESSONS
+
+## 1. Differentiate GOOD LOSSES vs BAD LOSSES
+
+GOOD LOSS:
+
+* valid process
+* valid structure
+* valid execution
+* controlled damage
+
+BAD LOSS:
+
+* poor environment
+* oversized risk
+* structural conflict
+* emotional or unstable execution
+
+---
+
+## 2. Trade Environment Matters More Than Entries
+
+A perfect entry inside a poor environment can still fail badly.
+
+Environment includes:
+
+* macro regime
+* liquidity regime
+* volatility regime
+* participant positioning
+* structural trend quality
+
+---
+
+## 3. Small Accounts Must Prioritize Survival
+
+Primary objective:
+
+* survival
+  NOT:
+* rapid account growth
+
+---
+
+## 4. Volatility Must Match Capital Size
+
+High-volatility instruments require:
+
+* larger capital
+* wider risk tolerance
+* stronger execution filters
+
+---
+
+## 5. MODULE 0J Requires Stricter Activation Filters
+
+Future activation requirements:
+
+* higher timeframe alignment
+* visible stabilization
+* confirmed exhaustion
+* liquidity support
+* controlled volatility regime
+
+---
+
+# NEW RISK RULES
+
+## Rule A
+
+Maximum account risk per trade:
+
+* extremely small
+
+---
+
+## Rule B
+
+Avoid:
+
+* aggressive oil
+* gold
+* crypto
+  during early development phase
+
+Focus primarily on:
+
+* major forex pairs
+
+---
+
+## Rule C
+
+No revenge trading after losses.
+
+---
+
+## Rule D
+
+Post-loss review is mandatory before next trade.
+
+---
+
+# FINAL PROFESSIONAL INSIGHT
+
+Losses are not automatically failure.
+
+Undocumented losses repeat themselves.
+
+Documented losses become:
+
+* systems
+* intelligence
+* execution refinement
+* future edge
+
+This event was not merely financial loss.
+
+It was:
+
+* structural market education
+* volatility education
+* execution education
+* portfolio risk education

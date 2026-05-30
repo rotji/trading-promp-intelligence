@@ -6,9 +6,29 @@ Use:
 - Real-world macro data
 - Structural flow data
 - Chart footprint data
+* Systemic Intelligence Mode outputs
+* Global funding conditions
+* Dollar liquidity conditions
+* FX swap conditions
+* Credit market conditions
+* Repo and collateral conditions
+* Derivative stress conditions
+* Systemic risk conditions
+* Global leverage conditions
+* Dealer balance-sheet conditions
+
 
 Activate:
 - MODULE 0 BRIDGE
+* MODULE 0 BRIDGE A
+* MODULE 0 BRIDGE B
+* MODULE 0 BRIDGE C
+* MODULE 0 BRIDGE D
+* MODULE 0 BRIDGE E
+* MODULE 0 BRIDGE F
+* MODULE 0 BRIDGE G
+* MODULE 0 BRIDGE H
+
 - MODULE 0D
 - MODULE 0E
 - MODULE 0F
@@ -19,6 +39,31 @@ Activate:
 - MODULE 2
 - MODULE 3
 - MODULE 4
+SYSTEMIC FILTERING LAYER
+
+All opportunities must be filtered through:
+
+* funding conditions
+* dollar liquidity conditions
+* systemic risk conditions
+* derivative stress conditions
+* collateral conditions
+* global leverage conditions
+
+If systemic instability rises:
+
+* downgrade aggressive opportunities
+* upgrade defensive opportunities
+* upgrade volatility opportunities
+* reduce carry trade confidence
+* reduce leverage assumptions
+
+If systemic conditions improve:
+
+* upgrade risk-on opportunities
+* upgrade carry opportunities
+* upgrade trend continuation probability
+* increase liquidity-sensitive opportunity quality
 
 Generate:
 
@@ -38,6 +83,12 @@ For each opportunity provide:
 - asset
 - direction
 - macro reasoning
+* funding regime assessment
+* dollar liquidity assessment
+* systemic risk assessment
+* derivative stress assessment
+* dealer stability assessment
+
 - liquidity reasoning
 - structural flow reasoning
 - chart footprint reasoning
@@ -49,6 +100,34 @@ For each opportunity provide:
 - risk/reward quality
 - expected market regime
 - invalidation conditions
+
+SYSTEMIC RISK ADJUSTMENT
+
+Portfolio construction must adjust according to:
+
+* funding conditions
+* dollar liquidity regime
+* systemic risk score
+* derivative stress regime
+* collateral conditions
+
+Higher systemic stress:
+
+↓
+
+increase defensive exposure
+
+↓
+
+reduce leverage
+
+↓
+
+reduce directional concentration
+
+↓
+
+increase convexity allocation
 
 Then:
 

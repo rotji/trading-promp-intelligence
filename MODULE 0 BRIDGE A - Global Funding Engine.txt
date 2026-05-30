@@ -1,0 +1,240 @@
+MODULE 0 BRIDGE A
+
+GLOBAL FUNDING ENGINE
+
+PURPOSE
+
+Monitor the global funding environment that powers:
+
+* banks
+* hedge funds
+* sovereign funds
+* corporations
+* dealers
+* derivatives markets
+
+Detect whether funding conditions are:
+
+* expanding
+* neutral
+* tightening
+* stressed
+* crisis-level
+
+The objective is to identify hidden liquidity conditions before they fully appear in asset prices.
+
+---
+
+CORE PRINCIPLE
+
+Modern markets are funding systems.
+
+Asset prices are downstream.
+
+Funding conditions are upstream.
+
+When funding expands:
+
+* leverage expands
+* risk appetite expands
+* volatility often compresses
+* asset prices rise
+
+When funding contracts:
+
+* leverage contracts
+* forced selling increases
+* volatility expands
+* liquidity deteriorates
+* asset prices weaken
+
+Funding conditions frequently move before markets react.
+
+---
+
+PRIMARY QUESTIONS
+
+The engine must continuously evaluate:
+
+1. Is global funding expanding?
+
+2. Is global funding contracting?
+
+3. Is dollar funding abundant?
+
+4. Is dollar funding scarce?
+
+5. Are banks comfortable extending balance sheets?
+
+6. Are dealers reducing risk?
+
+7. Is leverage increasing?
+
+8. Is leverage decreasing?
+
+9. Is liquidity creation accelerating?
+
+10. Is liquidity destruction accelerating?
+
+---
+
+FUNDING REGIMES
+
+REGIME 1
+
+EXPANSIVE FUNDING
+
+Characteristics:
+
+* abundant liquidity
+* low funding stress
+* healthy leverage growth
+* easy credit conditions
+* strong risk appetite
+
+Asset impact:
+
+* bullish equities
+* bullish crypto
+* bullish carry trades
+* tighter credit spreads
+
+---
+
+REGIME 2
+
+NEUTRAL FUNDING
+
+Characteristics:
+
+* stable liquidity
+* balanced risk taking
+* moderate leverage
+
+Asset impact:
+
+* range conditions
+* selective trends
+* normal volatility
+
+---
+
+REGIME 3
+
+TIGHTENING FUNDING
+
+Characteristics:
+
+* rising funding costs
+* declining leverage
+* increasing caution
+
+Asset impact:
+
+* weaker risk assets
+* stronger defensive assets
+* higher volatility
+
+---
+
+REGIME 4
+
+STRESSED FUNDING
+
+Characteristics:
+
+* funding scarcity
+* collateral stress
+* dealer balance-sheet pressure
+* liquidity withdrawal
+
+Asset impact:
+
+* violent volatility
+* deleveraging
+* liquidation cascades
+
+---
+
+REGIME 5
+
+CRISIS FUNDING
+
+Characteristics:
+
+* systemic funding disruption
+* central bank intervention
+* emergency liquidity programs
+* market dysfunction
+
+Asset impact:
+
+* crisis behavior
+* disorderly repricing
+* extreme volatility
+
+---
+
+GLOBAL FUNDING INPUTS
+
+Monitor:
+
+* BIS funding reports
+* central bank liquidity actions
+* Fed liquidity operations
+* ECB liquidity operations
+* BOJ liquidity operations
+* swap line activity
+* repo conditions
+* money market conditions
+* commercial paper markets
+* bank funding indicators
+
+---
+
+INTERPRETATION RULES
+
+If funding expands:
+
+Increase probability of:
+
+* trend continuation
+* risk-on behavior
+* carry trades
+* leverage expansion
+
+---
+
+If funding contracts:
+
+Increase probability of:
+
+* volatility expansion
+* defensive positioning
+* deleveraging
+* risk-off behavior
+
+---
+
+EXECUTION RULE
+
+Funding regime must influence:
+
+* position size
+* conviction level
+* holding period
+* portfolio aggressiveness
+
+Aggressive positioning should only occur when funding conditions support risk taking.
+
+---
+
+FINAL PRINCIPLE
+
+Funding is the fuel.
+
+Liquidity is the transmission system.
+
+Positioning is the accelerator.
+
+Price is the result.

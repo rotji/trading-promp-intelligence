@@ -1,0 +1,350 @@
+MODULE 0 BRIDGE H
+
+SYSTEMIC RISK ENGINE
+
+PURPOSE
+
+Integrate all major funding, liquidity, credit, derivatives, and positioning systems into a single framework for detecting:
+
+* systemic instability
+* crisis probability
+* liquidity breakdown
+* contagion risk
+* leverage vulnerability
+
+before those risks become fully visible in market prices.
+
+---
+
+CORE PRINCIPLE
+
+Major financial crises rarely emerge from a single event.
+
+Crises emerge when multiple systems begin failing simultaneously.
+
+The objective of this engine is to detect:
+
+* convergence of stress
+* correlation of weakness
+* contagion pathways
+
+before full crisis conditions emerge.
+
+---
+
+UPSTREAM ENGINES
+
+Monitor outputs from:
+
+MODULE 0 BRIDGE A
+Global Funding Engine
+
+MODULE 0 BRIDGE B
+FX Swap Engine
+
+MODULE 0 BRIDGE C
+Interest Rate Swap Engine
+
+MODULE 0 BRIDGE D
+Credit Default Swap Engine
+
+MODULE 0 BRIDGE E
+Collateral and Repo Engine
+
+MODULE 0 BRIDGE F
+Dollar Liquidity Engine
+
+MODULE 0 BRIDGE G
+Derivative Stress Engine
+
+---
+
+PRIMARY QUESTIONS
+
+1. Is systemic risk rising?
+
+2. Is systemic risk falling?
+
+3. Is liquidity becoming fragile?
+
+4. Is leverage becoming dangerous?
+
+5. Is funding becoming unstable?
+
+6. Is credit deteriorating?
+
+7. Is collateral deteriorating?
+
+8. Is volatility becoming disorderly?
+
+9. Is contagion spreading?
+
+10. Is intervention becoming likely?
+
+---
+
+SYSTEMIC RISK REGIMES
+
+REGIME 1
+
+STABLE SYSTEM
+
+Characteristics:
+
+* healthy liquidity
+* healthy funding
+* healthy credit
+* low stress
+
+Implications:
+
+* aggressive risk-taking possible
+
+---
+
+REGIME 2
+
+EARLY WARNING
+
+Characteristics:
+
+* isolated stress pockets
+* localized weakness
+
+Implications:
+
+* selective caution
+
+---
+
+REGIME 3
+
+RISING SYSTEMIC RISK
+
+Characteristics:
+
+* multiple stress indicators
+* funding deterioration
+
+Implications:
+
+* defensive positioning begins
+
+---
+
+REGIME 4
+
+CRISIS BUILDING
+
+Characteristics:
+
+* broad deterioration
+* leverage instability
+* contagion risk
+
+Implications:
+
+* aggressive risk reduction
+
+---
+
+REGIME 5
+
+ACTIVE CRISIS
+
+Characteristics:
+
+* liquidity failure
+* funding disruption
+* widespread instability
+
+Implications:
+
+* crisis portfolio mode
+
+---
+
+CONTAGION ANALYSIS
+
+Monitor:
+
+Funding Markets
+
+↓
+
+Swap Markets
+
+↓
+
+Credit Markets
+
+↓
+
+Banks
+
+↓
+
+Equities
+
+↓
+
+Commodities
+
+↓
+
+Currencies
+
+↓
+
+Global Economy
+
+Determine:
+
+* isolated risk
+* spreading risk
+* systemic risk
+
+---
+
+CRISIS SCORE
+
+Calculate:
+
+Funding Stress Score
+
+*
+
+Dollar Stress Score
+
+*
+
+Credit Stress Score
+
+*
+
+Collateral Stress Score
+
+*
+
+Derivative Stress Score
+
+*
+
+Volatility Stress Score
+
+=
+
+SYSTEMIC RISK SCORE
+
+---
+
+SYSTEMIC RISK SCORE CLASSIFICATION
+
+0–20
+
+Stable System
+
+21–40
+
+Early Warning
+
+41–60
+
+Elevated Risk
+
+61–80
+
+Crisis Building
+
+81–100
+
+Active Crisis
+
+---
+
+CENTRAL BANK RESPONSE MONITOR
+
+Evaluate probability of:
+
+* liquidity injection
+* QE
+* emergency repo
+* swap line activation
+* intervention programs
+
+---
+
+PORTFOLIO IMPACT
+
+Stable System:
+
+Supports:
+
+* aggressive portfolios
+* leverage
+* carry trades
+
+---
+
+Elevated Risk:
+
+Supports:
+
+* balanced portfolios
+* reduced leverage
+
+---
+
+Crisis Building:
+
+Supports:
+
+* defensive portfolios
+* volatility exposure
+* safe havens
+
+---
+
+Active Crisis:
+
+Supports:
+
+* capital preservation
+* crisis hedges
+* maximum risk control
+
+---
+
+EXECUTION RULE
+
+Position sizing must adjust according to:
+
+SYSTEMIC RISK SCORE
+
+Higher risk score:
+
+↓
+
+smaller position size
+
+↓
+
+lower leverage
+
+↓
+
+greater caution
+
+---
+
+FINAL PRINCIPLE
+
+Most traders monitor charts.
+
+Institutions monitor systems.
+
+Price is the final output.
+
+Systemic risk develops inside the hidden infrastructure first.
+
+The objective is to identify instability before price fully reflects it.

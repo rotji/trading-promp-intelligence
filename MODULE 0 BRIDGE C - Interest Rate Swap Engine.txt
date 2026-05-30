@@ -1,0 +1,257 @@
+MODULE 0 BRIDGE C
+
+INTEREST RATE SWAP ENGINE
+
+PURPOSE
+
+Monitor the global interest rate swap market to detect:
+
+* rate expectations
+* liquidity conditions
+* duration pressure
+* yield instability
+* central bank transmission effects
+
+Detect structural shifts before they fully appear in:
+
+* bond markets
+* FX markets
+* equity markets
+* credit markets
+
+---
+
+CORE PRINCIPLE
+
+Interest Rate Swaps are the largest derivative market in existence.
+
+Interest Rate Swaps often reveal:
+
+* future rate expectations
+* institutional positioning
+* funding conditions
+* duration demand
+
+before asset prices fully react.
+
+---
+
+WHAT IS AN INTEREST RATE SWAP
+
+Basic structure:
+
+One party pays fixed interest.
+
+One party pays floating interest.
+
+Used for:
+
+* hedging
+* duration management
+* funding management
+* macro positioning
+
+---
+
+PRIMARY QUESTIONS
+
+1. Is the market expecting higher rates?
+
+2. Is the market expecting lower rates?
+
+3. Is duration demand increasing?
+
+4. Is duration demand decreasing?
+
+5. Is bond market stress increasing?
+
+6. Is bond market stress decreasing?
+
+7. Are swap spreads widening?
+
+8. Are swap spreads tightening?
+
+9. Is monetary transmission functioning normally?
+
+10. Is monetary transmission breaking down?
+
+---
+
+INTEREST RATE REGIMES
+
+REGIME 1
+
+EASING EXPECTATION
+
+Characteristics:
+
+* falling rate expectations
+* falling yields
+* supportive liquidity
+
+Implications:
+
+* bullish equities
+* bullish bonds
+* weaker defensive demand
+
+---
+
+REGIME 2
+
+NEUTRAL EXPECTATION
+
+Characteristics:
+
+* stable yields
+* stable funding conditions
+
+Implications:
+
+* balanced market environment
+
+---
+
+REGIME 3
+
+TIGHTENING EXPECTATION
+
+Characteristics:
+
+* rising yields
+* rising funding costs
+* tighter liquidity
+
+Implications:
+
+* stronger defensive positioning
+* pressure on risk assets
+
+---
+
+REGIME 4
+
+RATE STRESS
+
+Characteristics:
+
+* rapid yield movement
+* duration instability
+* swap market stress
+
+Implications:
+
+* volatility expansion
+* asset repricing
+
+---
+
+REGIME 5
+
+SYSTEMIC RATE INSTABILITY
+
+Characteristics:
+
+* disorderly yield movement
+* funding transmission problems
+* intervention risk
+
+Implications:
+
+* liquidity disruption
+* cross-asset instability
+
+---
+
+KEY INPUTS
+
+Monitor:
+
+* Treasury yields
+* swap spreads
+* OIS markets
+* SOFR markets
+* Fed expectations
+* ECB expectations
+* BOJ expectations
+* yield curve behavior
+
+---
+
+FX IMPACT
+
+Interest rate swaps influence:
+
+* carry trades
+* currency valuation
+* yield differentials
+* capital flows
+
+Higher expected rates:
+
+Increase probability of:
+
+* currency strength
+* carry attractiveness
+
+---
+
+Lower expected rates:
+
+Increase probability of:
+
+* currency weakness
+* carry deterioration
+
+---
+
+EXECUTION RULE
+
+Always compare:
+
+* spot market behavior
+* yield behavior
+* swap behavior
+
+before entering:
+
+* FX trades
+* carry trades
+* bond trades
+
+---
+
+WARNING SIGNALS
+
+Increase caution if:
+
+* yields diverge from price
+* swap spreads widen aggressively
+* funding costs spike
+* duration pressure increases
+
+---
+
+FINAL PRINCIPLE
+
+Interest Rate Swaps are one of the primary transmission systems between:
+
+central banks
+
+↓
+
+bond markets
+
+↓
+
+currencies
+
+↓
+
+equities
+
+↓
+
+global liquidity
+
+Monitoring swap conditions helps identify macro regime changes before they become obvious in price.

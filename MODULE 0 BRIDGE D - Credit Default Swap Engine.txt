@@ -1,0 +1,270 @@
+MODULE 0 BRIDGE D
+
+CREDIT DEFAULT SWAP ENGINE
+
+PURPOSE
+
+Monitor global credit risk conditions through CDS markets.
+
+Detect:
+
+* sovereign stress
+* banking stress
+* corporate credit deterioration
+* systemic instability
+* default fear
+
+before those risks become fully visible in price.
+
+---
+
+CORE PRINCIPLE
+
+Credit markets often detect danger before:
+
+* equity markets
+* FX markets
+* commodity markets
+
+When CDS spreads widen:
+
+The market is demanding more compensation for risk.
+
+This often signals:
+
+* deteriorating confidence
+* funding stress
+* liquidity withdrawal
+* rising crisis probability
+
+---
+
+WHAT IS A CDS
+
+Credit Default Swap:
+
+A contract providing protection against default.
+
+Buyer:
+
+Pays premium.
+
+Seller:
+
+Provides protection if default occurs.
+
+CDS functions like insurance.
+
+---
+
+PRIMARY QUESTIONS
+
+1. Is sovereign credit risk increasing?
+
+2. Is sovereign credit risk decreasing?
+
+3. Is banking system risk increasing?
+
+4. Is banking system risk decreasing?
+
+5. Is corporate credit deteriorating?
+
+6. Is corporate credit improving?
+
+7. Is systemic risk building?
+
+8. Is systemic risk falling?
+
+9. Are investors demanding more protection?
+
+10. Are investors reducing protection demand?
+
+---
+
+CDS REGIMES
+
+REGIME 1
+
+CREDIT IMPROVEMENT
+
+Characteristics:
+
+* falling CDS spreads
+* improving confidence
+* strong credit conditions
+
+Implications:
+
+* bullish risk assets
+* lower volatility
+* healthy liquidity
+
+---
+
+REGIME 2
+
+NEUTRAL CREDIT
+
+Characteristics:
+
+* stable spreads
+* balanced risk perception
+
+Implications:
+
+* normal market behavior
+
+---
+
+REGIME 3
+
+CREDIT DETERIORATION
+
+Characteristics:
+
+* widening CDS spreads
+* increasing caution
+
+Implications:
+
+* defensive positioning
+* reduced risk appetite
+
+---
+
+REGIME 4
+
+CREDIT STRESS
+
+Characteristics:
+
+* rapidly widening spreads
+* rising fear
+
+Implications:
+
+* volatility expansion
+* liquidity contraction
+* risk-off behavior
+
+---
+
+REGIME 5
+
+SYSTEMIC CREDIT CRISIS
+
+Characteristics:
+
+* explosive CDS widening
+* default concerns
+* institutional instability
+
+Implications:
+
+* crisis regime
+* deleveraging
+* capital flight
+
+---
+
+KEY INPUTS
+
+Monitor:
+
+* US sovereign CDS
+* major sovereign CDS
+* major bank CDS
+* systemically important bank CDS
+* corporate CDS indexes
+* high-yield CDS indexes
+* investment-grade CDS indexes
+
+---
+
+SOVEREIGN ANALYSIS
+
+Evaluate:
+
+* government credit confidence
+* fiscal stability
+* debt sustainability
+
+Monitor:
+
+* United States
+* Japan
+* United Kingdom
+* Eurozone
+* China
+
+---
+
+BANKING ANALYSIS
+
+Evaluate:
+
+* banking sector stability
+* funding confidence
+* solvency concerns
+
+Monitor:
+
+* global systemically important banks
+* regional banks
+* financial institutions
+
+---
+
+MARKET IMPACT
+
+Widening CDS spreads:
+
+Increase probability of:
+
+* defensive positioning
+* stronger safe havens
+* lower risk appetite
+* liquidity contraction
+
+---
+
+Falling CDS spreads:
+
+Increase probability of:
+
+* risk-on behavior
+* stronger growth assets
+* expanding liquidity
+
+---
+
+EXECUTION RULE
+
+Credit conditions must influence:
+
+* portfolio aggressiveness
+* position sizing
+* volatility expectations
+* crisis probability
+
+---
+
+WARNING SIGNALS
+
+Raise risk warnings if:
+
+* CDS diverges from equities
+* CDS diverges from credit markets
+* CDS widens while risk assets rise
+
+These divergences frequently appear before major market repricing.
+
+---
+
+FINAL PRINCIPLE
+
+Price can ignore risk temporarily.
+
+Credit markets often cannot.
+
+CDS markets are among the earliest warning systems for systemic instability.

@@ -1,0 +1,257 @@
+MODULE 0 BRIDGE F
+
+DOLLAR LIQUIDITY ENGINE
+
+PURPOSE
+
+Monitor global dollar liquidity conditions.
+
+Detect:
+
+* dollar abundance
+* dollar scarcity
+* liquidity expansion
+* liquidity contraction
+* global funding stress
+
+before they become fully visible in asset prices.
+
+---
+
+CORE PRINCIPLE
+
+The global financial system runs on dollars.
+
+Most:
+
+* trade
+* commodities
+* debt
+* banking
+* derivatives
+
+ultimately depend on dollar liquidity.
+
+Dollar liquidity frequently drives:
+
+* risk-on regimes
+* risk-off regimes
+* carry trades
+* global growth expectations
+
+---
+
+PRIMARY QUESTIONS
+
+1. Is global dollar liquidity expanding?
+
+2. Is global dollar liquidity contracting?
+
+3. Is the world short dollars?
+
+4. Is the world flush with dollars?
+
+5. Is dollar funding becoming easier?
+
+6. Is dollar funding becoming harder?
+
+7. Is leverage increasing?
+
+8. Is leverage decreasing?
+
+9. Are central banks adding liquidity?
+
+10. Are central banks removing liquidity?
+
+---
+
+DOLLAR LIQUIDITY REGIMES
+
+REGIME 1
+
+LIQUIDITY EXPANSION
+
+Characteristics:
+
+* abundant dollars
+* strong funding
+* healthy leverage
+
+Implications:
+
+* bullish risk assets
+* bullish crypto
+* bullish equities
+* stronger growth assets
+
+---
+
+REGIME 2
+
+NEUTRAL LIQUIDITY
+
+Characteristics:
+
+* stable dollar availability
+* balanced funding
+
+Implications:
+
+* normal market behavior
+
+---
+
+REGIME 3
+
+LIQUIDITY TIGHTENING
+
+Characteristics:
+
+* declining dollar supply
+* rising funding costs
+
+Implications:
+
+* stronger USD
+* weaker risk assets
+* increasing volatility
+
+---
+
+REGIME 4
+
+DOLLAR STRESS
+
+Characteristics:
+
+* dollar shortage
+* funding scarcity
+
+Implications:
+
+* risk-off behavior
+* carry unwind
+* commodity pressure
+
+---
+
+REGIME 5
+
+DOLLAR CRISIS
+
+Characteristics:
+
+* severe dollar shortage
+* central bank intervention
+
+Implications:
+
+* swap line activation
+* emergency liquidity facilities
+* systemic instability
+
+---
+
+KEY INPUTS
+
+Monitor:
+
+* Federal Reserve balance sheet
+* QT activity
+* QE activity
+* reverse repo facility
+* repo facility
+* reserve balances
+* swap line activity
+* BIS liquidity reports
+* eurodollar conditions
+
+---
+
+EURODOLLAR ANALYSIS
+
+Evaluate:
+
+* offshore dollar supply
+* offshore dollar demand
+* funding conditions
+
+The eurodollar system is a major driver of:
+
+* global liquidity
+* emerging market stability
+* FX funding
+
+---
+
+CENTRAL BANK ANALYSIS
+
+Evaluate:
+
+* Fed liquidity creation
+* ECB liquidity creation
+* BOJ liquidity creation
+* PBOC liquidity creation
+
+Determine:
+
+* synchronized easing
+* synchronized tightening
+* liquidity divergence
+
+---
+
+MARKET IMPACT
+
+Expanding dollar liquidity:
+
+Increase probability of:
+
+* risk-on behavior
+* carry trades
+* credit expansion
+* asset inflation
+
+---
+
+Contracting dollar liquidity:
+
+Increase probability of:
+
+* risk-off behavior
+* stronger USD
+* volatility expansion
+* deleveraging
+
+---
+
+EXECUTION RULE
+
+Portfolio aggressiveness must adjust according to:
+
+* dollar liquidity regime
+* funding conditions
+* leverage conditions
+
+---
+
+WARNING SIGNALS
+
+Raise alerts if:
+
+* dollar funding costs spike
+* eurodollar conditions deteriorate
+* swap line activity increases
+* funding spreads widen aggressively
+
+---
+
+FINAL PRINCIPLE
+
+Dollar liquidity is one of the most powerful drivers of global asset prices.
+
+Many market trends are liquidity trends disguised as price trends.
+
+When dollar liquidity changes:
+
+Everything eventually reacts.
