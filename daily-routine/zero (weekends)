@@ -1,7 +1,57 @@
 RUN WEEKEND STRATEGIC REVIEW MODE
 
 Activate:
-- ALL MODULES
+Activate:
+
+* ALL MODULES
+
+PRIMARY SYSTEMIC REVIEW LAYER:
+
+* MODULE 0 BRIDGE A
+  Global Funding Engine
+
+* MODULE 0 BRIDGE B
+  FX Swap Engine
+
+* MODULE 0 BRIDGE C
+  Interest Rate Swap Engine
+
+* MODULE 0 BRIDGE D
+  Credit Default Swap Engine
+
+* MODULE 0 BRIDGE E
+  Collateral and Repo Engine
+
+* MODULE 0 BRIDGE F
+  Dollar Liquidity Engine
+
+* MODULE 0 BRIDGE G
+  Derivative Stress Engine
+
+* MODULE 0 BRIDGE H
+  Systemic Risk Engine
+  * MODULE 0 BRIDGE I
+  Counterparty and Contagion Intelligence Engine
+
+
+Use:
+
+* Systemic Intelligence Mode outputs
+* weekly funding conditions
+* weekly dollar liquidity conditions
+* weekly derivative stress conditions
+* weekly systemic risk conditions
+* weekly collateral conditions
+* weekly dealer stability conditions
+* weekly volatility regime conditions
+* weekly macro regime conditions
+* weekly contagion conditions
+* weekly counterparty conditions
+* weekly interbank trust conditions
+* weekly clearing stability conditions
+* weekly settlement stability conditions
+
+
 
 Analyze:
 
@@ -15,6 +65,30 @@ Analyze:
 8. Weekly dealer behavior
 9. Weekly derivatives behavior
 10. Weekly execution quality
+11. Weekly funding evolution
+
+12. Weekly dollar liquidity evolution
+
+13. Weekly derivative stress evolution
+
+14. Weekly systemic fragility evolution
+
+15. Weekly collateral evolution
+
+16. Weekly contagion evolution
+
+17. Weekly dealer stability evolution
+
+18. Weekly macro regime transition analysis
+19. Weekly counterparty stability evolution
+
+20. Weekly interbank trust evolution
+
+21. Weekly clearing and settlement stability evolution
+
+22. Weekly contagion transmission evolution
+
+
 
 Then identify:
 
@@ -29,6 +103,83 @@ Then identify:
 - asymmetric opportunities
 - best asset classes
 - worst asset classes
+* funding-sensitive opportunities
+* liquidity-fragile opportunities
+* systemic-risk-sensitive opportunities
+* dealer-fragile opportunities
+* volatility-sensitive opportunities
+* contagion-sensitive structures
+* convexity-sensitive structures
+* strongest systemic-alignment opportunities
+* weakest systemic-alignment opportunities
+* strongest liquidity-alignment opportunities
+* weakest liquidity-alignment opportunities
+* strongest asymmetry environments
+* weakest asymmetry environments
+
+Then classify weekly environment as:
+
+* stable expansion environment
+* controlled risk-on environment
+* liquidity-supported environment
+* volatility-transition environment
+* funding-deterioration environment
+* liquidity-fragility environment
+* systemic-fragility environment
+* dealer-instability environment
+* contagion-sensitive environment
+* defensive-transition environment
+* convexity-sensitive environment
+* crisis-transition environment
+
+Determine whether:
+
+* asymmetry quality is improving
+* asymmetry quality is deteriorating
+* liquidity conditions support continuation
+* volatility conditions threaten continuation
+* funding conditions threaten leverage stability
+* dealer conditions threaten execution quality
+* systemic fragility threatens trend persistence
+* contagion conditions threaten market stability
+
+Then classify weekly environment as:
+
+* stable expansion environment
+* controlled risk-on environment
+* liquidity-supported environment
+* volatility-transition environment
+* funding-deterioration environment
+* liquidity-fragility environment
+* systemic-fragility environment
+* dealer-instability environment
+* contagion-sensitive environment
+* counterparty-sensitive environment
+* interbank-instability environment
+* trust-deterioration environment
+* clearing-instability environment
+* settlement-fragility environment
+
+* defensive-transition environment
+* convexity-sensitive environment
+* crisis-transition environment
+
+Determine whether:
+
+* asymmetry quality is improving
+* asymmetry quality is deteriorating
+* liquidity conditions support continuation
+* volatility conditions threaten continuation
+* funding conditions threaten leverage stability
+* dealer conditions threaten execution quality
+* systemic fragility threatens trend persistence
+* contagion conditions threaten market stability
+* counterparty conditions threaten asymmetry durability
+* interbank trust deterioration threatens liquidity persistence
+* clearing instability threatens execution stability
+* settlement fragility threatens volatility stability
+* trust deterioration threatens carry-trade durability
+
 
 Then generate:
 
@@ -37,3 +188,228 @@ Then generate:
 3. Weekly portfolio adjustments
 4. Weekly risk warnings
 5. Weekly adaptation recommendations
+
+ADAPTIVE STRATEGIC EVOLUTION LAYER
+
+Future strategic behavior must adapt according to:
+
+* funding regime evolution
+* liquidity regime evolution
+* volatility regime evolution
+* dealer behavior evolution
+* derivative regime evolution
+* systemic fragility evolution
+* contagion evolution
+* macro regime transitions
+* asymmetry durability evolution
+* execution environment evolution
+* convexity evolution
+* leverage stability evolution
+* counterparty stability evolution
+* interbank trust evolution
+* clearing stability evolution
+* settlement stability evolution
+* contagion transmission evolution
+
+
+---
+
+If systemic fragility increases week-over-week:
+
+↓
+
+increase defensive weighting
+
+↓
+
+reduce leverage assumptions
+
+↓
+
+increase convexity preference
+
+↓
+
+increase liquidity preservation focus
+
+↓
+
+reduce continuation confidence
+
+↓
+
+increase volatility disruption awareness
+↓
+
+reduce trust-sensitive exposure
+
+↓
+
+reduce carry-trade aggressiveness
+
+↓
+
+increase liquidity-preservation weighting
+
+↓
+
+increase contagion-risk awareness
+
+↓
+
+reduce confidence in leverage-dependent structures
+
+
+---
+
+If liquidity stability improves week-over-week:
+
+↓
+
+allow stronger trend persistence assumptions
+
+↓
+
+allow broader opportunity expansion
+
+↓
+
+increase asymmetry confidence
+
+↓
+
+increase carry-trade tolerance
+
+↓
+
+allow greater directional conviction
+↓
+
+allow greater trust-sensitive opportunity exposure
+
+↓
+
+allow greater carry-trade tolerance
+
+↓
+
+allow greater liquidity-sensitive positioning
+
+---
+
+If volatility instability expands:
+
+↓
+
+reduce aggressive execution assumptions
+
+↓
+
+increase nonlinear event awareness
+
+↓
+
+reduce asymmetry duration assumptions
+
+↓
+
+increase defensive opportunity weighting
+
+---
+
+If dealer instability increases:
+
+↓
+
+reduce short-term continuation confidence
+
+↓
+
+increase squeeze-risk awareness
+
+↓
+
+increase liquidity disruption sensitivity
+
+↓
+
+increase execution fragility awareness
+
+---
+
+Final Objective:
+
+Continuously evolve strategic positioning according to changing systemic conditions rather than assuming static market behavior across regimes.
+SYSTEMIC PROBABILITY ADAPTATION FRAMEWORK
+
+Strategic probability confidence must dynamically adjust according to:
+
+* funding stability
+* liquidity stability
+* derivative stability
+* counterparty stability
+* interbank trust stability
+* clearing stability
+* settlement stability
+* contagion probability
+* volatility regime stability
+* systemic fragility evolution
+
+---
+
+As trust deterioration increases:
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce leverage confidence
+
+↓
+
+increase nonlinear-event probability weighting
+
+↓
+
+increase defensive probability weighting
+
+↓
+
+increase liquidity-fragility probability weighting
+
+↓
+
+increase contagion-risk probability weighting
+
+---
+
+As trust stability improves:
+
+↓
+
+allow stronger continuation confidence
+
+↓
+
+allow stronger carry-trade confidence
+
+↓
+
+allow stronger liquidity persistence assumptions
+
+↓
+
+allow broader opportunity confidence
+
+↓
+
+allow stronger asymmetry durability assumptions
+
+---
+
+Final Objective:
+
+Continuously adapt strategic confidence according to evolving systemic trust conditions rather than assuming static probability behavior across changing market regimes.
+

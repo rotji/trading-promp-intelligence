@@ -8,6 +8,9 @@ Use:
 * current systemic risk regime
 * current collateral conditions
 * current dealer stability conditions
+* * counterparty stability conditions
+* contagion conditions
+* clearing stability conditions
 
 Activate:
 - MODULE 0 BRIDGE
@@ -19,6 +22,7 @@ Activate:
 * MODULE 0 BRIDGE F
 * MODULE 0 BRIDGE G
 * MODULE 0 BRIDGE H
+* * MODULE 0 BRIDGE I
 
 - MODULE 0G
 - MODULE 0H
@@ -68,6 +72,9 @@ Execution decisions must also adjust according to:
 * systemic risk conditions
 * collateral conditions
 * dealer balance-sheet pressure
+* * counterparty conditions
+* contagion probability
+* interbank instability
 
 If systemic stress rises:
 
@@ -114,6 +121,11 @@ Analyze:
 14. Systemic risk conditions
 15. Collateral conditions
 16. Dealer balance-sheet stability
+17. Counterparty stability
+
+18. Contagion probability
+
+19. Clearing stability
 
 Then provide:
 
@@ -140,7 +152,8 @@ High-quality execution requires alignment between:
 * derivative conditions
 * funding conditions
 * systemic stability
-
+* counterparty stability
+* contagion conditions
 If tactical setup is strong but systemic conditions deteriorate:
 
 ↓

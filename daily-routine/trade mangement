@@ -9,10 +9,57 @@ Entry:
 Current Price:
 [INSERT CURRENT PRICE]
 
+Use:
+
+* Systemic Intelligence Mode outputs
+* current funding conditions
+* current dollar liquidity conditions
+* current derivative stress conditions
+* current systemic risk conditions
+* current collateral conditions
+* current dealer stability conditions
+* current counterparty conditions
+* current contagion conditions
+* current interbank trust conditions
+* current clearing stability conditions
+
+
 Activate:
-- MODULE 0 BRIDGE
+
+* MODULE 0 BRIDGE
+
+PRIMARY SYSTEMIC MANAGEMENT LAYER:
+
+* MODULE 0 BRIDGE A
+  Global Funding Engine
+
+* MODULE 0 BRIDGE B
+  FX Swap Engine
+
+* MODULE 0 BRIDGE C
+  Interest Rate Swap Engine
+
+* MODULE 0 BRIDGE D
+  Credit Default Swap Engine
+
+* MODULE 0 BRIDGE E
+  Collateral and Repo Engine
+
+* MODULE 0 BRIDGE F
+  Dollar Liquidity Engine
+
+* MODULE 0 BRIDGE G
+  Derivative Stress Engine
+
+* MODULE 0 BRIDGE H
+  Systemic Risk Engine
+* MODULE 0 BRIDGE I
+  Counterparty and Contagion Intelligence Engine
+
+
 - MODULE 5
 - MODULE 6
+
 
 Analyze:
 
@@ -26,6 +73,99 @@ Analyze:
 8. Liquidity exhaustion probability
 9. Dealer pressure
 10. Positioning changes
+11. Current funding conditions
+
+12. Current dollar liquidity conditions
+
+13. Current derivative stress conditions
+
+14. Current systemic risk conditions
+
+15. Current collateral conditions
+
+16. Current dealer balance-sheet stability
+17. Current counterparty stability
+
+18. Current contagion probability
+
+19. Current interbank trust conditions
+
+20. Current clearing and settlement stability
+
+
+SYSTEMIC TRADE MANAGEMENT FILTER
+
+Trade management decisions must adjust according to:
+
+* liquidity deterioration
+* funding instability
+* derivative stress
+* systemic fragility
+* dealer instability
+* volatility expansion
+* collateral deterioration
+* counterparty instability
+* contagion probability
+* interbank trust deterioration
+* clearing instability
+
+
+If systemic instability rises:
+
+↓
+
+reduce aggressiveness
+
+↓
+
+reduce exposure
+
+↓
+
+tighten risk management
+↓
+
+reduce confidence in continuation stability
+
+↓
+
+increase defensive management probability
+
+↓
+
+reduce tolerance for leverage-sensitive exposure
+
+↓
+
+increase probability of liquidity disruption
+
+
+↓
+
+avoid overconfidence in continuation
+
+↓
+
+increase probability of defensive management
+
+If systemic stability improves:
+
+↓
+
+allow greater trend confidence
+
+↓
+
+allow greater continuation probability
+
+↓
+
+allow greater holding duration
+
+↓
+
+allow greater tolerance for volatility
+
 
 Then recommend:
 
@@ -36,5 +176,113 @@ Then recommend:
 - close trade
 - add exposure
 - avoid adjustment
+Recommendations must account for:
 
-Use probability language only.
+* funding stability
+* liquidity stability
+* derivative stability
+* counterparty stability
+* contagion probability
+* interbank trust conditions
+* clearing stability
+* systemic fragility
+* volatility regime stability
+
+If continuation structure remains strong but systemic trust deteriorates:
+
+↓
+
+favor defensive management
+
+↓
+
+reduce confidence in trend persistence
+
+↓
+
+increase probability of volatility disruption
+
+↓
+
+reduce probability of stable liquidity continuation
+
+Then classify current live trade environment as:
+
+* stable continuation environment
+* controlled continuation environment
+* volatility expansion environment
+* liquidity deterioration environment
+* defensive management environment
+* unstable management environment
+* systemic fragility environment
+* contagion-sensitive environment
+* counterparty-sensitive environment
+* interbank instability environment
+* clearing instability environment
+* trust deterioration environment
+
+
+Determine whether:
+
+* trade quality is improving
+* trade quality is deteriorating
+* systemic conditions support continuation
+* systemic conditions support defensive management
+* volatility conditions support holding
+* liquidity conditions support exposure maintenance
+* counterparty conditions support continuation stability
+* contagion conditions threaten execution quality
+* trust deterioration threatens liquidity stability
+* clearing instability threatens volatility stability
+
+
+
+Use probability-based language only.
+
+Probability confidence must dynamically adjust according to:
+
+* funding stability
+* liquidity stability
+* derivative stability
+* counterparty stability
+* contagion probability
+* interbank trust conditions
+* clearing stability
+* volatility regime stability
+* systemic fragility
+
+As systemic fragility rises:
+
+↓
+
+reduce certainty language
+
+↓
+
+reduce continuation confidence
+
+↓
+
+increase uncertainty weighting
+
+↓
+
+increase defensive probability weighting
+
+↓
+
+increase nonlinear event probability weighting
+
+As systemic stability improves:
+
+↓
+
+allow stronger continuation confidence
+
+↓
+
+allow stronger trend persistence probability
+
+↓
+
+allow stronger execution confidence

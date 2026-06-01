@@ -2,7 +2,7 @@ MODULE 4 — TRADE CONSTRUCTION, CONVICTION SCORING, AND OPPORTUNITY RANKING
 
 --------------------------------------------------
 
-STEP 13 — TRADE CONSTRUCTION
+STEP 13 — STRATEGIC OPPORTUNITY CONSTRUCTION
 
 Convert the 10 opportunities generated in MODULE 3 into structured trade setups.
 
@@ -18,11 +18,42 @@ Direction (Long / Short)
 
 Probability (%)
 
-Entry Zone (price range)
-Stop Loss
-Target
+Strategic Opportunity Zone
 
-Risk-Reward Ratio
+Directional Bias
+
+Structural Opportunity Type
+
+Macro Alignment Quality
+
+Liquidity Alignment Quality
+
+Volatility Environment
+
+Positioning Environment
+
+Dealer-Flow Environment
+
+Convexity Environment
+
+Structural Invalidation Conditions
+
+Execution Readiness Classification
+
+Expected Time Horizon
+
+Expected Opportunity Quality
+
+Expected Market Regime
+
+Portfolio Role
+
+Correlation Sensitivity
+
+Systemic Fragility Sensitivity
+
+Asymmetric Opportunity Quality
+
 
 Catalyst
 Macro Reason
@@ -39,6 +70,205 @@ Time Horizon
 Trade Urgency
 
 Confidence Level
+
+13A GLOBAL ASSET OPPORTUNITY FILTER
+
+Purpose:
+
+Identify and prioritize the highest-quality asset opportunities across:
+
+* forex
+* commodities
+* metals
+* indexes
+* crypto
+* nonlinear instruments
+* convexity structures
+* defensive structures
+* volatility structures
+
+based on:
+
+* macro alignment
+* liquidity alignment
+* positioning alignment
+* dealer-flow alignment
+* volatility alignment
+* systemic alignment
+* equilibrium alignment
+
+---
+
+CORE PRINCIPLE
+
+Not all trade opportunities are equal.
+
+The system must:
+
+* avoid weak asymmetry
+* avoid structurally fragile opportunities
+* avoid poor liquidity conditions
+* avoid low-quality volatility environments
+
+and prioritize:
+
+* strongest structural alignment
+* strongest liquidity alignment
+* strongest macro alignment
+* strongest positioning alignment
+* strongest convexity alignment
+
+---
+
+ASSET OPPORTUNITY ENGINE
+
+For every asset class evaluate:
+
+1. Macro alignment
+
+2. Liquidity alignment
+
+3. Dollar liquidity sensitivity
+
+4. Funding sensitivity
+
+5. Positioning quality
+
+6. Dealer-flow alignment
+
+7. Gamma environment
+
+8. Volatility regime alignment
+
+9. Convexity quality
+
+10. Structural flow quality
+
+11. Equilibrium alignment
+
+12. Carry stability
+
+13. Systemic fragility
+
+14. Correlation risk
+
+15. Execution quality
+
+---
+
+ASSET CLASSIFICATION
+
+Classify every asset as:
+
+* high probability
+* moderate probability
+* low probability
+* avoid
+
+based on total structural alignment.
+
+---
+
+HIGH-PROBABILITY CONDITIONS
+
+Assets receive high-probability classification when:
+
+* macro conditions align
+* liquidity conditions align
+* volatility conditions align
+* positioning conditions align
+* dealer-flow conditions align
+* systemic conditions align
+* equilibrium conditions align
+
+---
+
+DOWNGRADE CONDITIONS
+
+Downgrade assets when:
+
+* liquidity deteriorates
+* funding stress rises
+* volatility becomes disorderly
+* positioning becomes crowded
+* dealer instability rises
+* systemic fragility rises
+* carry instability rises
+
+---
+
+UPGRADE CONDITIONS
+
+Upgrade assets when:
+
+* liquidity improves
+* volatility stabilizes
+* macro alignment strengthens
+* dealer stability improves
+* positioning remains clean
+* equilibrium conditions support continuation
+* systemic stress declines
+
+---
+
+RELATIVE OPPORTUNITY RANKING
+
+The system must rank opportunities by:
+
+1. Structural quality
+
+2. Liquidity quality
+
+3. Systemic stability
+
+4. Convexity quality
+
+5. Volatility quality
+
+6. Execution quality
+
+7. Risk/reward asymmetry
+
+---
+
+ENVIRONMENTAL FILTERING
+
+Balanced-to-defensive environments favor:
+
+* defensive metals
+* defensive FX structures
+* volatility structures
+* convexity structures
+* liquidity-preserving assets
+
+Aggressive risk-on environments favor:
+
+* indexes
+* crypto
+* carry trades
+* growth-sensitive structures
+* liquidity-sensitive assets
+
+Crisis environments favor:
+
+* defensive assets
+* volatility expansion structures
+* convexity protection
+* liquidity preservation
+* safe-haven structures
+
+---
+
+FINAL OBJECTIVE
+
+The objective is not to trade the most exciting asset.
+
+The objective is to identify:
+
+* the strongest structural opportunity
+* with the best systemic alignment
+* under the current global regime
+* with the highest probability asymmetry.
 
 --------------------------------------------------
 

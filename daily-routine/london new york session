@@ -16,6 +16,9 @@ Use:
 * Systemic risk conditions
 * Global leverage conditions
 * Dealer balance-sheet conditions
+* * counterparty conditions
+* contagion conditions
+* interbank stability conditions
 
 
 Activate:
@@ -28,6 +31,8 @@ Activate:
 * MODULE 0 BRIDGE F
 * MODULE 0 BRIDGE G
 * MODULE 0 BRIDGE H
+* MODULE 0 BRIDGE I
+ 
 
 - MODULE 0D
 - MODULE 0E
@@ -39,6 +44,7 @@ Activate:
 - MODULE 2
 - MODULE 3
 - MODULE 4
+
 SYSTEMIC FILTERING LAYER
 
 All opportunities must be filtered through:
@@ -49,6 +55,8 @@ All opportunities must be filtered through:
 * derivative stress conditions
 * collateral conditions
 * global leverage conditions
+* * counterparty risk conditions
+* clearing stability conditions
 
 If systemic instability rises:
 
@@ -57,6 +65,9 @@ If systemic instability rises:
 * upgrade volatility opportunities
 * reduce carry trade confidence
 * reduce leverage assumptions
+* downgrade leverage-sensitive opportunities
+* downgrade counterparty-sensitive opportunities
+* downgrade funding-sensitive opportunities
 
 If systemic conditions improve:
 
@@ -88,6 +99,8 @@ For each opportunity provide:
 * systemic risk assessment
 * derivative stress assessment
 * dealer stability assessment
+* counterparty stability assessment
+* contagion assessment
 
 - liquidity reasoning
 - structural flow reasoning
@@ -110,6 +123,8 @@ Portfolio construction must adjust according to:
 * systemic risk score
 * derivative stress regime
 * collateral conditions
+* counterparty stability conditions
+* contagion conditions
 
 Higher systemic stress:
 

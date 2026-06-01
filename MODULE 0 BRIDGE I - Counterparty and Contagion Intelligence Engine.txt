@@ -1,0 +1,214 @@
+MODULE 0 BRIDGE I — COUNTERPARTY & CONTAGION INTELLIGENCE ENGINE
+
+Purpose:
+
+Analyze the stability, trust, and interconnected dependency structure of the global financial system.
+
+Determine whether counterparty relationships remain stable or whether rising counterparty risk could trigger:
+
+* liquidity freezes
+* funding stress
+* derivative contagion
+* collateral instability
+* banking instability
+* leverage unwinds
+* systemic crises
+
+---
+
+CORE PRINCIPLE
+
+Modern finance operates as a network of promises.
+
+Every:
+
+* swap
+* repo
+* derivative
+* loan
+* funding agreement
+* settlement process
+* clearing process
+* collateral agreement
+
+depends on counterparties fulfilling obligations.
+
+When confidence in counterparties deteriorates:
+
+* liquidity contracts
+* funding conditions tighten
+* collateral quality deteriorates
+* leverage collapses
+* contagion spreads through the system
+
+---
+
+COUNTERPARTY RISK ENGINE
+
+Analyze:
+
+1. Banking system confidence
+
+2. Interbank trust conditions
+
+3. Prime broker stability
+
+4. Clearing house stability
+
+5. Repo counterparty conditions
+
+6. Derivative counterparty exposure
+
+7. FX swap counterparty exposure
+
+8. CDS exposure chains
+
+9. Settlement risk
+
+10. Collateral dependency chains
+
+11. Rehypothecation dependency
+
+12. Dealer balance-sheet fragility
+
+13. Leverage interconnectedness
+
+14. Cross-market dependency risk
+
+15. Systemic dependency concentration
+
+---
+
+CONTAGION ENGINE
+
+Determine probability of contagion spreading through:
+
+* banks
+* hedge funds
+* clearing systems
+* derivatives
+* repo markets
+* FX funding markets
+* sovereign debt markets
+* shadow banking systems
+* commodity financing systems
+* crypto leverage systems
+
+---
+
+COUNTERPARTY STABILITY ANALYSIS
+
+Classify counterparty environment as:
+
+* stable
+* stable but sensitive
+* deteriorating
+* stressed
+* unstable
+* systemic contagion risk
+
+---
+
+COUNTERPARTY WARNING SIGNALS
+
+Monitor for:
+
+* widening funding spreads
+* repo stress
+* collateral shortages
+* CDS spread expansion
+* bank funding instability
+* rising sovereign stress
+* dealer balance-sheet contraction
+* liquidity withdrawal
+* settlement disruptions
+* clearing instability
+* abnormal derivative stress
+* volatility shock amplification
+
+---
+
+COLLATERAL CONFIDENCE ENGINE
+
+Analyze:
+
+* collateral quality
+* collateral liquidity
+* collateral concentration
+* collateral rehypothecation
+* collateral scarcity
+* collateral haircut expansion
+
+Determine whether collateral remains trusted throughout the system.
+
+---
+
+DERIVATIVE CONTAGION ENGINE
+
+Analyze:
+
+* swap interconnectedness
+* CDS concentration
+* derivative leverage
+* convexity amplification
+* dealer hedging stress
+* gamma instability
+* volatility contagion
+
+Determine whether derivatives could amplify systemic instability.
+
+---
+
+SYSTEMIC TRUST ENGINE
+
+Determine whether the financial system currently operates under:
+
+* high trust
+* moderate trust
+* fragile trust
+* deteriorating trust
+* systemic distrust
+
+---
+
+GLOBAL FRAGILITY ENGINE
+
+Determine whether fragility is increasing through:
+
+* leverage expansion
+* liquidity deterioration
+* funding contraction
+* collateral instability
+* volatility expansion
+* dealer instability
+* sovereign stress
+* banking weakness
+
+---
+
+CROSS-MARKET CONTAGION ENGINE
+
+Analyze probability that instability spreads between:
+
+* equities
+* bonds
+* FX
+* commodities
+* crypto
+* funding markets
+* derivatives
+* sovereign debt markets
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether the global system remains:
+
+* resilient
+* fragile but functioning
+* increasingly unstable
+* contagion-prone
+* or approaching systemic crisis.
+
+The engine must identify whether hidden counterparty weakness could trigger nonlinear systemic instability across global markets.

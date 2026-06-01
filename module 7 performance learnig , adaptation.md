@@ -826,5 +826,89 @@ IMPORTANT RULES
 
 ---
 
+SYSTEMIC POST-TRADE INTELLIGENCE LAYER
+
+Analyze whether trade outcome was influenced by:
+
+* global funding conditions
+* dollar liquidity conditions
+* FX swap conditions
+* interest rate expectations
+* credit market stress
+* repo and collateral conditions
+* dealer balance-sheet conditions
+* derivative stress conditions
+* gamma environment
+* volatility regime
+* systemic fragility
+* liquidity contraction
+* leverage instability
+* contagion conditions
+* carry trade instability
+* convexity expansion
+* macro regime shifts
+* cross-market correlation shifts
+
+---
+
+Determine:
+
+1. Was the trade aligned with the global liquidity regime?
+
+2. Was the trade aligned with the funding regime?
+
+3. Was the trade aligned with the systemic risk regime?
+
+4. Was the trade aligned with the volatility regime?
+
+5. Was the trade aligned with dealer positioning conditions?
+
+6. Was the trade aligned with equilibrium conditions?
+
+7. Did derivative positioning distort execution quality?
+
+8. Did liquidity conditions deteriorate during execution?
+
+9. Did macro conditions invalidate structural assumptions?
+
+10. Did systemic instability reduce probability quality?
+
+---
+
+Classify:
+
+* systemic alignment quality
+* liquidity alignment quality
+* dealer-flow alignment quality
+* volatility alignment quality
+* funding alignment quality
+* convexity alignment quality
+
+---
+
+Then determine:
+
+* whether loss was structural
+* whether loss was execution-based
+* whether loss was systemic
+* whether loss was liquidity-driven
+* whether loss was volatility-driven
+* whether loss was positioning-driven
+
+---
+
+Final Objective:
+
+Determine whether the trade failed because:
+
+* the idea was wrong
+* the timing was wrong
+* the execution was wrong
+* the liquidity environment was wrong
+* the systemic environment was wrong
+* the volatility regime changed
+* the dealer-flow regime changed
+* the macro regime shifted
+* or probability assumptions deteriorated.
 
 --------------------------------------------------

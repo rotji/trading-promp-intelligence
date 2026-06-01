@@ -4,6 +4,7 @@ Purpose:
 
 Analyze the hidden infrastructure of the global financial system before evaluating trading opportunities.
 
+
 Use:
 
 * real-world macro data
@@ -16,6 +17,13 @@ Use:
 * collateral conditions
 * dollar liquidity conditions
 * systemic risk conditions
+* counterparty conditions
+* interbank trust conditions
+* clearing stability conditions
+* counterparty exposure conditions
+* contagion conditions
+
+make sure you are pulling current latest data online from different sources
 
 Activate:
 
@@ -42,6 +50,9 @@ Activate:
 
 * MODULE 0 BRIDGE H
   Systemic Risk Engine
+
+  * MODULE 0 BRIDGE I
+  Counterparty and Contagion Intelligence Engine
 
 ---
 
@@ -82,6 +93,13 @@ ANALYZE
 17. Systemic risk probability
 
 18. Central bank intervention probability
+19. Counterparty stability conditions
+
+20. Interbank trust conditions
+
+21. Clearing and settlement stability
+
+22. Counterparty contagion probability
 
 ---
 
@@ -119,6 +137,16 @@ Systemic Risk Regime:
 * crisis building
 * active crisis
 
+Counterparty Risk Regime:
+
+* stable
+* stable but sensitive
+* deteriorating
+* stressed
+* contagion risk
+* systemic distrust
+
+
 ---
 
 GENERATE
@@ -136,7 +164,7 @@ GENERATE
 6. Volatility Stress Score
 
 7. Systemic Risk Score
-
+8. Counterparty Risk Score
 ---
 
 THEN DETERMINE
@@ -207,5 +235,6 @@ Determine whether the global system currently supports:
 * balanced positioning
 * defensive positioning
 * crisis positioning
+* whether counterparty instability could destabilize the financial system despite otherwise stable macro conditions.
 
 before evaluating individual trade opportunities.

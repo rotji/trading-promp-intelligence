@@ -3,6 +3,46 @@ RUN MODULE 7 — PERFORMANCE, LEARNING, AND ADAPTATION ENGINE
 Trade Details:
 [INSERT TRADE DETAILS]
 
+Use:
+
+* Systemic Intelligence Mode outputs
+* historical funding conditions
+* historical dollar liquidity conditions
+* historical derivative stress conditions
+* historical systemic risk conditions
+* historical collateral conditions
+* historical dealer stability conditions
+* historical volatility regime conditions
+* historical contagion conditions
+* historical macro regime conditions
+
+SYSTEMIC REVIEW LAYER:
+
+* MODULE 0 BRIDGE A
+  Global Funding Engine
+
+* MODULE 0 BRIDGE B
+  FX Swap Engine
+
+* MODULE 0 BRIDGE C
+  Interest Rate Swap Engine
+
+* MODULE 0 BRIDGE D
+  Credit Default Swap Engine
+
+* MODULE 0 BRIDGE E
+  Collateral and Repo Engine
+
+* MODULE 0 BRIDGE F
+  Dollar Liquidity Engine
+
+* MODULE 0 BRIDGE G
+  Derivative Stress Engine
+
+* MODULE 0 BRIDGE H
+  Systemic Risk Engine
+
+
 Analyze:
 
 1. Trade performance
@@ -19,7 +59,245 @@ Analyze:
 12. System strengths
 13. Market evolution
 14. Participant evolution
+15. Funding regime evolution
+
+16. Dollar liquidity evolution
+
+17. Derivative stress evolution
+
+18. Volatility regime evolution
+
+19. Dealer stability evolution
+
+20. Liquidity regime evolution
+
+21. Systemic fragility evolution
+
+22. Macro regime transition analysis
+
+SYSTEMIC POST-TRADE INTELLIGENCE LAYER
+
+Analyze whether trade outcome was influenced by:
+
+* global funding conditions
+* dollar liquidity conditions
+* FX swap conditions
+* interest rate expectations
+* credit market stress
+* repo and collateral conditions
+* dealer balance-sheet conditions
+* derivative stress conditions
+* gamma environment
+* volatility regime
+* systemic fragility
+* liquidity contraction
+* leverage instability
+* contagion conditions
+* carry trade instability
+* convexity expansion
+* macro regime shifts
+* cross-market correlation shifts
+
+---
+
+Determine:
+
+1. Was the trade aligned with the global liquidity regime?
+
+2. Was the trade aligned with the funding regime?
+
+3. Was the trade aligned with the systemic risk regime?
+
+4. Was the trade aligned with the volatility regime?
+
+5. Was the trade aligned with dealer positioning conditions?
+
+6. Was the trade aligned with equilibrium conditions?
+
+7. Did derivative positioning distort execution quality?
+
+8. Did liquidity conditions deteriorate during execution?
+
+9. Did macro conditions invalidate structural assumptions?
+
+10. Did systemic instability reduce probability quality?
+11. Did funding deterioration reduce continuation probability?
+
+12. Did dollar liquidity conditions distort market behavior?
+
+13. Did derivative stress amplify volatility behavior?
+
+14. Did dealer instability distort execution quality?
+
+15. Did liquidity deterioration reduce structural reliability?
+
+16. Did macro regime evolution invalidate trade assumptions?
+
+17. Did volatility regime evolution reduce asymmetry quality?
+
+18. Did systemic fragility amplify nonlinear risk behavior?
+
+---
+
+Classify:
+
+* systemic alignment quality
+* liquidity alignment quality
+* dealer-flow alignment quality
+* volatility alignment quality
+* funding alignment quality
+* convexity alignment quality
+* derivative stability quality
+* macro regime alignment quality
+* structural reliability quality
+* execution environment quality
+* liquidity stability quality
+* systemic fragility quality
+* asymmetry durability quality
+
+---
+
+Then determine:
+
+* whether loss was structural
+* whether loss was execution-based
+* whether loss was systemic
+* whether loss was liquidity-driven
+* whether loss was volatility-driven
+* whether loss was positioning-driven
+* whether loss was funding-driven
+* whether loss was derivative-stress-driven
+* whether loss was dealer-instability-driven
+* whether loss was macro-regime-driven
+* whether loss was liquidity-fragility-driven
+* whether loss was asymmetry-deterioration-driven
+* whether loss was systemic-transition-driven
+* whether loss was nonlinear-volatility-driven
+
+
+---
+
+Final Objective:
+
+Determine whether the trade failed because:
+
+* the idea was wrong
+* the timing was wrong
+* the execution was wrong
+* the liquidity environment was wrong
+* the systemic environment was wrong
+* the volatility regime changed
+* the dealer-flow regime changed
+* the macro regime shifted
+* or probability assumptions deteriorated.
+
 15. Adaptation requirements
+ADAPTIVE SYSTEMIC EVOLUTION LAYER
+
+Future system behavior must adapt according to:
+
+* liquidity regime evolution
+* funding regime evolution
+* volatility regime evolution
+* dealer behavior evolution
+* derivative regime evolution
+* systemic fragility evolution
+* macro regime transitions
+* asymmetry deterioration patterns
+* execution environment deterioration
+* nonlinear event frequency
+* contagion evolution
+* structural reliability evolution
+
+---
+
+If systemic instability increases over time:
+
+↓
+
+increase defensive weighting
+
+↓
+
+reduce leverage assumptions
+
+↓
+
+increase convexity preference
+
+↓
+
+increase liquidity sensitivity awareness
+
+↓
+
+tighten execution standards
+
+↓
+
+reduce continuation confidence
+
+---
+
+If liquidity stability improves over time:
+
+↓
+
+allow stronger trend persistence assumptions
+
+↓
+
+allow greater asymmetry confidence
+
+↓
+
+allow greater continuation tolerance
+
+↓
+
+allow broader opportunity expansion
+
+---
+
+If volatility instability increases:
+
+↓
+
+reduce execution aggressiveness
+
+↓
+
+increase nonlinear risk weighting
+
+↓
+
+reduce structural confidence duration
+
+↓
+
+increase defensive adaptation probability
+
+---
+
+If dealer instability increases:
+
+↓
+
+reduce reliance on short-term continuation
+
+↓
+
+increase squeeze-risk awareness
+
+↓
+
+increase liquidity disruption probability
+
+---
+
+Final Objective:
+
+Continuously evolve system behavior according to changing systemic conditions rather than assuming static market behavior across all regimes.
 
 Then output:
 
