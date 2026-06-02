@@ -206,6 +206,136 @@ increase probability of volatility disruption
 
 reduce probability of stable liquidity continuation
 
+---
+
+## LIVE MANAGEMENT ENVIRONMENT TIER ADAPTATION ENGINE
+
+All live trade management decisions must inherit from:
+
+* global environment tier classification
+* temporal environment tier classification
+* systemic stability conditions
+* liquidity durability conditions
+* volatility durability conditions
+* asymmetry durability conditions
+* counterparty stability conditions
+* contagion conditions
+* trust stability conditions
+
+---
+
+LIVE MANAGEMENT TIER ADAPTATION RULE
+
+Tier 1 — Elite Environment:
+
+Allow:
+
+* strongest continuation persistence assumptions
+* strongest liquidity continuation assumptions
+* strongest execution durability assumptions
+* strongest asymmetry durability assumptions
+
+Tier 2 — Strong Environment:
+
+Allow:
+
+* favorable continuation persistence
+* manageable volatility instability
+* moderate structural confidence
+
+Tier 3 — Moderate Environment:
+
+Require:
+
+* elevated adaptation awareness
+* elevated continuation deterioration awareness
+* elevated compression sensitivity
+* reduced persistence assumptions
+* increased defensive management awareness
+
+Tier 4 — Fragile Environment:
+
+Require:
+
+* elevated liquidity deterioration awareness
+* elevated volatility instability awareness
+* elevated asymmetry deterioration awareness
+* elevated defensive management probability
+* elevated nonlinear-event awareness
+
+Tier 5 — Dangerous Environment:
+
+Require:
+
+* maximum fragility awareness
+* maximum liquidity instability awareness
+* maximum contagion sensitivity
+* maximum volatility disruption awareness
+* maximum defensive management weighting
+
+---
+
+LIVE MANAGEMENT DURABILITY GOVERNANCE
+
+Environmental tier classification governs:
+
+* continuation durability assumptions
+* holding persistence assumptions
+* liquidity continuation assumptions
+* volatility stability assumptions
+* asymmetry durability assumptions
+* defensive management probability
+* nonlinear instability probability
+
+before live trade management conclusions are generated.
+
+---
+
+IMPORTANT PRINCIPLE
+
+A trade may remain structurally attractive while:
+
+* environmental durability deteriorates
+* volatility instability rises
+* liquidity quality weakens
+* asymmetry deteriorates
+* systemic fragility accelerates
+
+The system must distinguish between:
+
+* trade structure quality
+  and
+* live environmental durability quality.
+
+---
+
+LIVE MANAGEMENT ENVIRONMENT CLASSIFICATION
+
+Determine whether the current live environment is:
+
+* continuation-supportive
+* continuation-sensitive
+* volatility-sensitive
+* liquidity-sensitive
+* asymmetry-sensitive
+* defensive-management-sensitive
+* fragility-sensitive
+* nonlinear-instability-sensitive
+
+before live management conclusions are generated.
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* environmental conditions strengthen continuation durability
+  or
+* environmental fragility weakens continuation durability
+
+before live management conclusions are generated.
+
 Then classify current live trade environment as:
 
 * stable continuation environment
@@ -286,3 +416,203 @@ allow stronger trend persistence probability
 ↓
 
 allow stronger execution confidence
+
+
+---
+
+## LIVE TRADE MANAGEMENT ENGINE
+
+The system must dynamically manage live exposure according to:
+
+* environmental evolution
+* liquidity evolution
+* volatility evolution
+* asymmetry evolution
+* continuation durability
+* structural persistence
+* timeframe inheritance quality
+* systemic stability
+* nonlinear-event sensitivity
+
+after participation has already begun.
+
+---
+
+LIVE MANAGEMENT PRINCIPLE
+
+The objective is NOT:
+
+* passive holding
+* emotional attachment
+* fixed static management
+* rigid continuation assumptions
+
+The objective is:
+
+* adaptive participation
+* asymmetry preservation
+* probabilistic continuation management
+* dynamic fragility adaptation
+* survivable continuation harvesting
+
+---
+
+LIVE MANAGEMENT EVOLUTION PRINCIPLE
+
+Trade quality evolves dynamically.
+
+The system must continuously reassess:
+
+* continuation durability
+* liquidity persistence
+* volatility stability
+* asymmetry durability
+* timeframe alignment
+* systemic stability
+* dealer behavior
+* counterparty stability
+* contagion sensitivity
+
+during live participation.
+
+---
+
+LIVE MANAGEMENT CLASSIFICATION
+
+Generate:
+
+1. Continuation Management State
+
+Characteristics:
+
+* continuation remains constructive
+* liquidity remains supportive
+* asymmetry remains durable
+* volatility remains controlled
+
+2. Adaptive Management State
+
+Characteristics:
+
+* continuation mixed
+* asymmetry partially deteriorating
+* volatility sensitivity rising
+* elevated adaptation requirements
+
+3. Defensive Management State
+
+Characteristics:
+
+* elevated fragility
+* elevated liquidity deterioration
+* elevated asymmetry deterioration
+* elevated nonlinear-event sensitivity
+* elevated continuation instability
+
+4. Exit Preservation State
+
+Characteristics:
+
+* continuation materially deteriorating
+* volatility destabilizing
+* liquidity persistence failing
+* structural persistence weakening materially
+
+---
+
+LIVE MANAGEMENT ACTION FRAMEWORK
+
+The system may determine:
+
+* continuation participation justified
+* defensive reduction justified
+* asymmetry preservation justified
+* volatility reduction justified
+* scaling justified
+* partial realization justified
+* continuation invalidation justified
+* exposure preservation justified
+
+according to evolving environmental conditions.
+
+---
+
+ENVIRONMENTAL MANAGEMENT ADAPTATION
+
+Tier 1 Environment:
+
+Allow:
+
+* extended continuation participation
+* wider persistence assumptions
+* stronger continuation durability
+
+Tier 2 Environment:
+
+Allow:
+
+* balanced continuation participation
+* manageable volatility adaptation
+* moderate persistence assumptions
+
+Tier 3 Environment:
+
+Require:
+
+* elevated adaptation awareness
+* elevated continuation monitoring
+* elevated asymmetry monitoring
+* reduced persistence assumptions
+
+Tier 4 Environment:
+
+Require:
+
+* defensive management logic
+* elevated fragility awareness
+* elevated volatility sensitivity
+* elevated liquidity deterioration awareness
+
+Tier 5 Environment:
+
+Require:
+
+* defensive preservation logic
+  or
+* participation termination logic
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* unrealized expansion can disappear rapidly
+* continuation quality changes dynamically
+* volatility instability can accelerate suddenly
+* liquidity deterioration can emerge abruptly
+* asymmetry deteriorates over time
+* defensive adaptation preserves survivability
+
+The system must balance:
+
+* continuation participation
+  and
+* asymmetry preservation
+
+during live participation.
+
+---
+
+FINAL OBJECTIVE
+
+Determine:
+
+* whether continuation remains justified
+* whether asymmetry remains favorable
+* whether volatility deterioration threatens continuation
+* whether liquidity deterioration threatens persistence
+* whether defensive adaptation becomes necessary
+* whether continuation participation still justifies exposure
+
+before post-trade learning begins.

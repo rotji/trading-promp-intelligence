@@ -171,7 +171,7 @@ THEN DETERMINE
 
 * risk-on probability
 * risk-off probability
-* carry trade probability
+* carry-trade structural durability probability
 * volatility expansion probability
 * liquidity contraction probability
 * defensive asset probability
@@ -182,7 +182,7 @@ THEN DETERMINE
 
 THEN IDENTIFY
 
-Most vulnerable areas:
+Areas showing elevated structural fragility:
 
 * currencies
 * bonds
@@ -192,7 +192,7 @@ Most vulnerable areas:
 * banks
 * carry trades
 
-Most resilient areas:
+Areas showing strongest structural resilience:
 
 * currencies
 * bonds
@@ -227,6 +227,112 @@ THEN PROVIDE
 
 ---
 
+## GLOBAL ENVIRONMENT TIER CLASSIFICATION
+
+Using:
+
+* funding conditions
+* dollar liquidity conditions
+* derivative stress conditions
+* systemic risk conditions
+* volatility conditions
+* dealer stability conditions
+* liquidity conditions
+* counterparty conditions
+* contagion conditions
+* clearing stability conditions
+* asymmetry durability
+* structural continuation quality
+
+Classify the current global environment as:
+
+* Tier 1 — Elite Structural Environment
+* Tier 2 — Strong Structural Environment
+* Tier 3 — Moderate Structural Environment
+* Tier 4 — Fragile Structural Environment
+* Tier 5 — Dangerous Structural Environment
+
+Then determine:
+
+1. Environmental stability quality
+
+2. Environmental fragility quality
+
+3. Liquidity durability quality
+
+4. Volatility durability quality
+
+5. Structural persistence quality
+
+6. Asymmetry durability quality
+
+7. Systemic stability quality
+
+8. Counterparty stability quality
+
+9. Execution durability quality
+
+10. Nonlinear instability probability
+
+---
+
+ENVIRONMENTAL TIER IMPLICATIONS
+
+Tier 1 Conditions:
+
+* strongest continuation assumptions allowed
+* strongest persistence assumptions allowed
+* strongest asymmetry durability
+* strongest liquidity support
+* strongest systemic stability
+
+Tier 2 Conditions:
+
+* favorable structural participation conditions
+* moderate continuation durability
+* manageable instability conditions
+
+Tier 3 Conditions:
+
+* mixed structural conditions
+* reduced continuation durability
+* elevated adaptation requirements
+* elevated volatility sensitivity
+* reduced persistence assumptions
+
+Tier 4 Conditions:
+
+* fragile structural conditions
+* elevated instability probability
+* elevated liquidity deterioration risk
+* elevated asymmetry deterioration
+* elevated volatility instability
+
+Tier 5 Conditions:
+
+* dangerous structural instability
+* elevated contagion probability
+* elevated nonlinear instability
+* elevated systemic fragility
+* elevated execution instability
+
+---
+
+IMPORTANT PRINCIPLE
+
+The environmental tier classification governs:
+
+* continuation assumptions
+* liquidity assumptions
+* volatility assumptions
+* execution durability assumptions
+* asymmetry assumptions
+* persistence assumptions
+* structural stability assumptions
+
+before tactical structural interpretation occurs.
+
+
 FINAL OBJECTIVE
 
 Determine whether the global system currently supports:
@@ -237,4 +343,4 @@ Determine whether the global system currently supports:
 * crisis positioning
 * whether counterparty instability could destabilize the financial system despite otherwise stable macro conditions.
 
-before evaluating individual trade opportunities.
+before evaluating broader market-state conditions and structural alignment across asset classes.

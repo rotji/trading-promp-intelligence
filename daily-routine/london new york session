@@ -158,3 +158,130 @@ Classify portfolio as:
 - balanced
 - defensive
 - crisis-ready
+
+---
+
+## OPPORTUNITY ENVIRONMENT TIER INHERITANCE
+
+All detected opportunities must inherit from:
+
+* global environment tier classification
+* temporal environment tier classification
+* systemic stability conditions
+* liquidity durability conditions
+* volatility durability conditions
+* counterparty stability conditions
+* contagion conditions
+* asymmetry durability conditions
+
+---
+
+ENVIRONMENTAL OPPORTUNITY ADJUSTMENT RULE
+
+Tier 1 — Elite Environment:
+
+* strongest continuation assumptions
+* strongest persistence assumptions
+* strongest asymmetry durability
+* strongest liquidity support
+* strongest execution durability
+
+Tier 2 — Strong Environment:
+
+* favorable continuation conditions
+* moderate-to-strong persistence assumptions
+* manageable fragility conditions
+
+Tier 3 — Moderate Environment:
+
+* mixed continuation quality
+* reduced persistence assumptions
+* elevated volatility sensitivity
+* elevated compression sensitivity
+* elevated adaptation requirements
+
+Tier 4 — Fragile Environment:
+
+* deteriorating continuation quality
+* elevated liquidity fragility
+* elevated asymmetry deterioration
+* elevated execution instability
+* elevated nonlinear-event sensitivity
+
+Tier 5 — Dangerous Environment:
+
+* highly unstable continuation conditions
+* elevated systemic instability
+* elevated contagion sensitivity
+* elevated volatility instability
+* elevated liquidity deterioration probability
+
+---
+
+OPPORTUNITY QUALITY GOVERNANCE
+
+The environmental tier classification governs:
+
+* continuation assumptions
+* persistence assumptions
+* asymmetry durability assumptions
+* volatility expectations
+* liquidity assumptions
+* execution durability assumptions
+* portfolio stability assumptions
+* convexity assumptions
+
+before opportunity quality is classified.
+
+---
+
+OPPORTUNITY TIER CLASSIFICATION
+
+Each opportunity must now be classified as:
+
+* Tier 1 Opportunity
+* Tier 2 Opportunity
+* Tier 3 Opportunity
+* Tier 4 Opportunity
+* Tier 5 Opportunity
+
+based on:
+
+* environmental quality
+* structural quality
+* liquidity quality
+* volatility quality
+* asymmetry durability
+* systemic stability
+* counterparty stability
+* timeframe inheritance quality
+
+---
+
+IMPORTANT PRINCIPLE
+
+An asset may show:
+
+* strong directional structure
+
+while still existing inside:
+
+* a weaker environmental tier.
+
+The system must distinguish between:
+
+* asset structural quality
+  and
+* environmental execution quality.
+
+---
+
+FINAL OBJECTIVE
+
+Determine:
+
+* whether the current environment strengthens
+  or weakens
+  the detected opportunity quality
+
+before structural opportunity conclusions are generated.
