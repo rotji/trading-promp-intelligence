@@ -324,6 +324,7 @@ The system must NOT assume:
 * permanent liquidity support
 * permanent volatility suppression
 
+
 ---
 
 NON-DETERMINISTIC EXECUTION PRINCIPLE
@@ -884,38 +885,151 @@ before invalidation construction begins.
 
 ---
 
-## STRUCTURAL INVALIDATION ENGINE
+## LOWER-TIMEFRAME RECLAIM CONFIRMATION PRINCIPLE
 
-The system must determine where:
+The system must distinguish between:
 
-* structural assumptions deteriorate
-* continuation quality weakens
-* asymmetry durability fails
-* liquidity conditions deteriorate
-* volatility behavior destabilizes
-* timeframe inheritance breaks down
-* execution durability weakens
+* structural support zones
+  and
+* confirmed continuation restoration.
 
-before probabilistic expansion assumptions are generated.
+The presence of support alone does NOT justify continuation participation.
+
+Before continuation execution is approved inside deteriorating environments, the system should evaluate whether lower timeframes demonstrate:
+
+* liquidity absorption
+* higher-low stabilization
+* reclaim behavior
+* displacement confirmation
+* continuation follow-through
+* volatility stabilization
+* persistence restoration
+
+The system must avoid:
+
+* aggressive bottom catching during active deterioration
+* continuation anticipation during unresolved volatility expansion
+* premature participation inside liquidity deterioration
+* execution during unstable lower-timeframe persistence
+
+If lower-timeframe deterioration remains active:
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce asymmetry confidence
+
+↓
+
+reduce execution aggressiveness
+
+↓
+
+delay participation until reclaim confirmation improves structural durability.
 
 ---
 
-INVALIDATION PRINCIPLE
+IMPORTANT PRINCIPLE
 
-The objective is NOT:
+Support zones are NOT equivalent to confirmed continuation environments.
 
-* emotional protection
-* arbitrary monetary protection
-* random stop placement
+Continuation execution quality improves when:
 
-The objective is:
+* lower-timeframe persistence stabilizes
+* reclaim behavior emerges
+* displacement confirms participation
+* liquidity absorption becomes visible
+* volatility instability begins compressing
 
-* structural invalidation
-* asymmetry preservation
-* controlled probabilistic deterioration
-* adaptive execution survival
+before continuation participation is deployed.
+
+## LIQUIDITY SWEEP AND FALSE-EXPANSION AWARENESS PRINCIPLE
+
+The system must recognize that obvious liquidity concentrations may generate:
+
+* temporary instability
+* false breakouts
+* liquidity sweeps
+* stop-trigger expansions
+* short-term volatility distortions
+* premature continuation signals
+* trap-like directional behavior
+
+before genuine continuation emerges.
+
+The system should evaluate whether expansion behavior is supported by:
+
+* displacement quality
+* continuation durability
+* liquidity absorption
+* reclaim stability
+* follow-through persistence
+* volume persistence
+* volatility stability
+* higher-timeframe alignment
+
+The system must avoid:
+
+* emotional breakout chasing
+* participation during unresolved liquidity sweeps
+* execution immediately into unstable expansion spikes
+* premature continuation assumptions during volatility instability
+
+When obvious liquidity zones are breached, the system should evaluate whether:
+
+* the breakout sustains
+  or
+* the breakout fails and reclaims structure.
+
+The system should recognize that failed expansions may create superior asymmetry opportunities after:
+
+* reclaim confirmation
+* liquidity stabilization
+* displacement confirmation
+* persistence restoration
+* volatility compression stabilization
 
 ---
+
+IMPORTANT PRINCIPLE
+
+Not all breakouts are false.
+
+Not all liquidity sweeps fail.
+
+The system must remain:
+
+* probabilistic
+* non-deterministic
+* structurally adaptive
+* liquidity-aware
+* volatility-aware
+
+while avoiding simplistic assumptions regarding market behavior.
+
+---
+
+STOP-PLACEMENT PRINCIPLE
+
+The system should distinguish between:
+
+* obvious liquidity levels
+  and
+* genuine structural invalidation.
+
+Structural invalidation should account for:
+
+* volatility conditions
+* liquidity instability
+* sweep probability
+* nonlinear expansion probability
+* structural persistence quality
+
+rather than placing stops mechanically at obvious liquidity concentrations.
+
 
 STRUCTURAL INVALIDATION PRINCIPLE
 
@@ -1446,4 +1560,115 @@ Determine:
 * how much volatility exposure is acceptable
 * whether asymmetry quality justifies meaningful capital deployment
 
-before live trade management begins.
+
+---
+
+## STRUCTURAL CONTEXT PRIORITY PRINCIPLE
+
+The system must prioritize:
+
+* structural context
+* liquidity behavior
+* volatility behavior
+* environmental conditions
+* asymmetry quality
+* persistence quality
+* timeframe alignment
+
+above isolated technical signals.
+
+The system must recognize that:
+
+* candles without context possess limited informational value
+* indicators without structure possess limited probabilistic value
+* breakout signals without environmental alignment possess elevated failure probability
+* continuation signals inside deteriorating environments possess reduced durability
+
+The system should evaluate whether:
+
+* price behavior aligns with higher-timeframe structure
+* continuation aligns with environmental conditions
+* liquidity conditions support persistence
+* volatility conditions support expansion durability
+* asymmetry quality justifies participation
+
+before execution participation is approved.
+
+---
+
+IMPORTANT PRINCIPLE
+
+Technical signals derive meaning from:
+
+* location
+* structure
+* liquidity
+* volatility
+* environmental alignment
+* persistence quality
+
+rather than isolated pattern recognition alone.
+
+The system must avoid:
+
+* indicator dependency
+* isolated candle interpretation
+* emotionally reactive signal chasing
+* execution without structural alignment
+* mid-range participation without asymmetry quality
+
+---
+
+EXECUTION LOCATION PRINCIPLE
+
+Execution quality improves when participation occurs near:
+
+* liquidity concentrations
+* structural asymmetry zones
+* support/resistance transitions
+* reclaim stabilization regions
+* post-sweep stabilization zones
+* volatility compression-release zones
+
+rather than:
+
+* emotional breakout chasing
+* mid-range participation
+* structurally inefficient locations
+* late-stage continuation exhaustion.
+
+
+
+## STRUCTURAL INVALIDATION ENGINE
+
+The system must determine where:
+
+* structural assumptions deteriorate
+* continuation quality weakens
+* asymmetry durability fails
+* liquidity conditions deteriorate
+* volatility behavior destabilizes
+* timeframe inheritance breaks down
+* execution durability weakens
+
+before probabilistic expansion assumptions are generated.
+
+---
+
+INVALIDATION PRINCIPLE
+
+The objective is NOT:
+
+* emotional protection
+* arbitrary monetary protection
+* random stop placement
+
+The objective is:
+
+* structural invalidation
+* asymmetry preservation
+* controlled probabilistic deterioration
+* adaptive execution survival
+
+---
+
