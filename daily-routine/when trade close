@@ -535,7 +535,487 @@ Examples:
 * asymmetry deterioration ignored
 * liquidity instability adaptation delayed
 
+## MODULE 8A — RECLAIM FAILURE ATTRIBUTION ENGINE
+
+The system must analyze whether trade deterioration emerged from failed reclaim behavior after participation began.
+
+The objective is to determine whether:
+
+* reclaim confirmation was genuine
+  or
+* reclaim behavior failed structurally after temporary continuation signals.
+
 ---
+
+RECLAIM FAILURE PRINCIPLE
+
+The system must recognize that:
+
+* temporary reclaim behavior can fail
+* liquidity absorption can weaken
+* continuation confirmation can deteriorate
+* displacement quality can fade
+* follow-through persistence can fail
+* volatility instability can invalidate reclaim structure
+
+after participation has already begun.
+
+The system must distinguish between:
+
+* temporary stabilization
+  and
+* durable continuation restoration.
+
+---
+
+RECLAIM FAILURE ANALYSIS
+
+Determine whether trade deterioration emerged from:
+
+1. Failed reclaim persistence
+
+2. Weak displacement confirmation
+
+3. Liquidity absorption failure
+
+4. Follow-through deterioration
+
+5. Volatility destabilization after reclaim
+
+6. Dealer-flow instability after reclaim
+
+7. Liquidity sweep reversal after reclaim
+
+8. False continuation restoration
+
+9. Lower-timeframe continuation failure
+
+10. Structural persistence deterioration
+
+---
+
+RECLAIM QUALITY CLASSIFICATION
+
+Classify:
+
+* reclaim durability quality
+* reclaim persistence quality
+* displacement quality
+* continuation restoration quality
+* liquidity absorption quality
+* reclaim fragility quality
+* reclaim failure probability
+* reclaim continuation reliability
+
+---
+
+ADAPTIVE RECLAIM LEARNING
+
+Future system behavior must adapt according to:
+
+* repeated reclaim failures
+* repeated false continuation signals
+* repeated weak displacement behavior
+* repeated liquidity absorption deterioration
+* repeated volatility destabilization after reclaim
+* repeated continuation persistence failures
+
+The system must continuously refine:
+
+* reclaim confirmation standards
+* continuation restoration thresholds
+* displacement quality requirements
+* volatility stabilization requirements
+* liquidity absorption validation
+* persistence confirmation quality
+
+according to historical reclaim behavior.
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* reclaim behavior alone does NOT guarantee continuation
+* continuation durability matters more than temporary stabilization
+* weak reclaim quality increases asymmetry fragility
+* failed reclaim behavior often precedes volatility expansion
+* reclaim instability may expose hidden structural weakness
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* reclaim behavior genuinely restored continuation quality
+  or
+* reclaim behavior temporarily masked structural deterioration
+
+before adaptive learning conclusions are generated.
+
+## MODULE 8B — LIQUIDITY SWEEP AND FALSE EXPANSION ATTRIBUTION ENGINE
+
+The system must analyze whether trade deterioration emerged from:
+
+* liquidity sweep behavior
+* false breakout behavior
+* failed expansion behavior
+* stop-trigger instability
+* temporary displacement without persistence
+* trap-like continuation behavior
+
+during the trade lifecycle.
+
+---
+
+FALSE EXPANSION PRINCIPLE
+
+The system must recognize that:
+
+* obvious liquidity concentrations attract temporary expansion
+* breakout behavior may fail after liquidity extraction
+* displacement without persistence may signal instability
+* volatility spikes may temporarily distort continuation quality
+* liquidity sweeps may precede reversal or reclaim behavior
+
+The system must distinguish between:
+
+* genuine continuation expansion
+  and
+* temporary liquidity-driven instability.
+
+---
+
+LIQUIDITY SWEEP ATTRIBUTION ANALYSIS
+
+Determine whether trade deterioration emerged from:
+
+1. False breakout behavior
+
+2. Liquidity sweep instability
+
+3. Stop-trigger expansion behavior
+
+4. Failed continuation displacement
+
+5. Weak follow-through persistence
+
+6. Volatility spike instability
+
+7. Dealer-flow trap behavior
+
+8. Crowded positioning squeeze behavior
+
+9. Failed reclaim after expansion
+
+10. Temporary expansion without structural persistence
+
+---
+
+LIQUIDITY SWEEP CLASSIFICATION
+
+Classify:
+
+* breakout durability quality
+* expansion persistence quality
+* sweep instability quality
+* displacement reliability quality
+* liquidity trap probability
+* continuation failure probability
+* false expansion probability
+* volatility distortion probability
+
+---
+
+ADAPTIVE SWEEP LEARNING
+
+Future system behavior must adapt according to:
+
+* repeated false breakout behavior
+* repeated liquidity sweep failures
+* repeated stop-trigger instability
+* repeated failed displacement behavior
+* repeated volatility distortions
+* repeated continuation traps
+
+The system must continuously refine:
+
+* breakout confirmation standards
+* persistence confirmation requirements
+* displacement quality thresholds
+* liquidity sweep detection
+* volatility spike interpretation
+* continuation durability validation
+
+according to historical sweep behavior.
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* expansion alone does NOT guarantee continuation
+* volatility spikes may distort structural interpretation
+* false breakouts can temporarily appear structurally valid
+* liquidity sweeps may weaken asymmetry durability
+* crowded positioning may amplify instability behavior
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* expansion behavior reflected genuine continuation
+  or
+* expansion behavior primarily reflected liquidity extraction and temporary instability
+
+before adaptive learning conclusions are generated.
+
+## MODULE 8D — ASYMMETRY DETERIORATION ATTRIBUTION ENGINE
+
+The system must analyze whether trade deterioration emerged from progressive asymmetry deterioration during the trade lifecycle.
+
+The objective is to determine whether:
+
+* asymmetry quality weakened materially
+* continuation expectancy deteriorated
+* volatility exposure increased disproportionately
+* persistence assumptions weakened
+* reward-to-fragility conditions deteriorated
+
+after participation began.
+
+---
+
+ASYMMETRY DETERIORATION PRINCIPLE
+
+The system must recognize that:
+
+* asymmetry quality evolves dynamically
+* continuation expectancy can deteriorate gradually
+* favorable structures can weaken materially over time
+* volatility instability can compress reward durability
+* liquidity deterioration can weaken asymmetry persistence
+
+The system must distinguish between:
+
+* temporary volatility noise
+  and
+* genuine asymmetry deterioration.
+
+---
+
+ASYMMETRY ATTRIBUTION ANALYSIS
+
+Determine whether trade deterioration emerged from:
+
+1. Continuation expectancy deterioration
+
+2. Reward-to-risk deterioration
+
+3. Liquidity persistence deterioration
+
+4. Volatility instability acceleration
+
+5. Structural persistence weakening
+
+6. Timeframe conflict deterioration
+
+7. Dealer-flow instability
+
+8. Funding deterioration pressure
+
+9. Expansion durability weakening
+
+10. Probabilistic continuation deterioration
+
+---
+
+ASYMMETRY QUALITY CLASSIFICATION
+
+Classify:
+
+* asymmetry durability quality
+* continuation expectancy quality
+* persistence durability quality
+* expansion sustainability quality
+* volatility-adjusted asymmetry quality
+* liquidity-adjusted asymmetry quality
+* asymmetry deterioration probability
+* continuation fragility probability
+
+---
+
+ADAPTIVE ASYMMETRY LEARNING
+
+Future system behavior must adapt according to:
+
+* repeated asymmetry deterioration patterns
+* repeated continuation deterioration
+* repeated persistence failures
+* repeated volatility-adjusted expectancy failures
+* repeated liquidity-adjusted asymmetry failures
+* repeated expansion durability deterioration
+
+The system must continuously refine:
+
+* asymmetry durability thresholds
+* continuation expectancy standards
+* persistence-quality requirements
+* volatility-adjusted asymmetry logic
+* liquidity-adjusted expectancy logic
+* expansion sustainability evaluation
+
+according to historical asymmetry behavior.
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* initial asymmetry quality does NOT guarantee persistent expectancy
+* continuation quality may weaken before full invalidation occurs
+* deteriorating asymmetry often precedes continuation instability
+* volatility instability may compress expansion quality
+* weakening persistence may reduce probabilistic durability
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* asymmetry quality remained structurally durable
+  or
+* asymmetry quality deteriorated materially during participation
+
+before adaptive learning conclusions are generated.
+
+## MODULE 8F — NONLINEAR VOLATILITY ATTRIBUTION ENGINE
+
+The system must analyze whether trade deterioration emerged from nonlinear volatility behavior during the trade lifecycle.
+
+The objective is to determine whether:
+
+* volatility behavior transitioned nonlinearly
+* compressed instability expanded abruptly
+* continuation assumptions failed under volatility acceleration
+* liquidity conditions deteriorated nonlinearly
+* execution durability weakened disproportionately
+
+after participation began.
+
+---
+
+NONLINEAR VOLATILITY PRINCIPLE
+
+The system must recognize that:
+
+* volatility regimes can transition abruptly
+* compressed environments may contain latent instability
+* dealer hedging behavior may accelerate volatility expansion
+* liquidity deterioration may amplify nonlinear behavior
+* continuation quality may fail rapidly during volatility transitions
+
+The system must distinguish between:
+
+* controlled volatility behavior
+  and
+* nonlinear instability acceleration.
+
+---
+
+NONLINEAR VOLATILITY ATTRIBUTION ANALYSIS
+
+Determine whether trade deterioration emerged from:
+
+1. Abrupt volatility expansion
+
+2. Nonlinear continuation deterioration
+
+3. Liquidity vacuum behavior
+
+4. Dealer hedging instability
+
+5. Gamma instability acceleration
+
+6. Convexity expansion behavior
+
+7. Liquidity contraction amplification
+
+8. Volatility cascade behavior
+
+9. Nonlinear execution deterioration
+
+10. Structural persistence collapse
+
+---
+
+NONLINEAR VOLATILITY CLASSIFICATION
+
+Classify:
+
+* volatility stability quality
+* nonlinear instability probability
+* volatility transition quality
+* convexity instability quality
+* gamma instability quality
+* liquidity-vacuum probability
+* volatility-cascade probability
+* nonlinear fragility probability
+
+---
+
+ADAPTIVE NONLINEAR LEARNING
+
+Future system behavior must adapt according to:
+
+* repeated nonlinear volatility expansions
+* repeated liquidity-vacuum behavior
+* repeated convexity instability
+* repeated gamma instability acceleration
+* repeated volatility-cascade behavior
+* repeated nonlinear continuation failures
+
+The system must continuously refine:
+
+* nonlinear-event detection
+* volatility transition sensitivity
+* convexity-instability detection
+* liquidity-vacuum interpretation
+* gamma-instability awareness
+* nonlinear fragility thresholds
+
+according to historical nonlinear behavior.
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* stable environments may deteriorate abruptly
+* nonlinear volatility can overwhelm strong structures
+* continuation quality may collapse rapidly during instability acceleration
+* liquidity deterioration may amplify volatility disproportionately
+* convexity instability may distort execution durability severely
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* volatility behavior remained structurally controlled
+  or
+* nonlinear volatility instability materially weakened continuation durability
+
+before adaptive learning conclusions are generated.
 
 ENGINE STRENGTH ATTRIBUTION
 

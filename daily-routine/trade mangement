@@ -475,6 +475,764 @@ The system must continuously reassess:
 
 during live participation.
 
+--------------------------------------------------
+MODULE 8A — LIVE EXECUTION LOCATION EVOLUTION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether current price location
+still supports favorable asymmetry and continuation durability
+during live participation.
+
+The system must determine whether current price location is:
+
+* structurally efficient
+* structurally inefficient
+* continuation-supportive
+* exhaustion-sensitive
+* volatility-sensitive
+* liquidity-sensitive
+* asymmetry-supportive
+* asymmetry-deteriorating
+
+--------------------------------------------------
+
+LIVE LOCATION ANALYSIS
+
+Evaluate whether current location is near:
+
+* liquidity concentrations
+* sweep-prone regions
+* reclaim regions
+* exhaustion regions
+* compression-release regions
+* continuation acceleration regions
+* dealer pressure zones
+* volatility instability zones
+* asymmetry deterioration zones
+* structural transition zones
+
+--------------------------------------------------
+
+LOCATION QUALITY PRINCIPLE
+
+Execution quality improves when continuation occurs from:
+
+* efficient structural locations
+* reclaim-supported regions
+* post-sweep stabilization regions
+* asymmetry-efficient regions
+* liquidity-supported continuation regions
+
+Execution quality deteriorates when continuation occurs from:
+
+* extended inefficient locations
+* exhaustion-sensitive regions
+* unstable volatility regions
+* weak reclaim regions
+* liquidity-deteriorating regions
+* asymmetry-compressed regions
+
+--------------------------------------------------
+
+LIVE LOCATION DETERIORATION DETECTION
+
+The system must continuously detect whether:
+
+* continuation is becoming location inefficient
+* expansion quality is weakening
+* volatility instability is increasing
+* reclaim quality is weakening
+* asymmetry is compressing
+* structural exhaustion is increasing
+* liquidity persistence is weakening
+
+before full continuation failure occurs.
+
+--------------------------------------------------
+
+LIVE LOCATION CLASSIFICATION
+
+Classify current live location as:
+
+* highly efficient
+* continuation-efficient
+* neutral
+* inefficient
+* exhaustion-sensitive
+* structurally dangerous
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current price location:
+
+* strengthens continuation durability
+or
+* weakens continuation durability
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8B — LIVE RECLAIM AND CONTINUATION VALIDATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether reclaim behavior
+still supports structural continuation durability
+during live participation.
+
+The system must distinguish between:
+
+* temporary stabilization
+and
+* genuine continuation restoration.
+
+--------------------------------------------------
+
+LIVE RECLAIM ANALYSIS
+
+Evaluate:
+
+* reclaim quality
+* higher-low stabilization quality
+* displacement quality
+* continuation follow-through quality
+* liquidity absorption quality
+* persistence restoration quality
+* volatility stabilization quality
+* structural acceptance quality
+
+--------------------------------------------------
+
+RECLAIM VALIDATION PRINCIPLE
+
+Continuation quality improves when reclaim behavior shows:
+
+* stable acceptance
+* persistent displacement
+* constructive follow-through
+* liquidity absorption
+* volatility compression stabilization
+* continuation persistence
+* higher-timeframe alignment
+
+Continuation quality deteriorates when reclaim behavior shows:
+
+* repeated rejection
+* unstable displacement
+* weak follow-through
+* volatility instability
+* liquidity deterioration
+* exhaustion behavior
+* failed persistence restoration
+
+--------------------------------------------------
+
+FAILED RECLAIM DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* reclaim attempts are weakening
+* persistence quality is deteriorating
+* displacement quality is failing
+* continuation acceptance is weakening
+* volatility instability is overpowering continuation
+* liquidity absorption is deteriorating
+* reclaim durability is compressing
+
+before complete structural invalidation occurs.
+
+--------------------------------------------------
+
+RECLAIM QUALITY CLASSIFICATION
+
+Classify reclaim behavior as:
+
+* strong continuation reclaim
+* constructive reclaim
+* neutral reclaim
+* unstable reclaim
+* failed reclaim
+* exhaustion reclaim
+
+--------------------------------------------------
+
+CONTINUATION DURABILITY PRINCIPLE
+
+Strong continuation environments require:
+
+* stable reclaim persistence
+* constructive follow-through
+* controlled volatility behavior
+* stable liquidity behavior
+* continuation acceptance
+* displacement persistence
+* asymmetry durability
+
+Continuation quality weakens materially when reclaim durability deteriorates.
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether reclaim behavior:
+
+* strengthens continuation persistence
+or
+* weakens continuation persistence
+
+before live management adaptation decisions are generated.
+
+--------------------------------------------------
+MODULE 8C — LIVE LIQUIDITY SWEEP DETECTION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether current expansion behavior
+represents genuine continuation
+or temporary liquidity sweep instability
+during live participation.
+
+The system must distinguish between:
+
+* sustainable expansion
+and
+* liquidity-driven trap behavior.
+
+--------------------------------------------------
+
+LIVE SWEEP ANALYSIS
+
+Evaluate whether current expansion behavior shows:
+
+* genuine continuation
+* liquidity sweep behavior
+* stop-trigger expansion
+* exhaustion expansion
+* trap-like continuation
+* failed breakout behavior
+* volatility distortion
+* displacement instability
+* reclaim instability
+* temporary liquidity vacuum behavior
+
+--------------------------------------------------
+
+SWEEP DETECTION PRINCIPLE
+
+Not all expansions represent durable continuation.
+
+Liquidity sweeps may temporarily generate:
+
+* aggressive directional movement
+* false breakout behavior
+* emotional continuation behavior
+* temporary volatility acceleration
+* stop-trigger cascades
+* unstable expansion spikes
+
+before structural continuation fails.
+
+--------------------------------------------------
+
+CONTINUATION VALIDATION FILTER
+
+The system must evaluate whether expansion behavior is supported by:
+
+* persistence quality
+* reclaim stability
+* liquidity absorption
+* displacement durability
+* volatility stability
+* structural acceptance
+* follow-through quality
+* higher-timeframe alignment
+
+Weak continuation confirmation reduces expansion durability quality.
+
+--------------------------------------------------
+
+FAILED EXPANSION DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* breakout sustainability is weakening
+* continuation persistence is deteriorating
+* volatility instability is increasing
+* expansion quality is compressing
+* reclaim quality is weakening
+* liquidity absorption is failing
+* exhaustion probability is increasing
+
+before full continuation deterioration occurs.
+
+--------------------------------------------------
+
+SWEEP ENVIRONMENT CLASSIFICATION
+
+Classify current expansion behavior as:
+
+* durable continuation
+* constructive expansion
+* neutral expansion
+* unstable expansion
+* liquidity sweep environment
+* exhaustion expansion environment
+
+--------------------------------------------------
+
+VOLATILITY TRAP PRINCIPLE
+
+High-volatility expansion environments may contain:
+
+* hidden dealer instability
+* hidden liquidity deterioration
+* hidden exhaustion pressure
+* hidden sweep instability
+* hidden continuation fragility
+
+The system must avoid overconfidence during unstable expansion behavior.
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current expansion behavior:
+
+* supports durable continuation
+or
+* represents temporary liquidity sweep instability
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8D — LIVE ASYMMETRY DETERIORATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether asymmetry quality
+remains favorable during live participation.
+
+The system must determine whether:
+
+* reward potential remains durable
+or
+* asymmetry quality is deteriorating materially.
+
+--------------------------------------------------
+
+LIVE ASYMMETRY ANALYSIS
+
+Evaluate whether current trade conditions still support:
+
+* favorable continuation asymmetry
+* favorable expansion durability
+* controlled structural risk
+* favorable persistence quality
+* constructive liquidity behavior
+* constructive volatility behavior
+* favorable execution durability
+* continuation efficiency
+
+--------------------------------------------------
+
+ASYMMETRY DETERIORATION PRINCIPLE
+
+Asymmetry quality deteriorates when:
+
+* continuation persistence weakens
+* expansion quality compresses
+* volatility instability accelerates
+* liquidity persistence deteriorates
+* reclaim quality weakens
+* exhaustion probability increases
+* structural inefficiency increases
+* continuation dependency increases
+* reversal sensitivity increases
+
+even if full invalidation has NOT yet occurred.
+
+--------------------------------------------------
+
+ASYMMETRY COMPRESSION DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* remaining reward potential is shrinking
+* continuation durability is weakening
+* volatility exposure is increasing
+* structural fragility is increasing
+* asymmetry efficiency is deteriorating
+* continuation dependency is increasing
+* liquidity deterioration risk is increasing
+
+before continuation assumptions fail completely.
+
+--------------------------------------------------
+
+ASYMMETRY QUALITY CLASSIFICATION
+
+Classify current asymmetry quality as:
+
+* highly favorable
+* favorable
+* balanced
+* compressed
+* deteriorating
+* asymmetrically dangerous
+
+--------------------------------------------------
+
+ASYMMETRY PRESERVATION PRINCIPLE
+
+The system must recognize that:
+
+* profitable trades can become poor asymmetry trades
+* continuation may remain technically possible while expectancy deteriorates
+* expansion durability may weaken before invalidation occurs
+* volatility instability can rapidly destroy asymmetry efficiency
+
+The objective is not merely staying in the trade.
+
+The objective is preserving favorable probabilistic asymmetry.
+
+--------------------------------------------------
+
+LIVE ASYMMETRY ADAPTATION ENGINE
+
+If asymmetry durability weakens materially:
+
+↓
+
+increase defensive management weighting
+
+↓
+
+increase partial realization probability
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce persistence assumptions
+
+↓
+
+increase volatility sensitivity awareness
+
+↓
+
+increase asymmetry preservation priority
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current trade conditions:
+
+* still justify favorable asymmetry exposure
+or
+* now require asymmetry preservation adaptation
+
+before live management decisions are generated.
+
+--------------------------------------------------
+MODULE 8E — LIVE STRUCTURAL FAILURE ACCELERATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously detect whether structural deterioration
+is accelerating beneath live continuation behavior
+before full invalidation occurs.
+
+The system must recognize that continuation deterioration often emerges gradually before structural collapse becomes obvious.
+
+--------------------------------------------------
+
+LIVE STRUCTURAL DETERIORATION ANALYSIS
+
+Evaluate whether current continuation behavior shows:
+
+* weakening displacement quality
+* weakening continuation persistence
+* weakening reclaim durability
+* weakening liquidity persistence
+* increasing volatility instability
+* increasing structural rejection
+* increasing exhaustion behavior
+* increasing asymmetry deterioration
+* increasing continuation fragility
+* increasing instability acceleration
+
+--------------------------------------------------
+
+STRUCTURAL FAILURE ACCELERATION PRINCIPLE
+
+Structural failure acceleration may emerge through:
+
+* declining follow-through quality
+* unstable continuation behavior
+* repeated rejection behavior
+* volatility instability expansion
+* liquidity deterioration acceleration
+* weakening structural acceptance
+* increasing reversal sensitivity
+* deterioration in persistence durability
+
+before complete continuation failure occurs.
+
+--------------------------------------------------
+
+EARLY FAILURE DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* continuation deterioration is accelerating
+* volatility instability is compounding
+* liquidity deterioration is accelerating
+* reclaim persistence is weakening materially
+* asymmetry deterioration is accelerating
+* structural instability is intensifying
+* continuation durability is compressing rapidly
+
+before total structural invalidation occurs.
+
+--------------------------------------------------
+
+STRUCTURAL FAILURE CLASSIFICATION
+
+Classify current structural condition as:
+
+* structurally stable
+* continuation constructive
+* continuation sensitive
+* structurally deteriorating
+* structurally fragile
+* structural failure accelerating
+
+--------------------------------------------------
+
+PERSISTENCE FAILURE PRINCIPLE
+
+Continuation quality weakens materially when:
+
+* persistence becomes unstable
+* volatility instability accelerates
+* liquidity persistence deteriorates
+* reclaim durability weakens
+* structural rejection frequency increases
+* continuation dependency rises
+* expansion efficiency deteriorates
+
+even if price has not yet fully reversed.
+
+--------------------------------------------------
+
+DEFENSIVE ACCELERATION ADAPTATION ENGINE
+
+If structural failure acceleration increases materially:
+
+↓
+
+increase defensive management probability
+
+↓
+
+increase asymmetry preservation weighting
+
+↓
+
+reduce continuation persistence assumptions
+
+↓
+
+reduce volatility tolerance
+
+↓
+
+increase partial realization probability
+
+↓
+
+increase continuation deterioration awareness
+
+↓
+
+increase nonlinear instability weighting
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current continuation structure:
+
+* remains structurally durable
+or
+* is entering structural failure acceleration
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8F — LIVE NONLINEAR VOLATILITY EXPANSION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether volatility behavior
+is transitioning from controlled continuation behavior
+into nonlinear instability behavior
+during live participation.
+
+The system must recognize that volatility regimes can shift rapidly through:
+
+* dealer instability
+* convexity pressure
+* liquidation behavior
+* gamma instability
+* liquidity deterioration
+* squeeze acceleration
+* contagion behavior
+
+before full market instability becomes obvious.
+
+--------------------------------------------------
+
+LIVE NONLINEAR VOLATILITY ANALYSIS
+
+Evaluate whether current volatility behavior shows:
+
+* controlled expansion
+* unstable expansion
+* squeeze acceleration
+* convexity instability
+* liquidation cascade behavior
+* volatility shock behavior
+* nonlinear continuation behavior
+* dealer instability behavior
+* liquidity vacuum behavior
+* contagion-sensitive expansion behavior
+
+--------------------------------------------------
+
+NONLINEAR VOLATILITY PRINCIPLE
+
+Nonlinear volatility environments may generate:
+
+* rapid directional acceleration
+* unstable continuation behavior
+* abrupt reversal behavior
+* widening execution instability
+* sudden liquidity deterioration
+* aggressive stop-trigger cascades
+* emotional participant behavior
+* unstable dealer hedging behavior
+
+before continuation quality stabilizes.
+
+--------------------------------------------------
+
+NONLINEAR INSTABILITY DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* volatility acceleration is compounding
+* squeeze instability is intensifying
+* liquidity conditions are deteriorating rapidly
+* dealer instability is increasing
+* continuation stability is weakening
+* liquidation probability is increasing
+* convexity instability is expanding
+* nonlinear-event probability is increasing
+
+before full instability expansion occurs.
+
+--------------------------------------------------
+
+VOLATILITY INSTABILITY CLASSIFICATION
+
+Classify current volatility behavior as:
+
+* controlled volatility
+* constructive expansion
+* elevated volatility
+* unstable volatility
+* nonlinear expansion
+* liquidation-sensitive instability
+
+--------------------------------------------------
+
+CONVEXITY INSTABILITY PRINCIPLE
+
+The system must recognize that nonlinear volatility behavior may temporarily distort:
+
+* continuation quality
+* execution quality
+* liquidity quality
+* asymmetry durability
+* persistence assumptions
+* structural reliability
+
+even if higher-timeframe structure remains partially supportive.
+
+--------------------------------------------------
+
+LIVE VOLATILITY ADAPTATION ENGINE
+
+If nonlinear instability probability rises materially:
+
+↓
+
+increase defensive management weighting
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce persistence assumptions
+
+↓
+
+reduce liquidity confidence
+
+↓
+
+increase volatility sensitivity awareness
+
+↓
+
+increase asymmetry preservation weighting
+
+↓
+
+increase defensive realization probability
+
+↓
+
+increase nonlinear-event weighting
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current volatility behavior:
+
+* remains structurally manageable
+or
+* is transitioning into nonlinear instability behavior
+
+before live management decisions are adjusted.
+
 ## CONTINUATION REVALIDATION PRINCIPLE
 
 The system must continuously reassess whether continuation assumptions remain structurally justified after participation has already begun.
