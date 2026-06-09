@@ -27,6 +27,17 @@ The objective is adaptive execution orchestration.
 CORE META-EXECUTION PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module synthesizes execution, liquidity, volatility, asymmetry, and survivability intelligence. The canonical
+governance taxonomy, survivability tiers, and execution authorization flow are centralized in
+`module 0 All system rules and market classification framework`. When producing governance-related outputs
+(execution authorization, survivability_score, conflict flags), tag them with the master taxonomy and route to
+the master orchestration layer for final authorization.
+
+Operational note: preserve local meta-execution logic; avoid duplicating master governance definitions.
+
+
 The system must recognize that:
 
 * execution modules may conflict

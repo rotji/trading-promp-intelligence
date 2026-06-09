@@ -1,3 +1,8 @@
+## SYSTEM ARCHITECTURE POINTER
+This dashboard is part of the MASTER ORCHESTRATION layer. For canonical governance, taxonomy, execution authorization, and conflict-resolution rules, see `module 0 All system rules and market classification framework`.
+
+When using dashboard outputs to authorize execution, apply the master `execution authorization flow` and tag any classification with the master taxonomy.
+
 MODULE 0 — GLOBAL MACRO INSTRUMENT DASHBOARD
 
 Track the 15 core macro instruments that move the global financial system.
@@ -2137,8 +2142,12 @@ Every day your system should answer:
 | Which environments dangerous?           | risk classification        |
 | Is volatility compressing or expanding? | volatility regime          |
 | Which instruments best fit?             | instrument selection       |
+| Is session alignment confirmed?          | session authorization      |
+| Is master governance authorization ready? | execution authorization |
 
 ---
+
+During London, New York, and overlap sessions, explicitly confirm both session authorization and the master governance authorization from `module 0 All system rules and market classification framework` before any live execution.
 
 # FINAL TRUTH OF MODULE 0
 

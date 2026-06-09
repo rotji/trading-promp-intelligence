@@ -438,6 +438,217 @@ IMPORTANT RULES
 4. Weak higher timeframe alignment reduces execution quality.
 
 ==================================================
+UNIFIED ARCHITECTURE MAP
+========================
+
+Purpose:
+
+Create a single coherent mapping of the existing system without adding new modules.
+
+The system already contains multiple engines and governance layers. This section consolidates them into the requested institutional hierarchy.
+
+---
+
+SYSTEM LEVEL CLASSIFICATION
+---------------------------
+
+LEVEL 1 — SYSTEMIC FOUNDATIONS
+
+- module 0 All system rules and market classification framework
+- module 0 content DATA ACQUISITION, TRACEABILITY AND SIGNAL EVIDENCE ENGINE
+- module 0A market microstructure and interbank engine
+- module 0B market reality and retail distortion engine
+- module 0C global macro and liquidity context
+- module 0D global liquidity pyramid and fragility engine
+- module 0E derivatives, leverage and asymmetric risk engine
+- module 0EA invisible pricing, narrative and human system dynamics engine
+- module 0F market data and execution layer
+- module 0G probability structure and payoff engine
+- module 0H systemic footprint and signal intelligence engine
+- module 0I power structure, policy and institutional incentive networks
+- module 0J inventory scaling, mean reversion and position cascade engine
+- module 0K global FX equilibrium, triangulation and relative value engine
+- module 0L positioning, dealer flow and inventory intelligence engine
+- module 0M market profile, value and auction intelligence engine
+- MODULE 0 BRIDGE A–I specialized funding, liquidity, derivative stress, systemic risk, and counterparty engines
+
+LEVEL 2 — MACRO STRUCTURAL ENGINES
+
+- module 1 macro scanner
+- module 2 market structure
+- module 0C global macro and liquidity context
+- module 0D fragility and liquidity pyramid
+- module 0H systemic footprint and signal intelligence
+- module 0I power structure and institutional incentive networks
+- module 0J inventory scaling and mean reversion mechanics
+- module 0K FX equilibrium and relative value logic
+- module 0L positioning and dealer flow intelligence
+- module 0G probability structure and payoff modeling
+
+LEVEL 3 — AUCTION / PARTICIPATION ENGINES
+
+- module 3 opportunity detection
+- module 4 trade construction
+- module 0A market microstructure and interbank mechanics
+- module 0B market reality and retail distortion
+- module 0M market profile, value and auction intelligence
+- module 7 performance learning and adaptation
+- module 8 execution location, session, and temporal engines
+
+LEVEL 4 — EXECUTION GOVERNANCE
+
+- module 5 technical execution
+- module 6 position sizing and risk management engine
+- module 8.12 execution governance and survivability engine
+- module 8.18 execution philosophy and first principle governance engine
+- module 8.16 nonlinear event and black swan execution engine
+- module 8.8 session and temporal execution engine
+- module 8.1–8.19 precision execution refinement engines
+
+LEVEL 5 — MASTER ORCHESTRATION
+
+- module 0 dashboard
+- module 0 All system rules and market classification framework
+- module 0 content traceability and evidence engine
+- module 2 regime and liquidity tracker
+- module 3 opportunity and narrative orchestration
+- module 4 trade construction and ranking
+- module 7 adaptation, attribution, and regime review
+
+---
+
+DUPLICATION AND OVERLAP SUMMARY
+-------------------------------
+
+Key overlaps detected across the existing architecture:
+
+- survivability and defensive governance appear in both module 8.12 and module 8.16
+- philosophy and probabilistic humility appear in module 8.18 and module 0 content
+- fragility, leverage, and liquidity collapse logic appear in module 0D, module 0C, module 0G, module 0H, and module 8.16
+- temporal/session execution guidance appears in module 8.8 and module 0C
+- execution authorization concepts appear across module 8.12, module 8.18, module 5, module 6, and module 8.8
+- continuation, asymmetry durability, and volatility adaptation appear in module 0G, module 2, module 5, and module 8.12
+
+Consolidation principle:
+
+Preserve the strongest formulations while using the master system rules as the single source of structural governance definitions. Specific modules should reference the shared taxonomy rather than redefining the same concepts independently.
+
+---
+
+CORE INHERITANCE HIERARCHY
+--------------------------
+
+systemic conditions
+↓
+macro conditions
+↓
+liquidity conditions
+↓
+volatility conditions
+↓
+participation / dealer / positioning conditions
+↓
+continuation durability
+↓
+asymmetry durability
+↓
+execution authorization
+↓
+trade management
+↓
+defensive adaptation
+↓
+exit governance
+
+This inheritance must be explicit in analysis and execution workflows.
+
+---
+
+GOVERNANCE PRIORITY ENGINE
+--------------------------
+
+Dominance order for conflicting signals:
+
+1. systemic fragility / funding / counterparty stress
+2. liquidity collapse / funding deterioration
+3. dealer instability / positioning stress
+4. volatility instability / nonlinear risk
+5. macro regime mismatch
+6. asymmetry deterioration / continuation weakening
+7. execution quality / timing
+8. lower timeframe technical opportunity
+
+If a higher-order signal is present, it suppresses or downgrades lower-order participation and continuation assumptions.
+
+---
+
+CONFLICT RESOLUTION RULES
+-------------------------
+
+- liquidity and funding stress override bullish momentum.
+- systemic fragility suppresses aggressive participation even when technical structure appears favorable.
+- volatility disorder downgrades continuation probability and increases defensive weighting.
+- dealer positioning or counterparty risk that contradicts macro sentiment signals structural caution.
+- structural regime transition probability should override isolated trend signals.
+
+This conflict framework should be the default filter before any execution authorization decision.
+
+---
+
+EXECUTION AUTHORIZATION FLOW
+----------------------------
+
+Before any participation, evaluate:
+
+- structural alignment
+- liquidity quality
+- volatility stability
+- continuation durability
+- asymmetry durability
+- funding stability
+- dealer / counterparty stability
+- temporal / session alignment
+- execution location quality
+
+Classification outcomes:
+
+- fully authorized
+- reduced authorization
+- defensive participation
+- fragile participation
+- reject participation
+
+This flow is the practical gatekeeper between module 4 trade construction and module 5/6/8 execution.
+
+---
+
+MASTER OUTPUT TAXONOMY
+----------------------
+
+All final outputs should use the same classification taxonomy:
+
+- environmental classification
+- probabilistic classification
+- execution quality classification
+- asymmetry durability classification
+- survivability classification
+- fragility classification
+- continuation durability classification
+
+This enables consistent orchestration across modules and avoids duplicated ad hoc scoring systems.
+
+---
+
+CONSOLIDATION GUIDELINES
+------------------------
+
+1. Retain core module roles, but move repeated governance language into the master rules layer.
+2. Use shared definitions for liquidity regimes, volatility regimes, fragility tiers, survivability tiers, and authorization tiers.
+3. Keep specialized modules focused on domain-specific evidence; let the master rules file govern taxonomy and sequence.
+4. Avoid adding new standalone modules unless a genuine structural gap is identified.
+5. Treat the existing bridge engines as specialized systemic sub-engines under the systemic foundations layer.
+
+==================================================
 PILLAR 2 — TIMEFRAME LAYERING ARCHITECTURE
 ==========================================
 

@@ -58,6 +58,32 @@ Every execution analysis must expose supporting evidence blocks.
 
 ---
 
+---
+## UNIFIED ARCHITECTURE SUMMARY (SYSTEM VISIBILITY)
+
+Purpose:
+
+Provide a concise, visible summary of the master institutional architecture and governance taxonomy so other Module 0 readers immediately see where this file fits inside the overall system.
+
+Key points (short):
+
+- Canonical governance and taxonomy live in `module 0 All system rules and market classification framework`.
+- This file supplies data acquisition, evidence, and signal-weighting for the systemic foundations layer.
+- Use the master rules file when defining governance, survivability tiers, authorization tiers, or cross-module priority rules to avoid duplicated definitions.
+- High-level classification mapping (reference only):
+	- SYSTEMIC FOUNDATIONS: Module 0 + Bridge engines (funding, FX swap, repo, CDS, counterparty)
+	- MACRO STRUCTURAL: Module 1, Module 2, Module 0C/0D/0H
+	- AUCTION / PARTICIPATION: Module 0A, Module 0M, Module 3
+	- EXECUTION GOVERNANCE: Module 5, Module 6, Module 8.x
+	- MASTER ORCHESTRATION: Module 0 dashboard, Module 2, Module 4, Module 7
+
+Operational guideline:
+
+- When you produce an output score or tier (liquidity/volatility/fragility/authorization), tag it with its source and the master taxonomy label from the canonical file.
+
+See: `module 0 All system rules and market classification framework` for the unified architecture, governance priority engine, and execution authorization flow.
+
+
 ## RULE 3 — CONFLICTING DATA MUST BE EXPOSED
 
 ```text id="jv6u3g"

@@ -114,6 +114,18 @@ VERY important placement.
 
 ---
 
+---
+GOVERNANCE POINTER
+
+This module performs systemic footprint and signal intelligence. The canonical governance taxonomy,
+survivability tiers, and execution authorization flow are centralized in
+`module 0 All system rules and market classification framework`. When producing governance-tagged outputs
+(survivability, fragility, signal confidence), label them with the master taxonomy and route to orchestration
+for final authorization.
+
+Operational note: keep analytic mechanics here; defer policy and tier definitions to the master rules file.
+
+
 # FULL BLOCK TO ADD
 
 ---

@@ -22,6 +22,13 @@ The objective is NOT maximizing trade frequency.
 
 The objective is maximizing execution efficiency.
 
+---
+GOVERNANCE POINTER
+
+This module evaluates execution efficiency and survivability. The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`. When this module emits governance-tagged outputs (execution_efficiency_survivability, authorization_recommendation), label them with the master taxonomy and forward to the orchestration layer for authorization.
+
+Operational note: retain execution-efficiency mechanics here; avoid duplicating master governance policy text.
+
 ==================================================
 CORE EXECUTION EFFICIENCY PRINCIPLE
 ==================================================

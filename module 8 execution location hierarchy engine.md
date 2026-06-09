@@ -31,6 +31,16 @@ location justifies probabilistic risk deployment.
 CORE EXECUTION LOCATION PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module classifies execution locations. The canonical governance taxonomy, survivability tiers, and execution
+authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When this module outputs governance-labeled fields (location_survivability, authorization_restriction), tag them
+with the master taxonomy and hand off to orchestration for final authorization.
+
+Operational note: retain location classification mechanics here; avoid duplicating master governance text.
+
+
 Execution quality depends heavily on location quality.
 
 Correct directional bias executed at poor structural

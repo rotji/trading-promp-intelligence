@@ -22,6 +22,13 @@ The objective is NOT emotional protection.
 
 The objective is structural invalidation engineering.
 
+---
+GOVERNANCE POINTER
+
+This module handles precision invalidation and survivability safeguards. The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`. When this module emits governance-tagged outputs (invalidation_survivability, stop_authorization), label them with the master taxonomy and forward to the master orchestration layer for authorization.
+
+Operational note: retain invalidation mechanics here; avoid duplicating master governance policy text.
+
 ==================================================
 CORE INVALIDATION PRINCIPLE
 ==================================================

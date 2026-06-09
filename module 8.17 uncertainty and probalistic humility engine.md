@@ -22,6 +22,17 @@ The objective is NOT predictive certainty.
 
 The objective is intelligent uncertainty-aware execution.
 
+---
+GOVERNANCE POINTER
+
+This module enforces probabilistic humility and survivability-aware uncertainty handling. The canonical governance
+taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When this module emits governance-tagged outputs (uncertainty_survivability, probabilistic_humility_score),
+label them with the master taxonomy and forward to the orchestration layer for authorization.
+
+Operational note: keep uncertainty mechanics here; avoid duplicating master governance policy text.
+
+
 ==================================================
 CORE UNCERTAINTY PRINCIPLE
 ==================================================

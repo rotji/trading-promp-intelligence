@@ -27,6 +27,16 @@ The objective is adaptive execution evolution.
 CORE FEEDBACK PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module refines execution via feedback. The canonical governance taxonomy, survivability tiers, and execution
+authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing governance-tagged outputs (deployment_survivability, adaptation_score, governance_flags),
+tag them with the master taxonomy and route to the master orchestration layer for authorization.
+
+Operational note: preserve feedback mechanics here; avoid repeating master governance text.
+
+
 Execution intelligence must continuously evolve according to:
 
 * execution outcomes

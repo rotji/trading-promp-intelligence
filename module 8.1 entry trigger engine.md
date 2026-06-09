@@ -26,6 +26,16 @@ The objective is probabilistic execution activation.
 CORE ENTRY TRIGGER PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module determines entry triggers and activation quality. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing governance outputs (trigger_survivability, activation_authorization), tag them with the master labels
+and forward to the orchestration layer for decision authorization.
+
+Operational note: keep trigger heuristics here; avoid repeating master governance definitions.
+
+
 High-quality execution requires BOTH:
 
 * high-quality location

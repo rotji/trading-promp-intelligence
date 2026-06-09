@@ -78,6 +78,17 @@ trap/reversal entries
 London session trades
 New York session trades
 overlap trades
+
+---
+GOVERNANCE POINTER
+
+This module manages performance, learning, and survivability insights. The canonical governance taxonomy,
+survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing governance-related analytics (module_survivability_metrics, adaptation_authorization), tag them with
+the master taxonomy and forward to the orchestration layer for action.
+
+Operational note: keep performance mechanics here; avoid duplicating master governance definitions.
+
 high-conviction trades
 medium-conviction trades
 macro-aligned trades

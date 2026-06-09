@@ -22,6 +22,13 @@ The objective is NOT arbitrary take-profit placement.
 
 The objective is probabilistic expansion harvesting.
 
+---
+GOVERNANCE POINTER
+
+This module manages expansion harvesting and survivability. The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`. When this module produces governance-tagged outputs (expansion_survivability, harvesting_authorization), tag them with the master taxonomy and forward to orchestration for decision authorization.
+
+Operational note: keep expansion mechanics here; avoid duplicating master governance policy text.
+
 ==================================================
 CORE EXPANSION PRINCIPLE
 ==================================================

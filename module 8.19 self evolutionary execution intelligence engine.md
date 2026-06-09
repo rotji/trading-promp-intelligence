@@ -22,6 +22,13 @@ The objective is NOT static execution intelligence.
 
 The objective is self-evolving adaptive execution intelligence.
 
+---
+GOVERNANCE POINTER
+
+This module supports self-evolutionary execution intelligence and survivability adaptation. The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`. When this module produces governance-tagged outputs (self_evolution_survivability, adaptation_authorization), tag them with the master taxonomy and forward to the master orchestration layer for decision authorization.
+
+Operational note: keep self-evolution mechanics here; avoid duplicating master governance policy text.
+
 ==================================================
 CORE SELF-EVOLUTION PRINCIPLE
 ==================================================

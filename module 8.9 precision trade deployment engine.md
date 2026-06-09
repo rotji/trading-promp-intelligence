@@ -26,6 +26,16 @@ The objective is precision deployment intelligence.
 CORE DEPLOYMENT PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module manages precision deployment and execution sequencing. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing deployment-classified outputs (deployment_survivability, execution_tag, scaling_authorization),
+tag them using the master taxonomy and forward to the orchestration layer for authorization.
+
+Operational note: keep deployment mechanics here; do not duplicate master governance text.
+
+
 Execution deployment must adapt according to:
 
 * structural quality

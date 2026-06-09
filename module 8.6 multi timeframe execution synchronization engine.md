@@ -21,6 +21,13 @@ The objective is NOT isolated timeframe prediction.
 
 The objective is synchronized structural execution.
 
+---
+GOVERNANCE POINTER
+
+This module manages multi-timeframe synchronization. The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`. When this module generates governance-tagged outputs (timeframe_survivability, synchronization_authorization), tag them with the master taxonomy and forward to the master orchestration layer for decision authorization.
+
+Operational note: keep synchronization mechanics here; avoid duplicating master governance policy text.
+
 ==================================================
 CORE SYNCHRONIZATION PRINCIPLE
 ==================================================

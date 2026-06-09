@@ -58,6 +58,17 @@ Examples:
 Behavior:
 
 ```text id="nl3"
+
+---
+GOVERNANCE POINTER
+
+This module handles probability structure and payoff geometry. Canonical governance (survivability tiers,
+execution authorization, conflict-resolution rules) is centralized in `module 0 All system rules and market classification framework`.
+When this module produces governance-related outputs (survivability, authorization, fragility classification),
+tag them with the master taxonomy labels and send to orchestration for enforcement.
+
+Operational note: keep instrument mechanics and probability logic here; avoid duplicating master governance text.
+
 Small market change can produce disproportionately large outcome changes.
 ```
 

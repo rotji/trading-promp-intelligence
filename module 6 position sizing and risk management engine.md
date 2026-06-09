@@ -58,6 +58,17 @@ entry price
 stop loss distance
 maximum risk allowed
 
+---
+GOVERNANCE POINTER
+
+This module controls position sizing and risk. The canonical governance taxonomy, survivability tiers, and execution
+authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When this module outputs governance-tagged fields (position_survivability, sizing_authorization),
+label them with the master taxonomy and route to orchestration for final authorization.
+
+Operational note: maintain sizing mechanics here; avoid copying master governance policy text.
+
+
 Formula:
 
 Position Size = Maximum Risk ÷ Stop Loss Distance

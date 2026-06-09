@@ -26,6 +26,16 @@ The objective is timing-aware execution intelligence.
 CORE TEMPORAL PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module assesses session and temporal execution quality. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When creating governance-tagged outputs (session_survivability, timing_authorization, execution_readiness),
+label them with the master taxonomy and hand off to the master orchestration layer for decision authorization.
+
+Operational note: retain temporal heuristics here; avoid re-stating master governance rules.
+
+
 Execution quality changes dynamically according to:
 
 * session liquidity

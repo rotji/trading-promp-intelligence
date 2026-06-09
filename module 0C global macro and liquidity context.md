@@ -58,6 +58,17 @@ Before ANY trade identify:
    - Compression
    - Expansion
    - Trend
+
+---
+GOVERNANCE POINTER
+
+This module focuses on macro & liquidity context. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When generating any governance-classified outputs (liquidity/volatility/fragility/authorization), tag them with
+the master taxonomy labels and pass to orchestration layers for enforcement.
+
+Operational note: avoid redefining governance tiers locally — reference the master file as authoritative.
+
    - Reversal
    - Panic
    - Event-driven

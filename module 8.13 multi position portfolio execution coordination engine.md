@@ -26,6 +26,16 @@ The objective is portfolio-level survivability and asymmetry optimization.
 CORE PORTFOLIO PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module governs portfolio coordination. The canonical governance taxonomy, survivability tiers, and execution
+authorization flow live in `module 0 All system rules and market classification framework`.
+When producing portfolio governance outputs (portfolio_survivability, coordination_authorization),
+tag them with the master taxonomy and forward to the master orchestration layer for decision authorization.
+
+Operational note: keep portfolio coordination mechanics here; do not duplicate the master governance text.
+
+
 The system must recognize that:
 
 * individual trades are not isolated

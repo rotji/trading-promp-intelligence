@@ -38,6 +38,17 @@ Eurozone
 China
 Japan
 United Kingdom
+
+---
+GOVERNANCE POINTER
+
+This module performs macro scanning and structural survivability analysis. The canonical governance taxonomy,
+survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When this module emits governance-related outputs (long-term_survivability, macro_fragility, authorization_flags),
+label them using the master taxonomy and forward to the orchestration layer for decision authorization.
+
+Operational note: retain macro-scanning mechanics here; do not duplicate master governance policy text.
+
 Emerging Markets
 Commodity Exporting Economies
 

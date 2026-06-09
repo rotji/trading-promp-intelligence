@@ -38,6 +38,17 @@ Convexity Environment
 
 Structural Invalidation Conditions
 
+---
+GOVERNANCE POINTER
+
+Trade construction must rely on the canonical governance taxonomy, survivability tiers, and execution authorization flow
+from `module 0 All system rules and market classification framework`. When producing conviction, authorization, or
+execution-ready outputs (conviction_score, governance_score, execution_tag), label them with master taxonomy fields
+and pass to the orchestration layer for authorization.
+
+Operational note: local trade rules, sizing, and execution mechanics remain here; do not duplicate master governance definitions.
+
+
 Execution Readiness Classification
 
 Expected Time Horizon

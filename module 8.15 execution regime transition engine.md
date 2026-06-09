@@ -26,6 +26,16 @@ The objective is adaptive regime-aware execution evolution.
 CORE REGIME PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module detects regime transitions and adjusts survivability assumptions. The canonical governance taxonomy,
+survivability tiers, and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing governance outputs (regime_survivability, transition_authorization), tag them with the master taxonomy
+and forward to orchestration for decision authorization.
+
+Operational note: preserve regime-detection mechanics here; do not duplicate master governance definitions.
+
+
 The system must recognize that:
 
 * market behavior evolves continuously

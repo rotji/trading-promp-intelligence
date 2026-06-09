@@ -27,6 +27,16 @@ The objective is precise executable deployment intelligence.
 CORE EXECUTION OUTPUT PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module converts execution intelligence into outputs. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When generating governance-related outputs (execution_readiness, survivability_score, deployment_authorization),
+label them with the master taxonomy and hand off to orchestration for authorization.
+
+Operational note: maintain execution-output mechanics here; do not duplicate master governance content.
+
+
 Execution outputs must adapt according to:
 
 * environmental quality

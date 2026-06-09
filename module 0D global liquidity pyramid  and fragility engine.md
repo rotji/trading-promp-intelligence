@@ -1,5 +1,16 @@
 --------------------------------------------------
 
+---
+GOVERNANCE POINTER
+
+The canonical governance taxonomy, survivability tiers, and execution authorization flow are centralized in
+`module 0 All system rules and market classification framework`. When this module emits classification outputs
+(liquidity source, fragility tier, survivability signal), tag them using the master taxonomy and route them to the
+master orchestration layer for enforcement and decision authorization.
+
+Operational note: preserve domain mechanics here; do NOT duplicate the master governance text.
+
+
 MODULE 0D — GLOBAL LIQUIDITY PYRAMID & FRAGILITY ENGINE
 
 Purpose:

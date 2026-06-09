@@ -50,6 +50,16 @@ and
 SURVIVABILITY PRINCIPLE
 ==================================================
 
+GOVERNANCE POINTER
+
+This module controls position-sizing survivability. The canonical governance taxonomy, survivability tiers,
+and execution authorization flow are centralized in `module 0 All system rules and market classification framework`.
+When producing governance outputs (sizing_survivability, exposure_limits), tag them with the master taxonomy and
+route to the master orchestration layer for authorization.
+
+Operational note: keep sizing rules here; avoid duplicating master governance text.
+
+
 The system must prioritize:
 
 * survivability
