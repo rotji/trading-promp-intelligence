@@ -199,3 +199,687 @@ To make it work you need to connect it with:
 ---
 
 This file is intentionally designed to be stored separately from `PART TWO.MD` as a practical reference list.
+
+If you want to track deals like the Nigeria–UAE $5B swap at an institutional/macroeconomic level, you need to build a **multi-layer intelligence stack** — not rely on one news source.
+
+The real information is fragmented across:
+
+* government documents,
+* IMF reports,
+* debt market terminals,
+* central bank releases,
+* bond pricing,
+* geopolitics,
+* commodity flows,
+* and institutional research.
+
+Below is the actual “rabbit hole map” professionals use.
+
+---
+
+# TIER 1 — PRIMARY SOURCES (MOST IMPORTANT)
+
+These are the closest things to “ground truth.”
+
+---
+
+## 1. [IMF Nigeria Page](https://www.imf.org/en/Countries/NGA?utm_source=chatgpt.com)
+
+This is critical.
+
+Track:
+
+* Article IV consultations,
+* debt sustainability analysis,
+* reserve warnings,
+* FX policy,
+* fiscal risks,
+* banking stress,
+* sovereign vulnerability.
+
+For Nigeria specifically:
+
+* IMF often reveals risks before markets fully price them. ([IMF][1])
+
+---
+
+## 2. [Central Bank of Nigeria (CBN)](https://www.cbn.gov.ng?utm_source=chatgpt.com)
+
+Track:
+
+* FX reserves,
+* monetary policy,
+* exchange rates,
+* inflation,
+* liquidity operations,
+* banking system stress,
+* external reserves.
+
+Most people underestimate how important central banks are.
+
+---
+
+## 3. [Nigeria Debt Management Office (DMO)](https://www.dmo.gov.ng?utm_source=chatgpt.com)
+
+Extremely important.
+
+This is where sovereign debt architecture becomes visible.
+
+Track:
+
+* debt issuance,
+* Eurobonds,
+* external borrowing,
+* debt maturity schedules,
+* debt servicing,
+* domestic bond auctions.
+
+This directly connects to:
+
+* refinancing risk,
+* rollover risk,
+* sovereign stress probability.
+
+---
+
+## 4. [Nigeria Ministry of Finance](https://www.finance.gov.ng?utm_source=chatgpt.com)
+
+Track:
+
+* budget deficits,
+* borrowing plans,
+* sovereign partnerships,
+* fiscal policy,
+* infrastructure financing.
+
+---
+
+# TIER 2 — GLOBAL MACRO & FINANCIAL NEWS
+
+These are your real-time institutional intelligence feeds.
+
+---
+
+## 5. [Reuters](https://www.reuters.com/world/africa/?utm_source=chatgpt.com)
+
+One of the best sources globally.
+
+Reuters is crucial because:
+
+* institutional traders read it,
+* sovereign desks read it,
+* hedge funds read it,
+* central banks monitor it.
+
+The IMF warning about the swap came through Reuters. ([Reuters][2])
+
+Track Reuters for:
+
+* sovereign debt,
+* sanctions,
+* commodity shocks,
+* central bank policy,
+* Gulf capital flows,
+* emerging market liquidity.
+
+---
+
+## 6. [Bloomberg](https://www.bloomberg.com/africa?utm_source=chatgpt.com)
+
+This is elite-level macro intelligence.
+
+Bloomberg tracks:
+
+* sovereign bonds,
+* capital flows,
+* swap structures,
+* liquidity stress,
+* hedge fund positioning,
+* yield curves.
+
+Professionals practically live inside Bloomberg terminals.
+
+---
+
+## 7. [Financial Times](https://www.ft.com/africa?utm_source=chatgpt.com)
+
+Best for:
+
+* geopolitical finance,
+* sovereign debt analysis,
+* Gulf/Africa financing,
+* structural macro analysis.
+
+---
+
+# TIER 3 — LIVE MARKET TRACKING
+
+This is where you stop reading news
+and start reading the financial nervous system directly.
+
+---
+
+# FX MARKETS
+
+## 8. [TradingView](https://www.tradingview.com?utm_source=chatgpt.com)
+
+You already mentioned this.
+
+Track:
+
+* USDNGN,
+* DXY (Dollar Index),
+* Brent crude,
+* US10Y yields,
+* Gold,
+* Emerging market currencies.
+
+This becomes your real-time macro dashboard.
+
+---
+
+# KEY ASSETS TO WATCH
+
+## Dollar Liquidity
+
+* DXY
+* US10Y
+* SOFR
+* Fed Funds Rate
+
+## Nigeria Stress
+
+* USDNGN
+* Nigeria Eurobond yields
+* Foreign reserves
+
+## Oil Dependency
+
+* Brent Crude Oil
+* WTI crude
+
+## Risk Appetite
+
+* VIX volatility index
+* Emerging market bond spreads
+
+---
+
+# TIER 4 — SOVEREIGN DEBT & BOND INTELLIGENCE
+
+This is where the advanced rabbit hole starts.
+
+---
+
+## 9. [World Government Bonds](https://www.worldgovernmentbonds.com?utm_source=chatgpt.com)
+
+Track:
+
+* Nigeria bond yields,
+* yield spreads,
+* debt stress,
+* CDS proxies,
+* emerging market comparisons.
+
+If Nigeria bond yields spike:
+markets are pricing higher sovereign risk.
+
+---
+
+## 10. [Fitch Ratings](https://www.fitchratings.com?utm_source=chatgpt.com)
+
+## 11. [Moody’s](https://www.moodys.com?utm_source=chatgpt.com)
+
+## 12. [S&P Global Ratings](https://www.spglobal.com/ratings?utm_source=chatgpt.com)
+
+These agencies:
+
+* monitor sovereign credit quality,
+* detect debt fragility,
+* analyze refinancing risk.
+
+When ratings downgrade:
+capital becomes more expensive.
+
+---
+
+# TIER 5 — GLOBAL CAPITAL FLOW TRACKING
+
+This is the deep institutional layer.
+
+---
+
+## 13. [BIS (Bank for International Settlements)](https://www.bis.org?utm_source=chatgpt.com)
+
+One of the most important institutions on Earth for macro analysis.
+
+Tracks:
+
+* global dollar liquidity,
+* cross-border banking flows,
+* derivatives,
+* sovereign exposure,
+* shadow banking.
+
+The BIS is basically a window into the global financial plumbing.
+
+---
+
+## 14. [World Bank Data](https://data.worldbank.org?utm_source=chatgpt.com)
+
+Track:
+
+* external debt,
+* reserves,
+* GDP,
+* trade balances,
+* poverty,
+* infrastructure financing.
+
+---
+
+# TIER 6 — COMMODITY & ENERGY INTELLIGENCE
+
+Nigeria’s macro system is highly oil-sensitive.
+
+---
+
+## 15. [OPEC](https://www.opec.org?utm_source=chatgpt.com)
+
+Track:
+
+* oil production quotas,
+* supply shocks,
+* geopolitical energy risks.
+
+---
+
+## 16. [EIA (U.S. Energy Information Administration)](https://www.eia.gov?utm_source=chatgpt.com)
+
+Track:
+
+* crude inventories,
+* oil demand,
+* global energy forecasts.
+
+Oil drives:
+
+* Nigeria FX inflows,
+* reserves,
+* fiscal stability.
+
+---
+
+# TIER 7 — GEOPOLITICAL CAPITAL FLOWS
+
+The UAE deal is also geopolitical.
+
+---
+
+## 17. [Middle East Institute](https://www.mei.edu?utm_source=chatgpt.com)
+
+Track:
+
+* Gulf–Africa investment expansion,
+* sovereign wealth strategy,
+* UAE/Africa relations.
+
+---
+
+## 18. [Chatham House](https://www.chathamhouse.org?utm_source=chatgpt.com)
+
+High-level geopolitical + macro research.
+
+---
+
+# REAL-TIME MONITORING STACK YOU SHOULD BUILD
+
+Your future macro system should eventually monitor:
+
+| Layer            | What To Track                            |
+| ---------------- | ---------------------------------------- |
+| Sovereign Risk   | Debt/GDP, deficits, refinancing          |
+| FX Stress        | USDNGN, reserves, black-market spread    |
+| Dollar Liquidity | DXY, Fed, SOFR, U.S. yields              |
+| Commodities      | Brent crude, gas, OPEC                   |
+| Capital Flows    | FDI, portfolio flows, Gulf financing     |
+| Bond Markets     | Eurobond yields, spreads                 |
+| Banking Risk     | Liquidity, collateral stress             |
+| Geopolitics      | Gulf expansion, sanctions, conflicts     |
+| Derivatives      | TRS structures, collateralized financing |
+
+---
+
+# THE HIDDEN REALITY
+
+Most retail investors only see:
+
+* headlines,
+* politics,
+* social media narratives.
+
+Institutional macro analysts track:
+
+* funding structures,
+* collateral,
+* liquidity transmission,
+* refinancing schedules,
+* hidden leverage,
+* cross-border capital dependency.
+
+That is where the real signal lives.
+
+---
+
+# WHAT PROFESSIONALS ACTUALLY USE
+
+Top-tier macro desks use:
+
+* Bloomberg Terminal,
+* Reuters Eikon,
+* TradingEconomics,
+* IMF databases,
+* BIS data,
+* sovereign bond feeds,
+* central bank releases.
+
+---
+
+# THE MOST IMPORTANT LESSON
+
+Never track only the event.
+
+Track:
+
+1. the funding structure,
+2. the collateral,
+3. the currency mismatch,
+4. the refinancing timeline,
+5. the geopolitical incentives,
+6. the liquidity environment,
+7. and the second-order consequences.
+
+That is how you move from:
+“news consumer”
+to
+“systemic macro analyst.”
+
+[1]: https://www.imf.org/en/countries/nga?utm_source=chatgpt.com "Nigeria and the IMF"
+[2]: https://www.reuters.com/world/africa/imf-says-nigeria-reforms-boost-stability-millions-still-poverty-2026-06-09/?utm_source=chatgpt.com "IMF warns Nigeria of risks in $5 billion swap deal with UAE lender"
+
+# 1. Funding Structure
+
+**Question:** What exactly is the deal structure?
+
+Track:
+
+* IMF reports
+* DMO releases
+* Reuters/Bloomberg deal descriptions
+* Bond prospectuses
+* Parliamentary approvals
+
+Look for:
+
+* TRS?
+* Eurobond?
+* Repo?
+* Commodity-backed loan?
+* Collateralized financing?
+* Variable/fixed rate?
+* Dollar or naira denomination?
+
+Core signal:
+
+> “How does the money actually flow?”
+
+---
+
+# 2. Collateral
+
+**Question:** What backs the deal if Nigeria cannot pay?
+
+Track:
+
+* Reuters
+* Bloomberg
+* Legal filings
+* IMF warnings
+* Deal term sheets
+
+Look for:
+
+* sovereign bonds,
+* oil revenues,
+* FX reserves,
+* future exports,
+* strategic assets.
+
+Critical:
+
+* collateral ratio,
+* margin call clauses,
+* rehypothecation rights.
+
+Core signal:
+
+> “What can creditors seize or pressure?”
+
+---
+
+# 3. Currency Mismatch
+
+**Question:** Is Nigeria earning in the same currency it owes?
+
+Track:
+
+* USDNGN
+* oil exports
+* external debt currency composition
+* FX reserves
+
+Sources:
+
+* CBN
+* TradingView
+* IMF
+* World Bank
+
+Watch:
+
+* naira depreciation,
+* reserve decline,
+* rising dollar obligations.
+
+Core signal:
+
+> “Can local cash flows safely service foreign debt?”
+
+---
+
+# 4. Refinancing Timeline
+
+**Question:** When does repayment pressure arrive?
+
+Track:
+
+* debt maturity schedules,
+* bond expirations,
+* coupon payments,
+* rollover windows.
+
+Sources:
+
+* DMO
+* IMF DSA reports
+* Eurobond prospectuses
+
+Watch:
+
+* debt walls,
+* clustered maturities,
+* refinancing concentration years.
+
+Core signal:
+
+> “When does liquidity stress hit?”
+
+---
+
+# 5. Geopolitical Incentives
+
+**Question:** Why is the lender really involved?
+
+Track:
+
+* UAE–Africa investment strategy,
+* Gulf expansion,
+* energy diplomacy,
+* trade corridors,
+* military/security ties.
+
+Sources:
+
+* Financial Times
+* Reuters
+* Chatham House
+* MEI
+* official state visits
+
+Watch:
+
+* ports,
+* mining,
+* energy assets,
+* logistics infrastructure.
+
+Core signal:
+
+> “What strategic influence comes with the money?”
+
+---
+
+# 6. Liquidity Environment
+
+**Question:** Is global money easy or tight?
+
+Track:
+
+* Fed rates,
+* DXY,
+* US10Y yields,
+* SOFR,
+* EM bond spreads,
+* oil prices.
+
+Sources:
+
+* TradingView
+* Federal Reserve
+* Bloomberg
+* Reuters
+
+Watch:
+
+* rising yields,
+* stronger dollar,
+* falling oil.
+
+Core signal:
+
+> “Can emerging markets still access cheap dollars?”
+
+---
+
+# 7. Second-Order Consequences
+
+**Question:** What breaks later because of this deal?
+
+Track:
+
+* inflation,
+* FX pressure,
+* debt servicing ratio,
+* reserve depletion,
+* social unrest,
+* austerity,
+* credit downgrades.
+
+Sources:
+
+* IMF
+* Fitch
+* Moody’s
+* Reuters
+* local economic data
+
+Watch:
+
+* rising debt service,
+* subsidy cuts,
+* taxation pressure,
+* capital controls,
+* banking stress.
+
+Core signal:
+
+> “What systemic fragility does this create later?”
+
+---
+
+# YOUR DAILY MACRO DASHBOARD
+
+Monitor daily:
+
+| Layer          | What To Watch           |
+| -------------- | ----------------------- |
+| FX             | USDNGN                  |
+| Oil            | Brent crude             |
+| Dollar Stress  | DXY                     |
+| Rates          | US10Y                   |
+| Sovereign Risk | Nigeria Eurobond yields |
+| Liquidity      | Fed + SOFR              |
+| Reserves       | CBN FX reserves         |
+| Debt           | DMO maturity schedule   |
+| Geopolitics    | UAE–Africa deals        |
+
+---
+
+# SIMPLE PROFESSIONAL WORKFLOW
+
+## Morning
+
+* Reuters
+* Bloomberg headlines
+* DXY
+* Brent
+* US10Y
+* USDNGN
+
+## Weekly
+
+* IMF
+* DMO
+* CBN
+* bond yields
+* reserve data
+
+## Monthly
+
+* debt sustainability
+* refinancing map
+* reserve trend
+* capital flow trend
+* geopolitical developments
+
+---
+
+# THE CORE MINDSET SHIFT
+
+Normal news reader:
+
+> “Nigeria got $5B.”
+
+Macro analyst:
+
+> “What collateral, what currency risk, what refinancing profile, what geopolitical leverage, and what systemic fragility transmission does this create?”
