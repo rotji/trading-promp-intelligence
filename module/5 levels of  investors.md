@@ -661,3 +661,24 @@ into:
 * resilient capital allocation,
 * institutional sophistication,
 * and eventually civilization-scale intelligence operations.
+
+Phase 1
+Small Account
+↓
+Intraday Trading
+
+Phase 2
+Account Growth
+↓
+Intraday + Short Swing
+
+Phase 3
+Larger Account
+↓
+Primarily Swing Trading
+
+Phase 4
+Advanced
+↓
+Portfolio of Swing Positions
+Across Multiple Assets

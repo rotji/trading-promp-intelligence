@@ -2089,3 +2089,2126 @@ The advanced framework exists to improve:
 * and institutional-grade execution governance
 
 ONLY after foundational execution discipline already exists.
+
+# LEVEL 1 — CORE MACRO EXECUTION ENGINE (OLD FRAMEWORK)
+
+## CORE OBJECTIVE
+
+Compress macro complexity into:
+
+* directional bias,
+* liquidity awareness,
+* volatility awareness,
+* positioning awareness,
+* and controlled execution.
+
+---
+
+# CORE MARKET PRINCIPLE
+
+Markets primarily trade:
+
+```text
+EXPECTATIONS
+LIQUIDITY
+FED REACTION FUNCTION
+POSITIONING
+VOLATILITY
+```
+
+NOT isolated data alone.
+
+---
+
+# PRIMARY LEVEL 1 EXECUTION FLOW
+
+## STEP 1 — DETECT MARKET REGIME
+
+Classify environment as:
+
+* risk-on
+* risk-off
+* liquidity expansion
+* liquidity tightening
+* event-driven
+* volatility expansion
+* range/neutral
+
+---
+
+## STEP 2 — CHECK LIQUIDITY CONDITIONS
+
+Track:
+
+* DXY
+* US10Y
+* US2Y
+* VIX
+* SOFR
+* Fed expectations
+
+---
+
+## RISK-OFF CONDITIONS
+
+Conditions:
+
+* DXY ↑
+* yields ↑
+* VIX ↑
+* liquidity tightening
+
+Potential implications:
+
+* NASDAQ weak
+* BTC weak
+* EM FX weak
+* volatility elevated
+
+---
+
+## RISK-ON CONDITIONS
+
+Conditions:
+
+* DXY ↓
+* yields ↓
+* VIX ↓
+* liquidity improving
+
+Potential implications:
+
+* NASDAQ bullish
+* BTC bullish
+* risk appetite improving
+
+---
+
+# STEP 3 — EXPECTATION ANALYSIS
+
+Core principle:
+
+```text
+MARKETS MOVE ON SURPRISE
+RELATIVE TO EXPECTATION
+```
+
+Questions:
+
+* Was weak data already expected?
+* Was strong data already priced in?
+* Did expectations change?
+
+---
+
+# STEP 4 — FED REACTION FUNCTION
+
+Ask:
+
+```text
+HOW DOES THIS CHANGE FED EXPECTATIONS?
+```
+
+Weak data may imply:
+
+* Fed cuts sooner
+* liquidity easing probability rises
+
+Strong data may imply:
+
+* higher-for-longer rates
+* liquidity tightening pressure
+
+---
+
+# STEP 5 — MARKET PRICING CONFIRMATION
+
+Verify through:
+
+* DXY
+* yields
+* NASDAQ
+* BTC
+* gold
+* VIX
+
+---
+
+## LIQUIDITY EASING REACTION
+
+Conditions:
+
+* yields ↓
+* DXY ↓
+* NASDAQ ↑
+* BTC ↑
+
+Meaning:
+
+```text
+MARKET PRICING FUTURE LIQUIDITY IMPROVEMENT
+```
+
+---
+
+## FEAR / STRESS REACTION
+
+Conditions:
+
+* VIX ↑
+* DXY ↑
+* yields ↑
+* risk assets ↓
+
+Meaning:
+
+```text
+MARKET PRICING RISK-OFF CONDITIONS
+```
+
+---
+
+# STEP 6 — POSITIONING CHECK
+
+Questions:
+
+* Is market crowded long?
+* Is market crowded short?
+* Is optimism extreme?
+* Is panic extreme?
+
+Core principle:
+
+```text
+CROWDED POSITIONING
+INCREASES REVERSAL RISK
+```
+
+---
+
+# STEP 7 — BUILD SIMPLE EXECUTION BIAS
+
+Compress complexity into directional bias.
+
+Examples:
+
+```text
+RISK-OFF
+Dollar bullish
+Volatility rising
+NASDAQ vulnerable
+BTC vulnerable
+```
+
+OR:
+
+```text
+Weak growth data
+Yields falling
+Liquidity improving
+NASDAQ bullish bias
+```
+
+---
+
+# STEP 8 — TECHNICAL CONFIRMATION
+
+Macro provides:
+
+```text
+ENVIRONMENTAL BIAS
+```
+
+Charts provide:
+
+```text
+ENTRY TIMING
+```
+
+Wait for:
+
+* pullback
+* breakout
+* rejection
+* structure confirmation
+
+---
+
+# STEP 9 — EXECUTION FILTER
+
+Trade ONLY when:
+
+* macro aligned
+* liquidity aligned
+* volatility acceptable
+* structure confirmed
+* event risk acceptable
+
+---
+
+# EVENT EXECUTION RULES
+
+Avoid new positions:
+
+* 30–60min before CPI
+* FOMC
+* NFP
+* Powell speeches
+
+Preferred approach:
+
+```text
+WAIT FOR POST-EVENT CONFIRMATION
+```
+
+---
+
+# LEVEL 1 DAILY FLOW
+
+## MORNING
+
+Check:
+
+* DXY
+* yields
+* VIX
+* macro calendar
+* risk-on/risk-off regime
+
+Mark key levels.
+
+---
+
+## LONDON OPEN
+
+Watch whether liquidity confirms bias.
+
+---
+
+## BEFORE NEW YORK
+
+Check whether market still agrees with bias.
+
+---
+
+## NEW YORK SESSION
+
+Execute ONLY if:
+
+* macro aligned
+* liquidity aligned
+* structure aligned
+
+Use:
+
+* pullback
+* breakout retest
+* rejection entries
+
+---
+
+# AVOID TRADING
+
+Avoid:
+
+* random emotional entries
+* low-liquidity hours
+* Friday late session
+* immediately before major news
+* revenge trading
+* overtrading
+
+---
+
+# FINAL LEVEL 1 OBJECTIVE
+
+```text
+DETECT:
+LIQUIDITY
+VOLATILITY
+EXPECTATION SHIFTS
+POSITIONING IMBALANCES
+RISK-ON / RISK-OFF TRANSITIONS
+
+THEN:
+
+EXECUTE ONLY HIGH-PROBABILITY STRUCTURES
+WITH STRICT RISK CONTROL
+```
+
+# LEVEL 1 — ADVANCED EXECUTION FILTERS (NEW FRAMEWORK)
+
+## CORE OBJECTIVE
+
+Ensure execution inherits from:
+
+* higher timeframe structure,
+* liquidity conditions,
+* volatility conditions,
+* systemic conditions,
+* and execution quality.
+
+---
+
+# CORE PRINCIPLE
+
+The objective is NOT:
+
+* predicting everything,
+* analyzing all global systems,
+* or executing every opportunity.
+
+The objective is:
+
+```text
+INTELLIGENT ASYMMETRY
+CONTROLLED EXECUTION
+STRUCTURAL SURVIVABILITY
+```
+
+---
+
+# MULTI-TIMEFRAME ALIGNMENT
+
+Use:
+
+| Timeframe | Purpose                    |
+| --------- | -------------------------- |
+| Daily     | Main directional structure |
+| 4H        | Tactical structure         |
+| 1H / 15M  | Entry timing               |
+
+---
+
+# CORE RULE
+
+```text
+DO NOT FIGHT DAILY STRUCTURE
+```
+
+Lower timeframe setups conflicting with higher timeframe structure have:
+
+* weaker continuation durability
+* weaker asymmetry
+* higher reversal probability
+
+---
+
+# EXECUTION LOCATION PRINCIPLE
+
+Not all entries are equal.
+
+Prefer entries near:
+
+* pullbacks
+* reclaim zones
+* breakout retests
+* liquidity sweep rejections
+* compression-release structures
+
+Avoid:
+
+* random middle-of-range entries
+* emotional chasing
+* exhausted expansion candles
+
+---
+
+# ENVIRONMENT QUALITY FILTER
+
+## STRONG ENVIRONMENT
+
+Conditions:
+
+* clean trend
+* stable liquidity
+* manageable volatility
+* strong continuation behavior
+
+Implications:
+
+```text
+HIGHER EXECUTION QUALITY
+```
+
+---
+
+## FRAGILE ENVIRONMENT
+
+Conditions:
+
+* event-heavy conditions
+* unstable volatility
+* conflicting macro signals
+* liquidity fragility
+
+Implications:
+
+```text
+REDUCE AGGRESSIVENESS
+REDUCE POSITION SIZE
+INCREASE DEFENSIVE AWARENESS
+```
+
+---
+
+# EVENT TIMING FILTER
+
+Avoid aggressive execution:
+
+* before CPI
+* before FOMC
+* before NFP
+* before Powell speeches
+
+Preferred approach:
+
+```text
+WAIT FOR POST-EVENT STABILIZATION
+```
+
+---
+
+# TEMPORAL INHERITANCE PRINCIPLE
+
+Lower timeframe execution must inherit from:
+
+* higher timeframe liquidity
+* higher timeframe volatility
+* higher timeframe macro pressure
+* higher timeframe structure
+
+---
+
+# EXECUTION LOCATION ANALYSIS
+
+Ask:
+
+```text
+IS THIS THE RIGHT LOCATION TO PARTICIPATE?
+```
+
+Consider:
+
+* liquidity concentration
+* reclaim quality
+* sweep behavior
+* compression-release probability
+* volatility instability
+
+---
+
+# INVALIDATION DURABILITY
+
+Ask:
+
+```text
+HOW FRAGILE IS MY STOP REGION?
+```
+
+Consider:
+
+* volatility sensitivity
+* liquidity instability
+* nonlinear event probability
+
+---
+
+# EXPANSION DURABILITY
+
+Ask:
+
+```text
+IF PRICE MOVES,
+HOW DURABLE IS CONTINUATION?
+```
+
+Consider:
+
+* trend persistence
+* liquidity persistence
+* dealer support
+* macro continuation quality
+
+---
+
+# TEMPORAL PRESSURE MEMORY
+
+Core idea:
+
+```text
+CURRENT PRICE CONTAINS HISTORICAL STRESS MEMORY
+```
+
+Old:
+
+* leverage
+* liquidity stress
+* policy distortions
+* positioning
+* funding pressure
+
+can reappear later through:
+
+* volatility spikes
+* contagion
+* liquidity collapse
+* forced unwinds
+
+---
+
+# EXECUTION ENVIRONMENT TIERS
+
+| Tier   | Meaning               |
+| ------ | --------------------- |
+| Tier 1 | Elite environment     |
+| Tier 2 | Strong environment    |
+| Tier 3 | Moderate environment  |
+| Tier 4 | Fragile environment   |
+| Tier 5 | Dangerous environment |
+
+---
+
+# LEVEL 1 PRACTICAL USE
+
+Use this framework mainly as:
+
+* execution filter
+* volatility filter
+* environment-quality filter
+* timeframe-alignment filter
+
+NOT as full institutional architecture yet.
+
+---
+
+# LEVEL 1 COMBINATION MODEL
+
+## PRIMARY ENGINE
+
+Use OLD FRAMEWORK for:
+
+* macro direction
+* liquidity bias
+* risk-on/risk-off
+* volatility awareness
+* Fed reaction analysis
+
+---
+
+## SECONDARY FILTERS
+
+Use NEW FRAMEWORK for:
+
+* multi-timeframe alignment
+* execution location
+* environment quality
+* event timing
+* asymmetry quality
+
+---
+
+# FINAL LEVEL 1 STRUCTURE
+
+```text
+OLD FRAMEWORK
+=
+CORE MACRO ENGINE
+
+NEW FRAMEWORK
+=
+ADVANCED EXECUTION FILTERS
+```
+
+---
+
+# FINAL LEVEL 1 OBJECTIVE
+
+```text
+AVOID DANGEROUS ENVIRONMENTS
+
+PARTICIPATE ONLY WHEN:
+
+MACRO
+LIQUIDITY
+VOLATILITY
+STRUCTURE
+AND EXECUTION QUALITY
+
+ALIGN FAVORABLY
+```
+
+RUN LIVE TRADE MANAGEMENT MODE
+
+Asset:
+[INSERT ASSET]
+
+Entry:
+[INSERT ENTRY]
+
+Current Price:
+[INSERT CURRENT PRICE]
+
+Use:
+
+* Systemic Intelligence Mode outputs
+* current funding conditions
+* current dollar liquidity conditions
+* current derivative stress conditions
+* current systemic risk conditions
+* current collateral conditions
+* current dealer stability conditions
+* current counterparty conditions
+* current contagion conditions
+* current interbank trust conditions
+* current clearing stability conditions
+
+
+Activate:
+
+* MODULE 0 BRIDGE
+
+PRIMARY SYSTEMIC MANAGEMENT LAYER:
+
+* MODULE 0 BRIDGE A
+  Global Funding Engine
+
+* MODULE 0 BRIDGE B
+  FX Swap Engine
+
+* MODULE 0 BRIDGE C
+  Interest Rate Swap Engine
+
+* MODULE 0 BRIDGE D
+  Credit Default Swap Engine
+
+* MODULE 0 BRIDGE E
+  Collateral and Repo Engine
+
+* MODULE 0 BRIDGE F
+  Dollar Liquidity Engine
+
+* MODULE 0 BRIDGE G
+  Derivative Stress Engine
+
+* MODULE 0 BRIDGE H
+  Systemic Risk Engine
+* MODULE 0 BRIDGE I
+  Counterparty and Contagion Intelligence Engine
+
+
+- MODULE 5
+- MODULE 6
+
+
+Analyze:
+
+1. Current liquidity conditions
+2. Current structural flow behavior
+3. Current macro behavior
+4. Current volatility regime
+5. Current execution quality
+6. Trend continuation probability
+7. Reversal probability
+8. Liquidity exhaustion probability
+9. Dealer pressure
+10. Positioning changes
+11. Current funding conditions
+
+12. Current dollar liquidity conditions
+
+13. Current derivative stress conditions
+
+14. Current systemic risk conditions
+
+15. Current collateral conditions
+
+16. Current dealer balance-sheet stability
+17. Current counterparty stability
+
+18. Current contagion probability
+
+19. Current interbank trust conditions
+
+20. Current clearing and settlement stability
+
+
+SYSTEMIC TRADE MANAGEMENT FILTER
+
+Trade management decisions must adjust according to:
+
+* liquidity deterioration
+* funding instability
+* derivative stress
+* systemic fragility
+* dealer instability
+* volatility expansion
+* collateral deterioration
+* counterparty instability
+* contagion probability
+* interbank trust deterioration
+* clearing instability
+
+
+If systemic instability rises:
+
+↓
+
+reduce aggressiveness
+
+↓
+
+reduce exposure
+
+↓
+
+tighten risk management
+↓
+
+reduce confidence in continuation stability
+
+↓
+
+increase defensive management probability
+
+↓
+
+reduce tolerance for leverage-sensitive exposure
+
+↓
+
+increase probability of liquidity disruption
+
+
+↓
+
+avoid overconfidence in continuation
+
+↓
+
+increase probability of defensive management
+
+If systemic stability improves:
+
+↓
+
+allow greater trend confidence
+
+↓
+
+allow greater continuation probability
+
+↓
+
+allow greater holding duration
+
+↓
+
+allow greater tolerance for volatility
+
+
+Then recommend:
+
+- hold
+- reduce
+- partial take profit
+- move stop
+- close trade
+- add exposure
+- avoid adjustment
+Recommendations must account for:
+
+* funding stability
+* liquidity stability
+* derivative stability
+* counterparty stability
+* contagion probability
+* interbank trust conditions
+* clearing stability
+* systemic fragility
+* volatility regime stability
+
+If continuation structure remains strong but systemic trust deteriorates:
+
+↓
+
+favor defensive management
+
+↓
+
+reduce confidence in trend persistence
+
+↓
+
+increase probability of volatility disruption
+
+↓
+
+reduce probability of stable liquidity continuation
+
+---
+
+## LIVE MANAGEMENT ENVIRONMENT TIER ADAPTATION ENGINE
+
+All live trade management decisions must inherit from:
+
+* global environment tier classification
+* temporal environment tier classification
+* systemic stability conditions
+* liquidity durability conditions
+* volatility durability conditions
+* asymmetry durability conditions
+* counterparty stability conditions
+* contagion conditions
+* trust stability conditions
+
+---
+
+LIVE MANAGEMENT TIER ADAPTATION RULE
+
+Tier 1 — Elite Environment:
+
+Allow:
+
+* strongest continuation persistence assumptions
+* strongest liquidity continuation assumptions
+* strongest execution durability assumptions
+* strongest asymmetry durability assumptions
+
+Tier 2 — Strong Environment:
+
+Allow:
+
+* favorable continuation persistence
+* manageable volatility instability
+* moderate structural confidence
+
+Tier 3 — Moderate Environment:
+
+Require:
+
+* elevated adaptation awareness
+* elevated continuation deterioration awareness
+* elevated compression sensitivity
+* reduced persistence assumptions
+* increased defensive management awareness
+
+Tier 4 — Fragile Environment:
+
+Require:
+
+* elevated liquidity deterioration awareness
+* elevated volatility instability awareness
+* elevated asymmetry deterioration awareness
+* elevated defensive management probability
+* elevated nonlinear-event awareness
+
+Tier 5 — Dangerous Environment:
+
+Require:
+
+* maximum fragility awareness
+* maximum liquidity instability awareness
+* maximum contagion sensitivity
+* maximum volatility disruption awareness
+* maximum defensive management weighting
+
+---
+
+LIVE MANAGEMENT DURABILITY GOVERNANCE
+
+Environmental tier classification governs:
+
+* continuation durability assumptions
+* holding persistence assumptions
+* liquidity continuation assumptions
+* volatility stability assumptions
+* asymmetry durability assumptions
+* defensive management probability
+* nonlinear instability probability
+
+before live trade management conclusions are generated.
+
+---
+
+IMPORTANT PRINCIPLE
+
+A trade may remain structurally attractive while:
+
+* environmental durability deteriorates
+* volatility instability rises
+* liquidity quality weakens
+* asymmetry deteriorates
+* systemic fragility accelerates
+
+The system must distinguish between:
+
+* trade structure quality
+  and
+* live environmental durability quality.
+
+---
+
+LIVE MANAGEMENT ENVIRONMENT CLASSIFICATION
+
+Determine whether the current live environment is:
+
+* continuation-supportive
+* continuation-sensitive
+* volatility-sensitive
+* liquidity-sensitive
+* asymmetry-sensitive
+* defensive-management-sensitive
+* fragility-sensitive
+* nonlinear-instability-sensitive
+
+before live management conclusions are generated.
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* environmental conditions strengthen continuation durability
+  or
+* environmental fragility weakens continuation durability
+
+before live management conclusions are generated.
+
+Then classify current live trade environment as:
+
+* stable continuation environment
+* controlled continuation environment
+* volatility expansion environment
+* liquidity deterioration environment
+* defensive management environment
+* unstable management environment
+* systemic fragility environment
+* contagion-sensitive environment
+* counterparty-sensitive environment
+* interbank instability environment
+* clearing instability environment
+* trust deterioration environment
+
+
+Determine whether:
+
+* trade quality is improving
+* trade quality is deteriorating
+* systemic conditions support continuation
+* systemic conditions support defensive management
+* volatility conditions support holding
+* liquidity conditions support exposure maintenance
+* counterparty conditions support continuation stability
+* contagion conditions threaten execution quality
+* trust deterioration threatens liquidity stability
+* clearing instability threatens volatility stability
+
+
+
+Use probability-based language only.
+
+Probability confidence must dynamically adjust according to:
+
+* funding stability
+* liquidity stability
+* derivative stability
+* counterparty stability
+* contagion probability
+* interbank trust conditions
+* clearing stability
+* volatility regime stability
+* systemic fragility
+
+As systemic fragility rises:
+
+↓
+
+reduce certainty language
+
+↓
+
+reduce continuation confidence
+
+↓
+
+increase uncertainty weighting
+
+↓
+
+increase defensive probability weighting
+
+↓
+
+increase nonlinear event probability weighting
+
+As systemic stability improves:
+
+↓
+
+allow stronger continuation confidence
+
+↓
+
+allow stronger trend persistence probability
+
+↓
+
+allow stronger execution confidence
+
+
+---
+
+## LIVE TRADE MANAGEMENT ENGINE
+
+The system must dynamically manage live exposure according to:
+
+* environmental evolution
+* liquidity evolution
+* volatility evolution
+* asymmetry evolution
+* continuation durability
+* structural persistence
+* timeframe inheritance quality
+* systemic stability
+* nonlinear-event sensitivity
+
+after participation has already begun.
+
+---
+
+LIVE MANAGEMENT PRINCIPLE
+
+The objective is NOT:
+
+* passive holding
+* emotional attachment
+* fixed static management
+* rigid continuation assumptions
+
+The objective is:
+
+* adaptive participation
+* asymmetry preservation
+* probabilistic continuation management
+* dynamic fragility adaptation
+* survivable continuation harvesting
+
+---
+
+LIVE MANAGEMENT EVOLUTION PRINCIPLE
+
+Trade quality evolves dynamically.
+
+The system must continuously reassess:
+
+* continuation durability
+* liquidity persistence
+* volatility stability
+* asymmetry durability
+* timeframe alignment
+* systemic stability
+* dealer behavior
+* counterparty stability
+* contagion sensitivity
+
+during live participation.
+
+--------------------------------------------------
+MODULE 8A — LIVE EXECUTION LOCATION EVOLUTION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether current price location
+still supports favorable asymmetry and continuation durability
+during live participation.
+
+The system must determine whether current price location is:
+
+* structurally efficient
+* structurally inefficient
+* continuation-supportive
+* exhaustion-sensitive
+* volatility-sensitive
+* liquidity-sensitive
+* asymmetry-supportive
+* asymmetry-deteriorating
+
+--------------------------------------------------
+
+LIVE LOCATION ANALYSIS
+
+Evaluate whether current location is near:
+
+* liquidity concentrations
+* sweep-prone regions
+* reclaim regions
+* exhaustion regions
+* compression-release regions
+* continuation acceleration regions
+* dealer pressure zones
+* volatility instability zones
+* asymmetry deterioration zones
+* structural transition zones
+
+--------------------------------------------------
+
+LOCATION QUALITY PRINCIPLE
+
+Execution quality improves when continuation occurs from:
+
+* efficient structural locations
+* reclaim-supported regions
+* post-sweep stabilization regions
+* asymmetry-efficient regions
+* liquidity-supported continuation regions
+
+Execution quality deteriorates when continuation occurs from:
+
+* extended inefficient locations
+* exhaustion-sensitive regions
+* unstable volatility regions
+* weak reclaim regions
+* liquidity-deteriorating regions
+* asymmetry-compressed regions
+
+--------------------------------------------------
+
+LIVE LOCATION DETERIORATION DETECTION
+
+The system must continuously detect whether:
+
+* continuation is becoming location inefficient
+* expansion quality is weakening
+* volatility instability is increasing
+* reclaim quality is weakening
+* asymmetry is compressing
+* structural exhaustion is increasing
+* liquidity persistence is weakening
+
+before full continuation failure occurs.
+
+--------------------------------------------------
+
+LIVE LOCATION CLASSIFICATION
+
+Classify current live location as:
+
+* highly efficient
+* continuation-efficient
+* neutral
+* inefficient
+* exhaustion-sensitive
+* structurally dangerous
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current price location:
+
+* strengthens continuation durability
+or
+* weakens continuation durability
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8B — LIVE RECLAIM AND CONTINUATION VALIDATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether reclaim behavior
+still supports structural continuation durability
+during live participation.
+
+The system must distinguish between:
+
+* temporary stabilization
+and
+* genuine continuation restoration.
+
+--------------------------------------------------
+
+LIVE RECLAIM ANALYSIS
+
+Evaluate:
+
+* reclaim quality
+* higher-low stabilization quality
+* displacement quality
+* continuation follow-through quality
+* liquidity absorption quality
+* persistence restoration quality
+* volatility stabilization quality
+* structural acceptance quality
+
+--------------------------------------------------
+
+RECLAIM VALIDATION PRINCIPLE
+
+Continuation quality improves when reclaim behavior shows:
+
+* stable acceptance
+* persistent displacement
+* constructive follow-through
+* liquidity absorption
+* volatility compression stabilization
+* continuation persistence
+* higher-timeframe alignment
+
+Continuation quality deteriorates when reclaim behavior shows:
+
+* repeated rejection
+* unstable displacement
+* weak follow-through
+* volatility instability
+* liquidity deterioration
+* exhaustion behavior
+* failed persistence restoration
+
+--------------------------------------------------
+
+FAILED RECLAIM DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* reclaim attempts are weakening
+* persistence quality is deteriorating
+* displacement quality is failing
+* continuation acceptance is weakening
+* volatility instability is overpowering continuation
+* liquidity absorption is deteriorating
+* reclaim durability is compressing
+
+before complete structural invalidation occurs.
+
+--------------------------------------------------
+
+RECLAIM QUALITY CLASSIFICATION
+
+Classify reclaim behavior as:
+
+* strong continuation reclaim
+* constructive reclaim
+* neutral reclaim
+* unstable reclaim
+* failed reclaim
+* exhaustion reclaim
+
+--------------------------------------------------
+
+CONTINUATION DURABILITY PRINCIPLE
+
+Strong continuation environments require:
+
+* stable reclaim persistence
+* constructive follow-through
+* controlled volatility behavior
+* stable liquidity behavior
+* continuation acceptance
+* displacement persistence
+* asymmetry durability
+
+Continuation quality weakens materially when reclaim durability deteriorates.
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether reclaim behavior:
+
+* strengthens continuation persistence
+or
+* weakens continuation persistence
+
+before live management adaptation decisions are generated.
+
+--------------------------------------------------
+MODULE 8C — LIVE LIQUIDITY SWEEP DETECTION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether current expansion behavior
+represents genuine continuation
+or temporary liquidity sweep instability
+during live participation.
+
+The system must distinguish between:
+
+* sustainable expansion
+and
+* liquidity-driven trap behavior.
+
+--------------------------------------------------
+
+LIVE SWEEP ANALYSIS
+
+Evaluate whether current expansion behavior shows:
+
+* genuine continuation
+* liquidity sweep behavior
+* stop-trigger expansion
+* exhaustion expansion
+* trap-like continuation
+* failed breakout behavior
+* volatility distortion
+* displacement instability
+* reclaim instability
+* temporary liquidity vacuum behavior
+
+--------------------------------------------------
+
+SWEEP DETECTION PRINCIPLE
+
+Not all expansions represent durable continuation.
+
+Liquidity sweeps may temporarily generate:
+
+* aggressive directional movement
+* false breakout behavior
+* emotional continuation behavior
+* temporary volatility acceleration
+* stop-trigger cascades
+* unstable expansion spikes
+
+before structural continuation fails.
+
+--------------------------------------------------
+
+CONTINUATION VALIDATION FILTER
+
+The system must evaluate whether expansion behavior is supported by:
+
+* persistence quality
+* reclaim stability
+* liquidity absorption
+* displacement durability
+* volatility stability
+* structural acceptance
+* follow-through quality
+* higher-timeframe alignment
+
+Weak continuation confirmation reduces expansion durability quality.
+
+--------------------------------------------------
+
+FAILED EXPANSION DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* breakout sustainability is weakening
+* continuation persistence is deteriorating
+* volatility instability is increasing
+* expansion quality is compressing
+* reclaim quality is weakening
+* liquidity absorption is failing
+* exhaustion probability is increasing
+
+before full continuation deterioration occurs.
+
+--------------------------------------------------
+
+SWEEP ENVIRONMENT CLASSIFICATION
+
+Classify current expansion behavior as:
+
+* durable continuation
+* constructive expansion
+* neutral expansion
+* unstable expansion
+* liquidity sweep environment
+* exhaustion expansion environment
+
+--------------------------------------------------
+
+VOLATILITY TRAP PRINCIPLE
+
+High-volatility expansion environments may contain:
+
+* hidden dealer instability
+* hidden liquidity deterioration
+* hidden exhaustion pressure
+* hidden sweep instability
+* hidden continuation fragility
+
+The system must avoid overconfidence during unstable expansion behavior.
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current expansion behavior:
+
+* supports durable continuation
+or
+* represents temporary liquidity sweep instability
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8D — LIVE ASYMMETRY DETERIORATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether asymmetry quality
+remains favorable during live participation.
+
+The system must determine whether:
+
+* reward potential remains durable
+or
+* asymmetry quality is deteriorating materially.
+
+--------------------------------------------------
+
+LIVE ASYMMETRY ANALYSIS
+
+Evaluate whether current trade conditions still support:
+
+* favorable continuation asymmetry
+* favorable expansion durability
+* controlled structural risk
+* favorable persistence quality
+* constructive liquidity behavior
+* constructive volatility behavior
+* favorable execution durability
+* continuation efficiency
+
+--------------------------------------------------
+
+ASYMMETRY DETERIORATION PRINCIPLE
+
+Asymmetry quality deteriorates when:
+
+* continuation persistence weakens
+* expansion quality compresses
+* volatility instability accelerates
+* liquidity persistence deteriorates
+* reclaim quality weakens
+* exhaustion probability increases
+* structural inefficiency increases
+* continuation dependency increases
+* reversal sensitivity increases
+
+even if full invalidation has NOT yet occurred.
+
+--------------------------------------------------
+
+ASYMMETRY COMPRESSION DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* remaining reward potential is shrinking
+* continuation durability is weakening
+* volatility exposure is increasing
+* structural fragility is increasing
+* asymmetry efficiency is deteriorating
+* continuation dependency is increasing
+* liquidity deterioration risk is increasing
+
+before continuation assumptions fail completely.
+
+--------------------------------------------------
+
+ASYMMETRY QUALITY CLASSIFICATION
+
+Classify current asymmetry quality as:
+
+* highly favorable
+* favorable
+* balanced
+* compressed
+* deteriorating
+* asymmetrically dangerous
+
+--------------------------------------------------
+
+ASYMMETRY PRESERVATION PRINCIPLE
+
+The system must recognize that:
+
+* profitable trades can become poor asymmetry trades
+* continuation may remain technically possible while expectancy deteriorates
+* expansion durability may weaken before invalidation occurs
+* volatility instability can rapidly destroy asymmetry efficiency
+
+The objective is not merely staying in the trade.
+
+The objective is preserving favorable probabilistic asymmetry.
+
+--------------------------------------------------
+
+LIVE ASYMMETRY ADAPTATION ENGINE
+
+If asymmetry durability weakens materially:
+
+↓
+
+increase defensive management weighting
+
+↓
+
+increase partial realization probability
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce persistence assumptions
+
+↓
+
+increase volatility sensitivity awareness
+
+↓
+
+increase asymmetry preservation priority
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current trade conditions:
+
+* still justify favorable asymmetry exposure
+or
+* now require asymmetry preservation adaptation
+
+before live management decisions are generated.
+
+--------------------------------------------------
+MODULE 8E — LIVE STRUCTURAL FAILURE ACCELERATION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously detect whether structural deterioration
+is accelerating beneath live continuation behavior
+before full invalidation occurs.
+
+The system must recognize that continuation deterioration often emerges gradually before structural collapse becomes obvious.
+
+--------------------------------------------------
+
+LIVE STRUCTURAL DETERIORATION ANALYSIS
+
+Evaluate whether current continuation behavior shows:
+
+* weakening displacement quality
+* weakening continuation persistence
+* weakening reclaim durability
+* weakening liquidity persistence
+* increasing volatility instability
+* increasing structural rejection
+* increasing exhaustion behavior
+* increasing asymmetry deterioration
+* increasing continuation fragility
+* increasing instability acceleration
+
+--------------------------------------------------
+
+STRUCTURAL FAILURE ACCELERATION PRINCIPLE
+
+Structural failure acceleration may emerge through:
+
+* declining follow-through quality
+* unstable continuation behavior
+* repeated rejection behavior
+* volatility instability expansion
+* liquidity deterioration acceleration
+* weakening structural acceptance
+* increasing reversal sensitivity
+* deterioration in persistence durability
+
+before complete continuation failure occurs.
+
+--------------------------------------------------
+
+EARLY FAILURE DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* continuation deterioration is accelerating
+* volatility instability is compounding
+* liquidity deterioration is accelerating
+* reclaim persistence is weakening materially
+* asymmetry deterioration is accelerating
+* structural instability is intensifying
+* continuation durability is compressing rapidly
+
+before total structural invalidation occurs.
+
+--------------------------------------------------
+
+STRUCTURAL FAILURE CLASSIFICATION
+
+Classify current structural condition as:
+
+* structurally stable
+* continuation constructive
+* continuation sensitive
+* structurally deteriorating
+* structurally fragile
+* structural failure accelerating
+
+--------------------------------------------------
+
+PERSISTENCE FAILURE PRINCIPLE
+
+Continuation quality weakens materially when:
+
+* persistence becomes unstable
+* volatility instability accelerates
+* liquidity persistence deteriorates
+* reclaim durability weakens
+* structural rejection frequency increases
+* continuation dependency rises
+* expansion efficiency deteriorates
+
+even if price has not yet fully reversed.
+
+--------------------------------------------------
+
+DEFENSIVE ACCELERATION ADAPTATION ENGINE
+
+If structural failure acceleration increases materially:
+
+↓
+
+increase defensive management probability
+
+↓
+
+increase asymmetry preservation weighting
+
+↓
+
+reduce continuation persistence assumptions
+
+↓
+
+reduce volatility tolerance
+
+↓
+
+increase partial realization probability
+
+↓
+
+increase continuation deterioration awareness
+
+↓
+
+increase nonlinear instability weighting
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current continuation structure:
+
+* remains structurally durable
+or
+* is entering structural failure acceleration
+
+before live management decisions are adjusted.
+
+--------------------------------------------------
+MODULE 8F — LIVE NONLINEAR VOLATILITY EXPANSION ENGINE
+--------------------------------------------------
+
+Purpose:
+
+Continuously evaluate whether volatility behavior
+is transitioning from controlled continuation behavior
+into nonlinear instability behavior
+during live participation.
+
+The system must recognize that volatility regimes can shift rapidly through:
+
+* dealer instability
+* convexity pressure
+* liquidation behavior
+* gamma instability
+* liquidity deterioration
+* squeeze acceleration
+* contagion behavior
+
+before full market instability becomes obvious.
+
+--------------------------------------------------
+
+LIVE NONLINEAR VOLATILITY ANALYSIS
+
+Evaluate whether current volatility behavior shows:
+
+* controlled expansion
+* unstable expansion
+* squeeze acceleration
+* convexity instability
+* liquidation cascade behavior
+* volatility shock behavior
+* nonlinear continuation behavior
+* dealer instability behavior
+* liquidity vacuum behavior
+* contagion-sensitive expansion behavior
+
+--------------------------------------------------
+
+NONLINEAR VOLATILITY PRINCIPLE
+
+Nonlinear volatility environments may generate:
+
+* rapid directional acceleration
+* unstable continuation behavior
+* abrupt reversal behavior
+* widening execution instability
+* sudden liquidity deterioration
+* aggressive stop-trigger cascades
+* emotional participant behavior
+* unstable dealer hedging behavior
+
+before continuation quality stabilizes.
+
+--------------------------------------------------
+
+NONLINEAR INSTABILITY DETECTION ENGINE
+
+The system must continuously detect whether:
+
+* volatility acceleration is compounding
+* squeeze instability is intensifying
+* liquidity conditions are deteriorating rapidly
+* dealer instability is increasing
+* continuation stability is weakening
+* liquidation probability is increasing
+* convexity instability is expanding
+* nonlinear-event probability is increasing
+
+before full instability expansion occurs.
+
+--------------------------------------------------
+
+VOLATILITY INSTABILITY CLASSIFICATION
+
+Classify current volatility behavior as:
+
+* controlled volatility
+* constructive expansion
+* elevated volatility
+* unstable volatility
+* nonlinear expansion
+* liquidation-sensitive instability
+
+--------------------------------------------------
+
+CONVEXITY INSTABILITY PRINCIPLE
+
+The system must recognize that nonlinear volatility behavior may temporarily distort:
+
+* continuation quality
+* execution quality
+* liquidity quality
+* asymmetry durability
+* persistence assumptions
+* structural reliability
+
+even if higher-timeframe structure remains partially supportive.
+
+--------------------------------------------------
+
+LIVE VOLATILITY ADAPTATION ENGINE
+
+If nonlinear instability probability rises materially:
+
+↓
+
+increase defensive management weighting
+
+↓
+
+reduce continuation confidence
+
+↓
+
+reduce persistence assumptions
+
+↓
+
+reduce liquidity confidence
+
+↓
+
+increase volatility sensitivity awareness
+
+↓
+
+increase asymmetry preservation weighting
+
+↓
+
+increase defensive realization probability
+
+↓
+
+increase nonlinear-event weighting
+
+--------------------------------------------------
+
+FINAL OBJECTIVE
+
+Determine whether current volatility behavior:
+
+* remains structurally manageable
+or
+* is transitioning into nonlinear instability behavior
+
+before live management decisions are adjusted.
+
+## CONTINUATION REVALIDATION PRINCIPLE
+
+The system must continuously reassess whether continuation assumptions remain structurally justified after participation has already begun.
+
+Initial execution quality does NOT guarantee continuation durability.
+
+The system must continuously evaluate whether:
+
+* continuation persistence remains constructive
+* liquidity continuation remains supportive
+* volatility behavior remains controlled
+* asymmetry quality remains favorable
+* timeframe inheritance remains aligned
+* dealer-flow behavior remains supportive
+* structural persistence remains durable
+* expansion quality remains constructive
+
+during live participation.
+
+---
+
+CONTINUATION DETERIORATION PRINCIPLE
+
+Continuation quality may deteriorate through:
+
+* weakening displacement quality
+* declining follow-through persistence
+* volatility instability acceleration
+* liquidity deterioration
+* failed reclaim behavior
+* repeated structural rejection
+* asymmetric exhaustion behavior
+* dealer-flow instability
+* positioning deterioration
+
+The system must recognize that continuation deterioration may emerge BEFORE complete structural invalidation occurs.
+
+---
+
+IMPORTANT PRINCIPLE
+
+A trade may remain technically open while:
+
+* continuation quality weakens materially
+* asymmetry deteriorates materially
+* liquidity quality deteriorates materially
+* volatility instability accelerates materially
+
+The system must distinguish between:
+
+* open trade status
+  and
+* continuation quality durability.
+
+---
+
+LIVE REVALIDATION GOVERNANCE
+
+If continuation quality deteriorates materially:
+
+↓
+
+reduce continuation confidence
+
+↓
+
+increase defensive management weighting
+
+↓
+
+increase asymmetry preservation weighting
+
+↓
+
+reduce persistence assumptions
+
+↓
+
+increase volatility sensitivity awareness
+
+↓
+
+increase probability of defensive reduction or partial realization.
+
+---
+
+FINAL OBJECTIVE
+
+Determine whether:
+
+* continuation remains structurally healthy
+* continuation quality is deteriorating
+* asymmetry remains favorable
+* volatility deterioration threatens persistence
+* liquidity deterioration threatens continuation durability
+
+before continuation assumptions remain fully active.
+
+---
+
+LIVE MANAGEMENT CLASSIFICATION
+
+Generate:
+
+1. Continuation Management State
+
+Characteristics:
+
+* continuation remains constructive
+* liquidity remains supportive
+* asymmetry remains durable
+* volatility remains controlled
+
+2. Adaptive Management State
+
+Characteristics:
+
+* continuation mixed
+* asymmetry partially deteriorating
+* volatility sensitivity rising
+* elevated adaptation requirements
+
+3. Defensive Management State
+
+Characteristics:
+
+* elevated fragility
+* elevated liquidity deterioration
+* elevated asymmetry deterioration
+* elevated nonlinear-event sensitivity
+* elevated continuation instability
+
+4. Exit Preservation State
+
+Characteristics:
+
+* continuation materially deteriorating
+* volatility destabilizing
+* liquidity persistence failing
+* structural persistence weakening materially
+
+---
+
+LIVE MANAGEMENT ACTION FRAMEWORK
+
+The system may determine:
+
+* continuation participation justified
+* defensive reduction justified
+* asymmetry preservation justified
+* volatility reduction justified
+* scaling justified
+* partial realization justified
+* continuation invalidation justified
+* exposure preservation justified
+
+according to evolving environmental conditions.
+
+---
+
+ENVIRONMENTAL MANAGEMENT ADAPTATION
+
+Tier 1 Environment:
+
+Allow:
+
+* extended continuation participation
+* wider persistence assumptions
+* stronger continuation durability
+
+Tier 2 Environment:
+
+Allow:
+
+* balanced continuation participation
+* manageable volatility adaptation
+* moderate persistence assumptions
+
+Tier 3 Environment:
+
+Require:
+
+* elevated adaptation awareness
+* elevated continuation monitoring
+* elevated asymmetry monitoring
+* reduced persistence assumptions
+
+Tier 4 Environment:
+
+Require:
+
+* defensive management logic
+* elevated fragility awareness
+* elevated volatility sensitivity
+* elevated liquidity deterioration awareness
+
+Tier 5 Environment:
+
+Require:
+
+* defensive preservation logic
+  or
+* participation termination logic
+
+---
+
+IMPORTANT PRINCIPLE
+
+The system must recognize that:
+
+* unrealized expansion can disappear rapidly
+* continuation quality changes dynamically
+* volatility instability can accelerate suddenly
+* liquidity deterioration can emerge abruptly
+* asymmetry deteriorates over time
+* defensive adaptation preserves survivability
+
+The system must balance:
+
+* continuation participation
+  and
+* asymmetry preservation
+
+during live participation.
+
+---
+
+FINAL OBJECTIVE
+
+Determine:
+
+* whether continuation remains justified
+* whether asymmetry remains favorable
+* whether volatility deterioration threatens continuation
+* whether liquidity deterioration threatens persistence
+* whether defensive adaptation becomes necessary
+* whether continuation participation still justifies exposure
+
+before post-trade learning begins.
