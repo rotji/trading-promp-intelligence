@@ -1,0 +1,1466 @@
+# MODULE 16 — OPPORTUNITY ACCEPTANCE ENGINE
+
+========================================================
+CORE OBJECTIVE
+========================================================
+
+Determine whether an opportunity deserves capital allocation.
+
+The objective is NOT:
+
+• finding trades
+• maximizing trade frequency
+• forcing participation
+
+The objective IS:
+
+• rejecting weak opportunities
+• accepting strong opportunities
+• preserving capital
+• maximizing expectancy
+• maximizing asymmetry
+• improving survivability
+
+--------------------------------------------------------
+
+UNIVERSAL PRINCIPLE
+
+A market can be:
+
+• structurally bullish
+• environmentally healthy
+• timing aligned
+
+AND STILL BE
+
+A POOR OPPORTUNITY.
+
+The objective is not:
+
+FIND MORE TRADES
+
+The objective is:
+
+ACCEPT BETTER TRADES
+
+========================================================
+PRIMARY QUESTION
+========================================================
+
+Before every trade ask:
+
+DOES THIS OPPORTUNITY DESERVE CAPITAL?
+
+NOT:
+
+CAN I FIND A REASON TO ENTER?
+
+========================================================
+OPPORTUNITY ACCEPTANCE PHILOSOPHY
+========================================================
+
+Professional traders:
+
+Reject most opportunities.
+
+Retail traders:
+
+Accept most opportunities.
+
+The system must learn:
+
+Capital is deployed only when:
+
+• asymmetry exists
+• durability exists
+• continuation exists
+• participation exists
+• expectancy exists
+
+========================================================
+STEP 1 — ENVIRONMENT VALIDATION
+========================================================
+
+Import:
+
+MODULE 12
+
+Evaluate:
+
+• Environment Tier
+• Environment Durability
+• Environment Fragility
+
+--------------------------------------------------------
+
+Questions:
+
+Is environment favorable?
+
+Is environment hostile?
+
+Is environment deteriorating?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 2 — STRUCTURE VALIDATION
+========================================================
+
+Import:
+
+MODULE 13
+
+Evaluate:
+
+• Trend structure
+• Structural control
+• Structural durability
+• Structural fragility
+
+--------------------------------------------------------
+
+Questions:
+
+Does structure support participation?
+
+Or
+
+Does structure oppose participation?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 3 — CONTINUATION VALIDATION
+========================================================
+
+Import:
+
+MODULE 14
+
+Evaluate:
+
+• Continuation durability
+• Expansion durability
+• Reclaim durability
+• Follow-through quality
+
+--------------------------------------------------------
+
+Questions:
+
+Can the move realistically continue?
+
+Or
+
+Is continuation deteriorating?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 4 — PARTICIPATION VALIDATION
+========================================================
+
+Import:
+
+MODULE 15
+
+Evaluate:
+
+• Aggression
+• Commitment
+• Conviction
+• Follow-through
+
+--------------------------------------------------------
+
+Questions:
+
+Are participants actively committed?
+
+Or
+
+Are participants hesitating?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 5 — TIMING VALIDATION
+========================================================
+
+Import:
+
+MODULE 10
+
+Evaluate:
+
+• Session quality
+• Event risk
+• Timing window
+• Expansion phase
+• Exhaustion phase
+
+--------------------------------------------------------
+
+Questions:
+
+Is now the correct time?
+
+Or
+
+Is participation premature?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 6 — LIQUIDITY SWEEP VALIDATION
+========================================================
+
+Import:
+
+MODULE 9
+
+Evaluate:
+
+• Sweep risk
+• Reclaim quality
+• Liquidity extraction risk
+• Stop-hunt probability
+
+--------------------------------------------------------
+
+Questions:
+
+Has liquidity already been taken?
+
+Or
+
+Are we likely liquidity?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 7 — ASYMMETRY ENGINE
+========================================================
+
+Evaluate:
+
+Potential Reward
+
+vs
+
+Potential Risk
+
+--------------------------------------------------------
+
+Classification:
+
+Elite Asymmetry
+
+Strong Asymmetry
+
+Moderate Asymmetry
+
+Weak Asymmetry
+
+Poor Asymmetry
+
+--------------------------------------------------------
+
+Questions:
+
+How much can be gained?
+
+How much can be lost?
+
+Is reward worth risk?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 8 — EXPECTANCY ENGINE
+========================================================
+
+Evaluate:
+
+Probability of Success
+
+×
+
+Potential Reward
+
+×
+
+Durability
+
+--------------------------------------------------------
+
+Questions:
+
+Does expectancy justify participation?
+
+Would a professional allocate capital?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 9 — TREND MATURITY ENGINE
+========================================================
+
+Determine:
+
+EARLY TREND
+
+MID TREND
+
+LATE TREND
+
+EXHAUSTION
+
+--------------------------------------------------------
+
+Questions:
+
+Is opportunity early?
+
+Or
+
+Has most opportunity already occurred?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 10 — OPPORTUNITY DURABILITY ENGINE
+========================================================
+
+Evaluate:
+
+• Continuation durability
+• Participation durability
+• Structural durability
+• Environmental durability
+
+--------------------------------------------------------
+
+Questions:
+
+If entry succeeds,
+
+How long can opportunity survive?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 11 — FRAGILITY ENGINE
+========================================================
+
+Detect:
+
+• Environment fragility
+• Structural fragility
+• Continuation fragility
+• Participation fragility
+• Liquidity fragility
+
+--------------------------------------------------------
+
+Questions:
+
+What can easily go wrong?
+
+How fragile is expectancy?
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
+========================================================
+STEP 12 — OPPORTUNITY QUALITY SCORE
+========================================================
+
+Environment:
+0–10
+
+Structure:
+0–10
+
+Continuation:
+0–10
+
+Participation:
+0–10
+
+Timing:
+0–10
+
+Liquidity:
+0–10
+
+Asymmetry:
+0–10
+
+Expectancy:
+0–10
+
+Trend Maturity:
+0–10
+
+Durability:
+0–10
+
+Fragility:
+0–10
+
+--------------------------------------------------------
+
+TOTAL SCORE
+
+100–110
+
+ELITE OPPORTUNITY
+
+90–99
+
+HIGH QUALITY OPPORTUNITY
+
+80–89
+
+STRONG OPPORTUNITY
+
+70–79
+
+MODERATE OPPORTUNITY
+
+60–69
+
+WEAK OPPORTUNITY
+
+Below 60
+
+REJECT
+
+========================================================
+OPPORTUNITY ACCEPTANCE RULES
+========================================================
+
+ELITE OPPORTUNITY
+
+Accept
+
+Full allocation allowed
+
+--------------------------------------------------------
+
+HIGH QUALITY OPPORTUNITY
+
+Accept
+
+Normal allocation allowed
+
+--------------------------------------------------------
+
+STRONG OPPORTUNITY
+
+Accept selectively
+
+Moderate allocation
+
+--------------------------------------------------------
+
+MODERATE OPPORTUNITY
+
+Reduced allocation
+
+Require stronger confirmation
+
+--------------------------------------------------------
+
+WEAK OPPORTUNITY
+
+Avoid
+
+--------------------------------------------------------
+
+REJECT
+
+No trade
+
+========================================================
+AUTOMATIC REJECTION RULES
+========================================================
+
+Reject if:
+
+• Environment Tier 5
+
+• Continuation failing
+
+• Participation failing
+
+• Liquidity sweep probability extreme
+
+• Event risk extreme
+
+• Expectancy weak
+
+• Asymmetry poor
+
+• Structure directly opposes trade
+
+--------------------------------------------------------
+
+Even if:
+
+Direction appears correct.
+
+========================================================
+FOMO DETECTION ENGINE
+========================================================
+
+Detect:
+
+• chasing
+• emotional urgency
+• fear of missing out
+• late participation
+
+Questions:
+
+Would this trade still be attractive if price stopped moving?
+
+If not:
+
+Possible FOMO participation.
+
+========================================================
+SURVIVABILITY ENGINE
+========================================================
+
+Questions:
+
+Can this trade damage survivability?
+
+Can this trade damage continuity?
+
+Can this trade damage discipline?
+
+--------------------------------------------------------
+
+Capital preservation has priority over opportunity frequency.
+
+========================================================
+POST-TRADE OPPORTUNITY REVIEW
+========================================================
+
+Determine:
+
+1. Was opportunity quality correctly classified?
+
+2. Was acceptance justified?
+
+3. Should opportunity have been rejected?
+
+4. Did opportunity quality improve expectancy?
+
+5. Did opportunity quality reduce expectancy?
+
+6. Was fragility underestimated?
+
+7. Was asymmetry overestimated?
+
+8. Was continuation overestimated?
+
+========================================================
+ADAPTIVE OPPORTUNITY LEARNING
+========================================================
+
+Track:
+
+• Elite opportunities
+
+• High-quality opportunities
+
+• Weak opportunities
+
+• Rejected opportunities
+
+--------------------------------------------------------
+
+Continuously refine:
+
+• acceptance standards
+
+• rejection standards
+
+• expectancy evaluation
+
+• asymmetry evaluation
+
+• fragility evaluation
+
+========================================================
+UNIVERSAL PRINCIPLE EXTRACTION
+========================================================
+
+The system must recognize:
+
+Not every tradable setup deserves participation.
+
+Not every opportunity deserves capital.
+
+Not every correct directional thesis deserves execution.
+
+The highest-performing traders often win by:
+
+REJECTING MORE TRADES
+
+NOT
+
+TAKING MORE TRADES
+
+========================================================
+FINAL OBJECTIVE
+========================================================
+
+Determine:
+
+SHOULD THIS OPPORTUNITY BE ACCEPTED?
+
+OR
+
+SHOULD THIS OPPORTUNITY BE REJECTED?
+
+Before:
+
+• Execution
+• Risk Deployment
+• Capital Allocation
+
+OUTPUT:
+
+1. Environment Score
+
+2. Structure Score
+
+3. Continuation Score
+
+4. Participation Score
+
+5. Timing Score
+
+6. Liquidity Score
+
+7. Asymmetry Score
+
+8. Expectancy Score
+
+9. Trend Maturity Classification
+
+10. Opportunity Durability Rating
+
+11. Fragility Rating
+
+12. Opportunity Quality Score
+
+13. Opportunity Classification
+
+14. Capital Allocation Recommendation
+
+15. Acceptance / Rejection Verdict
+
+16. Adaptive Recommendations
+
+17. Final Opportunity Verdict
+
+# MODULE 17 — RISK DEPLOYMENT ENGINE
+
+========================================================
+CORE OBJECTIVE
+========================================================
+
+Determine:
+
+• how much risk to deploy
+• when to reduce risk
+• when to increase risk
+• when to avoid deployment
+• how to preserve survivability
+
+The objective is NOT:
+
+• maximizing profit
+• maximizing leverage
+• maximizing position size
+
+The objective IS:
+
+• maximizing survivability
+• maximizing expectancy durability
+• controlling downside
+• preserving capital continuity
+
+--------------------------------------------------------
+
+UNIVERSAL PRINCIPLE
+
+The first job of risk is:
+
+SURVIVE
+
+The second job of risk is:
+
+COMPOUND
+
+A trader who survives can exploit future opportunities.
+
+A trader who does not survive cannot.
+
+========================================================
+PRIMARY QUESTION
+========================================================
+
+Before every trade ask:
+
+HOW MUCH CAPITAL DESERVES EXPOSURE?
+
+NOT:
+
+HOW MUCH CAN I MAKE?
+
+========================================================
+RISK DEPLOYMENT PHILOSOPHY
+========================================================
+
+Opportunity Quality
+
+↓
+
+Determines
+
+↓
+
+Risk Allocation
+
+--------------------------------------------------------
+
+Weak Opportunity
+
+↓
+
+Small Risk
+
+--------------------------------------------------------
+
+Strong Opportunity
+
+↓
+
+Normal Risk
+
+--------------------------------------------------------
+
+Elite Opportunity
+
+↓
+
+Maximum Allowed Risk
+
+--------------------------------------------------------
+
+No opportunity
+
+↓
+
+No risk deployment
+
+========================================================
+STEP 1 — ACCOUNT SURVIVABILITY ENGINE
+========================================================
+
+Evaluate:
+
+• account size
+• drawdown state
+• recovery state
+• capital durability
+
+Questions:
+
+Can the account survive multiple losses?
+
+Can the account survive adverse volatility?
+
+Can the account survive a losing streak?
+
+--------------------------------------------------------
+
+Classification:
+
+Healthy
+
+Moderately Fragile
+
+Fragile
+
+Critical
+
+========================================================
+STEP 2 — OPPORTUNITY QUALITY IMPORT
+========================================================
+
+Import:
+
+MODULE 16
+
+Evaluate:
+
+• Opportunity Score
+• Opportunity Classification
+• Opportunity Fragility
+• Opportunity Durability
+
+--------------------------------------------------------
+
+Questions:
+
+How much confidence deserves allocation?
+
+========================================================
+STEP 3 — ENVIRONMENT RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 12
+
+Evaluate:
+
+• Environment Tier
+• Environment Stability
+• Environment Fragility
+
+--------------------------------------------------------
+
+Tier 1
+
+Higher deployment allowed
+
+--------------------------------------------------------
+
+Tier 2
+
+Normal deployment allowed
+
+--------------------------------------------------------
+
+Tier 3
+
+Reduced deployment
+
+--------------------------------------------------------
+
+Tier 4
+
+Defensive deployment
+
+--------------------------------------------------------
+
+Tier 5
+
+No deployment
+
+========================================================
+STEP 4 — STRUCTURAL RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 13
+
+Evaluate:
+
+• Structure strength
+• Structure durability
+• Structure conflict
+
+--------------------------------------------------------
+
+Questions:
+
+Does structure support exposure?
+
+Or
+
+Does structure increase fragility?
+
+========================================================
+STEP 5 — CONTINUATION RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 14
+
+Evaluate:
+
+• Continuation durability
+• Exhaustion probability
+• Continuation fragility
+
+--------------------------------------------------------
+
+Questions:
+
+Will continuation support risk deployment?
+
+========================================================
+STEP 6 — PARTICIPATION RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 15
+
+Evaluate:
+
+• Commitment
+• Aggression
+• Conviction
+
+--------------------------------------------------------
+
+Questions:
+
+Are participants supporting exposure?
+
+========================================================
+STEP 7 — TIMING RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 10
+
+Evaluate:
+
+• Session quality
+• Event risk
+• Timing quality
+
+--------------------------------------------------------
+
+Questions:
+
+Is timing increasing risk?
+
+Or
+
+Reducing risk?
+
+========================================================
+STEP 8 — LIQUIDITY RISK ENGINE
+========================================================
+
+Import:
+
+MODULE 9
+
+Evaluate:
+
+• Sweep probability
+• Stop-hunt probability
+• Liquidity fragility
+
+--------------------------------------------------------
+
+Questions:
+
+Will liquidity threaten survivability?
+
+========================================================
+STEP 9 — VOLATILITY RISK ENGINE
+========================================================
+
+Evaluate:
+
+• volatility stability
+• volatility expansion
+• volatility compression
+• nonlinear volatility risk
+
+--------------------------------------------------------
+
+Classification:
+
+Low Volatility
+
+Moderate Volatility
+
+High Volatility
+
+Extreme Volatility
+
+--------------------------------------------------------
+
+Deployment Impact:
+
+Higher volatility
+
+↓
+
+Smaller risk allocation
+
+========================================================
+STEP 10 — CORRELATION RISK ENGINE
+========================================================
+
+Evaluate:
+
+Current exposure.
+
+Questions:
+
+Do multiple trades depend on:
+
+• USD strength?
+• USD weakness?
+• Gold?
+• Risk-on?
+• Risk-off?
+
+--------------------------------------------------------
+
+Warning:
+
+Hidden concentration risk.
+
+Example:
+
+USDJPY BUY
++
+DXY BUY
++
+Gold SELL
+
+May represent:
+
+Same macro exposure.
+
+========================================================
+STEP 11 — DRAWDOWN STATE ENGINE
+========================================================
+
+Evaluate:
+
+Current account condition.
+
+--------------------------------------------------------
+
+Normal State
+
+Standard deployment
+
+--------------------------------------------------------
+
+Recovery State
+
+Reduced deployment
+
+--------------------------------------------------------
+
+Defensive State
+
+Minimal deployment
+
+--------------------------------------------------------
+
+Critical State
+
+No deployment
+
+========================================================
+STEP 12 — POSITION SIZE ENGINE
+========================================================
+
+Determine:
+
+Maximum acceptable risk.
+
+--------------------------------------------------------
+
+Weak Opportunity
+
+0.25% Risk
+
+--------------------------------------------------------
+
+Moderate Opportunity
+
+0.50% Risk
+
+--------------------------------------------------------
+
+Strong Opportunity
+
+1.00% Risk
+
+--------------------------------------------------------
+
+Elite Opportunity
+
+1.50% Risk
+
+--------------------------------------------------------
+
+Absolute Maximum
+
+2.00%
+
+Never exceed.
+
+========================================================
+STEP 13 — EXPOSURE DURABILITY ENGINE
+========================================================
+
+Evaluate:
+
+How long can exposure remain justified?
+
+Questions:
+
+Will conditions likely remain supportive?
+
+Will fragility increase?
+
+Will continuation deteriorate?
+
+========================================================
+STEP 14 — ASYMMETRY ADJUSTED DEPLOYMENT
+========================================================
+
+Evaluate:
+
+Reward
+
+vs
+
+Risk
+
+--------------------------------------------------------
+
+Poor Asymmetry
+
+Reduce deployment
+
+--------------------------------------------------------
+
+Strong Asymmetry
+
+Allow deployment
+
+--------------------------------------------------------
+
+Elite Asymmetry
+
+Normal deployment
+
+========================================================
+STEP 15 — SURVIVABILITY GOVERNANCE
+========================================================
+
+Questions:
+
+Can one trade materially damage the account?
+
+Can one trade create emotional instability?
+
+Can one trade impair future participation?
+
+--------------------------------------------------------
+
+If YES:
+
+Reduce risk.
+
+========================================================
+STEP 16 — NONLINEAR EVENT ENGINE
+========================================================
+
+Evaluate:
+
+Potential for:
+
+• news shocks
+• gaps
+• volatility explosions
+• liquidity vacuums
+• systemic instability
+
+--------------------------------------------------------
+
+If elevated:
+
+Reduce exposure.
+
+========================================================
+RISK DEPLOYMENT SCORECARD
+========================================================
+
+Account Health:
+0–10
+
+Opportunity Quality:
+0–10
+
+Environment Quality:
+0–10
+
+Structure Quality:
+0–10
+
+Continuation Quality:
+0–10
+
+Participation Quality:
+0–10
+
+Timing Quality:
+0–10
+
+Liquidity Stability:
+0–10
+
+Volatility Stability:
+0–10
+
+Drawdown State:
+0–10
+
+--------------------------------------------------------
+
+TOTAL SCORE
+
+========================================================
+RISK CLASSIFICATION
+========================================================
+
+90–100
+
+NORMAL DEPLOYMENT
+
+--------------------------------------------------------
+
+80–89
+
+MODERATE DEPLOYMENT
+
+--------------------------------------------------------
+
+70–79
+
+REDUCED DEPLOYMENT
+
+--------------------------------------------------------
+
+60–69
+
+DEFENSIVE DEPLOYMENT
+
+--------------------------------------------------------
+
+Below 60
+
+NO DEPLOYMENT
+
+========================================================
+AUTOMATIC RISK REDUCTION RULES
+========================================================
+
+Reduce risk if:
+
+• Tier 4 environment
+• Tier 5 environment
+• Event risk elevated
+• Continuation deteriorating
+• Participation deteriorating
+• Liquidity instability rising
+• Volatility instability rising
+• Drawdown active
+
+========================================================
+AUTOMATIC NO-TRADE RULES
+========================================================
+
+No deployment if:
+
+• Environment Tier 5
+• Opportunity rejected
+• Account critical state
+• Extreme volatility
+• Extreme fragility
+• Severe event uncertainty
+
+========================================================
+POST-TRADE RISK REVIEW
+========================================================
+
+Determine:
+
+1. Was risk size appropriate?
+
+2. Was deployment excessive?
+
+3. Was deployment insufficient?
+
+4. Did risk improve expectancy?
+
+5. Did risk threaten survivability?
+
+6. Was volatility respected?
+
+7. Was fragility respected?
+
+8. Was sizing consistent with opportunity quality?
+
+========================================================
+ADAPTIVE RISK LEARNING
+========================================================
+
+Track:
+
+• best risk allocations
+
+• worst risk allocations
+
+• survivability outcomes
+
+• drawdown behavior
+
+• recovery behavior
+
+Refine:
+
+• risk sizing
+
+• exposure limits
+
+• deployment standards
+
+========================================================
+UNIVERSAL PRINCIPLE EXTRACTION
+========================================================
+
+The system must recognize:
+
+A good trade can fail.
+
+A bad trade can win.
+
+Risk must assume uncertainty.
+
+The objective is not:
+
+MAXIMUM PROFIT
+
+The objective is:
+
+MAXIMUM LONG-TERM SURVIVABILITY
+
+========================================================
+FINAL OBJECTIVE
+========================================================
+
+Determine:
+
+HOW MUCH CAPITAL SHOULD BE DEPLOYED?
+
+SHOULD DEPLOYMENT BE:
+
+• Normal
+• Moderate
+• Reduced
+• Defensive
+• Zero
+
+Before:
+
+• Execution
+• Position Entry
+
+OUTPUT:
+
+1. Account Health
+
+2. Opportunity Quality
+
+3. Environment Risk
+
+4. Structure Risk
+
+5. Continuation Risk
+
+6. Participation Risk
+
+7. Timing Risk
+
+8. Liquidity Risk
+
+9. Volatility Risk
+
+10. Drawdown State
+
+11. Position Size Recommendation
+
+12. Maximum Risk Percentage
+
+13. Exposure Recommendation
+
+14. Survivability Rating
+
+15. Deployment Classification
+
+16. Adaptive Recommendations
+
+17. Final Risk Deployment Verdict

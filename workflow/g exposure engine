@@ -1,0 +1,766 @@
+# MODULE 19 — PORTFOLIO & EXPOSURE ENGINE
+
+## CORE OBJECTIVE
+
+Determine total portfolio risk before adding new exposure.
+
+The objective is NOT:
+
+• finding trades
+• predicting direction
+• improving entries
+
+The objective IS:
+
+• preventing hidden concentration
+• preventing duplicated risk
+• preventing correlated losses
+• preserving survivability
+• maintaining portfolio balance
+• controlling aggregate exposure
+
+---
+
+PORTFOLIO PRINCIPLE
+
+The danger is not:
+
+```text
+One bad trade.
+```
+
+The danger is:
+
+```text
+Multiple trades
+with the same hidden risk.
+```
+
+The system must determine:
+
+```text
+What am I REALLY exposed to?
+```
+
+Not:
+
+```text
+How many trades do I have?
+```
+
+---
+
+CORE QUESTION
+
+Before opening any new trade determine:
+
+```text
+Am I adding diversification?
+
+or
+
+Am I increasing concentration?
+```
+
+---
+
+STEP 1 — ACTIVE POSITION INVENTORY ENGINE
+
+Identify all open positions.
+
+List:
+
+• instrument
+• direction
+• size
+• risk amount
+• stop distance
+• exposure category
+
+Example:
+
+USDJPY BUY
+EURUSD SELL
+GBPUSD SELL
+XAUUSD SELL
+
+---
+
+Determine:
+
+• total positions
+• total open risk
+• total directional exposure
+• total thematic exposure
+
+---
+
+STEP 2 — NET DIRECTIONAL EXPOSURE ENGINE
+
+Calculate exposure by currency.
+
+Examples:
+
+USD Exposure
+
+JPY Exposure
+
+EUR Exposure
+
+GBP Exposure
+
+AUD Exposure
+
+CAD Exposure
+
+CHF Exposure
+
+NZD Exposure
+
+---
+
+Questions:
+
+```text
+Am I heavily long USD?
+
+Am I heavily short JPY?
+
+Am I unintentionally concentrated?
+```
+
+---
+
+Classification:
+
+LOW CONCENTRATION
+
+MODERATE CONCENTRATION
+
+HIGH CONCENTRATION
+
+EXTREME CONCENTRATION
+
+---
+
+STEP 3 — CORRELATION ENGINE
+
+Determine whether positions are highly correlated.
+
+Examples:
+
+EURUSD SELL
+GBPUSD SELL
+AUDUSD SELL
+
+↓
+
+All partially express:
+
+```text
+USD Strength
+```
+
+---
+
+Examples:
+
+BTC BUY
+ETH BUY
+NASDAQ BUY
+
+↓
+
+All partially express:
+
+```text
+Risk-On
+```
+
+---
+
+Examples:
+
+XAUUSD SELL
+EURUSD SELL
+GBPUSD SELL
+
+↓
+
+Often express:
+
+```text
+USD Strength Theme
+```
+
+---
+
+Questions:
+
+```text
+Do these positions depend on the same idea?
+
+Would they likely win together?
+
+Would they likely lose together?
+```
+
+---
+
+STEP 4 — THEME EXPOSURE ENGINE
+
+Identify dominant portfolio themes.
+
+Possible themes:
+
+USD Strength
+
+USD Weakness
+
+Risk-On
+
+Risk-Off
+
+Gold Bullish
+
+Gold Bearish
+
+Yen Strength
+
+Yen Weakness
+
+Commodity Strength
+
+Commodity Weakness
+
+Growth Expansion
+
+Liquidity Expansion
+
+Liquidity Contraction
+
+Inflation Theme
+
+Deflation Theme
+
+Rate-Cut Theme
+
+Higher-for-Longer Theme
+
+---
+
+Determine:
+
+```text
+How many positions depend on the same theme?
+```
+
+---
+
+Classification:
+
+DIVERSIFIED
+
+PARTIALLY CONCENTRATED
+
+HIGHLY CONCENTRATED
+
+DANGEROUSLY CONCENTRATED
+
+---
+
+STEP 5 — HIDDEN EXPOSURE ENGINE
+
+Detect indirect exposure.
+
+Examples:
+
+USDJPY BUY
+
+↓
+
+Long USD
+
+Short JPY
+
+---
+
+EURUSD SELL
+
+↓
+
+Long USD
+
+Short EUR
+
+---
+
+Gold SELL
+
+↓
+
+Potential Long USD Expression
+
+---
+
+NASDAQ BUY
+
+↓
+
+Potential Liquidity Expansion Exposure
+
+---
+
+Questions:
+
+```text
+What hidden risks exist?
+
+What hidden themes dominate?
+```
+
+---
+
+STEP 6 — RISK AGGREGATION ENGINE
+
+Determine total portfolio risk.
+
+Calculate:
+
+• total account risk
+• open risk
+• pending order risk
+• correlated risk
+• thematic risk
+
+---
+
+Questions:
+
+```text
+If all trades fail simultaneously,
+how much capital is at risk?
+```
+
+---
+
+Classification:
+
+LOW RISK
+
+MODERATE RISK
+
+HIGH RISK
+
+EXCESSIVE RISK
+
+---
+
+STEP 7 — CONCENTRATION ENGINE
+
+Measure exposure concentration.
+
+Analyze:
+
+• asset concentration
+• currency concentration
+• sector concentration
+• theme concentration
+• volatility concentration
+
+---
+
+Questions:
+
+```text
+Am I taking the same trade repeatedly?
+
+Am I disguising one idea as many positions?
+```
+
+---
+
+STEP 8 — DIVERSIFICATION ENGINE
+
+Determine diversification quality.
+
+Evaluate:
+
+• currencies
+• asset classes
+• themes
+• volatility profiles
+• directional biases
+
+---
+
+Classification:
+
+HIGH DIVERSIFICATION
+
+MODERATE DIVERSIFICATION
+
+LOW DIVERSIFICATION
+
+NO DIVERSIFICATION
+
+---
+
+STEP 9 — PORTFOLIO VOLATILITY ENGINE
+
+Determine portfolio volatility exposure.
+
+Analyze:
+
+• gold volatility
+• crypto volatility
+• oil volatility
+• index volatility
+• FX volatility
+
+---
+
+Questions:
+
+```text
+Can my account tolerate
+combined volatility exposure?
+```
+
+---
+
+Classification:
+
+LOW VOLATILITY
+
+MODERATE VOLATILITY
+
+HIGH VOLATILITY
+
+EXTREME VOLATILITY
+
+---
+
+STEP 10 — LIQUIDITY EXPOSURE ENGINE
+
+Determine liquidity risk.
+
+Analyze:
+
+• major FX pairs
+• gold
+• oil
+• crypto
+• indices
+
+---
+
+Questions:
+
+```text
+Can liquidity disappear simultaneously?
+
+Will spreads expand together?
+
+Can correlated assets become unstable?
+```
+
+---
+
+STEP 11 — EVENT RISK AGGREGATION ENGINE
+
+Determine event exposure.
+
+Examples:
+
+CPI
+
+NFP
+
+FOMC
+
+BOJ
+
+ECB
+
+BOE
+
+RBA
+
+RBNZ
+
+---
+
+Questions:
+
+```text
+How many positions depend on this event?
+
+Could one event damage the entire portfolio?
+```
+
+---
+
+STEP 12 — DRAWDOWN STRESS TEST ENGINE
+
+Simulate adverse scenario.
+
+Questions:
+
+```text
+If every position reaches stop loss,
+what happens?
+
+Can the account survive?
+
+Will recovery remain realistic?
+```
+
+---
+
+Classification:
+
+SAFE
+
+ACCEPTABLE
+
+AGGRESSIVE
+
+DANGEROUS
+
+UNSURVIVABLE
+
+---
+
+STEP 13 — OPPORTUNITY COST ENGINE
+
+Determine whether new trade improves portfolio quality.
+
+Questions:
+
+```text
+Does this trade improve diversification?
+
+Does it improve expectancy?
+
+Does it simply duplicate existing exposure?
+```
+
+---
+
+Classification:
+
+ADDS VALUE
+
+NEUTRAL
+
+REDUNDANT
+
+REDUCES PORTFOLIO QUALITY
+
+---
+
+STEP 14 — EXPOSURE CONFLICT ENGINE
+
+Identify conflicting positions.
+
+Examples:
+
+USDJPY BUY
+
+EURUSD BUY
+
+Gold SELL
+
+BTC BUY
+
+---
+
+Determine:
+
+```text
+Do positions support each other?
+
+Do positions contradict each other?
+
+Are signals mixed?
+```
+
+---
+
+STEP 15 — PORTFOLIO SURVIVABILITY ENGINE
+
+Determine long-term survivability.
+
+Analyze:
+
+• exposure durability
+• risk durability
+• diversification durability
+• drawdown durability
+
+---
+
+Questions:
+
+```text
+Can the account survive
+a series of correlated losses?
+```
+
+---
+
+Classification:
+
+HIGH SURVIVABILITY
+
+MODERATE SURVIVABILITY
+
+LOW SURVIVABILITY
+
+CRITICAL SURVIVABILITY RISK
+
+---
+
+STEP 16 — EXPOSURE LIMIT ENGINE
+
+Enforce limits.
+
+Possible rules:
+
+Maximum Currency Exposure
+
+Maximum Theme Exposure
+
+Maximum Asset Exposure
+
+Maximum Correlated Exposure
+
+Maximum Portfolio Risk
+
+---
+
+Examples:
+
+No more than:
+
+• 3 USD-related trades
+
+OR
+
+• 2 highly correlated trades
+
+OR
+
+• 5% total portfolio risk
+
+---
+
+STEP 17 — PORTFOLIO INTELLIGENCE ENGINE
+
+Generate summary.
+
+Determine:
+
+1. Total Risk
+
+2. Largest Exposure
+
+3. Largest Hidden Exposure
+
+4. Largest Theme Exposure
+
+5. Correlation Risk
+
+6. Diversification Quality
+
+7. Survivability Quality
+
+8. Event Vulnerability
+
+9. Portfolio Stability
+
+10. Recommended Adjustments
+
+---
+
+STEP 18 — NEW TRADE ADMISSION ENGINE
+
+Before approving any new position ask:
+
+```text
+Does this trade:
+
+Improve the portfolio?
+
+Maintain the portfolio?
+
+Or weaken the portfolio?
+```
+
+---
+
+Possible outputs:
+
+APPROVE
+
+APPROVE WITH REDUCED SIZE
+
+APPROVE WITH HEDGE
+
+DELAY ENTRY
+
+REJECT TRADE
+
+---
+
+IMPORTANT PRINCIPLE
+
+Ten trades do NOT equal ten risks.
+
+Sometimes:
+
+```text
+10 trades
+
+=
+
+1 giant bet.
+```
+
+The system must detect:
+
+• hidden concentration
+• hidden correlation
+• hidden exposure
+• hidden fragility
+
+before capital is deployed.
+
+---
+
+FINAL OBJECTIVE
+
+Continuously determine:
+
+• total portfolio risk
+• hidden exposure
+• correlation risk
+• concentration risk
+• diversification quality
+• survivability quality
+
+while maximizing:
+
+• capital preservation
+• exposure balance
+• diversification
+• robustness
+• long-term survivability
+
+and preventing:
+
+• accidental concentration
+• correlated drawdowns
+• portfolio fragility
+• hidden systemic exposure.

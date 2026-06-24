@@ -1,0 +1,325 @@
+# PRESSURE VERIFICATION CHECK ENGINE
+
+## CORE OBJECTIVE
+
+Determine whether the current working Global Pressure Regime remains valid.
+
+The objective is NOT:
+
+• performing a full Global Pressure Analysis
+
+• generating a new watchlist
+
+• finding trade opportunities
+
+The objective IS:
+
+• detecting material regime changes
+
+• validating current pressure assumptions
+
+• identifying pressure deterioration
+
+• identifying pressure reversals
+
+• preventing decisions based on outdated information
+
+---
+
+## UNIVERSAL PRINCIPLE
+
+The market does not need a full pressure re-analysis every hour.
+
+The system should instead determine:
+
+Has anything materially changed since the last pressure assessment?
+
+---
+
+## CORE QUESTION
+
+Is the current working pressure regime still valid?
+
+OR
+
+Has a material pressure change occurred?
+
+---
+
+## INPUTS
+
+Current Working Regime:
+
+Liquidity Regime
+
+Risk Regime
+
+Dollar Regime
+
+Yield Regime
+
+Funding Regime
+
+Volatility Regime
+
+Capital Flow Regime
+
+Timestamp Of Last Assessment
+
+---
+
+## VERIFICATION ANALYSIS
+
+Check for material changes in:
+
+### Liquidity
+
+Questions:
+
+• Has liquidity materially expanded?
+
+• Has liquidity materially contracted?
+
+• Have funding conditions changed?
+
+---
+
+### Risk Sentiment
+
+Questions:
+
+• Has risk-on become risk-off?
+
+• Has risk-off become risk-on?
+
+• Has sentiment materially deteriorated?
+
+---
+
+### Dollar Conditions
+
+Questions:
+
+• Has the dollar materially strengthened?
+
+• Has the dollar materially weakened?
+
+• Has dollar funding stress emerged?
+
+---
+
+### Yield Conditions
+
+Questions:
+
+• Have yields materially risen?
+
+• Have yields materially fallen?
+
+• Has rate expectation changed?
+
+---
+
+### Central Bank Conditions
+
+Monitor:
+
+• Federal Reserve
+
+• BOJ
+
+• ECB
+
+• BOE
+
+• PBOC
+
+Questions:
+
+• Has a major policy signal appeared?
+
+• Has policy direction changed?
+
+---
+
+### Sovereign Stress Conditions
+
+Questions:
+
+• Has refinancing pressure increased?
+
+• Has sovereign funding stress emerged?
+
+• Has debt-market stress appeared?
+
+---
+
+### Geopolitical Conditions
+
+Questions:
+
+• Has a major geopolitical event occurred?
+
+• Has geopolitical risk materially increased?
+
+• Has geopolitical risk materially decreased?
+
+---
+
+### Capital Flow Conditions
+
+Questions:
+
+• Has capital flow direction changed?
+
+• Has the dominant beneficiary changed?
+
+• Has the dominant vulnerable asset changed?
+
+---
+
+## MATERIAL CHANGE FILTER
+
+Ignore:
+
+• normal market noise
+
+• routine intraday volatility
+
+• minor price fluctuations
+
+• insignificant headlines
+
+Focus only on:
+
+Material Changes
+
+that could alter:
+
+• Pressure
+
+• Transmission
+
+• Watchlist
+
+• Alignment
+
+• Trade Admission
+
+• Trade Management
+
+---
+
+## CLASSIFICATION
+
+NO MATERIAL CHANGE
+
+MINOR CHANGE
+
+MODERATE CHANGE
+
+MAJOR CHANGE
+
+REGIME CHANGE
+
+---
+
+## DECISION ENGINE
+
+### NO MATERIAL CHANGE
+
+Continue using current pressure assumptions.
+
+---
+
+### MINOR CHANGE
+
+Monitor.
+
+No pressure update required.
+
+---
+
+### MODERATE CHANGE
+
+Review pressure assumptions.
+
+Potential update required.
+
+---
+
+### MAJOR CHANGE
+
+Pressure update recommended.
+
+---
+
+### REGIME CHANGE
+
+Full Pressure Engine re-run required.
+
+---
+
+## OUTPUT
+
+Pressure Verification Status:
+
+No Material Change
+
+Minor Change
+
+Moderate Change
+
+Major Change
+
+Regime Change
+
+---
+
+Affected Area:
+
+Liquidity
+
+Risk
+
+Dollar
+
+Yields
+
+Funding
+
+Geopolitics
+
+Capital Flows
+
+---
+
+Confidence:
+
+High
+
+Moderate
+
+Low
+
+---
+
+Recommendation:
+
+Continue Current Regime
+
+Monitor Closely
+
+Review Pressure Assumptions
+
+Re-Run Pressure Engine
+
+Immediate Regime Reassessment Required
+
+---
+
+## FINAL OBJECTIVE
+
+Prevent the system from operating on outdated pressure assumptions while avoiding unnecessary full pressure re-analysis.
+
+The objective is to continuously validate whether the current working regime remains trustworthy.

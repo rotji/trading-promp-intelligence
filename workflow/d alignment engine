@@ -1,0 +1,379 @@
+# ALIGNMENT ENGINE.md
+
+## CORE OBJECTIVE
+
+Determine whether the current chart structure is aligned with the current Global Pressure Regime.
+
+The objective is NOT:
+
+• finding entries
+
+• finding stop losses
+
+• finding take profits
+
+• executing trades
+
+The objective IS:
+
+• connecting macro pressure to chart behavior
+
+• validating directional agreement
+
+• detecting directional conflict
+
+• filtering low-probability opportunities
+
+• preventing trades against dominant global pressures
+
+---
+
+# ALIGNMENT PRINCIPLE
+
+A strong chart does NOT automatically mean a strong trade.
+
+A strong macro regime does NOT automatically mean a strong trade.
+
+The highest probability opportunities occur when:
+
+# Macro Direction
+
+Chart Direction
+
+Alignment exists when both systems are expressing the same directional bias.
+
+---
+
+# ALIGNMENT ARCHITECTURE
+
+GLOBAL PRESSURE ENGINE
+↓
+TRANSMISSION ENGINE
+↓
+MACRO BIAS ENGINE
+↓
+CHART BIAS ENGINE
+↓
+ALIGNMENT ENGINE
+↓
+ALIGNMENT SCORE
+↓
+EXECUTION CANDIDATE ENGINE
+
+---
+
+# MODULE 1 — MACRO BIAS ENGINE
+
+## Objective
+
+Determine directional bias from the Global Pressure Regime.
+
+Question:
+
+"What direction should this asset logically move if the current pressure regime persists?"
+
+---
+
+## Inputs
+
+Current Pressure Regime
+
+Current Transmission Analysis
+
+Current Watchlist Asset
+
+---
+
+## Analysis
+
+Evaluate:
+
+• Liquidity Conditions
+
+• Risk Appetite
+
+• Dollar Regime
+
+• Yield Regime
+
+• Funding Conditions
+
+• Central Bank Conditions
+
+• Sovereign Stress
+
+• Capital Flow Direction
+
+---
+
+## Output
+
+Macro Bias:
+
+Strong Bullish
+
+Bullish
+
+Neutral
+
+Bearish
+
+Strong Bearish
+
+---
+
+## Example
+
+Current Regime:
+
+Liquidity Expansion
+
+Risk-On
+
+Dollar Weakness
+
+Output:
+
+NASDAQ = Bullish
+
+AUDUSD = Bullish
+
+Gold = Bullish
+
+USDJPY = Bearish
+
+---
+
+# MODULE 2 — CHART BIAS ENGINE
+
+## Objective
+
+Determine actual chart direction.
+
+Question:
+
+"What is price currently doing?"
+
+---
+
+## Inputs
+
+Daily Chart
+
+4H Chart
+
+Structure Intelligence Engine
+
+Environment Quality Engine
+
+---
+
+## Analysis
+
+Evaluate:
+
+• Trend Direction
+
+• Market Structure
+
+• Swing Structure
+
+• Continuation Quality
+
+• Directional Clarity
+
+• Persistence Quality
+
+---
+
+## Classification
+
+Strong Bullish
+
+Bullish
+
+Neutral
+
+Bearish
+
+Strong Bearish
+
+---
+
+## Example
+
+NASDAQ
+
+Daily Trend = Bullish
+
+4H Trend = Bullish
+
+Structure = Bullish
+
+Output:
+
+Bullish
+
+---
+
+# MODULE 3 — ALIGNMENT ENGINE
+
+## Objective
+
+Compare Macro Bias against Chart Bias.
+
+Question:
+
+"Are both systems pointing in the same direction?"
+
+---
+
+## Comparison Matrix
+
+Strong Bullish + Strong Bullish
+
+= Perfect Alignment
+
+---
+
+Bullish + Bullish
+
+= Strong Alignment
+
+---
+
+Bullish + Neutral
+
+= Weak Alignment
+
+---
+
+Bearish + Neutral
+
+= Weak Alignment
+
+---
+
+Bullish + Bearish
+
+= Conflict
+
+---
+
+Strong Bullish + Strong Bearish
+
+= Severe Conflict
+
+---
+
+# ALIGNMENT SCORE ENGINE
+
+Score:
+
+Perfect Alignment = 10
+
+Strong Alignment = 8–9
+
+Moderate Alignment = 6–7
+
+Weak Alignment = 4–5
+
+Conflict = 1–3
+
+Severe Conflict = 0
+
+---
+
+# ALIGNMENT CLASSIFICATION
+
+Tier A
+
+Score 9–10
+
+Macro and chart strongly agree.
+
+Proceed to Execution Candidate Engine.
+
+---
+
+Tier B
+
+Score 7–8
+
+Good alignment.
+
+Execution permitted.
+
+---
+
+Tier C
+
+Score 5–6
+
+Caution.
+
+Execution requires exceptional setup quality.
+
+---
+
+Tier D
+
+Score 3–4
+
+Conflict developing.
+
+Avoid new positions.
+
+---
+
+Tier E
+
+Score 0–2
+
+Strong conflict.
+
+Reject trade.
+
+---
+
+# FINAL OUTPUT
+
+For each asset provide:
+
+Asset:
+
+Macro Bias:
+
+Chart Bias:
+
+Alignment Score:
+
+Alignment Tier:
+
+Status:
+
+Proceed
+
+Proceed With Caution
+
+Delay
+
+Reject
+
+---
+
+# IMPORTANT PRINCIPLE
+
+The Alignment Engine does not find trades.
+
+The Alignment Engine determines whether the macro world and chart world are telling the same story.
+
+Only aligned assets proceed to:
+
+Execution Candidate Engine
+
+Trade Admission Engine
+
+Pending Order Pool
+
+Capital Deployment

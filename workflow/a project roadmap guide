@@ -1,0 +1,630 @@
+This is the version I would save as the **current operational architecture** of your trading system. It is simple enough to execute daily but powerful enough to grow into the full GCFIOS vision.
+
+# GCFIOS TRADING OPERATING ARCHITECTURE
+
+## Version 1.0
+
+```text
+GLOBAL SYSTEM
+       ↓
+GLOBAL PRESSURE ENGINE
+       ↓
+TRANSMISSION ENGINE
+       ↓
+WATCHLIST ENGINE
+       ↓
+ENVIRONMENT QUALITY ENGINE
+       ↓
+ALIGNMENT ENGINE
+       ↓
+EXECUTION CANDIDATE ENGINE
+       ↓
+TRADE ADMISSION ENGINE
+       ↓
+PENDING ORDER POOL
+       ↓
+TRIGGER EVENT
+       ↓
+ACTIVE EXPOSURE ENGINE
+       ↓
+TRADE MANAGEMENT ENGINE
+       ↓
+EXIT ENGINE
+```
+
+---
+
+# STAGE 1 — GLOBAL PRESSURE ENGINE
+
+## Objective
+
+Determine:
+
+```text
+What is driving global capital flows?
+```
+
+This is the macro layer.
+
+Questions:
+
+* Liquidity expanding or contracting?
+* Fed easing or tightening?
+* Treasury refinancing pressure?
+* BOJ policy shifts?
+* China liquidity conditions?
+* Sovereign stress?
+* Dollar funding conditions?
+* Risk-on or risk-off?
+
+Output:
+
+```text
+Current Global Pressure Regime
+```
+
+Example:
+
+```text
+Liquidity Expansion
+
+Risk-On
+
+Dollar Weakness
+
+Yield Compression
+```
+
+This is the weather forecast.
+
+NOT a trade.
+
+---
+
+# STAGE 2 — TRANSMISSION ENGINE
+
+## Objective
+
+Determine:
+
+```text
+Where should money flow?
+```
+
+Example:
+
+```text
+Liquidity Expansion
+↓
+Risk-On
+↓
+Nasdaq
+Bitcoin
+AUDUSD
+```
+
+Output:
+
+```text
+Beneficiary Assets
+
+Vulnerable Assets
+```
+
+Still NOT a trade.
+
+---
+
+# STAGE 3 — WATCHLIST ENGINE
+
+## Objective
+
+Convert macro pressures into a focused asset list.
+
+Example:
+
+```text
+Today's Watchlist
+
+Nasdaq
+Gold
+USDJPY
+EURUSD
+```
+
+Purpose:
+
+Stop scanning everything.
+
+Focus only on assets supported by the current regime.
+
+---
+
+# STAGE 4 — ENVIRONMENT QUALITY ENGINE
+
+## Objective
+
+Determine:
+
+```text
+Is this market healthy enough to trade?
+```
+
+Uses your Environment Quality Framework.
+
+Measures:
+
+### Persistence
+
+Trending or Choppy
+
+### Liquidity
+
+Stable or Erratic
+
+### Volatility
+
+Controlled or Explosive
+
+### Direction
+
+Clear or Confused
+
+### Event Risk
+
+Safe or Dangerous
+
+Output:
+
+```text
+Tier 1
+Tier 2
+Tier 3
+Tier 4
+Tier 5
+```
+
+Only Tier 1 and Tier 2 normally proceed.
+
+---
+
+# STAGE 5 — ALIGNMENT ENGINE
+
+## Objective
+
+Determine:
+
+```text
+Does chart direction agree with pressure direction?
+```
+
+Example:
+
+Macro:
+
+```text
+USDJPY Bullish
+```
+
+Chart:
+
+```text
+USDJPY Bullish
+```
+
+Result:
+
+```text
+Aligned
+```
+
+If:
+
+```text
+Macro Bullish
+
+Chart Bearish
+```
+
+Result:
+
+```text
+Conflict
+```
+
+Conflict normally means:
+
+```text
+No Trade
+```
+
+---
+
+# STAGE 6 — EXECUTION CANDIDATE ENGINE
+
+## Objective
+
+Identify potential entries.
+
+Your execution model:
+
+* Liquidity Sweep
+* Fair Value Gap
+* Rejection Block
+* Order Block
+* Structure Shift
+* Risk Reward
+
+Output:
+
+```text
+Execution Candidate
+```
+
+Example:
+
+```text
+USDJPY Candidate
+
+NASDAQ Candidate
+```
+
+Still NOT a trade.
+
+---
+
+# STAGE 7 — TRADE ADMISSION ENGINE
+
+## Objective
+
+Final approval before placing an order.
+
+Questions:
+
+```text
+Tier 1 or Tier 2?
+
+Aligned?
+
+Execution Present?
+
+Risk Acceptable?
+```
+
+Output:
+
+```text
+Approve
+
+Approve Reduced Size
+
+Delay
+
+Reject
+```
+
+Approved setups move forward.
+
+---
+
+# STAGE 8 — PENDING ORDER POOL
+
+## Objective
+
+Store approved opportunities.
+
+Example:
+
+```text
+USDJPY Buy Stop
+
+EURUSD Sell Stop
+
+NASDAQ Buy Limit
+```
+
+Important:
+
+Pending orders are NOT active exposure.
+
+They are potential exposure.
+
+Multiple pending orders may coexist.
+
+---
+
+# STAGE 9 — TRIGGER EVENT
+
+## Objective
+
+Determine:
+
+```text
+Did a pending order become a live position?
+```
+
+Example:
+
+```text
+USDJPY Triggered
+```
+
+Now risk becomes real.
+
+---
+
+# STAGE 10 — ACTIVE EXPOSURE ENGINE
+
+## Objective
+
+Determine:
+
+```text
+What am I REALLY exposed to?
+```
+
+This is where Module 19 becomes active.
+
+Questions:
+
+```text
+What theme am I exposed to?
+
+What currencies am I exposed to?
+
+What hidden risks exist?
+
+What pending orders should be cancelled?
+```
+
+---
+
+## Examples
+
+### Allowed
+
+```text
+USDJPY Long
+
+Gold Long
+
+NASDAQ Long
+```
+
+Different drivers.
+
+Different themes.
+
+Diversified.
+
+---
+
+### Dangerous
+
+```text
+EURUSD Sell
+
+GBPUSD Sell
+
+AUDUSD Sell
+
+USDJPY Buy
+```
+
+All mostly:
+
+```text
+USD Strength
+```
+
+One theme.
+
+Many instruments.
+
+---
+
+## Possible Actions
+
+```text
+Keep Position
+
+Reduce Size
+
+Cancel Pending Orders
+
+Reject New Exposure
+```
+
+---
+
+# STAGE 11 — TRADE MANAGEMENT ENGINE
+
+## Objective
+
+Manage live positions.
+
+Questions:
+
+```text
+Pressure still valid?
+
+Environment still valid?
+
+Alignment still valid?
+
+Exposure still acceptable?
+```
+
+---
+
+Possible Actions
+
+```text
+Hold
+
+Reduce
+
+Scale Out
+
+Move Stop
+
+Close Position
+```
+
+---
+
+# STAGE 12 — EXIT ENGINE
+
+## Technical Exit
+
+Examples:
+
+```text
+Target Hit
+
+Stop Hit
+
+Structure Break
+```
+
+---
+
+## Macro Exit
+
+Examples:
+
+```text
+Pressure Regime Changed
+
+Liquidity Regime Changed
+
+Narrative Invalidated
+
+Transmission Failed
+```
+
+---
+
+# DAILY WORKFLOW
+
+## Phase 1 — Macro Preparation
+
+Run:
+
+```text
+Pressure
+↓
+Transmission
+↓
+Watchlist
+```
+
+Output:
+
+```text
+Top Assets To Monitor
+```
+
+Time:
+
+10 minutes.
+
+---
+
+## Phase 2 — Chart Filtering
+
+Run:
+
+```text
+Environment
+↓
+Alignment
+```
+
+Output:
+
+```text
+Qualified Assets
+```
+
+Time:
+
+10–15 minutes.
+
+---
+
+## Phase 3 — Execution
+
+Run:
+
+```text
+Execution Candidate
+↓
+Trade Admission
+↓
+Pending Orders
+```
+
+Time:
+
+As opportunities appear.
+
+---
+
+## Phase 4 — Exposure Control
+
+When a trade triggers:
+
+Run:
+
+```text
+Active Exposure Engine
+```
+
+Determine:
+
+```text
+Keep
+
+Cancel Other Pending Orders
+
+Reduce Concentration
+```
+
+---
+
+## Phase 5 — Management
+
+Review:
+
+```text
+Pressure
+
+Environment
+
+Alignment
+
+Exposure
+```
+
+Manage live trades.
+
+---
+
+# MASTER PRINCIPLE
+
+The entire architecture can be summarized in one sentence:
+
+```text
+Macro finds opportunity.
+
+Charts validate opportunity.
+
+Execution finds entry.
+
+Exposure controls risk.
+
+Management protects capital.
+```
+
+That is the bird's-eye view of the current GCFIOS Trading Operating Architecture. It gives you the entire project on one page while preserving the logic of every module and where each module fits in the decision chain.
