@@ -1,0 +1,403 @@
+# MARKET MONITORING MODE
+
+## CORE OBJECTIVE
+
+Continuously monitor the market after analysis has been completed and notify the trader only when meaningful changes occur.
+
+The objective is NOT:
+
+• performing a full Global Pressure Analysis
+
+• rebuilding the watchlist
+
+• recalibrating every trade every second
+
+• encouraging continuous chart watching
+
+The objective IS:
+
+• monitoring approved trading opportunities
+
+• detecting meaningful market changes
+
+• validating pending orders
+
+• monitoring open trades
+
+• reducing unnecessary screen time
+
+• notifying the trader only when intervention is required
+
+---
+
+# MARKET MONITORING PRINCIPLE
+
+Analysis determines:
+
+What should happen.
+
+Monitoring determines:
+
+Whether anything important has changed.
+
+The trader should not continuously watch the market.
+
+The system should continuously watch the market.
+
+The trader should only intervene when necessary.
+
+---
+
+# CORE QUESTION
+
+Has anything materially changed that requires trader attention?
+
+If NO:
+
+Continue monitoring.
+
+If YES:
+
+Generate the appropriate alert.
+
+---
+
+# MONITORING INPUTS
+
+Import:
+
+Current Global Pressure Regime
+
+Pressure Verification Status
+
+Current Watchlist
+
+Approved Opportunities
+
+Pending Orders
+
+Open Positions
+
+Current Trading Session
+
+Current Market Data
+
+Current Broker Data
+
+---
+
+# STEP 1 — PRICE MONITORING
+
+Monitor:
+
+Current Price
+
+Price Acceleration
+
+Price Deceleration
+
+Price Gap
+
+Price Spike
+
+Questions:
+
+Has price reached a critical execution zone?
+
+Has price approached a pending order?
+
+Has price entered an invalidation zone?
+
+---
+
+# STEP 2 — PENDING ORDER MONITORING
+
+Monitor:
+
+Buy Stops
+
+Sell Stops
+
+Buy Limits
+
+Sell Limits
+
+Determine:
+
+Waiting
+
+Triggered
+
+Cancelled
+
+Expired
+
+Rejected
+
+Questions:
+
+Has a pending order become active?
+
+Has market behaviour invalidated the pending order?
+
+Should the pending order remain active?
+
+---
+
+# STEP 3 — TRADE MONITORING
+
+Monitor all active positions.
+
+Determine:
+
+Current Profit
+
+Current Loss
+
+Risk Exposure
+
+Time In Trade
+
+Trade Health
+
+Questions:
+
+Should the trade continue?
+
+Should management be adjusted?
+
+Should the Exit Decision Engine be activated?
+
+---
+
+# STEP 4 — PRESSURE MONITORING
+
+Run the Pressure Verification Check.
+
+Determine:
+
+No Material Change
+
+Minor Change
+
+Moderate Change
+
+Major Change
+
+Regime Change
+
+Questions:
+
+Has the Global Pressure Regime changed?
+
+Should the Alignment Engine be re-run?
+
+---
+
+# STEP 5 — EXECUTION MONITORING
+
+Monitor:
+
+Current Bid
+
+Current Ask
+
+Spread
+
+Volatility
+
+Liquidity
+
+Session
+
+Execution Quality
+
+Questions:
+
+Has execution quality deteriorated?
+
+Has spread widened?
+
+Has volatility changed materially?
+
+---
+
+# STEP 6 — ENVIRONMENT MONITORING
+
+Monitor:
+
+Environment Tier
+
+Continuation Quality
+
+Participation Quality
+
+Liquidity Stability
+
+Fragility
+
+Questions:
+
+Has the trading environment improved?
+
+Has it deteriorated?
+
+Should pending orders remain active?
+
+---
+
+# STEP 7 — EVENT MONITORING
+
+Monitor:
+
+Economic Calendar
+
+Central Banks
+
+Major News
+
+Geopolitical Events
+
+Questions:
+
+Has a scheduled event become imminent?
+
+Has an unexpected event occurred?
+
+Should execution be delayed?
+
+---
+
+# STEP 8 — ALERT ENGINE
+
+Generate alerts only for meaningful events.
+
+Examples:
+
+Pending Order Triggered
+
+Pending Order Invalidated
+
+Pressure Regime Changed
+
+Spread Expansion
+
+Execution Risk Increased
+
+Environment Deteriorated
+
+Major News Event
+
+Trade Requires Management
+
+Exit Decision Required
+
+No alert should be generated for insignificant market noise.
+
+---
+
+# STEP 9 — RESPONSE ENGINE
+
+Determine the required response.
+
+Possible outputs:
+
+No Action Required
+
+Continue Monitoring
+
+Review Pending Order
+
+Recalibrate Pending Order
+
+Run Price Calibration
+
+Run Trade Management
+
+Run Exit Decision Engine
+
+Re-run Pressure Engine
+
+Cancel Pending Order
+
+---
+
+# STEP 10 — MONITORING SUMMARY
+
+Generate:
+
+Current Monitoring Status
+
+Pending Order Status
+
+Open Trade Status
+
+Execution Status
+
+Pressure Status
+
+Environment Status
+
+Required Actions
+
+Priority Level
+
+---
+
+# ALERT PRIORITY
+
+LEVEL 1
+
+Information
+
+No action required.
+
+---
+
+LEVEL 2
+
+Attention
+
+Monitor closely.
+
+---
+
+LEVEL 3
+
+Action Required
+
+Trader intervention recommended.
+
+---
+
+LEVEL 4
+
+Critical
+
+Immediate review required.
+
+---
+
+LEVEL 5
+
+Emergency
+
+Immediate intervention required.
+
+---
+
+# IMPORTANT PRINCIPLE
+
+Monitoring is event-driven.
+
+The system should ignore normal market noise.
+
+The system should only interrupt the trader when meaningful changes occur.
+
+---
+
+# FINAL OBJECTIVE
+
+Transform continuous market activity into meaningful decision events.
+
+The objective is to minimize unnecessary screen time while ensuring that no important market development, pending order, execution condition, or trade management event is missed.

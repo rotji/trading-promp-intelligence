@@ -1,0 +1,167 @@
+# MODULE 12 — PENDING ORDER CONSTRUCTION ENGINE
+
+## CORE OBJECTIVE
+
+Transform an approved execution opportunity into the most appropriate pending order.
+
+The objective is NOT:
+
+• determining market direction
+
+• evaluating macro conditions
+
+• evaluating chart structure
+
+The objective IS:
+
+• selecting the optimal pending order type
+
+• defining the trigger condition
+
+• preventing premature participation
+
+• ensuring execution occurs only after confirmation
+
+---
+
+PENDING ORDER PRINCIPLE
+
+The market should confirm the trade.
+
+The trader should not force the trade.
+
+A pending order allows price to prove the thesis before capital is deployed.
+
+---
+
+CORE QUESTION
+
+What is the safest and highest expectancy method of entering this opportunity?
+
+---
+
+STEP 1 — EXECUTION IMPORT ENGINE
+
+Import:
+
+• Macro Bias
+
+• Environment Quality
+
+• Structure Intelligence
+
+• Continuation Analysis
+
+• Participation Analysis
+
+• Timing Analysis
+
+• Execution Intelligence
+
+---
+
+STEP 2 — ENTRY METHOD ENGINE
+
+Determine the preferred entry method.
+
+Possible methods:
+
+• Market Execution
+
+• Buy Stop
+
+• Sell Stop
+
+• Buy Limit
+
+• Sell Limit
+
+Rank every method from:
+
+BEST
+
+to
+
+WORST
+
+---
+
+STEP 3 — TRIGGER LOGIC ENGINE
+
+Determine what event should activate the order.
+
+Possible triggers:
+
+• Breakout
+
+• Pullback
+
+• Reclaim
+
+• Liquidity Sweep
+
+• Continuation
+
+• Trend Resumption
+
+• Volatility Expansion
+
+---
+
+STEP 4 — ORDER VALIDATION ENGINE
+
+Before constructing an order verify:
+
+• structure still valid
+
+• continuation still valid
+
+• liquidity still supportive
+
+• macro still aligned
+
+• environment unchanged
+
+If any condition fails:
+
+Reject pending order.
+
+---
+
+STEP 5 — ORDER EXPIRATION ENGINE
+
+Determine:
+
+When should the order automatically become invalid?
+
+Examples:
+
+• after structural failure
+
+• after regime change
+
+• after excessive delay
+
+• after major event
+
+---
+
+STEP 6 — PENDING ORDER SUMMARY
+
+Output:
+
+Pending Order Type
+
+Trigger Logic
+
+Reason
+
+Expected Market Behaviour
+
+Order Status
+
+READY
+
+WAITING
+
+CANCELLED

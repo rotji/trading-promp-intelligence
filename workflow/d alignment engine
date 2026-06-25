@@ -98,13 +98,37 @@ Evaluate:
 
 • Funding Conditions
 
+• Carry Conditions
+
 • Central Bank Conditions
 
 • Sovereign Stress
 
 • Capital Flow Direction
 
----
+Determine:
+
+• Carry Expansion
+
+• Carry Stable
+
+• Carry Contraction
+
+• Carry Unwind Risk
+
+• Active Carry Unwind
+
+Assess whether the asset benefits from:
+
+• Carry Expansion
+
+• Carry Contraction
+
+• Carry Unwind
+
+• JPY Strength
+
+• JPY Weakness
 
 ## Output
 
@@ -120,7 +144,43 @@ Bearish
 
 Strong Bearish
 
----
+## Macro Drivers
+
+Identify the dominant drivers behind the bias.
+
+Possible Drivers:
+
+• Liquidity
+
+• Risk Appetite
+
+• Dollar
+
+• Yields
+
+• Funding
+
+• Carry Trade
+
+• Central Banks
+
+• Sovereign Stress
+
+• Capital Flows
+
+Output:
+
+Primary Driver:
+
+_____________
+
+Secondary Driver:
+
+_____________
+
+Supporting Drivers:
+
+_____________
 
 ## Example
 
@@ -343,6 +403,9 @@ For each asset provide:
 Asset:
 
 Macro Bias:
+Primary Macro Driver:
+
+Secondary Macro Driver:
 
 Chart Bias:
 

@@ -24,7 +24,45 @@ Analyze the current state of:
 6. Real yields
 7. Inflation expectations
 8. Bank reserves and liquidity
-9. BOJ policy and carry trade conditions
+9.  BOJ Policy, Carry Trade & Funding Flow Analysis
+Carry Trade Funding Conditions
+
+Analyze:
+
+• BOJ Policy Direction
+
+• JPY Funding Cost
+
+• Carry Trade Attractiveness
+
+• Carry Trade Expansion Risk
+
+• Carry Trade Unwind Risk
+
+• JPY Strength/Weakness Trend
+
+• Global Funding Currency Conditions
+
+• Funding Stress Signals
+
+• Cross-Border Funding Flows
+
+Determine:
+
+Is carry capital expanding?
+
+Is carry capital stable?
+
+Is carry capital contracting?
+
+Is carry trade profitability increasing?
+
+Is carry trade profitability deteriorating?
+
+Is unwind risk increasing?
+
+Is unwind risk decreasing?
+
 10. ECB policy conditions
 11. PBOC liquidity conditions
 12. Sovereign refinancing pressures
@@ -43,12 +81,36 @@ For each factor determine:
 - Stable
 
 ========================================================
+========================================================
 STEP 2 — DOMINANT PRESSURE IDENTIFICATION
 ========================================================
 
 Identify:
 
 Top 5 Global Pressures Currently Driving Markets
+
+Possible pressures include but are not limited to:
+
+• Federal Reserve Policy
+• Treasury Issuance
+• Dollar Liquidity
+• Repo Stress
+• Yield Curve Dynamics
+• Real Yield Shifts
+• Inflation Expectations
+• Bank Reserve Changes
+• BOJ Policy
+• Carry Trade Expansion
+• Carry Trade Contraction
+• Carry Trade Unwind Risk
+• ECB Policy
+• PBOC Liquidity
+• Sovereign Refinancing Stress
+• Credit Stress
+• Risk Sentiment
+• Commodity Liquidity Effects
+• Global Capital Flow Shifts
+• Geopolitical Risk
 
 For each pressure provide:
 
@@ -59,7 +121,6 @@ Time Horizon:
 Confidence:
 
 Rank them from strongest to weakest.
-
 ========================================================
 STEP 3 — TRANSMISSION ANALYSIS
 ========================================================
@@ -72,6 +133,86 @@ Transmission Mechanism
 ↓
 Affected Assets
 
+For each dominant pressure explicitly map:
+
+Pressure
+↓
+Transmission Path
+↓
+Liquidity Impact
+↓
+Capital Flow Direction
+↓
+Beneficiary Assets
+↓
+Vulnerable Assets
+
+Where applicable identify:
+
+• Funding Currency Effects
+• Carry Trade Effects
+• Liquidity Expansion Effects
+• Liquidity Contraction Effects
+• Credit Effects
+• Risk Sentiment Effects
+• Cross-Asset Transmission Effects
+
+Example 1 — Carry Trade Expansion
+Carry Trade Expansion
+↓
+Funding Currency Weakness
+↓
+Increased Global Liquidity
+↓
+Risk Asset Buying
+↓
+Nasdaq
+S&P500
+Bitcoin
+AUD
+
+Example 2 — Carry Trade Unwind
+Carry Trade Unwind
+↓
+Funding Currency Strength
+↓
+Forced Position Reduction
+↓
+Liquidity Contraction
+↓
+Risk Asset Selling
+↓
+Nasdaq
+Crypto
+High Beta Assets
+
+Example 3 — Treasury Liquidity Injection
+Treasury Liquidity Injection
+↓
+Reserve Expansion
+↓
+Liquidity Expansion
+↓
+Risk-On Behavior
+↓
+Equities
+Credit
+Crypto
+
+Example 4 — Dollar Strength
+Dollar Strength
+↓
+Global Funding Tightening
+↓
+Risk Appetite Deterioration
+↓
+Emerging Market Pressure
+↓
+Commodity Pressure
+Why This Is Better
+
+
+
 Explain how capital is expected to move through:
 
 - Equities
@@ -80,6 +221,7 @@ Explain how capital is expected to move through:
 - Commodities
 - Crypto
 
+========================================================
 ========================================================
 STEP 4 — CURRENT MARKET REGIME
 ========================================================
@@ -92,17 +234,41 @@ Dollar Regime:
 Yield Regime:
 Volatility Regime:
 Funding Regime:
+Carry Regime:
+
+For each regime provide:
+
+Current State:
+Direction:
+Strength:
+Trend:
+Confidence:
 
 Examples:
 
 Liquidity Expansion
 Liquidity Contraction
+
 Risk-On
 Risk-Off
+
 Dollar Strength
 Dollar Weakness
+
 Yield Expansion
 Yield Compression
+
+Volatility Expansion
+Volatility Compression
+
+Funding Expansion
+Funding Tightening
+
+Carry Expansion
+Carry Stable
+Carry Contraction
+Carry Unwind Risk
+Active Carry Unwind
 
 ========================================================
 STEP 5 — BENEFICIARY ANALYSIS
@@ -135,6 +301,7 @@ Time Horizon:
 Confidence:
 
 ========================================================
+========================================================
 STEP 6 — PRESSURE REGIME SCORECARD
 ========================================================
 
@@ -147,15 +314,66 @@ Funding:
 Rates:
 Credit:
 Volatility:
+Carry:
 
-Score each:
+Score:
 
+Liquidity:
 Strong Bullish
 Bullish
 Neutral
 Bearish
 Strong Bearish
 
+Risk Appetite:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Dollar:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Funding:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Rates:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Credit:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Volatility:
+Strong Bullish
+Bullish
+Neutral
+Bearish
+Strong Bearish
+
+Carry:
+Strong Expansion
+Expansion
+Stable
+Contraction
+Unwind Risk
+Active Unwind
 ========================================================
 STEP 7 — EXECUTIVE SUMMARY
 ========================================================

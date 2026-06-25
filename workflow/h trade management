@@ -273,7 +273,17 @@ Has the pressure regime reversed?
 • Yield Stable
 • Yield Compression
 
----
+### Carry Regime
+
+• Carry Expansion
+
+• Carry Stable
+
+• Carry Contraction
+
+• Carry Unwind Risk
+
+• Active Carry Unwind
 
 ### Capital Flow Direction
 
@@ -281,7 +291,21 @@ Has the pressure regime reversed?
 • Stable
 • Deteriorating
 
----
+### Funding Conditions
+
+Questions:
+
+• Has funding attractiveness improved?
+
+• Has funding attractiveness deteriorated?
+
+• Has BOJ policy materially changed?
+
+• Has carry profitability improved?
+
+• Has carry profitability deteriorated?
+
+• Has unwind risk increased?
 
 ### Transmission Quality
 
@@ -353,6 +377,19 @@ Dollar Weakness
 Current:
 Dollar Strength
 
+Entered:
+Carry Expansion
+
+Current:
+Carry Unwind Risk
+
+---
+
+Entered:
+Carry Expansion
+
+Current:
+Active Carry Unwind
 ---
 
 ## OUTPUT
@@ -964,6 +1001,12 @@ Yen Strength
 
 Yen Weakness
 
+Carry Expansion
+
+Carry Contraction
+
+Carry Unwind Risk
+
 Commodity Strength
 
 Commodity Weakness
@@ -1086,6 +1129,15 @@ Multiple positions expressing:
 
 Liquidity Expansion
 
+Multiple positions expressing:
+
+Carry Expansion
+
+---
+
+Multiple positions vulnerable to:
+
+Carry Unwind
 ---
 
 Multiple positions dependent on:

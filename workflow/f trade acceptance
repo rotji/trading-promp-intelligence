@@ -77,7 +77,64 @@ Capital is deployed only when:
 • participation exists
 • expectancy exists
 
+=======================================================
+
 ========================================================
+STEP 0 — MACRO ALIGNMENT IMPORT
+========================================================
+
+Import:
+
+Alignment Engine
+
+Evaluate:
+
+• Macro Bias
+
+• Primary Macro Driver
+
+• Secondary Macro Driver
+
+• Alignment Score
+
+• Alignment Tier
+
+• Carry Conditions
+
+--------------------------------------------------------
+
+Questions:
+
+Does the opportunity align with the current Global Pressure Regime?
+
+Does the opportunity align with the current Transmission Analysis?
+
+Does the opportunity depend on Carry Expansion?
+
+Would Carry Contraction reduce expectancy?
+
+Would Carry Unwind invalidate the opportunity?
+
+--------------------------------------------------------
+
+Classification:
+
+Strongly Aligned
+
+Aligned
+
+Neutral
+
+Weakly Aligned
+
+Misaligned
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
 STEP 1 — ENVIRONMENT VALIDATION
 ========================================================
 
@@ -1121,6 +1178,60 @@ Critical State
 No deployment
 
 ========================================================
+========================================================
+STEP 11.5 — MACRO ALIGNMENT VALIDATION
+========================================================
+
+Import:
+
+Alignment Engine
+
+Evaluate:
+
+• Macro Bias
+
+• Chart Bias
+
+• Alignment Score
+
+• Alignment Tier
+
+• Carry Conditions
+
+--------------------------------------------------------
+
+Questions:
+
+Does the opportunity align with the current Global Pressure Regime?
+
+Does the opportunity align with the current Transmission Analysis?
+
+Would Carry Expansion support the opportunity?
+
+Would Carry Contraction reduce expectancy?
+
+Would Carry Unwind threaten the opportunity?
+
+--------------------------------------------------------
+
+Classification:
+
+Strongly Aligned
+
+Aligned
+
+Neutral
+
+Weakly Aligned
+
+Misaligned
+
+--------------------------------------------------------
+
+Score:
+
+0–10
+
 STEP 12 — POSITION SIZE ENGINE
 ========================================================
 
@@ -1336,12 +1447,22 @@ AUTOMATIC NO-TRADE RULES
 No deployment if:
 
 • Environment Tier 5
+
 • Opportunity rejected
+
 • Account critical state
+
 • Extreme volatility
+
 • Extreme fragility
+
 • Severe event uncertainty
 
+• Alignment Tier E
+
+• Severe Macro Conflict
+
+• Active Carry Unwind directly opposes opportunity
 ========================================================
 POST-TRADE RISK REVIEW
 ========================================================

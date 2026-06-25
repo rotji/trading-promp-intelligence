@@ -228,6 +228,8 @@ Evaluate:
 
 • Capital Flow Regime
 
+. carry regime
+
 ---
 
 ## QUESTIONS
@@ -276,7 +278,9 @@ Transmission Misinterpretation
 
 Unexpected External Shock
 
----
+Carry Regime Misinterpretation
+
+Carry Unwind Detection Failure
 
 ## PRESSURE SUCCESS ANALYSIS
 
@@ -471,7 +475,11 @@ Was transmission weaker than expected?
 Did capital flow toward unexpected assets?
 
 Did multiple transmission paths emerge?
+Did carry expansion create the transmission?
 
+Did carry contraction disrupt the transmission?
+
+Did carry unwind override the expected transmission?
 ---
 
 ## TRANSMISSION VALIDATION
@@ -1116,7 +1124,11 @@ AUDUSD Long
 Question:
 
 Did Risk-On concentration increase portfolio fragility?
+Question:
 
+Did Carry Expansion concentration increase portfolio fragility?
+
+Would a Carry Unwind have damaged all positions simultaneously?
 ---
 
 ## EXPOSURE CLASSIFICATION
@@ -1496,8 +1508,13 @@ Examples:
 • Correlated positions increase drawdown risk.
 
 • Theme clustering often creates portfolio vulnerability.
+• Carry expansion often supports risk assets.
 
----
+• Carry contraction can reduce capital flow into risk assets.
+
+• Carry unwind events can create cross-asset liquidation pressure.
+
+• BOJ policy shifts can alter global funding conditions.
 
 ### Management Principles
 

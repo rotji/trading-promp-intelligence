@@ -720,13 +720,13 @@ Generate:
 
 1. Market Entry Quality
 
-2. Limit Entry Quality
+2. Buy Limit / Sell Limit Quality
 
 3. Retest Entry Quality
 
 4. Reclaim Entry Quality
 
-5. Breakout Entry Quality
+5. Buy Stop / Sell Stop Breakout Quality
 
 Rank from:
 
@@ -802,7 +802,96 @@ WAIT FOR CONTINUATION
 
 AVOID PARTICIPATION
 
----
+========================================================
+STEP 11A — PENDING ORDER CONSTRUCTION ENGINE
+========================================================
+
+If participation is approved or waiting for confirmation,
+construct the preferred pending order.
+
+Determine:
+
+Pending Order Type
+
+• Buy Stop
+• Sell Stop
+• Buy Limit
+• Sell Limit
+
+--------------------------------------------------------
+
+Trigger Logic
+
+Determine the condition that should activate the order.
+
+Possible triggers:
+
+• Breakout
+• Pullback
+• Reclaim
+• Liquidity Sweep
+• Continuation
+
+--------------------------------------------------------
+
+Entry Zone
+
+Determine the optimal price area for order placement.
+
+The Entry Zone must be based upon:
+
+• structural execution location
+• liquidity structure
+• reclaim structure
+• continuation structure
+• volatility conditions
+
+Avoid arbitrary price placement.
+
+--------------------------------------------------------
+
+Invalidation Zone
+
+Determine the structural condition that invalidates the trade.
+
+The Invalidation Zone should be based upon:
+
+• structural failure
+• liquidity failure
+• continuation failure
+• volatility failure
+
+Do NOT use arbitrary stop placement.
+
+--------------------------------------------------------
+
+Pending Order Status
+
+Classify:
+
+READY
+
+WAITING
+
+CANCELLED
+
+--------------------------------------------------------
+
+Pending Order Summary
+
+Output:
+
+Pending Order Type:
+
+Trigger Logic:
+
+Entry Zone:
+
+Invalidation Zone:
+
+Current Status:
+
+Reason:
 
 STEP 12 — EXECUTION SCORE
 

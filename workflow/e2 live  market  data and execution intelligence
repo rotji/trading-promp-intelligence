@@ -1,0 +1,599 @@
+# MODULE — LIVE MARKET DATA & EXECUTION INTELLIGENCE ENGINE
+
+## CORE OBJECTIVE
+
+Collect, validate, normalize, and continuously assess all live market data required to transform an approved trading opportunity into an accurate broker-ready execution plan.
+
+The objective is NOT:
+
+• determining macro direction
+
+• finding trade opportunities
+
+• replacing chart analysis
+
+• overriding higher-timeframe intelligence
+
+The objective IS:
+
+• collecting live execution data
+
+• validating execution conditions
+
+• measuring execution quality
+
+• preventing poor execution
+
+• providing accurate inputs to the Price Calibration Engine
+
+---
+
+# LIVE MARKET PRINCIPLE
+
+Higher-timeframe intelligence determines:
+
+• direction
+
+• structure
+
+• participation
+
+• execution quality
+
+Live Market Data determines:
+
+• execution precision
+
+• broker compatibility
+
+• market readiness
+
+• execution safety
+
+Execution should only occur when both higher-level intelligence and live market conditions agree.
+
+---
+
+# CORE QUESTION
+
+Is the live market currently providing the conditions required for safe and accurate execution?
+
+---
+
+# STEP 1 — LIVE MARKET IMPORT ENGINE
+
+Collect:
+
+• Instrument
+
+• Current Bid
+
+• Current Ask
+
+• Current Last Price
+
+• Current Spread
+
+• Current Time
+
+• Trading Session
+
+• Broker Server Time
+
+• Exchange Time (where applicable)
+
+Determine:
+
+Market Open
+
+Market Closed
+
+Market Transition
+
+Session Transition
+
+---
+
+# STEP 2 — PRICE DATA ENGINE
+
+Retrieve precise OHLC information.
+
+Collect:
+
+Daily
+
+H4
+
+H1
+
+M15
+
+M1
+
+For each timeframe determine:
+
+Open
+
+High
+
+Low
+
+Close
+
+Current Candle Position
+
+Previous Candle High
+
+Previous Candle Low
+
+Current Session High
+
+Current Session Low
+
+---
+
+# STEP 3 — MARKET MICROSTRUCTURE ENGINE
+
+Collect execution precision information.
+
+Determine:
+
+Tick Size
+
+Tick Value
+
+Decimal Precision
+
+Minimum Price Increment
+
+Contract Size
+
+Pip Value
+
+Point Value
+
+Normalize all values for the current instrument.
+
+---
+
+# STEP 4 — SPREAD & EXECUTION QUALITY ENGINE
+
+Determine:
+
+Current Spread
+
+Average Spread
+
+Spread Stability
+
+Spread Expansion
+
+Spread Compression
+
+Questions:
+
+Is spread acceptable?
+
+Has spread widened abnormally?
+
+Will spread materially reduce expectancy?
+
+Will spread affect pending order accuracy?
+
+---
+
+# STEP 5 — VOLATILITY ENGINE
+
+Determine current execution volatility.
+
+Analyze:
+
+ATR
+
+Average Candle Range
+
+Current Candle Expansion
+
+Current Candle Compression
+
+Volatility Expansion
+
+Volatility Compression
+
+Questions:
+
+Is volatility suitable for execution?
+
+Should execution buffers be adjusted?
+
+---
+
+# STEP 6 — SESSION INTELLIGENCE ENGINE
+
+Determine:
+
+Current Trading Session
+
+Possible outputs:
+
+Asia
+
+London
+
+New York
+
+London/New York Overlap
+
+Late New York
+
+Session Transition
+
+Determine:
+
+Session Liquidity
+
+Session Participation
+
+Session Stability
+
+Expected Session Behaviour
+
+---
+
+# STEP 7 — MARKET MICROSTRUCTURE HEALTH ENGINE
+
+Determine execution health.
+
+Analyze:
+
+Bid Stability
+
+Ask Stability
+
+Price Update Frequency
+
+Spread Behaviour
+
+Liquidity Stability
+
+Order Book Quality (if available)
+
+Market Depth (if available)
+
+Volume Distribution (if available)
+
+Determine:
+
+Is market functioning normally?
+
+Is liquidity sufficient?
+
+Is execution quality deteriorating?
+
+Classify:
+
+EXCELLENT
+
+GOOD
+
+ACCEPTABLE
+
+POOR
+
+UNACCEPTABLE
+
+---
+
+# STEP 8 — BROKER EXECUTION RULE ENGINE
+
+Retrieve broker execution specifications.
+
+Determine:
+
+Minimum Stop Distance
+
+Minimum Pending Order Distance
+
+Minimum Lot Size
+
+Maximum Lot Size
+
+Maximum Position Size
+
+Pending Order Expiration Rules
+
+Tick Restrictions
+
+Execution Restrictions
+
+Determine whether the proposed trade satisfies all broker requirements.
+
+---
+
+# STEP 9 — EXECUTION RISK ENGINE
+
+Detect execution risks.
+
+Examples:
+
+Excessive Spread
+
+Abnormal Volatility
+
+Low Liquidity
+
+Session Transition
+
+News Event
+
+Broker Restrictions
+
+Market Gap
+
+Price Spike
+
+Rapid Spread Expansion
+
+Classify:
+
+LOW EXECUTION RISK
+
+MODERATE EXECUTION RISK
+
+HIGH EXECUTION RISK
+
+UNACCEPTABLE EXECUTION RISK
+
+---
+
+# STEP 10 — DATA VALIDATION ENGINE
+
+Verify:
+
+Prices updating correctly
+
+Spread valid
+
+Market open
+
+OHLC complete
+
+Broker data reliable
+
+No missing information
+
+Reject incomplete or inconsistent execution data.
+
+---
+
+# STEP 11 — EXECUTION READINESS ENGINE
+
+Determine:
+
+READY
+
+READY WITH CAUTION
+
+WAIT
+
+NOT READY
+
+Questions:
+
+Can execution proceed?
+
+Should execution be delayed?
+
+Should execution be cancelled?
+
+---
+
+# STEP 12 — DATA EXPORT ENGINE
+
+Export validated execution information to the Price Calibration Engine.
+
+Export:
+
+Current Bid
+
+Current Ask
+
+Current Last Price
+
+Current Spread
+
+OHLC Data
+
+Tick Size
+
+Tick Value
+
+Decimal Precision
+
+ATR
+
+Session Information
+
+Execution Volatility
+
+Broker Rules
+
+Execution Risk
+
+Execution Readiness
+
+---
+
+# FINAL OUTPUT
+
+Generate:
+
+Market Summary
+
+Execution Summary
+
+Broker Summary
+
+Execution Risk Assessment
+
+Execution Readiness
+
+Data Quality
+
+Export Status
+
+---
+
+# IMPORTANT PRINCIPLE
+
+This engine does NOT determine:
+
+• market direction
+
+• macro bias
+
+• opportunity quality
+
+• participation
+
+Those decisions have already been made.
+
+This engine exists solely to ensure that execution occurs using accurate, validated, and broker-compatible live market information.
+
+---
+
+# FINAL OBJECTIVE
+
+Continuously provide clean, validated, and execution-ready market data so that the Price Calibration Engine can construct precise broker-ready pending orders while minimizing execution risk and maximizing execution accuracy.
+
+========================================================
+ADAPTIVE DATA AVAILABILITY PRINCIPLE
+====================================
+
+The objective of this engine is NOT to require every possible execution data source.
+
+The objective IS to intelligently use the highest-quality data that is currently available.
+
+---
+
+DATA HIERARCHY
+
+Priority 1 — Required Data
+
+The following information should be available before precise execution:
+
+• Current Bid
+
+• Current Ask
+
+• Current Price
+
+• Spread
+
+• OHLC Data
+
+• Trading Session
+
+• Instrument Specifications
+
+---
+
+Priority 2 — Recommended Data
+
+Use when available:
+
+• ATR
+
+• Average Candle Range
+
+• Tick Size
+
+• Tick Value
+
+• Decimal Precision
+
+• Broker Execution Rules
+
+---
+
+Priority 3 — Advanced Professional Data
+
+Use only if available.
+
+Ignore if unavailable.
+
+Examples:
+
+• Level II Order Book
+
+• Market Depth (DOM)
+
+• Time & Sales
+
+• Volume Profile
+
+• Exchange Liquidity
+
+• Institutional Order Flow
+
+---
+
+ADAPTIVE EXECUTION RULE
+
+If advanced execution data is unavailable:
+
+Do NOT reject execution.
+
+Instead:
+
+Use the highest-quality data currently available.
+
+Continue operating normally.
+
+---
+
+MISSING DATA RULE
+
+Unavailable data should never automatically invalidate an otherwise high-quality trading opportunity.
+
+Only reject execution if the missing information materially reduces execution safety or execution accuracy.
+
+---
+
+DATA CONFIDENCE CLASSIFICATION
+
+EXCELLENT
+
+All required, recommended, and advanced data available.
+
+GOOD
+
+All required and recommended data available.
+
+ACCEPTABLE
+
+All required data available.
+
+LIMITED
+
+Some required data unavailable.
+
+INSUFFICIENT
+
+Critical execution data unavailable.
+
+---
+
+IMPORTANT PRINCIPLE
+
+The engine should adapt to the available market information.
+
+It must never become dependent upon institutional-grade data that may not exist on every broker or trading platform.
+
+Execution intelligence should become stronger as more data becomes available, while remaining fully operational with standard retail market data.
+
+---
+
+FINAL OBJECTIVE
+
+Continuously maximize execution quality by intelligently utilizing the best available live market data without requiring every possible market information source.
