@@ -12,22 +12,30 @@ The objective is NOT:
 
 The objective IS:
 
-• calculating precise execution prices
+• constructing survivable execution prices
 
 • placing structurally valid stop losses
 
+• ensuring stops survive normal market behaviour
+
 • identifying realistic profit targets
 
-• adapting prices to current volatility
+• adapting execution to current volatility
 
+• preserving expectancy through robust execution
+
+• preventing correct trade ideas from failing due to poor execution
 ---
 
 PRICE CALIBRATION PRINCIPLE
 
 Structure determines location.
 
-Price Calibration determines precision.
+Price Calibration determines survivability.
 
+The objective is not to achieve the perfect entry.
+
+The objective is to ensure that a correct market thesis survives normal market behaviour.
 ---
 
 CORE QUESTION
@@ -58,40 +66,105 @@ Import:
 
 ---
 
-STEP 2 — ENTRY PRICE CALIBRATION
+STEP 2 — ENTRY SURVIVABILITY ENGINE
 
-Calculate:
+Determine whether the proposed entry provides sufficient probability of surviving normal market behaviour.
 
-Exact Entry Price
+Evaluate:
 
-Using:
+• Structural Entry Zone
 
-• structural level
+• Entry Relative To Current Expansion
 
-• spread
+• Distance From Structural Invalidation
 
-• volatility
+• Current Volatility
 
-• broker execution rules
+• Current Spread
 
+• Session Conditions
+
+Questions:
+
+Is the entry chasing price?
+
+Would waiting improve expectancy?
+
+Would a pullback improve survivability?
+
+Does the current entry preserve acceptable reward-to-risk?
+
+Can the trade reasonably survive normal market movement?
+
+Output:
+
+Excellent Entry
+
+Good Entry
+
+Marginal Entry
+
+Poor Entry
+
+Unsafe Entry
 ---
 
-STEP 3 — STOP LOSS CALIBRATION
+STEP 3 — STOP SURVIVABILITY ENGINE
 
 Determine:
 
-Exact Stop Loss
+Survivable Stop Location
 
 Based upon:
 
-• structural invalidation
+• Structural Invalidation
 
-• liquidity protection
+• ATR
 
-• volatility adjustment
+• Average Candle Range
 
-Avoid arbitrary stop placement.
+• Expected Market Noise
 
+• Liquidity Sweep Zones
+
+• Current Volatility
+
+• Session Behaviour
+
+The stop should represent:
+
+The point at which the original trade thesis becomes invalid.
+
+NOT
+
+The maximum amount of money the trader wishes to lose.
+
+Questions:
+
+Can normal market movement reach this stop?
+
+Can expected liquidity sweeps reach this stop?
+
+Does the stop lie beyond structural invalidation?
+
+Does the stop preserve acceptable reward-to-risk?
+Is the required stop distance compatible with acceptable position sizing?
+
+Would this stop require excessive account risk?
+
+Should position size be reduced to preserve survivability?
+
+Classification:
+
+Excellent
+
+Good
+
+Marginal
+
+Poor
+
+Unacceptable
 ---
 
 STEP 4 — TARGET CALIBRATION
@@ -106,6 +179,20 @@ TP3
 
 TP4
 
+TARGET VALIDATION
+
+Verify:
+
+• Reward remains proportional to survivable stop
+
+• Target aligns with market structure
+
+• Target is achievable under current volatility
+
+• Target preserves positive expectancy
+
+Reject unrealistic profit targets.
+
 Based upon:
 
 • liquidity targets
@@ -118,21 +205,55 @@ Based upon:
 
 ---
 
-STEP 5 — EXECUTION QUALITY CHECK
+STEP 5 — EXECUTION SURVIVABILITY CHECK
 
 Verify:
 
-• Reward/Risk
+• Stop Survivability
 
-• Spread impact
+• Reward-to-Risk Preservation
 
-• Stop efficiency
+• Spread Acceptability
 
-• Target realism
+• Structural Protection
 
-• Slippage risk
+• Liquidity Sweep Protection
 
----
+• Volatility Protection
+
+• Slippage Risk
+
+Questions:
+
+Can the trade survive normal market behaviour?
+
+Does the stop remain outside expected market noise?
+
+Will spread materially threaten survivability?
+
+Does execution preserve expectancy?
+
+Classification:
+
+Excellent
+
+Good
+
+Marginal
+
+Unsafe
+
+Possible Outputs
+
+Proceed
+
+Proceed With Reduced Size
+
+Delay Entry
+
+Recalibrate Stop
+
+Reject Execution
 
 STEP 6 — BROKER COMPATIBILITY ENGINE
 
@@ -181,6 +302,11 @@ Risk %
 Order Expiration
 
 Execution Confidence
+Stop Survivability Score
+
+Entry Survivability Score
+
+Execution Survivability Rating
 
 Broker Ready
 
@@ -216,8 +342,9 @@ The M1 timeframe does NOT determine:
 
 Those decisions have already been made by higher-level engines.
 
-The M1 timeframe exists ONLY to improve execution precision.
+The M1 timeframe exists ONLY to improve execution survivability.
 
+It helps determine whether execution can be performed safely without exposing the trade to unnecessary stop-outs caused by normal market behaviour.
 --------------------------------------------------------
 
 IMPORT
@@ -246,18 +373,21 @@ MICRO CALIBRATION
 
 Use the M1 chart to determine:
 
-• Exact Entry Price
+• Survivable Entry Zone
 
-• Exact Stop Loss
+• Survivable Stop Location
 
-• Exact Take Profit Levels
+• Appropriate Execution Buffer
 
 • Spread Adjustment
 
-• Tick Precision
+• Volatility Buffer
 
-• Buffer Distance
+• Liquidity Buffer
 
+The objective is not perfect precision.
+
+The objective is robust execution capable of surviving normal market fluctuations.
 --------------------------------------------------------
 
 MICRO LIQUIDITY CHECK
@@ -271,6 +401,20 @@ Verify:
 • abnormal M1 volatility
 
 • execution quality
+
+• stop survivability
+
+• volatility survivability
+
+• liquidity sweep survivability
+
+Questions:
+
+Can expected M1 volatility stop the trade before the thesis develops?
+
+Can a normal liquidity sweep invalidate the position?
+
+Should execution be delayed until survivability improves?
 
 Reject unnecessary micro entries.
 
@@ -326,8 +470,21 @@ NO
 MICRO EXECUTION PRINCIPLE
 ========================================================
 
-The M1 timeframe is a precision tool.
+The M1 timeframe is an execution survivability tool.
 
+Its purpose is to improve execution robustness, not to chase perfect entries.
+
+Higher timeframes determine:
+
+• direction
+
+• structure
+
+• alignment
+
+• participation
+
+The M1 timeframe determines whether execution can survive normal market behaviour before the expected move begins.
 It is NOT a directional tool.
 
 Higher timeframes determine:
@@ -340,6 +497,74 @@ Higher timeframes determine:
 
 • participation
 
-The M1 timeframe simply determines the most efficient price at which to execute the already approved trade.
+The M1 timeframe refines execution only when doing so improves execution survivability.
 
+It should never encourage unnecessary precision that reduces the probability of trade survival.
 Micro price movement must never invalidate a structurally approved trade unless it causes structural failure.
+
+========================================================
+STEP 9 — EXECUTION BUFFER ENGINE
+========================================================
+
+Determine the protective execution buffers required for the approved trade.
+
+Evaluate:
+
+• Volatility Buffer
+
+• Liquidity Buffer
+
+• Spread Buffer
+
+• Structural Buffer
+
+Questions:
+
+Does the trade require additional room due to current market conditions?
+
+Can normal market behaviour invalidate the trade without invalidating the thesis?
+
+Determine:
+
+Required Entry Buffer
+
+Required Stop Buffer
+
+Required Execution Buffer
+
+Buffer Classification
+
+Minimal
+
+Standard
+
+Expanded
+
+Defensive
+========================================================
+EXECUTION SURVIVABILITY PRINCIPLE
+========================================================
+
+The objective of execution is NOT:
+
+• entering at the perfect price
+
+• minimizing every tick
+
+• maximizing entry precision
+
+The objective IS:
+
+• surviving normal volatility
+
+• surviving expected liquidity sweeps
+
+• preserving the original market thesis
+
+• maintaining acceptable reward-to-risk
+
+• allowing the market sufficient room to breathe
+
+A correct market thesis should not fail because of poor execution.
+
+Execution succeeds when the trade survives long enough for the original thesis to be validated.

@@ -20,11 +20,15 @@ The objective IS:
 
 • validating execution conditions
 
-• measuring execution quality
+•• measuring execution survivability
 
-• preventing poor execution
+• preventing unnecessary stop-outs
+
+• validating execution conditions
 
 • providing accurate inputs to the Price Calibration Engine
+
+• protecting approved trades from unnecessary execution failure
 
 ---
 
@@ -42,7 +46,7 @@ Higher-timeframe intelligence determines:
 
 Live Market Data determines:
 
-• execution precision
+• execution survivability
 
 • broker compatibility
 
@@ -50,14 +54,17 @@ Live Market Data determines:
 
 • execution safety
 
+• volatility tolerance
+
+• liquidity safety
+
 Execution should only occur when both higher-level intelligence and live market conditions agree.
 
 ---
 
 # CORE QUESTION
 
-Is the live market currently providing the conditions required for safe and accurate execution?
-
+Is the live market currently providing the conditions required for safe, survivable and reliable execution?
 ---
 
 # STEP 1 — LIVE MARKET IMPORT ENGINE
@@ -208,6 +215,50 @@ Should execution buffers be adjusted?
 
 ---
 
+========================================================
+STEP 5.5 — EXECUTION SURVIVABILITY ENGINE
+========================================================
+
+Objective:
+
+Determine whether the current market conditions allow the approved trade to survive normal market behaviour.
+
+Evaluate:
+
+• Current ATR
+
+• Average Candle Range
+
+• Current Spread
+
+• Current Liquidity
+
+• Session Volatility
+
+• Execution Buffer
+
+Questions:
+
+Can normal volatility stop the trade before the thesis develops?
+
+Should execution buffers be expanded?
+
+Will spread materially threaten survivability?
+
+Can expected liquidity sweeps invalidate the trade?
+
+Should execution be delayed?
+
+Outputs:
+
+Excellent
+
+Good
+
+Marginal
+
+Unsafe
+
 # STEP 6 — SESSION INTELLIGENCE ENGINE
 
 Determine:
@@ -344,6 +395,13 @@ HIGH EXECUTION RISK
 
 UNACCEPTABLE EXECUTION RISK
 
+Examples:
+
+Execution Buffer Failure
+
+Poor Stop Survivability
+
+Reduced Entry Survivability
 ---
 
 # STEP 10 — DATA VALIDATION ENGINE
@@ -371,6 +429,8 @@ Reject incomplete or inconsistent execution data.
 Determine:
 
 READY
+
+READY WITH REDUCED SIZE
 
 READY WITH CAUTION
 
@@ -441,7 +501,17 @@ Execution Readiness
 Data Quality
 
 Export Status
+Execution Survivability Rating
 
+Execution Buffer
+
+Volatility Buffer
+
+Liquidity Buffer
+
+Spread Risk
+
+Stop Survivability Validation
 ---
 
 # IMPORTANT PRINCIPLE
@@ -596,4 +666,5 @@ Execution intelligence should become stronger as more data becomes available, wh
 
 FINAL OBJECTIVE
 
-Continuously maximize execution quality by intelligently utilizing the best available live market data without requiring every possible market information source.
+Continuously maximize execution survivability
+maximizing execution robustness while preserving the original market thesis.

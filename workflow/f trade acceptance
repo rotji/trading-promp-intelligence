@@ -378,7 +378,12 @@ Potential Reward
 
 Durability
 
+×
+
+Execution Survivability
 --------------------------------------------------------
+
+Questions:
 
 Questions:
 
@@ -386,9 +391,22 @@ Does expectancy justify participation?
 
 Would a professional allocate capital?
 
+Can the opportunity survive normal market behaviour?
+
+Would poor execution invalidate an otherwise high-quality opportunity?
+
+Does execution survivability preserve expectancy?
 --------------------------------------------------------
 
 Score:
+
+Score:
+
+Expectancy Score
+
+0–10
+
+Execution Survivability Score
 
 0–10
 
@@ -428,10 +446,19 @@ STEP 10 — OPPORTUNITY DURABILITY ENGINE
 
 Evaluate:
 
-• Continuation durability
-• Participation durability
-• Structural durability
-• Environmental durability
+• Continuation Durability
+
+• Participation Durability
+
+• Structural Durability
+
+• Environmental Durability
+
+• Execution Durability
+
+• Entry Survivability
+
+• Stop Survivability
 
 --------------------------------------------------------
 
@@ -439,8 +466,15 @@ Questions:
 
 If entry succeeds,
 
-How long can opportunity survive?
+How long can the opportunity remain valid?
 
+Can execution survive normal market behaviour?
+
+Can the stop survive expected volatility?
+
+Can the stop survive expected liquidity sweeps?
+
+Can the original market thesis develop before execution failure occurs?
 --------------------------------------------------------
 
 Score:
@@ -453,11 +487,21 @@ STEP 11 — FRAGILITY ENGINE
 
 Detect:
 
-• Environment fragility
-• Structural fragility
-• Continuation fragility
-• Participation fragility
-• Liquidity fragility
+• Environment Fragility
+
+• Structural Fragility
+
+• Continuation Fragility
+
+• Participation Fragility
+
+• Liquidity Fragility
+
+• Execution Fragility
+
+• Entry Fragility
+
+• Stop Fragility
 
 --------------------------------------------------------
 
@@ -467,6 +511,11 @@ What can easily go wrong?
 
 How fragile is expectancy?
 
+Can execution fail before the thesis develops?
+
+Can poor stop placement invalidate a correct trade?
+
+Can execution fragility reduce opportunity quality?
 --------------------------------------------------------
 
 Score:
@@ -510,11 +559,14 @@ Durability:
 Fragility:
 0–10
 
+Execution Survivability:
+0–10
+
 --------------------------------------------------------
 
 TOTAL SCORE
 
-100–110
+110–120
 
 ELITE OPPORTUNITY
 
@@ -596,16 +648,21 @@ Reject if:
 
 • Participation failing
 
-• Liquidity sweep probability extreme
+• Liquidity Sweep Probability Extreme
 
-• Event risk extreme
+• Event Risk Extreme
 
-• Expectancy weak
+• Expectancy Weak
 
-• Asymmetry poor
+• Asymmetry Poor
 
-• Structure directly opposes trade
+• Structure Directly Opposes Trade
 
+• Execution Survivability Unsafe
+
+• Entry Survivability Poor
+
+• Stop Survivability Unacceptable
 --------------------------------------------------------
 
 Even if:
@@ -643,9 +700,19 @@ Can this trade damage continuity?
 
 Can this trade damage discipline?
 
+Can poor execution damage survivability?
+
+Can execution failure invalidate an otherwise high-quality opportunity?
+
+Does execution quality justify capital allocation?
+
 --------------------------------------------------------
 
 Capital preservation has priority over opportunity frequency.
+
+Execution survivability has priority over execution precision.
+
+A high-quality opportunity should only be accepted if it can survive normal market behaviour.
 
 ========================================================
 POST-TRADE OPPORTUNITY REVIEW
@@ -1552,36 +1619,40 @@ Before:
 
 OUTPUT:
 
-1. Account Health
+1. Macro Alignment Score
 
-2. Opportunity Quality
+2. Environment Score
 
-3. Environment Risk
+3. Structure Score
 
-4. Structure Risk
+4. Continuation Score
 
-5. Continuation Risk
+5. Participation Score
 
-6. Participation Risk
+6. Timing Score
 
-7. Timing Risk
+7. Liquidity Score
 
-8. Liquidity Risk
+8. Asymmetry Score
 
-9. Volatility Risk
+9. Expectancy Score
 
-10. Drawdown State
+10. Execution Survivability Score
 
-11. Position Size Recommendation
+11. Trend Maturity Classification
 
-12. Maximum Risk Percentage
+12. Opportunity Durability Rating
 
-13. Exposure Recommendation
+13. Fragility Rating
 
-14. Survivability Rating
+14. Opportunity Quality Score
 
-15. Deployment Classification
+15. Opportunity Classification
 
-16. Adaptive Recommendations
+16. Capital Allocation Recommendation
 
-17. Final Risk Deployment Verdict
+17. Acceptance / Rejection Verdict
+
+18. Adaptive Recommendations
+
+19. Final Opportunity Verdict

@@ -16,12 +16,15 @@ The objective IS:
 
 • selecting the optimal pending order type
 
-• defining the trigger condition
+• defining the safest trigger condition
 
 • preventing premature participation
 
+• maximizing execution survivability
+
 • ensuring execution occurs only after confirmation
 
+• ensuring the approved trade enters under conditions that preserve the original market thesis
 ---
 
 PENDING ORDER PRINCIPLE
@@ -36,8 +39,7 @@ A pending order allows price to prove the thesis before capital is deployed.
 
 CORE QUESTION
 
-What is the safest and highest expectancy method of entering this opportunity?
-
+What is the safest, highest expectancy and most survivable method of entering this approved opportunity?
 ---
 
 STEP 1 — EXECUTION IMPORT ENGINE
@@ -58,6 +60,17 @@ Import:
 
 • Execution Intelligence
 
+• Entry Survivability Score
+
+• Stop Survivability Score
+
+• Execution Survivability Rating
+
+• Execution Buffer
+
+• Required Stop Distance
+
+• Recommended Position Size
 ---
 
 STEP 2 — ENTRY METHOD ENGINE
@@ -85,6 +98,47 @@ to
 WORST
 
 ---
+========================================================
+STEP 2.5 — ENTRY SURVIVABILITY ENGINE
+========================================================
+
+Objective:
+
+Determine whether the selected pending order provides the highest probability of surviving normal market behaviour.
+
+Evaluate:
+
+• Current Volatility
+
+• Liquidity Conditions
+
+• Entry Distance
+
+• Structural Entry Quality
+
+• Execution Buffer
+
+Questions:
+
+Will this order enter after excessive expansion?
+
+Would waiting improve survivability?
+
+Would a pullback improve expectancy?
+
+Will this order reduce unnecessary stop-outs?
+
+Outputs:
+
+Excellent
+
+Good
+
+Marginal
+
+Poor
+
+Unsafe
 
 STEP 3 — TRIGGER LOGIC ENGINE
 
@@ -106,6 +160,16 @@ Possible triggers:
 
 • Volatility Expansion
 
+Additional Trigger Conditions:
+
+• Execution Survivability Confirmed
+
+• Volatility Acceptable
+
+• Spread Acceptable
+
+• Execution Buffer Preserved
+
 ---
 
 STEP 4 — ORDER VALIDATION ENGINE
@@ -122,11 +186,52 @@ Before constructing an order verify:
 
 • environment unchanged
 
-If any condition fails:
+• execution survivability maintained
+
+• stop survivability acceptable
+
+• required stop distance unchanged
+
+• deployment still approved
 
 Reject pending order.
 
 ---
+========================================================
+STEP 4.5 — EXECUTION BUFFER VALIDATION ENGINE
+========================================================
+
+Objective:
+
+Ensure that the pending order still preserves the execution buffers determined by Module 13.
+
+Evaluate:
+
+• Volatility Buffer
+
+• Liquidity Buffer
+
+• Spread Buffer
+
+• Structural Buffer
+
+Questions:
+
+Has current market behaviour reduced execution survivability?
+
+Should entry be delayed?
+
+Should the pending order be recalibrated?
+
+Outputs:
+
+Buffer Preserved
+
+Buffer Reduced
+
+Buffer Compromised
+
+Recalibration Required
 
 STEP 5 — ORDER EXPIRATION ENGINE
 
@@ -144,6 +249,16 @@ Examples:
 
 • after major event
 
+Cancel pending order if:
+
+• Execution Survivability becomes Unsafe
+
+• Stop Survivability becomes Unacceptable
+
+• Risk Deployment withdrawn
+
+• Portfolio Exposure exceeds limits
+
 ---
 
 STEP 6 — PENDING ORDER SUMMARY
@@ -154,12 +269,25 @@ Pending Order Type
 
 Trigger Logic
 
-Reason
+Entry Survivability
+
+Stop Survivability
+
+Execution Buffer Status
+
+Deployment Approval
 
 Expected Market Behaviour
 
 Order Status
 
+READY
+
+WAITING
+
+RECALIBRATE
+
+CANCELLED
 READY
 
 WAITING

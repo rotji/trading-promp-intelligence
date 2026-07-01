@@ -46,8 +46,6 @@ Has a material pressure change occurred?
 
 ---
 
-## INPUTS
-
 Current Working Regime:
 
 Liquidity Regime
@@ -64,9 +62,13 @@ Volatility Regime
 
 Capital Flow Regime
 
-carry regie
+Carry Regime
 
 Timestamp Of Last Assessment
+
+Current Pressure Confidence
+
+Current Pressure Score
 
 ---
 
@@ -225,10 +227,15 @@ that could alter:
 
 • Alignment
 
-• Trade Admission
+• Opportunity Acceptance
+
+• Risk Deployment
+
+• Portfolio Exposure
+
+• Pending Orders
 
 • Trade Management
-
 ---
 
 ## CLASSIFICATION
@@ -338,6 +345,24 @@ Review Pressure Assumptions
 Re-Run Pressure Engine
 
 Immediate Regime Reassessment Required
+
+Affected Downstream Engines:
+
+• Transmission Engine
+
+• Watchlist Engine
+
+• Alignment Engine
+
+• Opportunity Acceptance Engine
+
+• Risk Deployment Engine
+
+• Portfolio & Exposure Intelligence Engine
+
+• Pending Order Construction Engine
+
+• Trade Management Engine
 
 ---
 

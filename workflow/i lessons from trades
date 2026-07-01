@@ -993,9 +993,14 @@ STEP 12 — RISK LEARNING ENGINE
 Analyze:
 
 • sizing quality
-• leverage quality
-• survivability quality
 
+• leverage quality
+
+• execution survivability
+
+• portfolio survivability
+
+• capital preservation quality
 Questions:
 
 ```text
@@ -1361,8 +1366,15 @@ Determine:
 Did the trade threaten:
 
 • capital
+
+• execution survivability
+
+• portfolio survivability
+
 • discipline
+
 • expectancy
+
 • continuity
 
 Classify:
@@ -1690,12 +1702,25 @@ STEP 18 — ADAPTIVE EVOLUTION ENGINE
 
 Continuously refine:
 
+• pressure sensitivity
+
+• transmission sensitivity
+
 • liquidity sensitivity
+
 • timing sensitivity
+
 • structure sensitivity
+
 • volatility sensitivity
+
 • participation sensitivity
+
 • continuation sensitivity
+
+• execution survivability thresholds
+
+• portfolio survivability thresholds
 
 without changing core principles.
 
@@ -1723,7 +1748,7 @@ Output:
 
 1. Trade Classification
 
-2. Primary Failure/Success Cause
+2. Primary Failure / Success Cause
 
 3. Strongest Engine
 
@@ -1735,11 +1760,13 @@ Output:
 
 7. Future Improvements
 
-8. Survivability Assessment
+8. Execution Survivability Assessment
 
-9. Expectancy Assessment
+9. Portfolio Survivability Assessment
 
-10. Final Intelligence Summary
+10. Expectancy Assessment
+
+11. Final Intelligence Summary
 
 ---
 

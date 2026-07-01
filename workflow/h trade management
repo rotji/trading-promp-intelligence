@@ -723,9 +723,18 @@ Determine whether stop location remains optimal.
 Analyze:
 
 • volatility
+
 • liquidity
+
 • structure
+
 • continuation
+
+• execution survivability
+
+• portfolio exposure
+
+• current risk deployment
 
 Avoid:
 
@@ -752,9 +761,14 @@ Never widen stop because:
 Only adjust stop based on:
 
 • structure
+
 • volatility
+
 • liquidity
 
+• execution survivability
+
+Never tighten a stop merely to reduce risk if doing so significantly increases the probability of a normal stop-out.
 ---
 
 STEP 9 — EXHAUSTION DETECTION ENGINE
@@ -900,17 +914,28 @@ Determine whether current management preserves expectancy.
 Analyze:
 
 • asymmetry quality
+
 • continuation durability
+
 • liquidity stability
+
 • volatility stability
+
 • structure integrity
+
+• execution survivability
+
+• portfolio survivability
 
 Questions:
 
-```text
 Is expectancy improving?
 
 Is expectancy deteriorating?
+
+Is execution survivability deteriorating?
+
+Is portfolio survivability deteriorating?
 
 Is risk increasing?
 
@@ -1250,12 +1275,18 @@ STEP 15 — POST-MANAGEMENT LEARNING ENGINE
 Track:
 
 • management success
-• management failures
-• profit protection effectiveness
-• stop adjustment effectiveness
-• scale-out effectiveness
-• expectancy preservation quality
 
+• management failures
+
+• profit protection effectiveness
+
+• stop adjustment effectiveness
+
+• scale-out effectiveness
+
+• execution survivability effectiveness
+
+• expectancy preservation quality
 Determine:
 
 • which management actions improved outcomes
@@ -1661,7 +1692,9 @@ Protect:
 
 • asymmetry
 
-• survivability
+• execution survivability
+
+• portfolio survivability
 
 • portfolio quality
 

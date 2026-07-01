@@ -24,10 +24,15 @@ The objective IS:
 
 • monitoring open trades
 
+• monitoring execution survivability
+
+• monitoring portfolio survivability
+
+• monitoring deployment validity
+
 • reducing unnecessary screen time
 
-• notifying the trader only when intervention is required
-
+• notifying the trader only when meaningful intervention is required
 ---
 
 # MARKET MONITORING PRINCIPLE
@@ -84,6 +89,13 @@ Current Market Data
 
 Current Broker Data
 
+Execution Survivability Rating
+
+Portfolio Survivability Rating
+
+Risk Deployment Status
+
+Portfolio Exposure Status
 ---
 
 # STEP 1 — PRICE MONITORING
@@ -140,8 +152,13 @@ Has a pending order become active?
 
 Has market behaviour invalidated the pending order?
 
+Has execution survivability deteriorated?
+
+Has deployment approval changed?
+
 Should the pending order remain active?
 
+Should the pending order be recalibrated?
 ---
 
 # STEP 3 — TRADE MONITORING
@@ -160,15 +177,25 @@ Time In Trade
 
 Trade Health
 
+Execution Survivability
+
+Portfolio Impact
+
+Deployment Status
+
 Questions:
 
 Should the trade continue?
 
+Has execution survivability deteriorated?
+
+Has portfolio exposure changed materially?
+
+Should risk deployment be reviewed?
+
 Should management be adjusted?
 
 Should the Exit Decision Engine be activated?
-
----
 
 # STEP 4 — PRESSURE MONITORING
 
@@ -212,14 +239,25 @@ Session
 
 Execution Quality
 
+Execution Survivability
+
+Execution Buffer
+
+Stop Survivability
+
 Questions:
 
 Has execution quality deteriorated?
+
+Has execution survivability deteriorated?
 
 Has spread widened?
 
 Has volatility changed materially?
 
+Has the execution buffer become insufficient?
+
+Should execution be recalibrated?
 ---
 
 # STEP 6 — ENVIRONMENT MONITORING
@@ -278,6 +316,12 @@ Pending Order Triggered
 
 Pending Order Invalidated
 
+Execution Survivability Deteriorated
+
+Portfolio Survivability Deteriorated
+
+Risk Deployment Changed
+
 Pressure Regime Changed
 
 Spread Expansion
@@ -333,6 +377,12 @@ Pending Order Status
 Open Trade Status
 
 Execution Status
+
+Execution Survivability Status
+
+Portfolio Survivability Status
+
+Risk Deployment Status
 
 Pressure Status
 

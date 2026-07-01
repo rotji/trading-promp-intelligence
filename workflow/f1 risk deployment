@@ -1,0 +1,975 @@
+# MODULE 17 — RISK DEPLOYMENT ENGINE
+
+========================================================
+CORE OBJECTIVE
+========================================================
+
+Determine the appropriate amount of capital to deploy after a trading opportunity has been approved while preserving account survivability, portfolio robustness, and long-term capital continuity.
+
+The objective is NOT:
+
+• maximizing profit
+
+• maximizing leverage
+
+• maximizing position size
+
+• maximizing trade frequency
+
+• forcing capital into every opportunity
+
+The objective IS:
+
+• deploying capital intelligently
+
+• preserving account survivability
+
+• preserving portfolio stability
+
+• maximizing long-term expectancy
+
+• maximizing capital efficiency
+
+• maintaining deployment discipline
+
+• protecting future opportunity
+
+========================================================
+UNIVERSAL PRINCIPLE
+========================================================
+
+Capital is the trader's inventory.
+
+Every deployment reduces future flexibility.
+
+Every unnecessary deployment reduces future opportunity.
+
+The first responsibility of capital is:
+
+SURVIVE
+
+The second responsibility is:
+
+COMPOUND
+
+The third responsibility is:
+
+EXPAND
+
+Without survivability there can be no compounding.
+
+Without compounding there can be no long-term capital growth.
+
+========================================================
+PRIMARY QUESTION
+========================================================
+
+Before every deployment ask:
+
+HOW MUCH CAPITAL DESERVES DEPLOYMENT?
+
+NOT
+
+HOW MUCH MONEY CAN THIS TRADE MAKE?
+
+========================================================
+CAPITAL DEPLOYMENT PHILOSOPHY
+========================================================
+
+Capital deployment is determined by the interaction between:
+
+• Opportunity Quality
+
+• Execution Survivability
+
+• Portfolio Condition
+
+• Account Health
+
+• Current Risk Capacity
+
+Only when all five agree should capital be deployed aggressively.
+
+========================================================
+RISK DEPLOYMENT ARCHITECTURE
+========================================================
+
+Approved Opportunity
+
+↓
+
+Execution Survivability Import
+
+↓
+
+Account Intelligence
+
+↓
+
+Opportunity Intelligence
+
+↓
+
+Portfolio Intelligence
+
+↓
+
+Capital Allocation
+
+↓
+
+Deployment Governance
+
+↓
+
+Position Size
+
+↓
+
+Final Deployment Decision
+
+========================================================
+LAYER A — ACCOUNT INTELLIGENCE
+========================================================
+
+Objective:
+
+Determine whether the trading account is capable of safely deploying additional capital.
+
+A good opportunity should never override a weak account.
+
+========================================================
+STEP 1 — ACCOUNT SURVIVABILITY ENGINE
+========================================================
+
+Objective:
+
+Evaluate the overall health of the trading account before additional capital is deployed.
+
+Import:
+
+• Current Account Balance
+
+• Current Equity
+
+• Available Margin
+
+• Current Drawdown
+
+• Recent Performance
+
+• Consecutive Losses
+
+• Consecutive Wins
+
+Evaluate:
+
+• Capital Durability
+
+• Recovery Capacity
+
+• Psychological Stability
+
+• Margin Safety
+
+Questions:
+
+Can the account survive multiple additional losses?
+
+Can the account tolerate expected market volatility?
+
+Would another losing trade materially damage future opportunity?
+
+Classification:
+
+Excellent
+
+Healthy
+
+Stable
+
+Fragile
+
+Critical
+
+========================================================
+STEP 2 — ACCOUNT RECOVERY ENGINE
+========================================================
+
+Determine whether the account is currently in:
+
+• Growth Phase
+
+• Recovery Phase
+
+• Defensive Phase
+
+• Capital Preservation Phase
+
+Questions:
+
+Is the account attempting to recover previous losses?
+
+Should deployment remain conservative?
+
+Should compounding temporarily pause?
+
+Outputs:
+
+Normal Deployment
+
+Reduced Deployment
+
+Defensive Deployment
+
+Capital Preservation Only
+
+========================================================
+STEP 3 — RISK CAPACITY ENGINE
+========================================================
+
+Objective:
+
+Determine the account's current ability to absorb additional risk.
+
+Evaluate:
+
+• Current Open Risk
+
+• Pending Risk
+
+• Available Risk Budget
+
+• Margin Utilization
+
+• Portfolio Heat
+
+Questions:
+
+How much additional risk can the account safely absorb?
+
+Will this deployment reduce future flexibility?
+
+Would full deployment reduce survivability?
+
+Outputs:
+
+High Capacity
+
+Moderate Capacity
+
+Limited Capacity
+
+No Remaining Capacity
+
+========================================================
+STEP 4 — CAPITAL PRESERVATION ENGINE
+========================================================
+
+Objective:
+
+Determine whether preserving capital should take priority over deploying capital.
+
+Evaluate:
+
+• Current Drawdown
+
+• Recovery Progress
+
+• Market Conditions
+
+• Opportunity Density
+
+Questions:
+
+Should capital be protected?
+
+Should deployment become more selective?
+
+Should maximum risk limits automatically reduce?
+
+Outputs:
+
+Capital Expansion
+
+Normal Preservation
+
+Defensive Preservation
+
+Maximum Preservation
+
+========================================================
+LAYER B — OPPORTUNITY INTELLIGENCE
+========================================================
+
+Objective:
+
+Determine whether the approved trading opportunity deserves capital deployment.
+
+An approved trade does NOT automatically deserve maximum capital.
+
+Capital must be earned through opportunity quality.
+
+========================================================
+STEP 5 — OPPORTUNITY QUALITY IMPORT ENGINE
+========================================================
+
+Import:
+
+• Opportunity Score
+
+• Opportunity Classification
+
+• Opportunity Durability
+
+• Opportunity Fragility
+
+• Opportunity Acceptance Verdict
+
+Questions:
+
+How much confidence deserves capital?
+
+Does this opportunity justify deployment?
+
+Outputs:
+
+Elite Opportunity
+
+Strong Opportunity
+
+Moderate Opportunity
+
+Weak Opportunity
+
+Rejected Opportunity
+
+========================================================
+STEP 6 — EXECUTION SURVIVABILITY IMPORT ENGINE
+========================================================
+
+Import from Module 13:
+
+• Entry Survivability Score
+
+• Stop Survivability Score
+
+• Execution Survivability Rating
+
+• Required Stop Distance
+
+• Execution Buffer
+
+Questions:
+
+Can this trade survive normal market behaviour?
+
+Can execution survive expected volatility?
+
+Can execution survive liquidity sweeps?
+
+Outputs:
+
+Excellent Survivability
+
+Good Survivability
+
+Marginal Survivability
+
+Poor Survivability
+
+Unsafe Execution
+
+========================================================
+STEP 7 — EXPECTANCY ENGINE
+========================================================
+
+Evaluate:
+
+• Reward-to-Risk Ratio
+
+• Probability of Success
+
+• Opportunity Asymmetry
+
+• Expected Return
+
+Questions:
+
+Does the opportunity provide positive expectancy?
+
+Is the reward proportional to the survivable stop?
+
+Outputs:
+
+Excellent Expectancy
+
+Good Expectancy
+
+Acceptable Expectancy
+
+Poor Expectancy
+
+Negative Expectancy
+
+========================================================
+STEP 8 — DEPLOYMENT WORTHINESS ENGINE
+========================================================
+
+Determine whether the opportunity deserves capital deployment.
+
+Evaluate:
+
+• Opportunity Quality
+
+• Execution Survivability
+
+• Expectancy
+
+• Environment Quality
+
+Questions:
+
+Does this opportunity deserve:
+
+Full Deployment?
+
+Reduced Deployment?
+
+Defensive Deployment?
+
+No Deployment?
+
+Outputs:
+
+Full Deployment
+
+Reduced Deployment
+
+Defensive Deployment
+
+Reject Deployment
+
+========================================================
+LAYER C — PORTFOLIO INTELLIGENCE
+========================================================
+
+Objective:
+
+Determine whether the new deployment strengthens or weakens the overall portfolio before capital is committed.
+
+========================================================
+LAYER C — PORTFOLIO INTELLIGENCE
+========================================================
+
+Objective:
+
+Determine whether the proposed deployment improves or weakens the existing portfolio.
+
+No trade should be evaluated in isolation.
+
+Every deployment must strengthen the portfolio.
+
+========================================================
+STEP 9 — PORTFOLIO EXPOSURE IMPORT ENGINE
+========================================================
+
+Import from Module 19:
+
+• Total Portfolio Risk
+
+• Current Exposure
+
+• Theme Exposure
+
+• Currency Exposure
+
+• Capital Flow Exposure
+
+• Correlation Exposure
+
+• Diversification Rating
+
+• Remaining Risk Capacity
+
+Questions:
+
+Will this deployment increase portfolio concentration?
+
+Will this deployment improve diversification?
+
+Outputs:
+
+Diversified
+
+Moderately Concentrated
+
+Highly Concentrated
+
+Dangerously Concentrated
+
+========================================================
+STEP 10 — CORRELATION IMPACT ENGINE
+========================================================
+
+Evaluate:
+
+• Currency Correlation
+
+• Asset Correlation
+
+• Theme Correlation
+
+• Macro Correlation
+
+Questions:
+
+Does this deployment duplicate existing exposure?
+
+Does it introduce hidden systemic risk?
+
+Would multiple positions fail together?
+
+Outputs:
+
+Low Correlation
+
+Moderate Correlation
+
+High Correlation
+
+Extreme Correlation
+
+========================================================
+STEP 11 — PORTFOLIO SURVIVABILITY ENGINE
+========================================================
+
+Evaluate:
+
+• Portfolio Robustness
+
+• Portfolio Heat
+
+• Current Drawdown Exposure
+
+• Event Concentration
+
+• Correlated Risk
+
+Questions:
+
+Can the portfolio survive another position?
+
+Will survivability improve or deteriorate?
+
+Outputs:
+
+Excellent
+
+Good
+
+Marginal
+
+Fragile
+
+Critical
+
+========================================================
+STEP 12 — CAPITAL ALLOCATION ENGINE
+========================================================
+
+Determine the maximum capital justified by:
+
+• Account Health
+
+• Opportunity Quality
+
+• Execution Survivability
+
+• Portfolio Condition
+
+• Remaining Risk Capacity
+
+Possible Outputs:
+
+Maximum Allocation
+
+Normal Allocation
+
+Reduced Allocation
+
+Defensive Allocation
+
+No Allocation
+
+========================================================
+LAYER D — CAPITAL ALLOCATION
+========================================================
+
+Objective:
+
+Convert approved risk into appropriate capital deployment while preserving long-term survivability.
+
+========================================================
+LAYER D — CAPITAL ALLOCATION
+========================================================
+
+Objective:
+
+Convert approved deployment into an appropriate position size while preserving account and portfolio survivability.
+
+Capital should adapt to opportunity quality, not emotion.
+
+========================================================
+STEP 13 — POSITION SIZE ENGINE
+========================================================
+
+Determine position size using:
+
+• Account Risk Budget
+
+• Required Stop Distance
+
+• Entry Price
+
+• Instrument Specifications
+
+• Execution Survivability Rating
+
+Questions:
+
+Does the required stop distance support the proposed position size?
+
+Should position size be reduced to preserve survivability?
+
+Can account risk remain within acceptable limits?
+
+Outputs:
+
+Optimal Position Size
+
+Reduced Position Size
+
+Defensive Position Size
+
+Position Size Not Acceptable
+
+========================================================
+STEP 14 — DYNAMIC RISK BUDGET ENGINE
+========================================================
+
+Determine maximum allowable account risk.
+
+Consider:
+
+• Account Health
+
+• Drawdown State
+
+• Portfolio Heat
+
+• Opportunity Quality
+
+• Execution Survivability
+
+Example Risk Budget:
+
+Weak Opportunity
+
+0.25%
+
+--------------------------------------------------------
+
+Moderate Opportunity
+
+0.50%
+
+--------------------------------------------------------
+
+Strong Opportunity
+
+1.00%
+
+--------------------------------------------------------
+
+Elite Opportunity
+
+1.50%
+
+--------------------------------------------------------
+
+Absolute Maximum
+
+2.00%
+
+Never exceed.
+
+========================================================
+STEP 15 — DEPLOYMENT VALIDATION ENGINE
+========================================================
+
+Verify:
+
+• Position Size Valid
+
+• Risk Budget Respected
+
+• Portfolio Limits Respected
+
+• Execution Survivability Approved
+
+• Exposure Limits Respected
+
+Questions:
+
+Does this deployment preserve account survivability?
+
+Does this deployment preserve portfolio stability?
+
+Should deployment proceed?
+
+Outputs:
+
+Validated
+
+Validated With Reduced Size
+
+Recalculate
+
+Reject Deployment
+
+========================================================
+LAYER E — DEPLOYMENT GOVERNANCE
+========================================================
+
+Objective:
+
+Make the final institutional decision before capital leaves the account.
+
+========================================================
+LAYER E — DEPLOYMENT GOVERNANCE
+========================================================
+
+Objective:
+
+Make the final institutional decision before capital leaves the account.
+
+Deployment is the final consequence of every previous engine.
+
+No capital should be deployed unless every critical layer agrees.
+
+========================================================
+STEP 16 — FINAL DEPLOYMENT ENGINE
+========================================================
+
+Evaluate:
+
+• Account Intelligence
+
+• Opportunity Intelligence
+
+• Portfolio Intelligence
+
+• Capital Allocation
+
+• Deployment Validation
+
+Questions:
+
+Does this trade deserve capital deployment?
+
+Should deployment proceed?
+
+Should deployment be reduced?
+
+Should deployment be delayed?
+
+Should deployment be rejected?
+
+Possible Outputs:
+
+Normal Deployment
+
+Moderate Deployment
+
+Reduced Deployment
+
+Defensive Deployment
+
+Reject Deployment
+
+========================================================
+STEP 17 — AUTOMATIC RISK GOVERNANCE ENGINE
+========================================================
+
+Automatically reduce deployment when:
+
+• Account drawdown increases
+
+• Portfolio concentration increases
+
+• Portfolio heat exceeds limits
+
+• Opportunity quality deteriorates
+
+• Execution survivability deteriorates
+
+• Event risk increases
+
+• Volatility expands materially
+
+Automatically reject deployment when:
+
+• Opportunity rejected
+
+• Execution unsafe
+
+• Portfolio capacity exhausted
+
+• Account in critical condition
+
+• Maximum exposure limits exceeded
+
+========================================================
+STEP 18 — DEPLOYMENT SCORECARD ENGINE
+========================================================
+
+Generate:
+
+Account Health
+
+Opportunity Quality
+
+Execution Survivability
+
+Portfolio Quality
+
+Risk Capacity
+
+Capital Allocation
+
+Deployment Confidence
+
+Overall Deployment Score
+
+Classification:
+
+Excellent
+
+Strong
+
+Acceptable
+
+Defensive
+
+Reject
+
+========================================================
+STEP 19 — ADAPTIVE RISK LEARNING ENGINE
+========================================================
+
+Track:
+
+• Best deployment decisions
+
+• Worst deployment decisions
+
+• Survivability outcomes
+
+• Position sizing effectiveness
+
+• Portfolio allocation effectiveness
+
+• Recovery performance
+
+• Drawdown behaviour
+
+Continuously refine:
+
+• Risk budgets
+
+• Position sizing
+
+• Capital allocation
+
+• Deployment standards
+
+• Survivability thresholds
+
+========================================================
+FINAL OUTPUT
+========================================================
+
+Generate:
+
+1. Account Health
+
+2. Opportunity Quality
+
+3. Execution Survivability
+
+4. Portfolio Condition
+
+5. Risk Capacity
+
+6. Recommended Position Size
+
+7. Maximum Risk Percentage
+
+8. Capital Allocation
+
+9. Deployment Confidence
+
+10. Deployment Classification
+
+11. Survivability Rating
+
+12. Final Deployment Verdict
+
+========================================================
+UNIVERSAL PRINCIPLE
+========================================================
+
+A profitable trade does not justify excessive risk.
+
+A losing trade does not mean deployment was incorrect.
+
+Correct deployment is determined by process, not outcome.
+
+Capital should never be deployed because it is available.
+
+Capital should only be deployed because it is deserved.
+
+========================================================
+FINAL OBJECTIVE
+========================================================
+
+Determine:
+
+How much capital should be deployed?
+
+Should deployment be:
+
+• Normal
+
+• Moderate
+
+• Reduced
+
+• Defensive
+
+• Zero
+
+while maximizing:
+
+• Account Survivability
+
+• Portfolio Stability
+
+• Capital Efficiency
+
+• Long-Term Compounding
+
+• Institutional Discipline
+
+before capital is committed to the market.
