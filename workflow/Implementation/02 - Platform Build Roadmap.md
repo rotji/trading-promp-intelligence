@@ -11,6 +11,24 @@ This is the **technical construction roadmap**. It is **not** about trading valu
 ```markdown id="platformbuildroadmap"
 # 02 - Platform Build Roadmap.md
 
+# Constitutional Alignment
+
+This document inherits from:
+
+• 00 - GCFIOS Doctrine
+• 01 - GCFIOS Identity & Architecture Manifest
+• 02 - GCFIOS Market Thesis Architecture
+
+Nothing in this document may contradict those constitutional documents.
+Its purpose is to implement them operationally.
+
+The Doctrine defines how GCFIOS thinks.
+The Identity defines what GCFIOS is.
+The Market Thesis Architecture defines what GCFIOS operates on.
+This document defines how those principles are implemented.
+
+---
+
 # Document Objective
 
 The Platform Build Roadmap defines the technical implementation sequence for constructing the Global Capital Flow Intelligence Operating System (GCFIOS).
@@ -65,7 +83,27 @@ Every implementation should:
 
 ---
 
-# PHASE 1 — CORE FOUNDATION
+# PHASE 1 — FOUNDATION
+
+Objective
+
+Establish the constitutional and architectural base.
+
+Build
+
+• Doctrine Alignment
+
+• Identity Manifest
+
+• Market Thesis Architecture
+
+Outcome
+
+A stable intellectual foundation before software implementation begins.
+
+---
+
+# PHASE 2 — MARKET THESIS DOMAIN
 
 Objective
 
@@ -97,7 +135,35 @@ A stable development foundation.
 
 ---
 
-# PHASE 2 — CORE LIBRARIES
+# PHASE 2 — MARKET THESIS DOMAIN
+
+Objective
+
+Create the central intellectual structure of GCFIOS.
+
+Build
+
+• Market Thesis Model
+
+• Thesis Repository
+
+• Thesis Lifecycle
+
+• Thesis Update Rules
+
+• Thesis State Machine
+
+• Thesis Versioning
+
+• Thesis Snapshot Engine
+
+Outcome
+
+Every future module can speak one common language: the Market Thesis.
+
+---
+
+# PHASE 3 — CORE LIBRARIES
 
 Objective
 

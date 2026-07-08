@@ -7,6 +7,24 @@ Unlike the Platform Build Roadmap, which is organized by software dependencies, 
 ```markdown
 # 01 - Value First Implementation.md
 
+# Constitutional Alignment
+
+This document inherits from:
+
+• 00 - GCFIOS Doctrine
+• 01 - GCFIOS Identity & Architecture Manifest
+• 02 - GCFIOS Market Thesis Architecture
+
+Nothing in this document may contradict those constitutional documents.
+Its purpose is to implement them operationally.
+
+The Doctrine defines how GCFIOS thinks.
+The Identity defines what GCFIOS is.
+The Market Thesis Architecture defines what GCFIOS operates on.
+This document defines how those principles are implemented.
+
+---
+
 # Document Objective
 
 The Value First Implementation Roadmap defines the order in which GCFIOS should be implemented to maximize immediate trading value while progressively evolving into a complete institutional operating system.
@@ -41,6 +59,15 @@ Software is the result of value creation, not the objective.
 
 ---
 
+# Constitutional Objective
+
+Every implementation level must improve the Market Thesis lifecycle.
+
+The objective is not merely to build software.
+The objective is to strengthen the creation, validation, execution, monitoring, and evolution of Market Theses.
+
+---
+
 # IMPLEMENTATION PRINCIPLES
 
 Every implementation should:
@@ -68,6 +95,7 @@ Standardize the complete manual trading workflow.
 Build
 
 • Daily Global Report
+  (Publishes the current Market Thesis)
 
 • Weekly Sovereign Report
 
@@ -85,9 +113,11 @@ Build
 
 • Correlation Analysis
 
-• Alignment Score
+• Alignment Engine
+  (Updates Thesis Alignment)
 
 • Opportunity Watchlist
+  (Derived from the current Market Thesis)
 
 • Trade Checklist
 

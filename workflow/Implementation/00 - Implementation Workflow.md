@@ -7,6 +7,24 @@ So each `.md` becomes a **blueprint**, not a textbook.
 ```markdown
 # 00 - Implementation Workflow.md
 
+# Constitutional Alignment
+
+This document inherits from:
+
+• 00 - GCFIOS Doctrine
+• 01 - GCFIOS Identity & Architecture Manifest
+• 02 - GCFIOS Market Thesis Architecture
+
+Nothing in this document may contradict those constitutional documents.
+Its purpose is to implement them operationally.
+
+The Doctrine defines how GCFIOS thinks.
+The Identity defines what GCFIOS is.
+The Market Thesis Architecture defines what GCFIOS operates on.
+This document defines how those principles are implemented.
+
+---
+
 # Document Objective
 
 The Implementation Workflow defines the standardized process for transforming a trading idea into a permanent GCFIOS component.
@@ -58,6 +76,22 @@ Trading Problem
 ↓
 
 Business Objective
+
+↓
+
+Market Thesis Responsibility
+
+↓
+
+Business Asset
+
+↓
+
+Business Objective
+
+↓
+
+Market Thesis
 
 ↓
 
