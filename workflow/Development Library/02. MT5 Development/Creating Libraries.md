@@ -4200,3 +4200,64 @@ With the library development standards now established, the next document in the
 **Creating Expert Advisors.md**
 
 That document explains how Expert Advisors coordinate the reusable intelligence provided by GCFIOS libraries and transform analytical decisions into broker-ready execution while preserving the separation of responsibilities established throughout the operating system.
+
+# Creating Libraries
+
+## Objective
+
+Create reusable business logic that can be shared across the entire GCFIOS platform.
+
+Libraries should contain reusable functionality only.
+
+They should never perform trading directly.
+
+---
+
+## When to Use
+
+Create a Library when:
+
+• logic will be reused
+
+• calculations are shared
+
+• business rules are shared
+
+• utilities are needed
+
+• multiple components depend on the same functionality
+
+---
+
+## Current Folder Structure
+
+MQL5
+└── Libraries
+    └── GCFIOS
+        ├── Core
+        ├── Common
+        ├── Models
+        ├── Utilities
+        ├── Math
+        ├── Statistics
+        ├── Time
+        ├── Validation
+        ├── Logging
+        ├── Configuration
+        ├── Market
+        ├── Intelligence
+        ├── Decision
+        ├── Execution
+        └── Portfolio
+
+---
+
+## Current Status
+
+Folder structure established.
+
+No libraries implemented yet.
+
+Next Step:
+
+Create the first Core Library.
