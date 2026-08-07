@@ -2,9 +2,7 @@
 
 ## Governance and Authority
 
-This Living Architectural Profile is governed by the **Software Engineering Methodology.md** document.
-
-The relationship between the two documents is strict:
+This Living Architectural Profile is governed by **Software Engineering Methodology.md**.
 
 ```text
 Software Engineering Methodology
@@ -15,208 +13,380 @@ Living Architectural Profile
             │
             │ records
             ▼
-Current Project State
+Current Verified Project State
 ```
 
-The **Software Engineering Methodology** is the authoritative source for engineering rules, principles, workflow, verification standards, architectural discipline, and governance practices.
+The methodology defines how engineering is performed. This profile records the current architectural state, maturity, risks, decisions, technical debt, verification evidence, and meaningful evolution.
 
-The **Living Architectural Profile** is the authoritative record of the project's current architectural state, maturity, significant observations, decisions, technical debt, risks, verification status, and meaningful evolution.
-
-The profile must **follow, not redefine, override, or contradict** the Software Engineering Methodology. If a conflict is discovered, the methodology takes precedence and the profile must be corrected.
-
-The profile may identify evidence that suggests the universal methodology should be improved, but it must not silently change the methodology. Such a change requires a deliberate methodology review and explicit update of the methodology document.
-
-The methodology is relatively stable; the profile is intentionally living and changes as the project's meaningful state changes.
+The profile must follow, not redefine, override, or contradict the methodology. If a conflict exists, the methodology takes precedence and the profile must be corrected.
 
 ---
 
 ## Purpose
-This document is the Living Architectural Profile for GCFIOS — the authoritative, continuously updated engineering record of the project's current architectural state, major investigations, decisions, verification history, and technical debt.
 
-It enforces the Software Engineering Methodology by acting as a gate: every major milestone, architectural investigation, subsystem maturity change, and verification event must be recorded here.
+This document is the living engineering record of the current GCFIOS project state.
 
-> **The Living Architectural Profile represents the current architectural state of the system, not a chronological history of every implementation change. Update it when the project's architectural health, maturity, priorities, or verified state changes in a meaningful way.**
+It is not a chronological record of every edit. It is updated when architectural health, subsystem maturity, verified implementation state, major decisions, risks, priorities, or technical debt materially changes.
 
----
+Historical evolution belongs in `archive/` and formal decision records. Current truth belongs here.
 
-## 1. Current Project Snapshot (accurate)
-- Project: GCFIOS
-- Current Version: 0.1.0
-- Current Phase: Foundation Architecture (platform-first)
-- Current Sprint: Core Platform Foundation
-- Current Client: MT5 (primary client implementation)
-- Primary Goal: Establish a minimal, reusable GCFIOS Core Platform and canonical documentation foundation
-- Last Updated: 2026-08-05
-- Overall Status: Documentation Complete (canonicalized) · Architecture Stable · Implementation In Progress
+> **The profile describes what the project is now, what has been verified, what remains uncertain, and what architectural work is currently authorized.**
 
 ---
 
-## 2. Engineering Health (truthful ratings)
-- Architecture: ★★★★☆ — strong architecture docs and doctrine, canonicalization in progress
-- Documentation: ★★★★★ — comprehensive; audit/index created; some consolidation completed
-- Repository Structure: ★★★★☆ — organized but docs-first; code modules exist under `GCFIOS` and MT5 folders
-- Dependency Management: ★★★☆☆ — core dependency rules exist but enforceability/automation limited
-- Implementation: ★★☆☆☆ — core library compiled; many engines still design-only in `archive/`
-- Testing: ★☆☆☆☆ — minimal automated tests, no CI for MT5
-- Performance: ★☆☆☆☆ — not yet measured at system scale
-- Plugin Framework: ★☆☆☆☆ — design documents exist; implementation pending
-- SDK: ★☆☆☆☆ — planned but not started
+# 1. Current Project Snapshot
+
+- **Project:** GCFIOS — Global Capital Flow Intelligence Operating System
+- **Current Version:** 0.1.0
+- **Current Phase:** Universal Platform Foundation
+- **Current Sprint:** Universal Core Foundation V1
+- **Architecture Direction:** Platform-first / client-independent
+- **Current Client:** MT5 is Client One, but is not part of the universal foundation
+- **Immediate Objective:** Build and verify a reusable universal GCFIOS foundation
+- **Client Integration:** Deferred until the universal foundation reaches appropriate verified maturity
+- **Last Updated:** 2026-08-07
+- **Overall Status:** Architecture normalization complete; universal foundation implementation not yet established
 
 ---
 
-## 3. Architecture Maturity
-- Design Principles: Stable (see `Software Engineering Methodology.md` and `docs/05-Engineering/01-MT5/DESIGN_PRINCIPLES.md`)
-- Repository Architecture: Canonicalized (see `REPOSITORY_ARCHITECTURE.md`) — index created
-- Core Dependency Rules: Documented (`docs/engineering/CORE/CORE_DEPENDENCY_RULES.md`)
-- Engineering Methodology: Stable and enforced by this profile
-- Core Platform: In Early Implementation (basic `GCFIOS_Core` exists; API stabilized)
-- Client Layer (MT5): Implementing (many MT5 implementation guides and components present)
-- SDK: Planned (no active SDK releases yet)
+# 2. Architectural Truth
 
----
+The governing platform relationship is:
 
-## 4. Current Repository Status (summary)
-- Documentation-first repository with canonical `docs/` and `workflow/` trees; `archive/` and `workflow/libraries/` are reference collections.
-- Canonical docs created/confirmed: `REPOSITORY_ARCHITECTURE.md`, `Software Engineering Methodology.md`, `Documentation Index.md`, `Documentation Audit.md`.
-- Conversation archive established at `archive/conversations/` and active chat file `my chats with chatgpt 2 .md` remains in workspace root for live use.
-- MT5 library sources and compiled artifacts live under the `GCFIOS` library tree and `docs/05-Engineering/01-MT5/` contains the canonical MT5 architecture docs.
-
----
-
-## 5. Current Subsystem Status (selected, accurate)
-- Core: Minimal foundation implemented; `GCFIOS_Core` compiled (per development journal). Public API draft exists in `docs/05-Engineering/01-MT5/GCFIOS_CORE_ARCHITECTURE.md` and `CORE_ARCHITECTURE_V2.md`.
-- Registry: Design present in `workflow/system architecture/03-Service Registry.md`; V1 implemented conceptually — needs DI and multi-service support before being considered production-ready.
-- Event Bus: Draft architecture in `workflow/Development Library/PART E — RUNTIME/41 - Event Bus.md`; V1 conceptual implementation requires verification and stress testing.
-- Execution Engines: Extensive design and module-level docs in `archive/` and `workflow/libraries/`; implementations are mostly pending and will be staged per the Value-First roadmap.
-- Testing/CI: Largely missing — priority to add CI for MT5 compile and root verification.
-
----
-
-## 6. Recent Architectural Actions (what we actually did)
-- 2026-08-02 — Ran documentation audit; created `Documentation Audit.md` and `Documentation Index.md`.
-- 2026-08-04 — Archived duplicate identity and market-thesis files; consolidated canonical manifests.
-- 2026-08-04 — Created `archive/` folders and `docs/05-Engineering/01-MT5/archive/README.md` to separate canonical docs from historical notes.
-- 2026-08-05 — Created `Living Architectural Profile.md` and added methodology compliance checklist.
-
----
-
-## 7. Architectural Decisions / ADRs (current)
-- ADR-001: Adopt Platform-First Roadmap — prefer building Core/Platform before client-specific expansion (documented across roadmap files).
-- ADR-002: Core Minimalism Doctrine — Core must remain lean and reusable; domain logic lives in higher layers.
-
-Action: Create formal ADR entries in `workflow/` and link them here (status: planned).
-
----
-
-## 8. Architectural Observations (journal excerpts)
-- 2026-08-05 — Observation: Documentation audit revealed duplicate manifests and multiple core architecture drafts. Action: duplicates archived; canonical index created.
-- 2026-08-03 — Observation: Many engine designs exist in `archive/` but few are implemented; this indicates a planning-rich but implementation-light state.
-
-(Use the Investigation Template for every future entry.)
-
----
-
-## 9. Technical Debt (current list)
-- No CI for MT5 builds or automated root compilation checks.
-- Minimal automated tests; test harnesses for MT5 are not yet configured.
-- Several historical documents reference older file names (needs link fixes).
-- Event Bus and Registry need verification and hardening.
-
----
-
-## 10. Known Risks (explicit)
-- Risk: Heavy docs focus may slow code progress if not paired with small, value-delivering implementation increments.
-- Risk: Single-client MT5 focus may create coupling that complicates later SDK or cross-platform work.
-- Risk: Lack of CI/tests increases refactor and regression risk.
-
----
-
-## 11. Current Sprint & Top Priorities (next actions)
-- Sprint Goal: Stabilize Core public API and add verification automation.
-- Top priorities:
- 1. Add CI job(s) to compile `GCFIOS_Core` and run root verification (short-term, high priority).
- 2. Formalize ADRs for Platform-First and Core Minimalism into `workflow/ADRs/` (create directory and files).
- 3. Merge `CORE_ARCHITECTURE_V2.md` content into canonical `GCFIOS_CORE_ARCHITECTURE.md` or create a canonical umbrella doc referencing both (doc consolidation).
- 4. Implement basic unit/smoke tests and document the test workflow in `docs/05-Engineering/01-MT5/11 - Testing Workflow.md`.
-
----
-
-## 12. Verification History (notable)
-- 2026-07-30 — Core library compiled successfully (per `docs/05-Engineering/01-MT5/development journal.md`).
-- 2026-08-02 — Documentation Audit and Index completed.
-
----
-
-## 13. Upcoming Work & Owners
-- CI & Test: Owner — DevOps / Engineering Lead
-- ADR formalization: Owner — Architecture Lead
-- Core API stabilization: Owner — Core Team
-- Registry & Event Bus verification: Owner — Runtime Team
-
----
-
-## 14. Architecture Timeline (practical)
-- 2026-Q3 — Finish Core stabilization and CI
-- 2026-Q4 — Deliver Phase 1 Market Intelligence modules (value-first)
-- 2027-Q1 — Begin SDK planning and cross-client adapters
-
----
-
-## 15. Profile Update History
-- 2026-08-05 — Created initial Living Architectural Profile.
-- 2026-08-05 — Updated with canonicalization and current state after doc audit and archive operations.
-- 2026-08-07 — Added strict governance relationship with Software Engineering Methodology and clarified methodology/profile authority boundaries.
-
----
-
-## 16. Architectural Investigation Template
-Use this template for every investigation; include an ID and update `Profile Update History`.
-
+```text
+                    GCFIOS
+                      │
+                      ▼
+             UNIVERSAL PLATFORM
+                      │
+              ┌───────┴────────┐
+              │                │
+              ▼                ▼
+        Universal Core    Platform Capabilities
+              │                │
+              │          Engines / SDK / Plugins
+              │                │
+              └────────┬───────┘
+                       ▼
+                Client Adapters
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+            MT5      Future     Future
+                     Client     Client
 ```
+
+### Non-negotiable architectural facts
+
+1. GCFIOS is a universal platform.
+2. The universal foundation must not depend on MT5 or any other client technology.
+3. MT5 is Client One.
+4. Client-specific functionality belongs behind a client adapter/integration boundary.
+5. Universal platform logic must not be duplicated inside clients.
+6. Higher layers may depend on lower layers through explicit contracts.
+7. Lower layers must never depend upward on applications or clients.
+
+---
+
+# 3. Repository Architecture State
+
+Two architectural views are intentionally maintained:
+
+### Repository ownership view
+
+```text
+Core
+Engines
+SDK
+Plugins
+Applications
+Clients
+Tests
+Docs
+Tools
+Resources
+```
+
+### Internal dependency view
+
+```text
+Applications / Clients
+        ↓
+SDK / Plugins
+        ↓
+Engines
+        ↓
+Events / Execution
+        ↓
+Services
+        ↓
+System
+        ↓
+Infrastructure
+```
+
+The repository view defines ownership and organization. The dependency view defines architectural dependency direction. They are complementary views, not competing architectures.
+
+The authoritative universal architecture is:
+
+`docs/architecture/01-Universal Platform Architecture.md`
+
+---
+
+# 4. Engineering Health
+
+| Area | Current State |
+|---|---|
+| Engineering Methodology | Stable / governing |
+| Living Architectural Profile | Active / governing current-state record |
+| Universal Platform Architecture | Established |
+| Repository Architecture | Established; normalization in progress |
+| Universal Core Implementation | Not yet established as the active implementation target |
+| Client Boundary | Defined conceptually; implementation deferred |
+| MT5 Integration | Deferred to client-adapter phase |
+| Automated Testing | Not yet established for universal foundation |
+| CI | Not yet established for universal foundation |
+| Documentation | Extensive; consolidation and authority cleanup ongoing |
+| Historical Archive | Preserved and isolated from active architecture |
+
+---
+
+# 5. Architecture Maturity
+
+| Area | Maturity | Evidence / Status |
+|---|---|---|
+| Engineering Methodology | Stable | Governing methodology document |
+| Architectural Profile | Stable | This living record |
+| Platform-First Decision | Accepted | ADR-001 |
+| MT5 Client-One Decision | Accepted | ADR-002 |
+| Universal Platform Boundary | Defined | `docs/architecture/01-Universal Platform Architecture.md` |
+| Repository Architecture | Defined | `REPOSITORY_ARCHITECTURE.md` |
+| Universal Core Foundation | Draft / Pre-Implementation | Next implementation target |
+| Engines | Planned | Future platform capability layer |
+| SDK | Planned | Future developer integration layer |
+| Plugins | Planned | Future extension layer |
+| Client Adapters | Planned | MT5 first adapter after foundation |
+
+---
+
+# 6. Current Implementation State
+
+The project is currently transitioning from an earlier MT5-oriented implementation/documentation model to the accepted universal platform-first architecture.
+
+The previous MT5-specific Core architecture documents have been removed from the active architecture path and preserved as historical material under `docs/architecture/archive/`.
+
+No existing MT5 implementation should be treated as the universal Core specification merely because it existed first.
+
+The next implementation increment must be designed from the universal architecture first.
+
+---
+
+# 7. Architectural Observations
+
+### OBS-001 — Previous MT5-first Core definition
+
+**Date:** 2026-08-07
+
+**Observation:** Active documentation previously defined GCFIOS Core as an MT5 foundation.
+
+**Impact:** This conflicted with the accepted Platform-First / client-independent direction.
+
+**Decision:** Preserve historical MT5 architecture for reference but remove it from the active universal architecture path.
+
+**Result:** Universal platform architecture established as the active architectural authority.
+
+### OBS-002 — Multiple architecture abstraction levels
+
+**Date:** 2026-08-07
+
+**Observation:** Repository architecture and internal dependency-layer architecture described the platform at different levels.
+
+**Decision:** Treat them as complementary views: repository ownership versus internal dependency direction.
+
+**Result:** No forced deletion of useful architecture merely because its abstraction level differs.
+
+---
+
+# 8. Technical Debt
+
+Current known debt:
+
+- Existing historical documentation contains terminology from the earlier MT5-first phase.
+- Some active documents may still reference superseded architecture and require gradual link/authority cleanup.
+- Universal Core implementation has not yet been rebuilt from the normalized architecture.
+- Automated verification for the universal foundation does not yet exist.
+- Existing MT5 implementation artifacts must not be mistaken for the universal foundation.
+
+Technical debt is recorded here even when it is intentionally deferred.
+
+---
+
+# 9. Known Risks
+
+### Risk 1 — Client leakage
+
+MT5-specific assumptions could accidentally enter the universal foundation.
+
+**Control:** Enforce the client-independent Core boundary.
+
+### Risk 2 — Documentation authority drift
+
+Multiple older architecture documents may cause conflicting interpretations.
+
+**Control:** Maintain explicit authoritative documents and archive superseded architecture.
+
+### Risk 3 — Premature implementation
+
+Implementing Identity, Runtime, Registry, SDK, or client adapters before the universal foundation boundaries are finalized could recreate architectural drift.
+
+**Control:** Build only the currently authorized increment.
+
+### Risk 4 — Documentation overgrowth
+
+The project contains substantial historical and design material.
+
+**Control:** Keep current architecture concise and authoritative; preserve history separately.
+
+---
+
+# 10. Current Authorized Scope
+
+The only implementation scope currently authorized is:
+
+> **Universal Core Foundation V1**
+
+The implementation must establish foundational, reusable, client-independent capabilities only.
+
+Client-specific implementation is not currently authorized as part of this increment.
+
+---
+
+# 11. Current Priorities
+
+1. Establish the universal Core repository/code boundary.
+2. Define the minimal universal Core contracts.
+3. Implement only foundational V1 capabilities.
+4. Verify the universal foundation through its designated root compilation/test mechanism.
+5. Update this profile after the milestone.
+6. Only then authorize the next foundation increment.
+
+---
+
+# 12. Verification Requirements
+
+A foundation increment cannot be considered complete merely because individual files appear correct.
+
+Verification must evaluate the complete designated root of the relevant implementation system.
+
+For universal platform code, the verification mechanism will be defined as part of the implementation foundation before claiming system-level success.
+
+For future client adapters, client-specific root verification will be performed separately.
+
+---
+
+# 13. Methodology Compliance Checklist
+
+Before closing a meaningful milestone:
+
+- [ ] Architecture reviewed
+- [ ] Ownership and boundaries reviewed
+- [ ] Public contracts reviewed
+- [ ] Current scope explicitly defined
+- [ ] Implementation limited to authorized scope
+- [ ] Root/system-level verification performed
+- [ ] Verification evidence recorded
+- [ ] Technical debt recorded
+- [ ] Risks reviewed
+- [ ] Roadmap impact assessed
+- [ ] ADR created if the decision is normative
+- [ ] Profile updated
+- [ ] Profile remains consistent with Software Engineering Methodology
+
+---
+
+# 14. Profile Update Rules
+
+The profile must be updated when there is a meaningful change to:
+
+- architecture
+- subsystem maturity
+- public contracts
+- dependency boundaries
+- implementation maturity
+- verification state
+- technical debt
+- major risks
+- roadmap priorities
+- accepted architectural decisions
+
+A minor code edit that does not materially change architectural state does not require a profile update by itself.
+
+Errors may trigger an update when investigation reveals an architectural observation, systemic weakness, new risk, or meaningful change in project state.
+
+---
+
+# 15. Architecture Timeline
+
+- **2026-08-05:** Living Architectural Profile established and governed by the Software Engineering Methodology.
+- **2026-08-07:** Repository audit performed against the current GitHub tree.
+- **2026-08-07:** Universal Platform Architecture established as the active architecture authority.
+- **2026-08-07:** Superseded MT5-first Core architecture removed from active documentation and preserved in architecture archive.
+- **2026-08-07:** Current implementation direction reset to Universal Core Foundation V1.
+
+---
+
+# 16. Profile Update History
+
+- 2026-08-05 — Initial Living Architectural Profile established.
+- 2026-08-07 — Governance relationship with Software Engineering Methodology confirmed.
+- 2026-08-07 — Platform-first architecture synchronized into the current project state.
+- 2026-08-07 — MT5-first Core documentation removed from active authority path and archived.
+- 2026-08-07 — Universal Core Foundation V1 established as the next authorized implementation scope.
+
+---
+
+# 17. Architectural Investigation Template
+
+```text
 Investigation ID: INVEST-###
 Date:
 Subsystem:
 Observation:
 Context:
+Evidence:
 Investigation Steps:
 Architectural Review:
 Decision:
-Implementation Notes:
+Implementation Impact:
 Verification:
-Lessons Learned:
+Technical Debt Impact:
+Risk Impact:
 Profile Impact:
 Future Work:
 ```
 
 ---
 
-## 17. Methodology Compliance Checklist (must pass before closing a milestone)
-- [ ] Architecture reviewed
-- [ ] Public contract reviewed
-- [ ] Root compilation performed
-- [ ] Verification completed
-- [ ] Architectural Profile updated
-- [ ] Technical debt recorded (if any)
-- [ ] Roadmap impact assessed
-- [ ] ADR created (if decision is normative)
-- [ ] Sprint log updated
-- [ ] Profile remains consistent with Software Engineering Methodology
-- [ ] No profile rule contradicts or silently overrides the methodology
+# 18. Authoritative References
+
+- `Software Engineering Methodology.md` — engineering governance authority
+- `Living Architectural Profile.md` — current project-state authority
+- `docs/architecture/01-Universal Platform Architecture.md` — universal platform architecture authority
+- `REPOSITORY_ARCHITECTURE.md` — repository ownership and structure authority
+- `workflow/ADRs/ADR-001 Platform First.md` — platform-first decision
+- `workflow/ADRs/ADR-002 MT5 Is Client One.md` — MT5 client decision
+
+Historical documents must not override these authorities.
 
 ---
 
-## 18. Links & References
-- Documentation Index: `Documentation Index.md`
-- Documentation Audit: `Documentation Audit.md`
-- Repository Architecture: `REPOSITORY_ARCHITECTURE.md`
-- Engineering Methodology: `Software Engineering Methodology.md`
+# 19. Owner
+
+- **Project:** GCFIOS
+- **Architectural Authority:** Project Architecture Governance
+- **Engineering Governance:** Software Engineering Methodology
+- **Current Implementation Focus:** Universal Core Foundation V1
 
 ---
 
-## 19. Owner
-- Owner: Architecture Lead (assign as appropriate)
-- Maintainers: Core Team, Runtime Team, Docs Owner
-
----
-
-*End of Living Architectural Profile (current state snapshot).*
+*End of Living Architectural Profile.*
