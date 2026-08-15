@@ -70,3 +70,17 @@ add_test(
     NAME gcfios_context_smoke_test
     COMMAND gcfios_context_smoke_test
 )
+
+add_executable(gcfios_lifecycle_smoke_test
+    tests/system/lifecycle/Lifecycle_Smoke_Test.cpp
+)
+
+target_link_libraries(gcfios_lifecycle_smoke_test
+    PRIVATE
+        gcfios_core
+)
+
+add_test(
+    NAME gcfios_lifecycle_smoke_test
+    COMMAND gcfios_lifecycle_smoke_test
+)
