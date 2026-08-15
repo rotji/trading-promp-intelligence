@@ -28,3 +28,17 @@ add_test(
     NAME gcfios_foundation_smoke_test
     COMMAND gcfios_foundation_smoke_test
 )
+
+add_executable(gcfios_identity_smoke_test
+    tests/system/identity/Identity_Smoke_Test.cpp
+)
+
+target_link_libraries(gcfios_identity_smoke_test
+    PRIVATE
+        gcfios_core
+)
+
+add_test(
+    NAME gcfios_identity_smoke_test
+    COMMAND gcfios_identity_smoke_test
+)
