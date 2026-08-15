@@ -1,0 +1,16 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# Visual Studio generated files
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Compiled binaries and intermediate files
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
