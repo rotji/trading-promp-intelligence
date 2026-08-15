@@ -45,7 +45,7 @@ Historical evolution belongs in `archive/` and formal decision records. Current 
 - **Immediate Objective:** Build and verify a reusable universal GCFIOS foundation
 - **Client Integration:** Deferred until the universal foundation reaches appropriate verified maturity
 - **Last Updated:** 2026-08-15
-- **Overall Status:** Foundation Primitives V1 and Identity V1 implemented and locally verified; Versioning V1 is next
+- **Overall Status:** Foundation Primitives V1, Identity V1, and Versioning V1 implemented and locally verified; Context V1 is now the next authorized increment and awaits local verification
 
 ---
 
@@ -141,10 +141,10 @@ The authoritative universal architecture is:
 | Living Architectural Profile | Active / governing current-state record |
 | Universal Platform Architecture | Established |
 | Repository Architecture | Established; normalization complete for current foundation direction |
-| Universal Core Implementation | Foundation Primitives V1 and Identity V1 established and locally verified |
+| Universal Core Implementation | Foundation Primitives V1, Identity V1, and Versioning V1 established and locally verified; Context V1 implemented on GitHub and awaiting local verification |
 | Client Boundary | Defined conceptually; implementation deferred |
 | MT5 Integration | Deferred to client-adapter phase |
-| Automated Testing | Foundation and Identity smoke verification established |
+| Automated Testing | Foundation, Identity, and Versioning smoke verification established; Context smoke verification added and awaiting local execution |
 | CI | Not yet established for universal foundation |
 | Documentation | Extensive; current authority path established |
 | Historical Archive | Preserved and isolated from active architecture |
@@ -163,7 +163,8 @@ The authoritative universal architecture is:
 | Repository Architecture | Defined | `REPOSITORY_ARCHITECTURE.md` |
 | Foundation Primitives V1 | Verified | C++/CMake root build and smoke test pass |
 | Identity V1 | Verified | C++/CMake root build and Identity smoke test pass |
-| Versioning V1 | Authorized / Next | Next foundation increment |
+| Versioning V1 | Verified | C++/CMake root build and Version smoke test pass |
+| Context V1 | Implemented / Awaiting Verification | Context contract and smoke test registered in root CMake |
 | Engines | Planned | Future platform capability layer |
 | SDK | Planned | Future developer integration layer |
 | Plugins | Planned | Future extension layer |
@@ -208,13 +209,45 @@ The Identity smoke test builds and executes successfully through the root CMake 
 
 Identity has no dependency on MT5, MQL5, brokers, trading accounts, terminals, users, or other client-specific runtime objects.
 
+### Versioning V1 — verified
+
+```text
+src/core/system/versioning/
+└── Version.h
+```
+
+Versioning V1 exposes the universal release identity tuple:
+
+- major
+- minor
+- patch
+
+The Version smoke test builds and executes successfully through the root CMake build.
+
+### Context V1 — implemented; awaiting verification
+
+```text
+src/core/system/context/
+└── Context.h
+```
+
+Context V1 contains only:
+
+- universal platform identity
+- universal platform version
+- initialization state
+
+The Context smoke test is registered in the root CMake build but has not yet been locally executed against the current GitHub state. Therefore Context V1 is **not yet verified**.
+
+Context V1 contains no MT5, MQL5, broker, account, terminal, browser, Node.js, Python, or other client-specific runtime dependency.
+
 ---
 
 # 7. Verification Evidence
 
 The verified local root build currently uses Visual Studio 2026/MSVC through CMake.
 
-Verified sequence on 2026-08-15:
+Verified through the last local milestone:
 
 ```text
 cmake -S . -B build
@@ -225,8 +258,9 @@ cmake --build build
         ↓
 Foundation smoke test built
 Identity smoke test built
+Version smoke test built
         ↓
-gcfios_identity_smoke_test.exe
+gcfios_version_smoke_test.exe
         ↓
 execution succeeded with no assertion failure
         ↓
@@ -234,6 +268,8 @@ git status
         ↓
 working tree clean
 ```
+
+The current GitHub increment adds Context V1 and its smoke test. It is awaiting the corresponding local pull, build, and execution before it can be recorded as verified.
 
 The `build/` directory is local generated output and is excluded by `.gitignore`.
 
@@ -274,6 +310,28 @@ Compilation and smoke-test execution are treated as verification evidence for th
 **Evidence:** Root CMake configuration and build succeeded; Foundation and Identity smoke executables built and executed successfully; local Git working tree remained clean.
 
 **Result:** Foundation Primitives V1 and Identity V1 are now recorded as verified architectural state.
+
+### OBS-004 — Versioning V1 verified
+
+**Date:** 2026-08-15
+
+**Observation:** Versioning V1 initially exposed a compiler compatibility defect in its equality operator during local MSVC verification.
+
+**Decision:** Replace the problematic defaulted comparison with an explicit constexpr comparison while preserving the same contract semantics.
+
+**Evidence:** GitHub implementation corrected; local CMake configuration and root build succeeded; Version smoke executable built and executed successfully; working tree remained clean.
+
+**Result:** Versioning V1 is verified architectural state.
+
+### OBS-005 — Context V1 implementation started
+
+**Date:** 2026-08-15
+
+**Observation:** Foundation Primitives, Identity, and Versioning have passed their verification gates, authorizing the next incremental Context implementation.
+
+**Decision:** Implement the smallest universal Context contract and a dedicated smoke test, then require local root build and execution before marking Context verified.
+
+**Result:** Context V1 implementation exists on GitHub and remains unverified pending local execution.
 
 ---
 
@@ -327,12 +385,13 @@ The following increments are currently verified:
 
 1. Foundation Primitives V1
 2. Identity V1
-
-The next authorized increment is:
-
 3. Versioning V1
 
-No later increment is authorized merely because it appears in the roadmap.
+The current authorized implementation increment is:
+
+4. Context V1
+
+Context V1 is implemented on GitHub but is not yet verified locally. No later increment is authorized until the Context verification gate passes.
 
 Client-specific implementation is not currently authorized as part of this foundation work.
 
@@ -340,10 +399,10 @@ Client-specific implementation is not currently authorized as part of this found
 
 # 12. Current Priorities
 
-1. Complete Versioning V1.
-2. Verify Versioning through the root build/test mechanism.
-3. Record the verified milestone in this profile.
-4. Proceed incrementally through Context, Lifecycle, Logging, Assertions/Validation, Core Integration Boundary, and Root Verification.
+1. Pull the current GitHub Context V1 implementation.
+2. Verify Context through the root build/test mechanism.
+3. If verification passes, record Context V1 as verified.
+4. Proceed incrementally through Lifecycle, Logging, Assertions/Validation, Core Integration Boundary, and Root Verification.
 5. Only after foundation completion authorize subsequent platform layers.
 
 ---
@@ -374,8 +433,8 @@ Before closing a meaningful milestone:
 - [ ] Architecture reviewed
 - [ ] Ownership and boundaries reviewed
 - [ ] Public contracts reviewed
-- [ ] Current scope explicitly defined
-- [ ] Implementation limited to authorized scope
+- [x] Current scope explicitly defined
+- [x] Implementation limited to authorized scope
 - [x] Root/system-level verification performed for completed increments
 - [x] Verification evidence recorded for completed increments
 - [ ] Technical debt reviewed
@@ -417,6 +476,8 @@ Errors may trigger an update when investigation reveals an architectural observa
 - **2026-08-07:** Current implementation direction reset to Universal Core Foundation V1.
 - **2026-08-15:** Foundation Primitives V1 implemented and locally verified.
 - **2026-08-15:** Identity V1 implemented and locally verified.
+- **2026-08-15:** Versioning V1 implemented and locally verified.
+- **2026-08-15:** Context V1 implemented on GitHub; local verification pending.
 
 ---
 
@@ -428,6 +489,8 @@ Errors may trigger an update when investigation reveals an architectural observa
 - 2026-08-07 — MT5-first Core documentation removed from active authority path and archived.
 - 2026-08-07 — Universal Core Foundation V1 established as the next authorized implementation scope.
 - 2026-08-15 — Foundation Primitives V1 and Identity V1 recorded as locally verified implementation milestones.
+- 2026-08-15 — Versioning V1 recorded as locally verified after correcting an MSVC compatibility issue.
+- 2026-08-15 — Context V1 implementation and smoke verification gate added; local verification pending.
 
 ---
 
@@ -473,7 +536,7 @@ Historical documents must not override these authorities.
 - **Project:** GCFIOS
 - **Architectural Authority:** Project Architecture Governance
 - **Engineering Governance:** Software Engineering Methodology
-- **Current Implementation Focus:** Universal Core Foundation V1
+- **Current Implementation Focus:** Universal Core Foundation V1 / Context V1 verification
 
 ---
 
