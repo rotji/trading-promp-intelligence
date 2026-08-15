@@ -44,8 +44,8 @@ Historical evolution belongs in `archive/` and formal decision records. Current 
 - **Current Client:** MT5 is Client One, but is not part of the universal foundation
 - **Immediate Objective:** Build and verify a reusable universal GCFIOS foundation
 - **Client Integration:** Deferred until the universal foundation reaches appropriate verified maturity
-- **Last Updated:** 2026-08-07
-- **Overall Status:** Architecture normalization complete; universal foundation implementation not yet established
+- **Last Updated:** 2026-08-15
+- **Overall Status:** Foundation Primitives V1 and Identity V1 implemented and locally verified; Versioning V1 is next
 
 ---
 
@@ -140,13 +140,13 @@ The authoritative universal architecture is:
 | Engineering Methodology | Stable / governing |
 | Living Architectural Profile | Active / governing current-state record |
 | Universal Platform Architecture | Established |
-| Repository Architecture | Established; normalization in progress |
-| Universal Core Implementation | Not yet established as the active implementation target |
+| Repository Architecture | Established; normalization complete for current foundation direction |
+| Universal Core Implementation | Foundation Primitives V1 and Identity V1 established and locally verified |
 | Client Boundary | Defined conceptually; implementation deferred |
 | MT5 Integration | Deferred to client-adapter phase |
-| Automated Testing | Not yet established for universal foundation |
+| Automated Testing | Foundation and Identity smoke verification established |
 | CI | Not yet established for universal foundation |
-| Documentation | Extensive; consolidation and authority cleanup ongoing |
+| Documentation | Extensive; current authority path established |
 | Historical Archive | Preserved and isolated from active architecture |
 
 ---
@@ -161,7 +161,9 @@ The authoritative universal architecture is:
 | MT5 Client-One Decision | Accepted | ADR-002 |
 | Universal Platform Boundary | Defined | `docs/architecture/01-Universal Platform Architecture.md` |
 | Repository Architecture | Defined | `REPOSITORY_ARCHITECTURE.md` |
-| Universal Core Foundation | Draft / Pre-Implementation | Next implementation target |
+| Foundation Primitives V1 | Verified | C++/CMake root build and smoke test pass |
+| Identity V1 | Verified | C++/CMake root build and Identity smoke test pass |
+| Versioning V1 | Authorized / Next | Next foundation increment |
 | Engines | Planned | Future platform capability layer |
 | SDK | Planned | Future developer integration layer |
 | Plugins | Planned | Future extension layer |
@@ -171,17 +173,75 @@ The authoritative universal architecture is:
 
 # 6. Current Implementation State
 
-The project is currently transitioning from an earlier MT5-oriented implementation/documentation model to the accepted universal platform-first architecture.
+The project has transitioned from the earlier MT5-oriented implementation/documentation model to the accepted universal platform-first architecture.
 
 The previous MT5-specific Core architecture documents have been removed from the active architecture path and preserved as historical material under `docs/architecture/archive/`.
 
-No existing MT5 implementation should be treated as the universal Core specification merely because it existed first.
+The Universal Core implementation now begins with the smallest authorized foundation increments.
 
-The next implementation increment must be designed from the universal architecture first.
+### Foundation Primitives V1 — verified
+
+```text
+src/core/foundation/
+├── Foundation_Status.h
+├── Foundation_Error.h
+├── Foundation_Result.h
+└── Foundation_Types.h
+```
+
+The Foundation smoke test builds and executes successfully through the root CMake build.
+
+### Identity V1 — verified
+
+```text
+src/core/system/identity/
+└── Identity.h
+```
+
+Identity V1 exposes only universal platform identity:
+
+- platform identifier
+- product family identifier
+- platform name
+
+The Identity smoke test builds and executes successfully through the root CMake build.
+
+Identity has no dependency on MT5, MQL5, brokers, trading accounts, terminals, users, or other client-specific runtime objects.
 
 ---
 
-# 7. Architectural Observations
+# 7. Verification Evidence
+
+The verified local root build currently uses Visual Studio 2026/MSVC through CMake.
+
+Verified sequence on 2026-08-15:
+
+```text
+cmake -S . -B build
+        ↓
+configuration succeeded
+        ↓
+cmake --build build
+        ↓
+Foundation smoke test built
+Identity smoke test built
+        ↓
+gcfios_identity_smoke_test.exe
+        ↓
+execution succeeded with no assertion failure
+        ↓
+git status
+        ↓
+working tree clean
+```
+
+The `build/` directory is local generated output and is excluded by `.gitignore`.
+
+Compilation and smoke-test execution are treated as verification evidence for these increments; they do not authorize future increments automatically.
+
+---
+
+# 8. Architectural Observations
 
 ### OBS-001 — Previous MT5-first Core definition
 
@@ -205,23 +265,33 @@ The next implementation increment must be designed from the universal architectu
 
 **Result:** No forced deletion of useful architecture merely because its abstraction level differs.
 
+### OBS-003 — Foundation implementation baseline established
+
+**Date:** 2026-08-15
+
+**Observation:** The universal foundation has moved from design-only status to verified implementation for Foundation Primitives V1 and Identity V1.
+
+**Evidence:** Root CMake configuration and build succeeded; Foundation and Identity smoke executables built and executed successfully; local Git working tree remained clean.
+
+**Result:** Foundation Primitives V1 and Identity V1 are now recorded as verified architectural state.
+
 ---
 
-# 8. Technical Debt
+# 9. Technical Debt
 
 Current known debt:
 
 - Existing historical documentation contains terminology from the earlier MT5-first phase.
-- Some active documents may still reference superseded architecture and require gradual link/authority cleanup.
-- Universal Core implementation has not yet been rebuilt from the normalized architecture.
-- Automated verification for the universal foundation does not yet exist.
+- Some older documents may still contain superseded terminology and require gradual link/authority cleanup.
+- Universal Core implementation remains intentionally incomplete beyond the verified increments.
+- CI is not yet established for the universal foundation.
 - Existing MT5 implementation artifacts must not be mistaken for the universal foundation.
 
 Technical debt is recorded here even when it is intentionally deferred.
 
 ---
 
-# 9. Known Risks
+# 10. Known Risks
 
 ### Risk 1 — Client leakage
 
@@ -237,7 +307,7 @@ Multiple older architecture documents may cause conflicting interpretations.
 
 ### Risk 3 — Premature implementation
 
-Implementing Identity, Runtime, Registry, SDK, or client adapters before the universal foundation boundaries are finalized could recreate architectural drift.
+Implementing future subsystems before their authorized foundation increment could recreate architectural drift.
 
 **Control:** Build only the currently authorized increment.
 
@@ -249,42 +319,55 @@ The project contains substantial historical and design material.
 
 ---
 
-# 10. Current Authorized Scope
+# 11. Current Authorized Scope
 
-The only implementation scope currently authorized is:
+The current implementation scope is **Universal Core Foundation V1**, proceeding incrementally.
 
-> **Universal Core Foundation V1**
+The following increments are currently verified:
 
-The implementation must establish foundational, reusable, client-independent capabilities only.
+1. Foundation Primitives V1
+2. Identity V1
 
-Client-specific implementation is not currently authorized as part of this increment.
+The next authorized increment is:
 
----
+3. Versioning V1
 
-# 11. Current Priorities
+No later increment is authorized merely because it appears in the roadmap.
 
-1. Establish the universal Core repository/code boundary.
-2. Define the minimal universal Core contracts.
-3. Implement only foundational V1 capabilities.
-4. Verify the universal foundation through its designated root compilation/test mechanism.
-5. Update this profile after the milestone.
-6. Only then authorize the next foundation increment.
+Client-specific implementation is not currently authorized as part of this foundation work.
 
 ---
 
-# 12. Verification Requirements
+# 12. Current Priorities
+
+1. Complete Versioning V1.
+2. Verify Versioning through the root build/test mechanism.
+3. Record the verified milestone in this profile.
+4. Proceed incrementally through Context, Lifecycle, Logging, Assertions/Validation, Core Integration Boundary, and Root Verification.
+5. Only after foundation completion authorize subsequent platform layers.
+
+---
+
+# 13. Verification Requirements
 
 A foundation increment cannot be considered complete merely because individual files appear correct.
 
-Verification must evaluate the complete designated root of the relevant implementation system.
+Each increment requires:
 
-For universal platform code, the verification mechanism will be defined as part of the implementation foundation before claiming system-level success.
+- authoritative contract
+- implementation
+- verification coverage
+- successful root/system-level build
+- successful designated verification execution
+- recorded verified state in this profile
+
+For universal platform code, verification must remain client-independent.
 
 For future client adapters, client-specific root verification will be performed separately.
 
 ---
 
-# 13. Methodology Compliance Checklist
+# 14. Methodology Compliance Checklist
 
 Before closing a meaningful milestone:
 
@@ -293,18 +376,18 @@ Before closing a meaningful milestone:
 - [ ] Public contracts reviewed
 - [ ] Current scope explicitly defined
 - [ ] Implementation limited to authorized scope
-- [ ] Root/system-level verification performed
-- [ ] Verification evidence recorded
-- [ ] Technical debt recorded
+- [x] Root/system-level verification performed for completed increments
+- [x] Verification evidence recorded for completed increments
+- [ ] Technical debt reviewed
 - [ ] Risks reviewed
 - [ ] Roadmap impact assessed
 - [ ] ADR created if the decision is normative
-- [ ] Profile updated
-- [ ] Profile remains consistent with Software Engineering Methodology
+- [x] Profile updated after verified foundation milestones
+- [x] Profile remains consistent with Software Engineering Methodology
 
 ---
 
-# 14. Profile Update Rules
+# 15. Profile Update Rules
 
 The profile must be updated when there is a meaningful change to:
 
@@ -325,27 +408,30 @@ Errors may trigger an update when investigation reveals an architectural observa
 
 ---
 
-# 15. Architecture Timeline
+# 16. Architecture Timeline
 
 - **2026-08-05:** Living Architectural Profile established and governed by the Software Engineering Methodology.
 - **2026-08-07:** Repository audit performed against the current GitHub tree.
 - **2026-08-07:** Universal Platform Architecture established as the active architecture authority.
 - **2026-08-07:** Superseded MT5-first Core architecture removed from active documentation and preserved in architecture archive.
 - **2026-08-07:** Current implementation direction reset to Universal Core Foundation V1.
+- **2026-08-15:** Foundation Primitives V1 implemented and locally verified.
+- **2026-08-15:** Identity V1 implemented and locally verified.
 
 ---
 
-# 16. Profile Update History
+# 17. Profile Update History
 
 - 2026-08-05 — Initial Living Architectural Profile established.
 - 2026-08-07 — Governance relationship with Software Engineering Methodology confirmed.
 - 2026-08-07 — Platform-first architecture synchronized into the current project state.
 - 2026-08-07 — MT5-first Core documentation removed from active authority path and archived.
 - 2026-08-07 — Universal Core Foundation V1 established as the next authorized implementation scope.
+- 2026-08-15 — Foundation Primitives V1 and Identity V1 recorded as locally verified implementation milestones.
 
 ---
 
-# 17. Architectural Investigation Template
+# 18. Architectural Investigation Template
 
 ```text
 Investigation ID: INVEST-###
@@ -367,11 +453,13 @@ Future Work:
 
 ---
 
-# 18. Authoritative References
+# 19. Authoritative References
 
 - `Software Engineering Methodology.md` — engineering governance authority
 - `Living Architectural Profile.md` — current project-state authority
 - `docs/architecture/01-Universal Platform Architecture.md` — universal platform architecture authority
+- `docs/architecture/02-Universal Core Foundation V1.md` — foundation design authority
+- `docs/architecture/03-Universal Core Foundation V1 Implementation Plan.md` — foundation implementation sequence
 - `REPOSITORY_ARCHITECTURE.md` — repository ownership and structure authority
 - `workflow/ADRs/ADR-001 Platform First.md` — platform-first decision
 - `workflow/ADRs/ADR-002 MT5 Is Client One.md` — MT5 client decision
@@ -380,7 +468,7 @@ Historical documents must not override these authorities.
 
 ---
 
-# 19. Owner
+# 20. Owner
 
 - **Project:** GCFIOS
 - **Architectural Authority:** Project Architecture Governance
