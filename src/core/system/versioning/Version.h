@@ -10,6 +10,10 @@ struct Version {
     std::uint32_t patch{};
 };
 
-constexpr bool operator==(const Version&, const Version&) noexcept = default;
+constexpr bool operator==(const Version& lhs, const Version& rhs) noexcept {
+    return lhs.major == rhs.major &&
+           lhs.minor == rhs.minor &&
+           lhs.patch == rhs.patch;
+}
 
 } // namespace gcfios::core::system::versioning
