@@ -62,3 +62,9 @@ add_executable(gcfios_core_integration_smoke_test
 )
 target_link_libraries(gcfios_core_integration_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_core_integration_smoke_test COMMAND gcfios_core_integration_smoke_test)
+
+add_executable(gcfios_root_verification_smoke_test
+    tests/core/Root_Verification_Smoke_Test.cpp
+)
+target_link_libraries(gcfios_root_verification_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_root_verification_smoke_test COMMAND gcfios_root_verification_smoke_test)
