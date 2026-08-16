@@ -48,6 +48,7 @@ add_executable(gcfios_lifecycle_smoke_test
 )
 
 target_link_libraries(gcfios_lifecycle_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_lifecycle_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_lifecycle_smoke_test COMMAND gcfios_lifecycle_smoke_test)
 
 add_executable(gcfios_logging_smoke_test
@@ -56,3 +57,10 @@ add_executable(gcfios_logging_smoke_test
 
 target_link_libraries(gcfios_logging_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_logging_smoke_test COMMAND gcfios_logging_smoke_test)
+
+add_executable(gcfios_assertions_smoke_test
+    tests/infrastructure/assertions/Assertions_Smoke_Test.cpp
+)
+
+target_link_libraries(gcfios_assertions_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_assertions_smoke_test COMMAND gcfios_assertions_smoke_test)
