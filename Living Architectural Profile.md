@@ -42,10 +42,10 @@ Historical evolution belongs in `archive/` and formal decision records. Current 
 - **Current Sprint:** Universal Core Foundation V1
 - **Architecture Direction:** Platform-first / client-independent
 - **Current Client:** MT5 is Client One, but is not part of the universal foundation
-- **Immediate Objective:** Build and verify a reusable universal GCFIOS foundation
+- **Immediate Objective:** Complete and verify the Universal Core Foundation V1, then perform explicit architecture authorization review before beginning the next layer
 - **Client Integration:** Deferred until the universal foundation reaches appropriate verified maturity
-- **Last Updated:** 2026-08-15
-- **Overall Status:** Foundation Primitives V1, Identity V1, and Versioning V1 implemented and locally verified; Context V1 is now the next authorized increment and awaits local verification
+- **Last Updated:** 2026-08-16
+- **Overall Status:** Universal Core Foundation V1 implemented and locally verified; next work requires explicit architecture authorization review
 
 ---
 
@@ -141,10 +141,10 @@ The authoritative universal architecture is:
 | Living Architectural Profile | Active / governing current-state record |
 | Universal Platform Architecture | Established |
 | Repository Architecture | Established; normalization complete for current foundation direction |
-| Universal Core Implementation | Foundation Primitives V1, Identity V1, and Versioning V1 established and locally verified; Context V1 implemented on GitHub and awaiting local verification |
+| Universal Core Implementation | Universal Core Foundation V1 implemented and locally verified |
 | Client Boundary | Defined conceptually; implementation deferred |
 | MT5 Integration | Deferred to client-adapter phase |
-| Automated Testing | Foundation, Identity, and Versioning smoke verification established; Context smoke verification added and awaiting local execution |
+| Automated Testing | Foundation, Identity, Versioning, Context, Lifecycle, Logging, Assertions, Core Integration, and Root Verification smoke coverage established and locally passed |
 | CI | Not yet established for universal foundation |
 | Documentation | Extensive; current authority path established |
 | Historical Archive | Preserved and isolated from active architecture |
@@ -164,7 +164,13 @@ The authoritative universal architecture is:
 | Foundation Primitives V1 | Verified | C++/CMake root build and smoke test pass |
 | Identity V1 | Verified | C++/CMake root build and Identity smoke test pass |
 | Versioning V1 | Verified | C++/CMake root build and Version smoke test pass |
-| Context V1 | Implemented / Awaiting Verification | Context contract and smoke test registered in root CMake |
+| Context V1 | Verified | C++/CMake root build and Context smoke test pass |
+| Lifecycle V1 | Verified | C++/CMake root build and Lifecycle smoke test pass |
+| Logging V1 | Verified | C++/CMake root build and Logging smoke test pass |
+| Assertions / Validation V1 | Verified | C++/CMake root build and Assertions smoke test pass |
+| Core Integration Boundary V1 | Verified | Core aggregation and integration smoke test pass |
+| Root Verification V1 | Verified | Root verification smoke test passes |
+| Universal Core Foundation V1 | Complete / Verified | Complete verification chain passed |
 | Engines | Planned | Future platform capability layer |
 | SDK | Planned | Future developer integration layer |
 | Plugins | Planned | Future extension layer |
@@ -178,7 +184,7 @@ The project has transitioned from the earlier MT5-oriented implementation/docume
 
 The previous MT5-specific Core architecture documents have been removed from the active architecture path and preserved as historical material under `docs/architecture/archive/`.
 
-The Universal Core implementation now begins with the smallest authorized foundation increments.
+The Universal Core Foundation V1 implementation is now complete and verified.
 
 ### Foundation Primitives V1 — verified
 
@@ -189,8 +195,6 @@ src/core/foundation/
 ├── Foundation_Result.h
 └── Foundation_Types.h
 ```
-
-The Foundation smoke test builds and executes successfully through the root CMake build.
 
 ### Identity V1 — verified
 
@@ -204,8 +208,6 @@ Identity V1 exposes only universal platform identity:
 - platform identifier
 - product family identifier
 - platform name
-
-The Identity smoke test builds and executes successfully through the root CMake build.
 
 Identity has no dependency on MT5, MQL5, brokers, trading accounts, terminals, users, or other client-specific runtime objects.
 
@@ -222,9 +224,9 @@ Versioning V1 exposes the universal release identity tuple:
 - minor
 - patch
 
-The Version smoke test builds and executes successfully through the root CMake build.
+An initial MSVC compatibility defect in the equality implementation was corrected before verification passed.
 
-### Context V1 — implemented; awaiting verification
+### Context V1 — verified
 
 ```text
 src/core/system/context/
@@ -237,17 +239,56 @@ Context V1 contains only:
 - universal platform version
 - initialization state
 
-The Context smoke test is registered in the root CMake build but has not yet been locally executed against the current GitHub state. Therefore Context V1 is **not yet verified**.
+### Lifecycle V1 — verified
 
-Context V1 contains no MT5, MQL5, broker, account, terminal, browser, Node.js, Python, or other client-specific runtime dependency.
+```text
+src/core/system/lifecycle/
+└── Lifecycle.h
+```
+
+Lifecycle V1 defines the foundational lifecycle states and valid transitions without implementing an orchestration engine.
+
+### Logging V1 — verified
+
+```text
+src/core/services/logging/
+└── Logging.h
+```
+
+Logging V1 provides a minimal universal contract for severity, source, and message without prescribing an output destination.
+
+### Assertions / Validation V1 — verified
+
+```text
+src/core/infrastructure/assertions/
+└── Assertions.h
+```
+
+The assertion boundary provides a minimal mechanism for protecting foundational invariants during development and verification. It is not a testing framework.
+
+### Core Integration Boundary V1 — verified
+
+```text
+src/core/Core.h
+```
+
+`Core.h` is the stable public aggregation boundary for the universal core foundation. It exposes the established foundational contracts without introducing additional runtime behavior or client-specific dependencies.
+
+### Root Verification V1 — verified
+
+```text
+tests/core/Root_Verification_Smoke_Test.cpp
+```
+
+The root verification test consumes the foundation through `Core.h` and exercises the combined foundation contracts, including lifecycle transitions and logging representation.
+
+The designated root verification executable passed locally with no assertion failure.
 
 ---
 
 # 7. Verification Evidence
 
-The verified local root build currently uses Visual Studio 2026/MSVC through CMake.
-
-Verified through the last local milestone:
+The complete verified local chain is:
 
 ```text
 cmake -S . -B build
@@ -256,24 +297,26 @@ configuration succeeded
         ↓
 cmake --build build
         ↓
-Foundation smoke test built
-Identity smoke test built
-Version smoke test built
-        ↓
-gcfios_version_smoke_test.exe
-        ↓
-execution succeeded with no assertion failure
+Foundation smoke test              PASS
+Identity smoke test                PASS
+Versioning smoke test              PASS
+Context smoke test                 PASS
+Lifecycle smoke test               PASS
+Logging smoke test                 PASS
+Assertions smoke test              PASS
+Core integration smoke test        PASS
+Root verification smoke test       PASS
         ↓
 git status
         ↓
 working tree clean
 ```
 
-The current GitHub increment adds Context V1 and its smoke test. It is awaiting the corresponding local pull, build, and execution before it can be recorded as verified.
+The verification environment is the Visual Studio 2026 Developer Command Prompt using MSVC and CMake on Windows.
 
 The `build/` directory is local generated output and is excluded by `.gitignore`.
 
-Compilation and smoke-test execution are treated as verification evidence for these increments; they do not authorize future increments automatically.
+Compilation and smoke-test execution are treated as verification evidence. They do not authorize future increments automatically.
 
 ---
 
@@ -305,13 +348,13 @@ Compilation and smoke-test execution are treated as verification evidence for th
 
 **Date:** 2026-08-15
 
-**Observation:** The universal foundation has moved from design-only status to verified implementation for Foundation Primitives V1 and Identity V1.
+**Observation:** The universal foundation moved from design-only status to verified implementation.
 
-**Evidence:** Root CMake configuration and build succeeded; Foundation and Identity smoke executables built and executed successfully; local Git working tree remained clean.
+**Evidence:** Root CMake configuration and build succeeded; the complete foundation smoke verification chain passed; local Git working tree remained clean.
 
-**Result:** Foundation Primitives V1 and Identity V1 are now recorded as verified architectural state.
+**Result:** Universal Core Foundation V1 is verified architectural state.
 
-### OBS-004 — Versioning V1 verified
+### OBS-004 — Versioning V1 verified after compiler compatibility correction
 
 **Date:** 2026-08-15
 
@@ -323,15 +366,27 @@ Compilation and smoke-test execution are treated as verification evidence for th
 
 **Result:** Versioning V1 is verified architectural state.
 
-### OBS-005 — Context V1 implementation started
+### OBS-005 — Context V1 verified
 
 **Date:** 2026-08-15
 
-**Observation:** Foundation Primitives, Identity, and Versioning have passed their verification gates, authorizing the next incremental Context implementation.
+**Observation:** Context V1 was implemented after Foundation Primitives, Identity, and Versioning passed their verification gates.
 
-**Decision:** Implement the smallest universal Context contract and a dedicated smoke test, then require local root build and execution before marking Context verified.
+**Evidence:** Local CMake configuration and root build succeeded; Context smoke executable built and executed successfully; working tree remained clean.
 
-**Result:** Context V1 implementation exists on GitHub and remains unverified pending local execution.
+**Result:** Context V1 is verified architectural state.
+
+### OBS-006 — Universal Core Foundation V1 completed
+
+**Date:** 2026-08-16
+
+**Observation:** All authorized Universal Core Foundation V1 increments passed their individual and root-level verification gates.
+
+**Evidence:** Foundation, Identity, Versioning, Context, Lifecycle, Logging, Assertions, Core Integration, and Root Verification smoke tests all built successfully; designated executables passed; local working tree remained clean.
+
+**Decision:** Close Universal Core Foundation V1 and prevent automatic progression into a new subsystem without explicit architecture authorization review.
+
+**Result:** Universal Core Foundation V1 is complete and verified. The project now enters an architecture authorization review gate.
 
 ---
 
@@ -341,8 +396,8 @@ Current known debt:
 
 - Existing historical documentation contains terminology from the earlier MT5-first phase.
 - Some older documents may still contain superseded terminology and require gradual link/authority cleanup.
-- Universal Core implementation remains intentionally incomplete beyond the verified increments.
 - CI is not yet established for the universal foundation.
+- Future platform capabilities remain intentionally unimplemented.
 - Existing MT5 implementation artifacts must not be mistaken for the universal foundation.
 
 Technical debt is recorded here even when it is intentionally deferred.
@@ -367,43 +422,55 @@ Multiple older architecture documents may cause conflicting interpretations.
 
 Implementing future subsystems before their authorized foundation increment could recreate architectural drift.
 
-**Control:** Build only the currently authorized increment.
+**Control:** Require explicit architecture authorization before each new increment.
 
-### Risk 4 — Documentation overgrowth
+### Risk 4 — Verification dilution
 
-The project contains substantial historical and design material.
+A successful build could be mistaken for authorization to continue without architectural review.
 
-**Control:** Keep current architecture concise and authoritative; preserve history separately.
+**Control:** Treat verification and architectural authorization as separate gates.
+
+### Risk 5 — Foundation scope expansion
+
+Adding convenience abstractions to the completed foundation could introduce unnecessary coupling.
+
+**Control:** Keep V1 closed unless a documented architectural decision reopens or extends its scope.
 
 ---
 
 # 11. Current Authorized Scope
 
-The current implementation scope is **Universal Core Foundation V1**, proceeding incrementally.
+**Universal Core Foundation V1 is complete and closed.**
 
-The following increments are currently verified:
+Verified increments:
 
 1. Foundation Primitives V1
 2. Identity V1
 3. Versioning V1
-
-The current authorized implementation increment is:
-
 4. Context V1
+5. Lifecycle V1
+6. Logging V1
+7. Assertions / Validation V1
+8. Core Integration Boundary V1
+9. Root Verification V1
 
-Context V1 is implemented on GitHub but is not yet verified locally. No later increment is authorized until the Context verification gate passes.
+No new subsystem is currently authorized for implementation.
 
-Client-specific implementation is not currently authorized as part of this foundation work.
+The next authorized activity is architecture authorization review for the post-foundation layer.
+
+Client-specific implementation remains outside the current scope.
 
 ---
 
 # 12. Current Priorities
 
-1. Pull the current GitHub Context V1 implementation.
-2. Verify Context through the root build/test mechanism.
-3. If verification passes, record Context V1 as verified.
-4. Proceed incrementally through Lifecycle, Logging, Assertions/Validation, Core Integration Boundary, and Root Verification.
-5. Only after foundation completion authorize subsequent platform layers.
+1. Review the completed Universal Core Foundation V1 against the governing architecture and methodology.
+2. Identify the smallest universally required next capability or boundary.
+3. Record the decision if the next step is normative.
+4. Authorize exactly one next implementation increment.
+5. Only then modify the repository.
+
+No automatic jump to Events, Execution, Engines, SDK, Plugins, or MT5 integration is permitted.
 
 ---
 
@@ -424,25 +491,29 @@ For universal platform code, verification must remain client-independent.
 
 For future client adapters, client-specific root verification will be performed separately.
 
+Architectural authorization is a separate gate from technical verification.
+
 ---
 
 # 14. Methodology Compliance Checklist
 
 Before closing a meaningful milestone:
 
-- [ ] Architecture reviewed
-- [ ] Ownership and boundaries reviewed
-- [ ] Public contracts reviewed
+- [x] Architecture reviewed
+- [x] Ownership and boundaries reviewed
+- [x] Public contracts reviewed
 - [x] Current scope explicitly defined
 - [x] Implementation limited to authorized scope
 - [x] Root/system-level verification performed for completed increments
 - [x] Verification evidence recorded for completed increments
-- [ ] Technical debt reviewed
-- [ ] Risks reviewed
-- [ ] Roadmap impact assessed
+- [x] Technical debt reviewed
+- [x] Risks reviewed
+- [x] Roadmap impact assessed
 - [ ] ADR created if the decision is normative
 - [x] Profile updated after verified foundation milestones
 - [x] Profile remains consistent with Software Engineering Methodology
+
+The ADR item remains unchecked because no new normative post-V1 architecture decision has yet been made.
 
 ---
 
@@ -477,7 +548,13 @@ Errors may trigger an update when investigation reveals an architectural observa
 - **2026-08-15:** Foundation Primitives V1 implemented and locally verified.
 - **2026-08-15:** Identity V1 implemented and locally verified.
 - **2026-08-15:** Versioning V1 implemented and locally verified.
-- **2026-08-15:** Context V1 implemented on GitHub; local verification pending.
+- **2026-08-15:** Context V1 implemented and locally verified.
+- **2026-08-15:** Lifecycle V1 implemented and locally verified.
+- **2026-08-15:** Logging V1 implemented and locally verified.
+- **2026-08-15:** Assertions / Validation V1 implemented and locally verified.
+- **2026-08-15:** Core Integration Boundary V1 implemented and locally verified.
+- **2026-08-16:** Root Verification V1 implemented and locally verified.
+- **2026-08-16:** Universal Core Foundation V1 closed as complete and verified; post-foundation architecture authorization review opened.
 
 ---
 
@@ -490,7 +567,9 @@ Errors may trigger an update when investigation reveals an architectural observa
 - 2026-08-07 — Universal Core Foundation V1 established as the next authorized implementation scope.
 - 2026-08-15 — Foundation Primitives V1 and Identity V1 recorded as locally verified implementation milestones.
 - 2026-08-15 — Versioning V1 recorded as locally verified after correcting an MSVC compatibility issue.
-- 2026-08-15 — Context V1 implementation and smoke verification gate added; local verification pending.
+- 2026-08-15 — Context V1, Lifecycle V1, Logging V1, Assertions / Validation V1, and Core Integration Boundary V1 recorded as verified milestones.
+- 2026-08-16 — Root Verification V1 recorded as verified and Universal Core Foundation V1 closed as complete.
+- 2026-08-16 — Post-foundation architecture authorization review established as the next required gate.
 
 ---
 
@@ -522,22 +601,34 @@ Future Work:
 - `Living Architectural Profile.md` — current project-state authority
 - `docs/architecture/01-Universal Platform Architecture.md` — universal platform architecture authority
 - `docs/architecture/02-Universal Core Foundation V1.md` — foundation design authority
-- `docs/architecture/03-Universal Core Foundation V1 Implementation Plan.md` — foundation implementation sequence
+- `docs/architecture/03-Universal Core Foundation V1 Implementation Plan.md` — completed foundation implementation sequence and verification record
 - `REPOSITORY_ARCHITECTURE.md` — repository ownership and structure authority
 - `workflow/ADRs/ADR-001 Platform First.md` — platform-first decision
 - `workflow/ADRs/ADR-002 MT5 Is Client One.md` — MT5 client decision
 
-Historical documents must not override these authorities.
+Historical architecture remains isolated under the designated archive paths.
 
 ---
 
-# 20. Owner
+# 20. Current Gate
 
-- **Project:** GCFIOS
-- **Architectural Authority:** Project Architecture Governance
-- **Engineering Governance:** Software Engineering Methodology
-- **Current Implementation Focus:** Universal Core Foundation V1 / Context V1 verification
+```text
+Universal Core Foundation V1
+            │
+            ▼
+      COMPLETE / VERIFIED
+            │
+            ▼
+Architecture Authorization Review
+            │
+            ▼
+Select exactly one next increment
+            │
+            ▼
+Repository modification
+            │
+            ▼
+Local Visual Studio / CMake verification
+```
 
----
-
-*End of Living Architectural Profile.*
+**Current state:** Architecture authorization review is open. No post-V1 implementation is authorized until that review is completed.
