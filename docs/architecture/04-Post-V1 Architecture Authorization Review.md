@@ -2,15 +2,15 @@
 
 ## Status
 
-**Status:** Accepted
+**Status:** Completed — Events Contract V1 verified; next authorization review required
 
 **Date:** 2026-08-16
 
-**Review scope:** Post-Universal-Core-Foundation-V1 implementation authorization
+**Review scope:** Post-Universal-Core-Foundation-V1 implementation authorization and Events Contract V1 closure
 
 ## 1. Review Objective
 
-Determine the smallest next universal, client-independent implementation increment after Universal Core Foundation V1, without prematurely implementing Events runtime behavior, Execution, Engines, SDK, Plugins, Applications, or client adapters.
+Determine the smallest next universal, client-independent implementation increment after Universal Core Foundation V1, authorize exactly one increment, and close that increment only after technical verification.
 
 ## 2. Evidence Reviewed
 
@@ -27,7 +27,7 @@ The review considered:
 
 ## 3. Verified Starting State
 
-Universal Core Foundation V1 is complete and verified.
+Universal Core Foundation V1 was complete and verified.
 
 Verified increments:
 
@@ -89,19 +89,19 @@ Begin client-specific integration.
 
 ## 6. Decision
 
-**Candidate A is selected.**
+**Candidate A was selected.**
 
-The next authorized implementation increment is:
+The authorized implementation increment was:
 
 > **Universal Events Contract Boundary V1**
 
-This decision is formally recorded in:
+The decision was formally recorded in:
 
 `docs/decisions/ADR-002-Next-Universal-Platform-Increment-Events-Contract.md`
 
 ## 7. Exact Authorized Scope
 
-The next increment may establish only:
+The increment was limited to:
 
 - a client-independent event representation
 - stable event identity/type representation
@@ -111,9 +111,47 @@ The next increment may establish only:
 - a designated smoke verification
 - root CMake integration for that verification
 
-## 8. Explicitly Not Authorized
+## 8. Implementation Result
 
-The next increment must not implement:
+The authorized contract was implemented at:
+
+```text
+src/core/events/Events.h
+```
+
+The V1 contract establishes:
+
+- `EventId` as the universal foundation identifier type
+- `EventType` as a stable unsigned event-type representation
+- `EventHeader` as an immutable value containing event identity, event type, and source identity
+
+No event runtime, dispatcher, subscription mechanism, persistence layer, broker, scheduler, or execution behavior was introduced.
+
+## 9. Verification Result
+
+Designated verification was implemented at:
+
+```text
+tests/events/Events_Smoke_Test.cpp
+```
+
+The test verifies construction and retrieval of event identity, event type, and source identity at compile time and runtime.
+
+The verification was integrated into the root CMake build and executed successfully:
+
+```text
+cmake -S . -B build
+cmake --build build
+build\Debug\gcfios_events_smoke_test.exe
+```
+
+The local repository remained clean after verification.
+
+Therefore, **Universal Events Contract Boundary V1 is complete and verified.**
+
+## 10. Explicitly Not Implemented
+
+The Events increment did not implement:
 
 - event bus
 - dispatcher
@@ -132,26 +170,46 @@ The next increment must not implement:
 - Applications
 - MT5 adapter
 
-## 9. Implementation Gate
+These remain future increments requiring their own architectural review and authorization where appropriate.
 
-Before implementation begins, the Events Contract Boundary V1 must have:
+## 11. Dependency Boundary
 
-1. a documented responsibility
-2. a stable public contract
-3. explicit dependency direction
-4. verification coverage
-5. root CMake integration
-6. successful root compilation
-7. successful designated execution
-8. clean working tree after verification
-9. updated architectural state
+The verified Events contract maintains the intended dependency relationship:
 
-## 10. Next Operational Step
+```text
+Future Engines / SDK / Plugins
+            ↓
+      Events Contract
+            ↓
+       Core Services
+            ↓
+          System
+            ↓
+      Foundation
+```
 
-The architecture review is complete.
+The Events contract introduces no upward dependencies into future consumers.
 
-The next operation is **not** local Visual Studio compilation yet because no code has been added for Events.
+## 12. Completion Gate
 
-The next operation is to modify the GitHub repository directly with the minimal Events Contract Boundary V1 implementation and its verification coverage.
+The Events Contract Boundary V1 completion criteria are satisfied:
 
-After that GitHub change is complete, the local repository will be synchronized and the root CMake build will be used for technical verification.
+1. documented responsibility — satisfied
+2. stable public contract — satisfied
+3. explicit dependency direction — satisfied
+4. designated smoke verification — satisfied
+5. root CMake integration — satisfied
+6. successful root compilation — satisfied
+7. successful designated execution — satisfied
+8. clean working tree after verification — satisfied
+9. updated architectural state — being recorded through the Events closure and profile update
+
+## 13. Next Gate
+
+Completion of Events Contract V1 does **not** automatically authorize Execution, Engines, SDK, Plugins, Applications, or MT5 integration.
+
+The architecture authorization gate is reopened.
+
+The next required activity is a separate architecture review to determine the smallest universally required subsequent boundary.
+
+Until that review is completed, no new post-Events subsystem is authorized for implementation.
