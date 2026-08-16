@@ -3,9 +3,9 @@
 #include "core/Core.h"
 
 int main() {
-    using gcfios::core::context::Context;
+    using gcfios::core::system::context::Context;
     using gcfios::core::infrastructure::assertions::Assert;
-    using gcfios::core::lifecycle::State;
+    using gcfios::core::system::lifecycle::State;
     using gcfios::core::services::logging::LogEntry;
     using gcfios::core::services::logging::Severity;
 
@@ -13,10 +13,10 @@ int main() {
     assert(!context.IsInitialized());
 
     context.initialization_state =
-        gcfios::core::context::InitializationState::Initialized;
+        gcfios::core::system::context::InitializationState::Initialized;
     assert(context.IsInitialized());
 
-    gcfios::core::lifecycle::Lifecycle lifecycle{};
+    gcfios::core::system::lifecycle::Lifecycle lifecycle{};
     assert(lifecycle.state == State::Created);
     assert(lifecycle.TransitionTo(State::Initializing));
     assert(lifecycle.TransitionTo(State::Initialized));
