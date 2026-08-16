@@ -1,5 +1,6 @@
 #pragma once
 
+#include "core/execution/Execution.h"
 #include "core/foundation/Foundation_Error.h"
 #include "core/foundation/Foundation_Result.h"
 #include "core/foundation/Foundation_Status.h"
@@ -13,8 +14,8 @@
 
 namespace gcfios::core {
 
-// Stable public aggregation boundary for the universal core foundation.
-// This header exposes existing foundational contracts without introducing
-// additional runtime behavior or client-specific dependencies.
+// Stable public aggregation boundary for the universal core and execution
+// contracts. This header exposes established contracts without introducing
+// runtime behavior or client-specific dependencies.
 
 } // namespace gcfios::core
