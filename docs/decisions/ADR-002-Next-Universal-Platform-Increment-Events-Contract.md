@@ -2,7 +2,7 @@
 
 ## Status
 
-**Accepted**
+**Accepted — Implemented and Verified**
 
 ## Date
 
@@ -10,7 +10,7 @@
 
 ## Decision
 
-Following completion and verification of Universal Core Foundation V1, the next implementation increment is authorized as:
+Following completion and verification of Universal Core Foundation V1, the next implementation increment was authorized as:
 
 > **Universal Events Contract Boundary V1**
 
@@ -40,19 +40,19 @@ Infrastructure
 
 The Repository Architecture reserves `Core/Events` for communication contracts and coordination, while explicitly stating that future directories should not be created merely for visual completeness.
 
-Universal Core Foundation V1 deliberately reserved Events and Execution and did not implement them. V1 is now complete and verified, so a separate authorization decision is required before either boundary is introduced.
+Universal Core Foundation V1 deliberately reserved Events and Execution and did not implement them. V1 was complete and verified, so a separate authorization decision was required before either boundary was introduced.
 
 ## Why Events First
 
-The Events contract is selected as the next increment because it is the smallest universally meaningful boundary between the completed foundation and future coordination-dependent platform capabilities.
+The Events contract was selected as the next increment because it is the smallest universally meaningful boundary between the completed foundation and future coordination-dependent platform capabilities.
 
-A stable event contract can provide a common architectural language for future platform layers without prematurely implementing a runtime event mechanism.
+A stable event contract provides a common architectural language for future platform layers without prematurely implementing a runtime event mechanism.
 
 Execution remains deferred because a runtime execution model would introduce substantially more behavior and policy, including scheduling, task ownership, orchestration, failure handling, and lifecycle interaction. Those concerns require a later explicit design and authorization.
 
 ## Scope
 
-The Events Contract Boundary V1 may establish only:
+The Events Contract Boundary V1 established only:
 
 - a client-independent event representation
 - stable event identity/type representation
@@ -61,7 +61,7 @@ The Events Contract Boundary V1 may establish only:
 - foundational event contract semantics
 - verification of the contract through the root build
 
-The implementation must remain independent of:
+The implementation remains independent of:
 
 - MT5
 - MQL5
@@ -74,6 +74,42 @@ The implementation must remain independent of:
 - databases
 - network transports
 - application workflows
+
+## Implementation Result
+
+The authorized contract was implemented at:
+
+```text
+src/core/events/Events.h
+```
+
+The V1 contract currently establishes:
+
+- `EventId` as the universal foundation identifier type
+- `EventType` as a stable unsigned event-type representation
+- `EventHeader` as an immutable value containing event identity, event type, and source identity
+
+No event runtime, dispatcher, subscription mechanism, persistence layer, broker, scheduler, or execution behavior was introduced.
+
+## Verification Evidence
+
+Designated verification was implemented at:
+
+```text
+tests/events/Events_Smoke_Test.cpp
+```
+
+The test verifies construction and retrieval of event identity, event type, and source identity at compile time and runtime.
+
+The designated executable was integrated into the root CMake build and executed successfully:
+
+```text
+cmake -S . -B build
+cmake --build build
+build\Debug\gcfios_events_smoke_test.exe
+```
+
+The local repository remained clean after verification.
 
 ## Explicit Non-Goals
 
@@ -100,7 +136,7 @@ These remain future increments requiring their own architectural review and auth
 
 ## Dependency Boundary
 
-The intended dependency relationship is:
+The intended dependency relationship remains:
 
 ```text
 Future Engines / SDK / Plugins
@@ -114,21 +150,21 @@ Future Engines / SDK / Plugins
       Foundation
 ```
 
-The Events contract must not introduce upward dependencies into future consumers.
+The Events contract introduces no upward dependencies into future consumers.
 
-## Implementation Gate
+## Completion Gate
 
-Before implementation begins, the Events Contract Boundary V1 must have:
+The Events Contract Boundary V1 completion criteria are satisfied:
 
-1. a documented responsibility
-2. a stable public contract
-3. explicit dependency direction
-4. a designated smoke verification
-5. root CMake integration
-6. successful root compilation
-7. successful designated execution
-8. a clean working tree after verification
-9. updated Living Architectural Profile evidence
+1. documented responsibility — satisfied
+2. stable public contract — satisfied
+3. explicit dependency direction — satisfied
+4. designated smoke verification — satisfied
+5. root CMake integration — satisfied
+6. successful root compilation — satisfied
+7. successful designated execution — satisfied
+8. clean working tree after verification — satisfied
+9. updated architectural state — being recorded with this closure
 
 ## Consequences
 
@@ -142,8 +178,18 @@ Before implementation begins, the Events Contract Boundary V1 must have:
 
 ### Negative
 
-- The platform will temporarily contain an Events contract without an event runtime.
+- The platform temporarily contains an Events contract without an event runtime.
 - Future consumers may require additional event semantics that must be introduced through later controlled increments.
+
+## Closure
+
+**Universal Events Contract Boundary V1 is complete and verified.**
+
+This ADR is now a record of a completed authorized increment rather than an open implementation authorization.
+
+No next subsystem is automatically authorized by completion of Events Contract V1.
+
+The next activity is a separate architecture authorization review to determine the smallest universally required subsequent boundary.
 
 ## Review Trigger
 
