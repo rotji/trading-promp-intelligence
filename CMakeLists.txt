@@ -48,7 +48,6 @@ add_executable(gcfios_lifecycle_smoke_test
 )
 
 target_link_libraries(gcfios_lifecycle_smoke_test PRIVATE gcfios_core)
-add_test(NAME gcfios_lifecycle_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_lifecycle_smoke_test COMMAND gcfios_lifecycle_smoke_test)
 
 add_executable(gcfios_logging_smoke_test
