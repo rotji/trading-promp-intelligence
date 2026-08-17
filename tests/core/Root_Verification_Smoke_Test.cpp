@@ -3,6 +3,11 @@
 #include "core/Core.h"
 
 int main() {
+    using gcfios::core::events::EventHeader;
+    using gcfios::core::events::EventType;
+    using gcfios::core::execution::ExecutionContract;
+    using gcfios::core::execution::ExecutionIntent;
+    using gcfios::core::execution::ExecutionState;
     using gcfios::core::system::context::Context;
     using gcfios::core::system::context::InitializationState;
     using gcfios::core::system::identity::Identity;
@@ -38,6 +43,19 @@ int main() {
     assert(entry.severity == Severity::Info);
     assert(entry.source != nullptr);
     assert(entry.message != nullptr);
+
+    constexpr EventHeader event{1001, static_cast<EventType>(7), 42};
+    static_assert(event.Id() == 1001);
+    static_assert(event.Type() == static_cast<EventType>(7));
+    static_assert(event.Source() == 42);
+
+    constexpr ExecutionContract execution{
+        2001,
+        ExecutionIntent::Execute,
+        ExecutionState::Created};
+    static_assert(execution.Id() == 2001);
+    static_assert(execution.Intent() == ExecutionIntent::Execute);
+    static_assert(execution.State() == ExecutionState::Created);
 
     return 0;
 }
