@@ -86,3 +86,9 @@ add_executable(gcfios_execution_lifecycle_smoke_test
 )
 target_link_libraries(gcfios_execution_lifecycle_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_execution_lifecycle_smoke_test COMMAND gcfios_execution_lifecycle_smoke_test)
+
+add_executable(gcfios_capability_smoke_test
+    tests/capabilities/Capability_Smoke_Test.cpp
+)
+target_link_libraries(gcfios_capability_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_capability_smoke_test COMMAND gcfios_capability_smoke_test)
