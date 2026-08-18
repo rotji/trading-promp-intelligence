@@ -15,6 +15,8 @@ using RequiredCapabilityKind = std::uint32_t;
 // select, register, load, invoke, or execute a capability.
 class CapabilityRequirement final {
 public:
+    constexpr CapabilityRequirement() noexcept = default;
+
     constexpr CapabilityRequirement(
         CapabilityRequirementId id,
         RequiredCapabilityKind kind,
