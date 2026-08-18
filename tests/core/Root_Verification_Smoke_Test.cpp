@@ -3,6 +3,8 @@
 #include "core/Core.h"
 
 int main() {
+    using gcfios::core::capabilities::CapabilitySelectionResult;
+    using gcfios::core::capabilities::SelectionReason;
     using gcfios::core::events::EventHeader;
     using gcfios::core::events::EventType;
     using gcfios::core::execution::ExecutionContract;
@@ -56,6 +58,14 @@ int main() {
     static_assert(execution.Id() == 2001);
     static_assert(execution.Intent() == ExecutionIntent::Execute);
     static_assert(execution.State() == ExecutionState::Created);
+
+    constexpr CapabilitySelectionResult selection =
+        CapabilitySelectionResult::Selected(3001, 4001);
+    static_assert(selection.IsValid());
+    static_assert(selection.IsSelected());
+    static_assert(selection.Requirement() == 3001);
+    static_assert(selection.Capability() == 4001);
+    static_assert(selection.Reason() == SelectionReason::Selected);
 
     return 0;
 }
