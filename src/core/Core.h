@@ -3,6 +3,7 @@
 #include "core/capabilities/Capability.h"
 #include "core/capabilities/CapabilityCompatibility.h"
 #include "core/capabilities/CapabilityRequirement.h"
+#include "core/capabilities/CapabilitySelection.h"
 #include "core/events/Events.h"
 #include "core/execution/Execution.h"
 #include "core/execution/ExecutionLifecycle.h"
