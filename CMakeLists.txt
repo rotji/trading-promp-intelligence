@@ -15,86 +15,62 @@ target_include_directories(gcfios_core
 
 enable_testing()
 
-add_executable(gcfios_foundation_smoke_test
-    tests/foundation/Foundation_Smoke_Test.cpp
-)
+add_executable(gcfios_foundation_smoke_test tests/foundation/Foundation_Smoke_Test.cpp)
 target_link_libraries(gcfios_foundation_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_foundation_smoke_test COMMAND gcfios_foundation_smoke_test)
 
-add_executable(gcfios_identity_smoke_test
-    tests/system/identity/Identity_Smoke_Test.cpp
-)
+add_executable(gcfios_identity_smoke_test tests/system/identity/Identity_Smoke_Test.cpp)
 target_link_libraries(gcfios_identity_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_identity_smoke_test COMMAND gcfios_identity_smoke_test)
 
-add_executable(gcfios_version_smoke_test
-    tests/system/versioning/Version_Smoke_Test.cpp
-)
+add_executable(gcfios_version_smoke_test tests/system/versioning/Version_Smoke_Test.cpp)
 target_link_libraries(gcfios_version_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_version_smoke_test COMMAND gcfios_version_smoke_test)
 
-add_executable(gcfios_context_smoke_test
-    tests/system/context/Context_Smoke_Test.cpp
-)
+add_executable(gcfios_context_smoke_test tests/system/context/Context_Smoke_Test.cpp)
 target_link_libraries(gcfios_context_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_context_smoke_test COMMAND gcfios_context_smoke_test)
 
-add_executable(gcfios_lifecycle_smoke_test
-    tests/system/lifecycle/Lifecycle_Smoke_Test.cpp
-)
+add_executable(gcfios_lifecycle_smoke_test tests/system/lifecycle/Lifecycle_Smoke_Test.cpp)
 target_link_libraries(gcfios_lifecycle_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_lifecycle_smoke_test COMMAND gcfios_lifecycle_smoke_test)
 
-add_executable(gcfios_logging_smoke_test
-    tests/services/logging/Logging_Smoke_Test.cpp
-)
+add_executable(gcfios_logging_smoke_test tests/services/logging/Logging_Smoke_Test.cpp)
 target_link_libraries(gcfios_logging_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_logging_smoke_test COMMAND gcfios_logging_smoke_test)
 
-add_executable(gcfios_assertions_smoke_test
-    tests/infrastructure/assertions/Assertions_Smoke_Test.cpp
-)
+add_executable(gcfios_assertions_smoke_test tests/infrastructure/assertions/Assertions_Smoke_Test.cpp)
 target_link_libraries(gcfios_assertions_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_assertions_smoke_test COMMAND gcfios_assertions_smoke_test)
 
-add_executable(gcfios_core_integration_smoke_test
-    tests/core/Core_Integration_Smoke_Test.cpp
-)
+add_executable(gcfios_core_integration_smoke_test tests/core/Core_Integration_Smoke_Test.cpp)
 target_link_libraries(gcfios_core_integration_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_core_integration_smoke_test COMMAND gcfios_core_integration_smoke_test)
 
-add_executable(gcfios_root_verification_smoke_test
-    tests/core/Root_Verification_Smoke_Test.cpp
-)
+add_executable(gcfios_root_verification_smoke_test tests/core/Root_Verification_Smoke_Test.cpp)
 target_link_libraries(gcfios_root_verification_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_root_verification_smoke_test COMMAND gcfios_root_verification_smoke_test)
 
-add_executable(gcfios_events_smoke_test
-    tests/events/Events_Smoke_Test.cpp
-)
+add_executable(gcfios_events_smoke_test tests/events/Events_Smoke_Test.cpp)
 target_link_libraries(gcfios_events_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_events_smoke_test COMMAND gcfios_events_smoke_test)
 
-add_executable(gcfios_execution_smoke_test
-    tests/execution/Execution_Smoke_Test.cpp
-)
+add_executable(gcfios_execution_smoke_test tests/execution/Execution_Smoke_Test.cpp)
 target_link_libraries(gcfios_execution_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_execution_smoke_test COMMAND gcfios_execution_smoke_test)
 
-add_executable(gcfios_execution_lifecycle_smoke_test
-    tests/execution/ExecutionLifecycle_Smoke_Test.cpp
-)
+add_executable(gcfios_execution_lifecycle_smoke_test tests/execution/ExecutionLifecycle_Smoke_Test.cpp)
 target_link_libraries(gcfios_execution_lifecycle_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_execution_lifecycle_smoke_test COMMAND gcfios_execution_lifecycle_smoke_test)
 
-add_executable(gcfios_capability_smoke_test
-    tests/capabilities/Capability_Smoke_Test.cpp
-)
+add_executable(gcfios_capability_smoke_test tests/capabilities/Capability_Smoke_Test.cpp)
 target_link_libraries(gcfios_capability_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_capability_smoke_test COMMAND gcfios_capability_smoke_test)
 
-add_executable(gcfios_state_smoke_test
-    tests/state/State_Smoke_Test.cpp
-)
+add_executable(gcfios_capability_requirement_smoke_test tests/capabilities/CapabilityRequirement_Smoke_Test.cpp)
+target_link_libraries(gcfios_capability_requirement_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_capability_requirement_smoke_test COMMAND gcfios_capability_requirement_smoke_test)
+
+add_executable(gcfios_state_smoke_test tests/state/State_Smoke_Test.cpp)
 target_link_libraries(gcfios_state_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_state_smoke_test COMMAND gcfios_state_smoke_test)
