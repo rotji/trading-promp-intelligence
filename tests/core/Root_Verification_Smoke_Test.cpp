@@ -73,7 +73,7 @@ int main() {
     static_assert(selection.Reason() == SelectionReason::Selected);
 
     constexpr CapabilityAuthorization authorization =
-        CapabilityAuthorization::Authorized(4001);
+        CapabilityAuthorization::Authorized(selection);
     constexpr ExecutionAdmission admission = ExecutionAdmission::Admitted(2001);
     constexpr ExecutionDispatch dispatch =
         ExecutionDispatch::Prepare(authorization, admission, execution);
