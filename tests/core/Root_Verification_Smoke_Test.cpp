@@ -10,6 +10,8 @@ int main() {
     using gcfios::core::execution::ExecutionContract;
     using gcfios::core::execution::ExecutionIntent;
     using gcfios::core::execution::ExecutionState;
+    using gcfios::core::execution::ExecutionRouting;
+    using gcfios::core::execution::RoutingReason;
     using gcfios::core::system::context::Context;
     using gcfios::core::system::context::InitializationState;
     using gcfios::core::system::identity::Identity;
@@ -18,6 +20,9 @@ int main() {
     using gcfios::core::services::logging::LogEntry;
     using gcfios::core::services::logging::Severity;
     using gcfios::core::system::versioning::Version;
+    using gcfios::core::capabilities::CapabilityAuthorization;
+    using gcfios::core::execution::ExecutionAdmission;
+    using gcfios::core::execution::ExecutionDispatch;
 
     constexpr Version version{0, 1, 0};
     static_assert(version == Version{0, 1, 0});
@@ -66,6 +71,20 @@ int main() {
     static_assert(selection.Requirement() == 3001);
     static_assert(selection.Capability() == 4001);
     static_assert(selection.Reason() == SelectionReason::Selected);
+
+    constexpr CapabilityAuthorization authorization =
+        CapabilityAuthorization::Authorized(4001);
+    constexpr ExecutionAdmission admission = ExecutionAdmission::Admitted(2001);
+    constexpr ExecutionDispatch dispatch =
+        ExecutionDispatch::Prepare(authorization, admission, execution);
+    constexpr ExecutionRouting routing =
+        ExecutionRouting::Prepare(dispatch, execution, 5001);
+    static_assert(routing.IsValid());
+    static_assert(routing.IsRoutable());
+    static_assert(routing.Execution() == 2001);
+    static_assert(routing.Capability() == 4001);
+    static_assert(routing.Target() == 5001);
+    static_assert(routing.Reason() == RoutingReason::Routable);
 
     return 0;
 }
