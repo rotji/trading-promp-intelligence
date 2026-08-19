@@ -4,9 +4,11 @@
 
 using namespace gcfios::core::execution;
 using gcfios::core::capabilities::CapabilityAuthorization;
+using gcfios::core::capabilities::CapabilitySelectionResult;
 
 constexpr ExecutionContract kExecution{2001, ExecutionIntent::Execute, ExecutionState::Created};
-constexpr CapabilityAuthorization kAuthorization = CapabilityAuthorization::Authorized(4001);
+constexpr CapabilitySelectionResult kSelection = CapabilitySelectionResult::Selected(3001, 4001);
+constexpr CapabilityAuthorization kAuthorization = CapabilityAuthorization::Authorized(kSelection);
 constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admitted(2001);
 constexpr ExecutionDispatch kDispatch =
     ExecutionDispatch::Prepare(kAuthorization, kAdmission, kExecution);
