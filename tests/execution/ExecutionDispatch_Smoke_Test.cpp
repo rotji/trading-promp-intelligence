@@ -88,8 +88,7 @@ int main() {
 
     static_assert(state_rejected.IsValid());
     static_assert(!state_rejected.IsDispatchable());
-    static_assert(state_rejected.Reason() ==
-                  DispatchReason::AdmissionNotValid);
+    static_assert(state_rejected.Reason() == DispatchReason::AdmissionNotValid);
 
     constexpr ExecutionContract invalid_execution{
         0,
@@ -98,17 +97,21 @@ int main() {
     constexpr ExecutionDispatch execution_rejected =
         ExecutionDispatch::Prepare(authorized, admitted, invalid_execution);
 
-    static_assert(execution_rejected.IsValid());
+    // The rejection reason is correctly classified, but the resulting
+    // dispatch object is structurally invalid because it carries no
+    // execution identity. A structurally invalid object must not be treated
+    // as a valid dispatch decision.
+    static_assert(!execution_rejected.IsValid());
     static_assert(!execution_rejected.IsDispatchable());
-    static_assert(execution_rejected.Reason() ==
-                  DispatchReason::ExecutionNotValid);
+    static_assert(execution_rejected.Execution() == 0);
+    static_assert(execution_rejected.Reason() == DispatchReason::ExecutionNotValid);
 
     assert(dispatchable.IsValid());
     assert(authorization_rejected.IsValid());
     assert(admission_rejected.IsValid());
     assert(identity_rejected.IsValid());
     assert(state_rejected.IsValid());
-    assert(execution_rejected.IsValid());
+    assert(!execution_rejected.IsValid());
 
     return 0;
 }
