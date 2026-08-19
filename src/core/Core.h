@@ -10,6 +10,7 @@
 #include "core/execution/ExecutionAdmission.h"
 #include "core/execution/ExecutionDispatch.h"
 #include "core/execution/ExecutionLifecycle.h"
+#include "core/execution/ExecutionRouting.h"
 #include "core/foundation/Foundation_Error.h"
 #include "core/foundation/Foundation_Result.h"
 #include "core/foundation/Foundation_Status.h"
