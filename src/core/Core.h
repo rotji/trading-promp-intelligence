@@ -9,6 +9,7 @@
 #include "core/execution/Execution.h"
 #include "core/execution/ExecutionAdmission.h"
 #include "core/execution/ExecutionDispatch.h"
+#include "core/execution/ExecutionInvocation.h"
 #include "core/execution/ExecutionLifecycle.h"
 #include "core/execution/ExecutionRouting.h"
 #include "core/foundation/Foundation_Error.h"
