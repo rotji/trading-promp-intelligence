@@ -1,6 +1,7 @@
 #pragma once
 
 #include "core/capabilities/Capability.h"
+#include "core/capabilities/CapabilityAuthorization.h"
 #include "core/capabilities/CapabilityCompatibility.h"
 #include "core/capabilities/CapabilityRequirement.h"
 #include "core/capabilities/CapabilitySelection.h"
