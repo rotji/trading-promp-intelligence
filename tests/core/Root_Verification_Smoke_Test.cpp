@@ -97,5 +97,8 @@ int main() {
     static_assert(invocation.Target() == 5001);
     static_assert(invocation.Reason() == InvocationReason::Invocable);
 
+    static_assert(sizeof(gcfios::core::Coordination::EventContract) > 0);
+    static_assert(sizeof(gcfios::core::Coordination::ExecutionDispatchContract) > 0);
+
     return 0;
 }
