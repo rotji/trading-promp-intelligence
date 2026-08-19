@@ -53,7 +53,7 @@ add_test(NAME gcfios_root_verification_smoke_test COMMAND gcfios_root_verificati
 
 add_executable(gcfios_events_smoke_test tests/events/Events_Smoke_Test.cpp)
 target_link_libraries(gcfios_events_smoke_test PRIVATE gcfios_core)
-add_test(NAME gcfios_events_smoke_test COMMAND gcfios_events_smoke_test)
+add_test(NAME gcfios_events_smoke_test COMMAND gcfios_core)
 
 add_executable(gcfios_execution_smoke_test tests/execution/Execution_Smoke_Test.cpp)
 target_link_libraries(gcfios_execution_smoke_test PRIVATE gcfios_core)
@@ -78,6 +78,10 @@ add_test(NAME gcfios_capability_compatibility_smoke_test COMMAND gcfios_capabili
 add_executable(gcfios_capability_selection_smoke_test tests/capabilities/CapabilitySelection_Smoke_Test.cpp)
 target_link_libraries(gcfios_capability_selection_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_capability_selection_smoke_test COMMAND gcfios_capability_selection_smoke_test)
+
+add_executable(gcfios_capability_authorization_smoke_test tests/capabilities/CapabilityAuthorization_Smoke_Test.cpp)
+target_link_libraries(gcfios_capability_authorization_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_capability_authorization_smoke_test COMMAND gcfios_capability_authorization_smoke_test)
 
 add_executable(gcfios_state_smoke_test tests/state/State_Smoke_Test.cpp)
 target_link_libraries(gcfios_state_smoke_test PRIVATE gcfios_core)
