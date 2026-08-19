@@ -51,6 +51,10 @@ add_executable(gcfios_root_verification_smoke_test tests/core/Root_Verification_
 target_link_libraries(gcfios_root_verification_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_root_verification_smoke_test COMMAND gcfios_root_verification_smoke_test)
 
+add_executable(gcfios_coordination_smoke_test tests/core/Coordination_Smoke_Test.cpp)
+target_link_libraries(gcfios_coordination_smoke_test PRIVATE gcfios_core)
+add_test(NAME gcfios_coordination_smoke_test COMMAND gcfios_coordination_smoke_test)
+
 add_executable(gcfios_events_smoke_test tests/events/Events_Smoke_Test.cpp)
 target_link_libraries(gcfios_events_smoke_test PRIVATE gcfios_core)
 add_test(NAME gcfios_events_smoke_test COMMAND gcfios_events_smoke_test)
