@@ -10,6 +10,8 @@ int main() {
     using gcfios::core::execution::ExecutionContract;
     using gcfios::core::execution::ExecutionIntent;
     using gcfios::core::execution::ExecutionState;
+    using gcfios::core::execution::ExecutionInvocation;
+    using gcfios::core::execution::InvocationReason;
     using gcfios::core::execution::ExecutionRouting;
     using gcfios::core::execution::RoutingReason;
     using gcfios::core::system::context::Context;
@@ -85,6 +87,15 @@ int main() {
     static_assert(routing.Capability() == 4001);
     static_assert(routing.Target() == 5001);
     static_assert(routing.Reason() == RoutingReason::Routable);
+
+    constexpr ExecutionInvocation invocation =
+        ExecutionInvocation::Prepare(routing, execution);
+    static_assert(invocation.IsValid());
+    static_assert(invocation.IsInvocable());
+    static_assert(invocation.Execution() == 2001);
+    static_assert(invocation.Capability() == 4001);
+    static_assert(invocation.Target() == 5001);
+    static_assert(invocation.Reason() == InvocationReason::Invocable);
 
     return 0;
 }
