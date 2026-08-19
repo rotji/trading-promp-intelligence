@@ -23,6 +23,7 @@
 #include "core/system/identity/Identity.h"
 #include "core/system/lifecycle/Lifecycle.h"
 #include "core/system/versioning/Version.h"
+#include "core/Coordination.h"
 
 namespace gcfios::core {
 
