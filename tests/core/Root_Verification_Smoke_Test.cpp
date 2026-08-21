@@ -71,37 +71,42 @@ static_assert(kRouting.Reason() == RoutingReason::Routable);
 
 int main() {
     constexpr Version version{0, 1, 0};
-    static_assert(version == Version{0, 1, 0});
+    static_assert(version.major == 0);
+    static_assert(version.minor == 1);
+    static_assert(version.patch == 0);
 
     constexpr Identity identity{42, 7, "GCFIOS"};
     static_assert(identity.platform_id == 42);
     static_assert(identity.product_family_id == 7);
-    static_assert(identity.platform_name == "GCFIOS");
+    static_assert(identity.platform_name.size() == 6);
+    static_assert(identity.platform_name[0] == 'G');
 
-    constexpr Lifecycle lifecycle = Lifecycle::Create();
-    static_assert(lifecycle.IsValid());
-    static_assert(lifecycle.CurrentState() == State::Constructed);
+    constexpr Lifecycle lifecycle{};
+    static_assert(lifecycle.state == State::Created);
+    static_assert(lifecycle.CanTransitionTo(State::Initializing));
+    static_assert(!lifecycle.CanTransitionTo(State::Running));
 
-    constexpr Context context = Context::Create();
-    static_assert(context.IsValid());
-    static_assert(context.State() == InitializationState::Created);
+    constexpr Context context{
+        identity,
+        version,
+        InitializationState::Uninitialized};
+    static_assert(!context.IsInitialized());
+    static_assert(context.identity.platform_id == 42);
+    static_assert(context.version.minor == 1);
 
-    constexpr EventHeader event_header{1001, EventType::System};
-    static_assert(event_header.IsValid());
-    static_assert(event_header.id == 1001);
-    static_assert(event_header.type == EventType::System);
+    constexpr EventHeader event_header{1001, EventType::System, 42};
+    static_assert(event_header.Id() == 1001);
+    static_assert(event_header.Type() == EventType::System);
+    static_assert(event_header.Source() == 42);
 
-    constexpr LogEntry log_entry{Severity::Info, 1001, "root-verification"};
-    static_assert(log_entry.IsValid());
+    constexpr LogEntry log_entry{Severity::Info, "root-verification", "root-verification"};
     static_assert(log_entry.severity == Severity::Info);
-    static_assert(log_entry.event_id == 1001);
-    static_assert(log_entry.message == "root-verification");
 
     constexpr ExecutionIntent intent = ExecutionIntent::Execute;
     static_assert(intent == ExecutionIntent::Execute);
 
-    constexpr InvocationReason invocation_reason = InvocationReason::Dispatchable;
-    static_assert(invocation_reason == InvocationReason::Dispatchable);
+    constexpr InvocationReason invocation_reason = InvocationReason::Invocable;
+    static_assert(invocation_reason == InvocationReason::Invocable);
 
     constexpr ExecutionInvocation invocation =
         ExecutionInvocation::Prepare(kRouting, kExecution);
@@ -109,16 +114,22 @@ int main() {
     static_assert(invocation.Execution() == 2001);
     static_assert(invocation.Capability() == 4001);
     static_assert(invocation.Target() == 5001);
-    static_assert(invocation.Reason() == InvocationReason::Dispatchable);
+    static_assert(invocation.Reason() == InvocationReason::Invocable);
 
-    assert(version == Version{0, 1, 0});
+    assert(version.major == 0);
+    assert(version.minor == 1);
+    assert(version.patch == 0);
     assert(identity.platform_id == 42);
     assert(identity.product_family_id == 7);
     assert(identity.platform_name == "GCFIOS");
-    assert(lifecycle.IsValid());
-    assert(context.IsValid());
-    assert(event_header.IsValid());
-    assert(log_entry.IsValid());
+    assert(lifecycle.state == State::Created);
+    assert(lifecycle.CanTransitionTo(State::Initializing));
+    assert(!lifecycle.CanTransitionTo(State::Running));
+    assert(!context.IsInitialized());
+    assert(event_header.Id() == 1001);
+    assert(event_header.Type() == EventType::System);
+    assert(event_header.Source() == 42);
+    assert(log_entry.severity == Severity::Info);
     assert(kSelection.IsSelected());
     assert(kAuthorization.IsAuthorized());
     assert(kAdmission.IsAdmitted());
