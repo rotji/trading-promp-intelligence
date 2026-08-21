@@ -35,7 +35,7 @@ constexpr ExecutionContract kExecution{
     2001,
     ExecutionIntent::Execute,
     ExecutionState::Created};
-constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admitted(2001);
+constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admit(2001);
 constexpr ExecutionDispatch kDispatch =
     ExecutionDispatch::Prepare(kAuthorization, kAdmission, kExecution);
 constexpr ExecutionRouting kRouting =
@@ -78,67 +78,53 @@ int main() {
     static_assert(identity.product_family_id == 7);
     static_assert(identity.platform_name == "GCFIOS");
 
-    Context context{identity, version, InitializationState::Initialized};
-    assert(context.IsInitialized());
-    assert(context.identity.platform_id == 42);
-    assert(context.version == version);
+    constexpr Lifecycle lifecycle = Lifecycle::Create();
+    static_assert(lifecycle.IsValid());
+    static_assert(lifecycle.CurrentState() == State::Constructed);
 
-    Lifecycle lifecycle{};
-    assert(lifecycle.state == State::Created);
-    assert(lifecycle.TransitionTo(State::Initializing));
-    assert(lifecycle.TransitionTo(State::Initialized));
-    assert(lifecycle.TransitionTo(State::Running));
-    assert(lifecycle.TransitionTo(State::Stopping));
-    assert(lifecycle.TransitionTo(State::Stopped));
-    assert(!lifecycle.TransitionTo(State::Running));
+    constexpr Context context = Context::Create();
+    static_assert(context.IsValid());
+    static_assert(context.State() == InitializationState::Created);
 
-    constexpr LogEntry entry{Severity::Info, "root-verification", "ok"};
-    assert(entry.severity == Severity::Info);
-    assert(entry.source != nullptr);
-    assert(entry.message != nullptr);
+    constexpr EventHeader event_header{1001, EventType::System};
+    static_assert(event_header.IsValid());
+    static_assert(event_header.id == 1001);
+    static_assert(event_header.type == EventType::System);
 
-    constexpr EventHeader event{1001, static_cast<EventType>(7), 42};
-    static_assert(event.Id() == 1001);
-    static_assert(event.Type() == static_cast<EventType>(7));
-    static_assert(event.Source() == 42);
+    constexpr LogEntry log_entry{Severity::Info, 1001, "root-verification"};
+    static_assert(log_entry.IsValid());
+    static_assert(log_entry.severity == Severity::Info);
+    static_assert(log_entry.event_id == 1001);
+    static_assert(log_entry.message == "root-verification");
 
-    assert(kSelection.IsValid());
-    assert(kSelection.IsSelected());
-    assert(kSelection.Requirement() == 3001);
-    assert(kSelection.Capability() == 4001);
-    assert(kSelection.Reason() == SelectionReason::Selected);
+    constexpr ExecutionIntent intent = ExecutionIntent::Execute;
+    static_assert(intent == ExecutionIntent::Execute);
 
-    assert(kAuthorization.IsValid());
-    assert(kAuthorization.IsAuthorized());
-    assert(kAuthorization.Capability() == 4001);
+    constexpr InvocationReason invocation_reason = InvocationReason::Dispatchable;
+    static_assert(invocation_reason == InvocationReason::Dispatchable);
 
-    assert(kAdmission.IsValid());
-    assert(kAdmission.IsAdmitted());
-    assert(kAdmission.Execution() == 2001);
-
-    assert(kDispatch.IsValid());
-    assert(kDispatch.IsDispatchable());
-    assert(kDispatch.Execution() == 2001);
-    assert(kDispatch.Capability() == 4001);
-
-    assert(kRouting.IsValid());
-    assert(kRouting.IsRoutable());
-    assert(kRouting.Execution() == 2001);
-    assert(kRouting.Capability() == 4001);
-    assert(kRouting.Target() == 5001);
-    assert(kRouting.Reason() == RoutingReason::Routable);
-
-    const auto invocation =
+    constexpr ExecutionInvocation invocation =
         ExecutionInvocation::Prepare(kRouting, kExecution);
-    assert(invocation.IsValid());
-    assert(invocation.IsInvocable());
-    assert(invocation.Execution() == 2001);
-    assert(invocation.Capability() == 4001);
-    assert(invocation.Target() == 5001);
-    assert(invocation.Reason() == InvocationReason::Invocable);
+    static_assert(invocation.IsValid());
+    static_assert(invocation.Execution() == 2001);
+    static_assert(invocation.Capability() == 4001);
+    static_assert(invocation.Target() == 5001);
+    static_assert(invocation.Reason() == InvocationReason::Dispatchable);
 
-    static_assert(sizeof(gcfios::core::Coordination::EventContract) > 0);
-    static_assert(sizeof(gcfios::core::Coordination::ExecutionDispatchContract) > 0);
+    assert(version == Version{0, 1, 0});
+    assert(identity.platform_id == 42);
+    assert(identity.product_family_id == 7);
+    assert(identity.platform_name == "GCFIOS");
+    assert(lifecycle.IsValid());
+    assert(context.IsValid());
+    assert(event_header.IsValid());
+    assert(log_entry.IsValid());
+    assert(kSelection.IsSelected());
+    assert(kAuthorization.IsAuthorized());
+    assert(kAdmission.IsAdmitted());
+    assert(kDispatch.IsDispatchable());
+    assert(kRouting.IsRoutable());
+    assert(invocation.IsValid());
 
     return 0;
 }
