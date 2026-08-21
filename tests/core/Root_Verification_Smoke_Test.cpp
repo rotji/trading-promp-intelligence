@@ -2,30 +2,74 @@
 
 #include "core/Core.h"
 
-int main() {
-    using gcfios::core::capabilities::CapabilitySelectionResult;
-    using gcfios::core::capabilities::SelectionReason;
-    using gcfios::core::events::EventHeader;
-    using gcfios::core::events::EventType;
-    using gcfios::core::execution::ExecutionContract;
-    using gcfios::core::execution::ExecutionIntent;
-    using gcfios::core::execution::ExecutionState;
-    using gcfios::core::execution::ExecutionInvocation;
-    using gcfios::core::execution::InvocationReason;
-    using gcfios::core::execution::ExecutionRouting;
-    using gcfios::core::execution::RoutingReason;
-    using gcfios::core::system::context::Context;
-    using gcfios::core::system::context::InitializationState;
-    using gcfios::core::system::identity::Identity;
-    using gcfios::core::system::lifecycle::Lifecycle;
-    using gcfios::core::system::lifecycle::State;
-    using gcfios::core::services::logging::LogEntry;
-    using gcfios::core::services::logging::Severity;
-    using gcfios::core::system::versioning::Version;
-    using gcfios::core::capabilities::CapabilityAuthorization;
-    using gcfios::core::execution::ExecutionAdmission;
-    using gcfios::core::execution::ExecutionDispatch;
+using gcfios::core::capabilities::CapabilityAuthorization;
+using gcfios::core::capabilities::CapabilitySelectionResult;
+using gcfios::core::capabilities::SelectionReason;
+using gcfios::core::events::EventHeader;
+using gcfios::core::events::EventType;
+using gcfios::core::execution::ExecutionAdmission;
+using gcfios::core::execution::ExecutionContract;
+using gcfios::core::execution::ExecutionDispatch;
+using gcfios::core::execution::ExecutionIntent;
+using gcfios::core::execution::ExecutionInvocation;
+using gcfios::core::execution::ExecutionRouting;
+using gcfios::core::execution::ExecutionState;
+using gcfios::core::execution::InvocationReason;
+using gcfios::core::execution::RoutingReason;
+using gcfios::core::services::logging::LogEntry;
+using gcfios::core::services::logging::Severity;
+using gcfios::core::system::context::Context;
+using gcfios::core::system::context::InitializationState;
+using gcfios::core::system::identity::Identity;
+using gcfios::core::system::lifecycle::Lifecycle;
+using gcfios::core::system::lifecycle::State;
+using gcfios::core::system::versioning::Version;
 
+namespace {
+
+constexpr CapabilitySelectionResult kSelection =
+    CapabilitySelectionResult::Selected(3001, 4001);
+constexpr CapabilityAuthorization kAuthorization =
+    CapabilityAuthorization::Authorized(kSelection);
+constexpr ExecutionContract kExecution{
+    2001,
+    ExecutionIntent::Execute,
+    ExecutionState::Created};
+constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admitted(2001);
+constexpr ExecutionDispatch kDispatch =
+    ExecutionDispatch::Prepare(kAuthorization, kAdmission, kExecution);
+constexpr ExecutionRouting kRouting =
+    ExecutionRouting::Prepare(kDispatch, kExecution, 5001);
+
+static_assert(kSelection.IsValid());
+static_assert(kSelection.IsSelected());
+static_assert(kSelection.Requirement() == 3001);
+static_assert(kSelection.Capability() == 4001);
+static_assert(kSelection.Reason() == SelectionReason::Selected);
+
+static_assert(kAuthorization.IsValid());
+static_assert(kAuthorization.IsAuthorized());
+static_assert(kAuthorization.Capability() == 4001);
+
+static_assert(kAdmission.IsValid());
+static_assert(kAdmission.IsAdmitted());
+static_assert(kAdmission.Execution() == 2001);
+
+static_assert(kDispatch.IsValid());
+static_assert(kDispatch.IsDispatchable());
+static_assert(kDispatch.Execution() == 2001);
+static_assert(kDispatch.Capability() == 4001);
+
+static_assert(kRouting.IsValid());
+static_assert(kRouting.IsRoutable());
+static_assert(kRouting.Execution() == 2001);
+static_assert(kRouting.Capability() == 4001);
+static_assert(kRouting.Target() == 5001);
+static_assert(kRouting.Reason() == RoutingReason::Routable);
+
+} // namespace
+
+int main() {
     constexpr Version version{0, 1, 0};
     static_assert(version == Version{0, 1, 0});
 
@@ -58,38 +102,34 @@ int main() {
     static_assert(event.Type() == static_cast<EventType>(7));
     static_assert(event.Source() == 42);
 
-    constexpr ExecutionContract execution{
-        2001,
-        ExecutionIntent::Execute,
-        ExecutionState::Created};
-    static_assert(execution.Id() == 2001);
-    static_assert(execution.Intent() == ExecutionIntent::Execute);
-    static_assert(execution.State() == ExecutionState::Created);
+    assert(kSelection.IsValid());
+    assert(kSelection.IsSelected());
+    assert(kSelection.Requirement() == 3001);
+    assert(kSelection.Capability() == 4001);
+    assert(kSelection.Reason() == SelectionReason::Selected);
 
-    constexpr CapabilitySelectionResult selection =
-        CapabilitySelectionResult::Selected(3001, 4001);
-    static_assert(selection.IsValid());
-    static_assert(selection.IsSelected());
-    static_assert(selection.Requirement() == 3001);
-    static_assert(selection.Capability() == 4001);
-    static_assert(selection.Reason() == SelectionReason::Selected);
+    assert(kAuthorization.IsValid());
+    assert(kAuthorization.IsAuthorized());
+    assert(kAuthorization.Capability() == 4001);
 
-    constexpr CapabilityAuthorization authorization =
-        CapabilityAuthorization::Authorized(selection);
-    constexpr ExecutionAdmission admission = ExecutionAdmission::Admitted(2001);
-    constexpr ExecutionDispatch dispatch =
-        ExecutionDispatch::Prepare(authorization, admission, execution);
-    constexpr ExecutionRouting routing =
-        ExecutionRouting::Prepare(dispatch, execution, 5001);
-    static_assert(routing.IsValid());
-    static_assert(routing.IsRoutable());
-    static_assert(routing.Execution() == 2001);
-    static_assert(routing.Capability() == 4001);
-    static_assert(routing.Target() == 5001);
-    static_assert(routing.Reason() == RoutingReason::Routable);
+    assert(kAdmission.IsValid());
+    assert(kAdmission.IsAdmitted());
+    assert(kAdmission.Execution() == 2001);
+
+    assert(kDispatch.IsValid());
+    assert(kDispatch.IsDispatchable());
+    assert(kDispatch.Execution() == 2001);
+    assert(kDispatch.Capability() == 4001);
+
+    assert(kRouting.IsValid());
+    assert(kRouting.IsRoutable());
+    assert(kRouting.Execution() == 2001);
+    assert(kRouting.Capability() == 4001);
+    assert(kRouting.Target() == 5001);
+    assert(kRouting.Reason() == RoutingReason::Routable);
 
     const auto invocation =
-        ExecutionInvocation::Prepare(routing, execution);
+        ExecutionInvocation::Prepare(kRouting, kExecution);
     assert(invocation.IsValid());
     assert(invocation.IsInvocable());
     assert(invocation.Execution() == 2001);
