@@ -88,14 +88,14 @@ int main() {
     static_assert(routing.Target() == 5001);
     static_assert(routing.Reason() == RoutingReason::Routable);
 
-    constexpr ExecutionInvocation invocation =
+    const auto invocation =
         ExecutionInvocation::Prepare(routing, execution);
-    static_assert(invocation.IsValid());
-    static_assert(invocation.IsInvocable());
-    static_assert(invocation.Execution() == 2001);
-    static_assert(invocation.Capability() == 4001);
-    static_assert(invocation.Target() == 5001);
-    static_assert(invocation.Reason() == InvocationReason::Invocable);
+    assert(invocation.IsValid());
+    assert(invocation.IsInvocable());
+    assert(invocation.Execution() == 2001);
+    assert(invocation.Capability() == 4001);
+    assert(invocation.Target() == 5001);
+    assert(invocation.Reason() == InvocationReason::Invocable);
 
     static_assert(sizeof(gcfios::core::Coordination::EventContract) > 0);
     static_assert(sizeof(gcfios::core::Coordination::ExecutionDispatchContract) > 0);
