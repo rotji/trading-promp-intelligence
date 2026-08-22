@@ -35,7 +35,8 @@ constexpr ExecutionContract kExecution{
     2001,
     ExecutionIntent::Execute,
     ExecutionState::Created};
-constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admit(2001);
+constexpr ExecutionAdmission kAdmission =
+    ExecutionAdmission::Admit(kAuthorization, kExecution);
 constexpr ExecutionDispatch kDispatch =
     ExecutionDispatch::Prepare(kAuthorization, kAdmission, kExecution);
 constexpr ExecutionRouting kRouting =
@@ -94,9 +95,9 @@ int main() {
     static_assert(context.identity.platform_id == 42);
     static_assert(context.version.minor == 1);
 
-    constexpr EventHeader event_header{1001, EventType::System, 42};
+    constexpr EventHeader event_header{1001, static_cast<EventType>(1), 42};
     static_assert(event_header.Id() == 1001);
-    static_assert(event_header.Type() == EventType::System);
+    static_assert(event_header.Type() == static_cast<EventType>(1));
     static_assert(event_header.Source() == 42);
 
     constexpr LogEntry log_entry{Severity::Info, "root-verification", "root-verification"};
@@ -127,7 +128,7 @@ int main() {
     assert(!lifecycle.CanTransitionTo(State::Running));
     assert(!context.IsInitialized());
     assert(event_header.Id() == 1001);
-    assert(event_header.Type() == EventType::System);
+    assert(event_header.Type() == static_cast<EventType>(1));
     assert(event_header.Source() == 42);
     assert(log_entry.severity == Severity::Info);
     assert(kSelection.IsSelected());
