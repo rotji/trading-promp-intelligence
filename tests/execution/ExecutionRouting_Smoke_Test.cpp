@@ -9,10 +9,12 @@ using gcfios::core::capabilities::CapabilitySelectionResult;
 constexpr ExecutionContract kExecution{2001, ExecutionIntent::Execute, ExecutionState::Created};
 constexpr CapabilitySelectionResult kSelection = CapabilitySelectionResult::Selected(3001, 4001);
 constexpr CapabilityAuthorization kAuthorization = CapabilityAuthorization::Authorized(kSelection);
-constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admitted(2001);
+constexpr ExecutionAdmission kAdmission = ExecutionAdmission::Admit(kAuthorization, kExecution);
 constexpr ExecutionDispatch kDispatch =
     ExecutionDispatch::Prepare(kAuthorization, kAdmission, kExecution);
 
+static_assert(kAdmission.IsValid());
+static_assert(kAdmission.IsAdmitted());
 static_assert(kDispatch.IsValid());
 static_assert(kDispatch.IsDispatchable());
 
